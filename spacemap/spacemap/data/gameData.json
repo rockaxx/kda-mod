@@ -671,7 +671,7 @@
     "DRONE_SIMPLE_FONT": "12px sans-serif",
     "SKILL_VISUAL_FONT": "bold 10px CorpFontRegular",
     "USERNAME_FONT": "550 17px CorpFontUsername",
-    "TITLE_FONT": "normal 14px CorpFontRegular",
+    "TITLE_FONT": "bold 14px CorpFontRegular",
     "TITLE_FONT_IMPORTANT": "bold 16px CorpFontRegular",
     "COLLECTION_FONT": "bold 20px CorpFontRegular",
     "SHIP_INFO_BORDER": 3
@@ -680,7 +680,7 @@
     "default": "#fefe00",
     "silver": "#CCCCCC",
     "bronze": "#CD7F32",
-    "red": "#ff0000",
+    "red": "#e6055e",
     "blue": "#3b5998",
     "purple": "#9a03fc",
     "darkgreen": "#1a6208",
