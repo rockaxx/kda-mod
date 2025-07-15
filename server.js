@@ -11,7 +11,9 @@ app.use(cors());
 
 // Slúžiť celý spacemap priečinok ako public
 app.use('/', express.static(path.join(__dirname, 'spacemap')));
-
+app.get('/', (req, res) => {
+  res.sendFile(path.join(__dirname, 'index.html'));
+});
 // Logger voliteľný
 app.use((req, res, next) => {
   console.log(`[REQ] ${req.method} ${req.url}`);
