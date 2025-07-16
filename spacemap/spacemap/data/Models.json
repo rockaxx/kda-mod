@@ -328,7 +328,7 @@
         "81":{"path":"ships/saturn","end":64,"start":0,"isWebp":true,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
         "82":{"path":"ships/german","end":64,"start":0,"isWebp":true,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
         "83":{"path":"ships/referee","end":64,"start":0,"isWebp":true,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
-        "84":{"path":"ships/petPro","end":32,"start":0,"isWebp":false,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
+        "84":{"path":"ships/petPro","end":32,"start":0,"isWebp":true,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
         "85":{"path":"ships/petCubikon","end":32,"start":0,"isWebp":false,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
         "86":{"path":"ships/petGreenWhite","end":32,"start":0,"isWebp":true,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
         "87":{"path":"ships/petRed","end":32,"start":0,"isWebp":true,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
