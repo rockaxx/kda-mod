@@ -677,14 +677,14 @@
     "SHIP_INFO_BORDER": 3
   },
   "titleColors": {
-    "default": "#fe4c00",
+    "default": "#ff00dd",
     "silver": "#CCCCCC",
     "bronze": "#CD7F32",
     "red": "#50e605",
-    "blue": "#3b5998",
+    "blue": "#39ff14",
     "purple": "#9a03fc",
     "darkgreen": "#1a6208",
-    "gold": "#fefe00"
+    "gold": "#ff00dd"
   },
   "Portals": {
     "0": {
@@ -799,7 +799,7 @@
     "PRO_AUTO_TOGGLE": 12,
     "PRO_IGNORE_KEYS": 13,
     "CHAT_TRANSLATION": 13,
-    "LASER_SPEED": 14,
+    "LASER_SPEED": 4,
     "PRO_MODE": 13,
     "AB_COLORFUL": 14,
     "LASER_VOL": 4,

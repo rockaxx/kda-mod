@@ -377,7 +377,7 @@
               "hint": "laser_speed_hint",
               "options": [
                 { "id": 1, "label": "New", "val": 100 },
-                { "id": 2, "label": "Old", "val": 200 }
+                { "id": 2, "label": "Old", "val": 800 }
               ]
             }
           ],
