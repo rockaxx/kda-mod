@@ -405,6 +405,11 @@
         "165": { "path": "ships/saboteur", "end": 32, "start": 0, "isWebp": true, "preload": false, "unload": true, "isSingleFile": false, "customExtension": null, "useAtlas": false },
         "166": { "path": "ships/demanerFreighter", "end": 32, "start": 0, "isWebp": true, "preload": false, "unload": true, "isSingleFile": false, "customExtension": null, "useAtlas": false },
         "167": { "path": "ships/battleray", "end": 32, "start": 0, "isWebp": false, "preload": false, "unload": true, "isSingleFile": false, "customExtension": null, "useAtlas": false },
+        "168": { "path": "ships/infernoVenom", "end": 32, "start": 0, "isWebp": true, "preload": false, "unload": true, "isSingleFile": false, "customExtension": null, "useAtlas": false },
+        "169": { "path": "ships/infernoSentinel", "end": 32, "start": 0, "isWebp": true, "preload": false, "unload": true, "isSingleFile": false, "customExtension": null, "useAtlas": false },
+        "170": { "path": "ships/infernoSolace", "end": 32, "start": 0, "isWebp": true, "preload": false, "unload": true, "isSingleFile": false, "customExtension": null, "useAtlas": false },
+        "171": { "path": "ships/infernoDimi", "end": 32, "start": 0, "isWebp": true, "preload": false, "unload": true, "isSingleFile": false, "customExtension": null, "useAtlas": false },
+        "172": { "path": "ships/infernoSpectrum", "end": 32, "start": 0, "isWebp": true, "preload": false, "unload": true, "isSingleFile": false, "customExtension": null, "useAtlas": false },
         "173":{"path":"ships/ginferno","end":63,"start":0,"isWebp":true,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false},
         "174":{"path":"ships/petInferno","end":32,"start":0,"isWebp":true,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
         "175": { "path": "ships/gPirate", "end": 64, "start": 0, "isWebp": true, "preload": true, "unload": false, "isSingleFile": false, "customExtension": null, "useAtlas": false }
