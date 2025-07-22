@@ -1335,6 +1335,25 @@
       },
       "content": {}
     },
+      {
+        "id": 34,
+        "position": 34,
+        "name": "piratemapmanager",
+        "icon": "piratehunt",
+        "label": "piratemapmanager_label",
+        "isOpen": false,
+        "hasComponent": true,
+        "size": {
+            "minW": 700,
+            "minH": 450
+        },
+        "controller": {
+            "x": 0,
+            "y": 156,
+            "useDefPosition": true
+        },
+        "content": {}
+      },
     {
       "id": 34,
       "position": 34,
