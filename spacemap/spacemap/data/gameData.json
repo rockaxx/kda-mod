@@ -677,14 +677,14 @@
     "SHIP_INFO_BORDER": 3
   },
   "titleColors": {
-    "default": "#fefe04",
+    "default": "#fa0505",
     "silver": "#CCCCCC",
     "bronze": "#CD7F32",
     "red": "#50e605",
     "blue": "#39ff14",
     "purple": "#9a03fc",
     "darkgreen": "#1a6208",
-    "gold": "#fefe04"
+    "gold": "#fa0505"
   },
   "Portals": {
     "0": {
