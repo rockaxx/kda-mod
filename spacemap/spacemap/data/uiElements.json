@@ -291,8 +291,9 @@
             "isCheck": false,
             "hint": "eng_sett_hint",
             "options": [
-              { "id": 1, "label": "low", "val": "low" },
-              { "id": 2, "label": "high", "val": "high" }
+              {"id": 1, "label": "low", "val": "low"},
+              {"id": 2, "label": "average", "val": "average"},
+              {"id": 3, "label": "high", "val": "high"}
             ]
           },
           {
