@@ -407,7 +407,71 @@
               { "id": 2, "label": "medium", "val": 1000 },
               { "id": 3, "label": "long", "val": 1500 }
             ]
-          }
+          },
+            {
+            "name": "qc_msg_slot_1",
+            "isCheck": false,
+            "options": [
+                {"id": 1, "label": "qc_msg_1", "val": 1}, 
+                {"id": 2, "label": "qc_msg_2", "val": 2}, 
+                {"id": 3, "label": "qc_msg_3", "val": 3}, 
+                {"id": 4, "label": "qc_msg_4", "val": 4}, 
+                {"id": 5, "label": "qc_msg_5", "val": 5}, 
+                {"id": 6, "label": "qc_msg_6", "val": 6}, 
+                {"id": 7, "label": "qc_msg_7", "val": 7}, 
+                {"id": 8, "label": "qc_msg_8", "val": 8},
+                {"id": 9, "label": "qc_msg_9", "val": 9},
+                {"id": 10, "label": "qc_msg_10", "val": 10}
+            ]
+        },
+        {
+            "name": "qc_msg_slot_2",
+            "isCheck": false,
+            "options": [
+                {"id": 1, "label": "qc_msg_1", "val": 1}, 
+                {"id": 2, "label": "qc_msg_2", "val": 2}, 
+                {"id": 3, "label": "qc_msg_3", "val": 3}, 
+                {"id": 4, "label": "qc_msg_4", "val": 4}, 
+                {"id": 5, "label": "qc_msg_5", "val": 5}, 
+                {"id": 6, "label": "qc_msg_6", "val": 6}, 
+                {"id": 7, "label": "qc_msg_7", "val": 7}, 
+                {"id": 8, "label": "qc_msg_8", "val": 8},
+                {"id": 9, "label": "qc_msg_9", "val": 9},
+                {"id": 10, "label": "qc_msg_10", "val": 10}
+            ]
+        },
+        {
+            "name": "qc_msg_slot_3",
+            "isCheck": false,
+            "options": [
+                {"id": 1, "label": "qc_msg_1", "val": 1}, 
+                {"id": 2, "label": "qc_msg_2", "val": 2}, 
+                {"id": 3, "label": "qc_msg_3", "val": 3}, 
+                {"id": 4, "label": "qc_msg_4", "val": 4}, 
+                {"id": 5, "label": "qc_msg_5", "val": 5}, 
+                {"id": 6, "label": "qc_msg_6", "val": 6}, 
+                {"id": 7, "label": "qc_msg_7", "val": 7}, 
+                {"id": 8, "label": "qc_msg_8", "val": 8},
+                {"id": 9, "label": "qc_msg_9", "val": 9},
+                {"id": 10, "label": "qc_msg_10", "val": 10}
+            ]
+        },
+        {
+            "name": "qc_msg_slot_4",
+            "isCheck": false,
+            "options": [
+                {"id": 1, "label": "qc_msg_1", "val": 1}, 
+                {"id": 2, "label": "qc_msg_2", "val": 2}, 
+                {"id": 3, "label": "qc_msg_3", "val": 3}, 
+                {"id": 4, "label": "qc_msg_4", "val": 4}, 
+                {"id": 5, "label": "qc_msg_5", "val": 5}, 
+                {"id": 6, "label": "qc_msg_6", "val": 6}, 
+                {"id": 7, "label": "qc_msg_7", "val": 7}, 
+                {"id": 8, "label": "qc_msg_8", "val": 8},
+                {"id": 9, "label": "qc_msg_9", "val": 9},
+                {"id": 10, "label": "qc_msg_10", "val": 10}
+            ]
+        }
         ],
         [
           {
