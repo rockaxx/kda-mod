@@ -269,7 +269,7 @@
         "21":{"path":"ships/referee","end":64,"start":0,"isWebp":true,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
         "22":{"path":"ships/america","end":64,"start":0,"isWebp":true,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
         "23":{"path":"ships/spectrum","end":64,"start":0,"isWebp":true,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
-        "24":{"path":"ships/solace","end":64,"start":0,"isWebp":true,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
+        "24":{"path":"ships/solace","end":64,"start":0,"isWebp":false,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
         "25":{"path":"ships/venom","end":64,"start":0,"isWebp":false,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
         "26":{"path":"ships/diminisher","end":64,"start":0,"isWebp":true,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
         "27":{"path":"ships/sentinel","end":64,"start":0,"isWebp":true,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
