@@ -1,0 +1,536 @@
+{
+  "frames": {
+    "petBox_0": {
+      "frame": {
+        "x": 873,
+        "y": 0,
+        "w": 209,
+        "h": 166
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 209,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 176
+      }
+    },
+    "petBox_1": {
+      "frame": {
+        "x": 872,
+        "y": 209,
+        "w": 209,
+        "h": 166
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 209,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 176
+      }
+    },
+    "petBox_2": {
+      "frame": {
+        "x": 0,
+        "y": 663,
+        "w": 209,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 209,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 176
+      }
+    },
+    "petBox_3": {
+      "frame": {
+        "x": 375,
+        "y": 209,
+        "w": 209,
+        "h": 166
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 209,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 176
+      }
+    },
+    "petBox_4": {
+      "frame": {
+        "x": 375,
+        "y": 0,
+        "w": 209,
+        "h": 166
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 209,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 176
+      }
+    },
+    "petBox_5": {
+      "frame": {
+        "x": 0,
+        "y": 331,
+        "w": 209,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 209,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 176
+      }
+    },
+    "petBox_6": {
+      "frame": {
+        "x": 209,
+        "y": 209,
+        "w": 209,
+        "h": 166
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 209,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 176
+      }
+    },
+    "petBox_7": {
+      "frame": {
+        "x": 209,
+        "y": 0,
+        "w": 209,
+        "h": 166
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 209,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 176
+      }
+    },
+    "petBox_8": {
+      "frame": {
+        "x": 0,
+        "y": 165,
+        "w": 209,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 209,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 176
+      }
+    },
+    "petBox_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 209,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 11,
+        "w": 209,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 176
+      }
+    },
+    "petBox_10": {
+      "frame": {
+        "x": 627,
+        "y": 793,
+        "w": 209,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 209,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 176
+      }
+    },
+    "petBox_11": {
+      "frame": {
+        "x": 418,
+        "y": 793,
+        "w": 209,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 209,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 176
+      }
+    },
+    "petBox_12": {
+      "frame": {
+        "x": 209,
+        "y": 793,
+        "w": 209,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 209,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 176
+      }
+    },
+    "petBox_13": {
+      "frame": {
+        "x": 0,
+        "y": 829,
+        "w": 209,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 209,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 176
+      }
+    },
+    "petBox_14": {
+      "frame": {
+        "x": 627,
+        "y": 627,
+        "w": 209,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 209,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 176
+      }
+    },
+    "petBox_15": {
+      "frame": {
+        "x": 707,
+        "y": 418,
+        "w": 209,
+        "h": 166
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 209,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 176
+      }
+    },
+    "petBox_16": {
+      "frame": {
+        "x": 707,
+        "y": 209,
+        "w": 209,
+        "h": 165
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 11,
+        "w": 209,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 176
+      }
+    },
+    "petBox_17": {
+      "frame": {
+        "x": 707,
+        "y": 0,
+        "w": 209,
+        "h": 166
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 209,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 176
+      }
+    },
+    "petBox_18": {
+      "frame": {
+        "x": 418,
+        "y": 627,
+        "w": 209,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 209,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 176
+      }
+    },
+    "petBox_19": {
+      "frame": {
+        "x": 209,
+        "y": 627,
+        "w": 209,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 209,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 176
+      }
+    },
+    "petBox_20": {
+      "frame": {
+        "x": 541,
+        "y": 418,
+        "w": 209,
+        "h": 166
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 209,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 176
+      }
+    },
+    "petBox_21": {
+      "frame": {
+        "x": 541,
+        "y": 209,
+        "w": 209,
+        "h": 166
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 209,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 176
+      }
+    },
+    "petBox_22": {
+      "frame": {
+        "x": 541,
+        "y": 0,
+        "w": 209,
+        "h": 166
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 209,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 176
+      }
+    },
+    "petBox_23": {
+      "frame": {
+        "x": 375,
+        "y": 418,
+        "w": 209,
+        "h": 166
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 209,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 176
+      }
+    },
+    "petBox_24": {
+      "frame": {
+        "x": 209,
+        "y": 418,
+        "w": 209,
+        "h": 166
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 209,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 176
+      }
+    },
+    "petBox_25": {
+      "frame": {
+        "x": 0,
+        "y": 497,
+        "w": 209,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 209,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 176
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "petBox.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1039,
+      "h": 995
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

@@ -1,0 +1,1295 @@
+{
+  "frames": {
+    "goliath-surgeon_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_1": {
+      "frame": {
+        "x": 169,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_2": {
+      "frame": {
+        "x": 338,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_3": {
+      "frame": {
+        "x": 507,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_4": {
+      "frame": {
+        "x": 676,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_5": {
+      "frame": {
+        "x": 845,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_6": {
+      "frame": {
+        "x": 1014,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_7": {
+      "frame": {
+        "x": 1183,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_8": {
+      "frame": {
+        "x": 0,
+        "y": 150,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_9": {
+      "frame": {
+        "x": 169,
+        "y": 150,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_10": {
+      "frame": {
+        "x": 338,
+        "y": 150,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_11": {
+      "frame": {
+        "x": 507,
+        "y": 150,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_12": {
+      "frame": {
+        "x": 676,
+        "y": 150,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_13": {
+      "frame": {
+        "x": 845,
+        "y": 150,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_14": {
+      "frame": {
+        "x": 1014,
+        "y": 150,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_15": {
+      "frame": {
+        "x": 1183,
+        "y": 150,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_16": {
+      "frame": {
+        "x": 0,
+        "y": 300,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_17": {
+      "frame": {
+        "x": 169,
+        "y": 300,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_18": {
+      "frame": {
+        "x": 338,
+        "y": 300,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_19": {
+      "frame": {
+        "x": 507,
+        "y": 300,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_20": {
+      "frame": {
+        "x": 676,
+        "y": 300,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_21": {
+      "frame": {
+        "x": 845,
+        "y": 300,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_22": {
+      "frame": {
+        "x": 1014,
+        "y": 300,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_23": {
+      "frame": {
+        "x": 1183,
+        "y": 300,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_24": {
+      "frame": {
+        "x": 0,
+        "y": 450,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_25": {
+      "frame": {
+        "x": 169,
+        "y": 450,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_26": {
+      "frame": {
+        "x": 338,
+        "y": 450,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_27": {
+      "frame": {
+        "x": 507,
+        "y": 450,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_28": {
+      "frame": {
+        "x": 676,
+        "y": 450,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_29": {
+      "frame": {
+        "x": 845,
+        "y": 450,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_30": {
+      "frame": {
+        "x": 1014,
+        "y": 450,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_31": {
+      "frame": {
+        "x": 1183,
+        "y": 450,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_32": {
+      "frame": {
+        "x": 0,
+        "y": 600,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_33": {
+      "frame": {
+        "x": 169,
+        "y": 600,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_34": {
+      "frame": {
+        "x": 338,
+        "y": 600,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_35": {
+      "frame": {
+        "x": 507,
+        "y": 600,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_36": {
+      "frame": {
+        "x": 676,
+        "y": 600,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_37": {
+      "frame": {
+        "x": 845,
+        "y": 600,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_38": {
+      "frame": {
+        "x": 1014,
+        "y": 600,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_39": {
+      "frame": {
+        "x": 1183,
+        "y": 600,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_40": {
+      "frame": {
+        "x": 0,
+        "y": 750,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_41": {
+      "frame": {
+        "x": 169,
+        "y": 750,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_42": {
+      "frame": {
+        "x": 338,
+        "y": 750,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_43": {
+      "frame": {
+        "x": 507,
+        "y": 750,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_44": {
+      "frame": {
+        "x": 676,
+        "y": 750,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_45": {
+      "frame": {
+        "x": 845,
+        "y": 750,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_46": {
+      "frame": {
+        "x": 1014,
+        "y": 750,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_47": {
+      "frame": {
+        "x": 1183,
+        "y": 750,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_48": {
+      "frame": {
+        "x": 0,
+        "y": 900,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_49": {
+      "frame": {
+        "x": 169,
+        "y": 900,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_50": {
+      "frame": {
+        "x": 338,
+        "y": 900,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_51": {
+      "frame": {
+        "x": 507,
+        "y": 900,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_52": {
+      "frame": {
+        "x": 676,
+        "y": 900,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_53": {
+      "frame": {
+        "x": 845,
+        "y": 900,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_54": {
+      "frame": {
+        "x": 1014,
+        "y": 900,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_55": {
+      "frame": {
+        "x": 1183,
+        "y": 900,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_56": {
+      "frame": {
+        "x": 0,
+        "y": 1050,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_57": {
+      "frame": {
+        "x": 169,
+        "y": 1050,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_58": {
+      "frame": {
+        "x": 338,
+        "y": 1050,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_59": {
+      "frame": {
+        "x": 507,
+        "y": 1050,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_60": {
+      "frame": {
+        "x": 676,
+        "y": 1050,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_61": {
+      "frame": {
+        "x": 845,
+        "y": 1050,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_62": {
+      "frame": {
+        "x": 1014,
+        "y": 1050,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "goliath-surgeon_63": {
+      "frame": {
+        "x": 1183,
+        "y": 1050,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Atlas Generator v2",
+    "version": "1.0",
+    "image": "goliath-surgeon.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1352,
+      "h": 1200
+    },
+    "scale": 1
+  }
+}

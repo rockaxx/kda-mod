@@ -1,0 +1,1295 @@
+{
+  "frames": {
+    "havoc64_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_1": {
+      "frame": {
+        "x": 64,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_2": {
+      "frame": {
+        "x": 128,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_3": {
+      "frame": {
+        "x": 192,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_4": {
+      "frame": {
+        "x": 256,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_5": {
+      "frame": {
+        "x": 320,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_6": {
+      "frame": {
+        "x": 384,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_7": {
+      "frame": {
+        "x": 448,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_8": {
+      "frame": {
+        "x": 0,
+        "y": 55,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_9": {
+      "frame": {
+        "x": 64,
+        "y": 55,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_10": {
+      "frame": {
+        "x": 128,
+        "y": 55,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_11": {
+      "frame": {
+        "x": 192,
+        "y": 55,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_12": {
+      "frame": {
+        "x": 256,
+        "y": 55,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_13": {
+      "frame": {
+        "x": 320,
+        "y": 55,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_14": {
+      "frame": {
+        "x": 384,
+        "y": 55,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_15": {
+      "frame": {
+        "x": 448,
+        "y": 55,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_16": {
+      "frame": {
+        "x": 0,
+        "y": 110,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_17": {
+      "frame": {
+        "x": 64,
+        "y": 110,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_18": {
+      "frame": {
+        "x": 128,
+        "y": 110,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_19": {
+      "frame": {
+        "x": 192,
+        "y": 110,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_20": {
+      "frame": {
+        "x": 256,
+        "y": 110,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_21": {
+      "frame": {
+        "x": 320,
+        "y": 110,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_22": {
+      "frame": {
+        "x": 384,
+        "y": 110,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_23": {
+      "frame": {
+        "x": 448,
+        "y": 110,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_24": {
+      "frame": {
+        "x": 0,
+        "y": 165,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_25": {
+      "frame": {
+        "x": 64,
+        "y": 165,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_26": {
+      "frame": {
+        "x": 128,
+        "y": 165,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_27": {
+      "frame": {
+        "x": 192,
+        "y": 165,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_28": {
+      "frame": {
+        "x": 256,
+        "y": 165,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_29": {
+      "frame": {
+        "x": 320,
+        "y": 165,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_30": {
+      "frame": {
+        "x": 384,
+        "y": 165,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_31": {
+      "frame": {
+        "x": 448,
+        "y": 165,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_32": {
+      "frame": {
+        "x": 0,
+        "y": 220,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_33": {
+      "frame": {
+        "x": 64,
+        "y": 220,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_34": {
+      "frame": {
+        "x": 128,
+        "y": 220,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_35": {
+      "frame": {
+        "x": 192,
+        "y": 220,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_36": {
+      "frame": {
+        "x": 256,
+        "y": 220,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_37": {
+      "frame": {
+        "x": 320,
+        "y": 220,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_38": {
+      "frame": {
+        "x": 384,
+        "y": 220,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_39": {
+      "frame": {
+        "x": 448,
+        "y": 220,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_40": {
+      "frame": {
+        "x": 0,
+        "y": 275,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_41": {
+      "frame": {
+        "x": 64,
+        "y": 275,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_42": {
+      "frame": {
+        "x": 128,
+        "y": 275,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_43": {
+      "frame": {
+        "x": 192,
+        "y": 275,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_44": {
+      "frame": {
+        "x": 256,
+        "y": 275,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_45": {
+      "frame": {
+        "x": 320,
+        "y": 275,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_46": {
+      "frame": {
+        "x": 384,
+        "y": 275,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_47": {
+      "frame": {
+        "x": 448,
+        "y": 275,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_48": {
+      "frame": {
+        "x": 0,
+        "y": 330,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_49": {
+      "frame": {
+        "x": 64,
+        "y": 330,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_50": {
+      "frame": {
+        "x": 128,
+        "y": 330,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_51": {
+      "frame": {
+        "x": 192,
+        "y": 330,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_52": {
+      "frame": {
+        "x": 256,
+        "y": 330,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_53": {
+      "frame": {
+        "x": 320,
+        "y": 330,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_54": {
+      "frame": {
+        "x": 384,
+        "y": 330,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_55": {
+      "frame": {
+        "x": 448,
+        "y": 330,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_56": {
+      "frame": {
+        "x": 0,
+        "y": 385,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_57": {
+      "frame": {
+        "x": 64,
+        "y": 385,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_58": {
+      "frame": {
+        "x": 128,
+        "y": 385,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_59": {
+      "frame": {
+        "x": 192,
+        "y": 385,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_60": {
+      "frame": {
+        "x": 256,
+        "y": 385,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_61": {
+      "frame": {
+        "x": 320,
+        "y": 385,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_62": {
+      "frame": {
+        "x": 384,
+        "y": 385,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    },
+    "havoc64_63": {
+      "frame": {
+        "x": 448,
+        "y": 385,
+        "w": 64,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 55
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Toolkit Engine",
+    "version": "1.0",
+    "image": "havoc64.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 512,
+      "h": 440
+    },
+    "scale": 1
+  }
+}

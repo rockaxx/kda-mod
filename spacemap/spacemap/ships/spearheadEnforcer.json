@@ -1,0 +1,1295 @@
+{
+  "frames": {
+    "spearheadEnforcer_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_1": {
+      "frame": {
+        "x": 156,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_2": {
+      "frame": {
+        "x": 312,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_3": {
+      "frame": {
+        "x": 468,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_4": {
+      "frame": {
+        "x": 624,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_5": {
+      "frame": {
+        "x": 780,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_6": {
+      "frame": {
+        "x": 936,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_7": {
+      "frame": {
+        "x": 1092,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_8": {
+      "frame": {
+        "x": 0,
+        "y": 154,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_9": {
+      "frame": {
+        "x": 156,
+        "y": 154,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_10": {
+      "frame": {
+        "x": 312,
+        "y": 154,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_11": {
+      "frame": {
+        "x": 468,
+        "y": 154,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_12": {
+      "frame": {
+        "x": 624,
+        "y": 154,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_13": {
+      "frame": {
+        "x": 780,
+        "y": 154,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_14": {
+      "frame": {
+        "x": 936,
+        "y": 154,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_15": {
+      "frame": {
+        "x": 1092,
+        "y": 154,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_16": {
+      "frame": {
+        "x": 0,
+        "y": 308,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_17": {
+      "frame": {
+        "x": 156,
+        "y": 308,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_18": {
+      "frame": {
+        "x": 312,
+        "y": 308,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_19": {
+      "frame": {
+        "x": 468,
+        "y": 308,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_20": {
+      "frame": {
+        "x": 624,
+        "y": 308,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_21": {
+      "frame": {
+        "x": 780,
+        "y": 308,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_22": {
+      "frame": {
+        "x": 936,
+        "y": 308,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_23": {
+      "frame": {
+        "x": 1092,
+        "y": 308,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_24": {
+      "frame": {
+        "x": 0,
+        "y": 462,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_25": {
+      "frame": {
+        "x": 156,
+        "y": 462,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_26": {
+      "frame": {
+        "x": 312,
+        "y": 462,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_27": {
+      "frame": {
+        "x": 468,
+        "y": 462,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_28": {
+      "frame": {
+        "x": 624,
+        "y": 462,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_29": {
+      "frame": {
+        "x": 780,
+        "y": 462,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_30": {
+      "frame": {
+        "x": 936,
+        "y": 462,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_31": {
+      "frame": {
+        "x": 1092,
+        "y": 462,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_32": {
+      "frame": {
+        "x": 0,
+        "y": 616,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_33": {
+      "frame": {
+        "x": 156,
+        "y": 616,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_34": {
+      "frame": {
+        "x": 312,
+        "y": 616,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_35": {
+      "frame": {
+        "x": 468,
+        "y": 616,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_36": {
+      "frame": {
+        "x": 624,
+        "y": 616,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_37": {
+      "frame": {
+        "x": 780,
+        "y": 616,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_38": {
+      "frame": {
+        "x": 936,
+        "y": 616,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_39": {
+      "frame": {
+        "x": 1092,
+        "y": 616,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_40": {
+      "frame": {
+        "x": 0,
+        "y": 770,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_41": {
+      "frame": {
+        "x": 156,
+        "y": 770,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_42": {
+      "frame": {
+        "x": 312,
+        "y": 770,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_43": {
+      "frame": {
+        "x": 468,
+        "y": 770,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_44": {
+      "frame": {
+        "x": 624,
+        "y": 770,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_45": {
+      "frame": {
+        "x": 780,
+        "y": 770,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_46": {
+      "frame": {
+        "x": 936,
+        "y": 770,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_47": {
+      "frame": {
+        "x": 1092,
+        "y": 770,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_48": {
+      "frame": {
+        "x": 0,
+        "y": 924,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_49": {
+      "frame": {
+        "x": 156,
+        "y": 924,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_50": {
+      "frame": {
+        "x": 312,
+        "y": 924,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_51": {
+      "frame": {
+        "x": 468,
+        "y": 924,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_52": {
+      "frame": {
+        "x": 624,
+        "y": 924,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_53": {
+      "frame": {
+        "x": 780,
+        "y": 924,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_54": {
+      "frame": {
+        "x": 936,
+        "y": 924,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_55": {
+      "frame": {
+        "x": 1092,
+        "y": 924,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_56": {
+      "frame": {
+        "x": 0,
+        "y": 1078,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_57": {
+      "frame": {
+        "x": 156,
+        "y": 1078,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_58": {
+      "frame": {
+        "x": 312,
+        "y": 1078,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_59": {
+      "frame": {
+        "x": 468,
+        "y": 1078,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_60": {
+      "frame": {
+        "x": 624,
+        "y": 1078,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_61": {
+      "frame": {
+        "x": 780,
+        "y": 1078,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_62": {
+      "frame": {
+        "x": 936,
+        "y": 1078,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadEnforcer_63": {
+      "frame": {
+        "x": 1092,
+        "y": 1078,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Toolkit Engine",
+    "version": "1.0",
+    "image": "spearheadEnforcer.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1248,
+      "h": 1232
+    },
+    "scale": 1
+  }
+}

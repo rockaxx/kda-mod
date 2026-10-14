@@ -1,0 +1,1776 @@
+{
+  "frames": {
+    "infernoExplosion_0": {
+      "frame": {
+        "x": 824,
+        "y": 1432,
+        "w": 103,
+        "h": 118
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 176,
+        "y": 188,
+        "w": 103,
+        "h": 118
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_1": {
+      "frame": {
+        "x": 721,
+        "y": 1432,
+        "w": 103,
+        "h": 118
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 176,
+        "y": 188,
+        "w": 103,
+        "h": 118
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_2": {
+      "frame": {
+        "x": 441,
+        "y": 1136,
+        "w": 103,
+        "h": 118
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 176,
+        "y": 188,
+        "w": 103,
+        "h": 118
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_3": {
+      "frame": {
+        "x": 1437,
+        "y": 400,
+        "w": 103,
+        "h": 118
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 176,
+        "y": 188,
+        "w": 103,
+        "h": 118
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_4": {
+      "frame": {
+        "x": 1437,
+        "y": 297,
+        "w": 103,
+        "h": 118
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 176,
+        "y": 188,
+        "w": 103,
+        "h": 118
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_5": {
+      "frame": {
+        "x": 843,
+        "y": 425,
+        "w": 127,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 164,
+        "y": 180,
+        "w": 127,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_6": {
+      "frame": {
+        "x": 577,
+        "y": 1432,
+        "w": 150,
+        "h": 144
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 155,
+        "y": 170,
+        "w": 150,
+        "h": 144
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_7": {
+      "frame": {
+        "x": 297,
+        "y": 1136,
+        "w": 150,
+        "h": 144
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 155,
+        "y": 170,
+        "w": 150,
+        "h": 144
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_8": {
+      "frame": {
+        "x": 843,
+        "y": 281,
+        "w": 150,
+        "h": 144
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 155,
+        "y": 170,
+        "w": 150,
+        "h": 144
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 184,
+        "h": 187
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 143,
+        "y": 158,
+        "w": 184,
+        "h": 187
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_10": {
+      "frame": {
+        "x": 908,
+        "y": 2488,
+        "w": 213,
+        "h": 227
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 136,
+        "y": 145,
+        "w": 213,
+        "h": 227
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_11": {
+      "frame": {
+        "x": 681,
+        "y": 2491,
+        "w": 213,
+        "h": 227
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 136,
+        "y": 145,
+        "w": 213,
+        "h": 227
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_12": {
+      "frame": {
+        "x": 454,
+        "y": 2491,
+        "w": 213,
+        "h": 227
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 136,
+        "y": 145,
+        "w": 213,
+        "h": 227
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_13": {
+      "frame": {
+        "x": 227,
+        "y": 2491,
+        "w": 213,
+        "h": 227
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 136,
+        "y": 145,
+        "w": 213,
+        "h": 227
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_14": {
+      "frame": {
+        "x": 0,
+        "y": 2491,
+        "w": 213,
+        "h": 227
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 136,
+        "y": 145,
+        "w": 213,
+        "h": 227
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_15": {
+      "frame": {
+        "x": 2425,
+        "y": 2159,
+        "w": 224,
+        "h": 231
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 131,
+        "y": 143,
+        "w": 224,
+        "h": 231
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_16": {
+      "frame": {
+        "x": 2438,
+        "y": 1924,
+        "w": 235,
+        "h": 236
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 126,
+        "y": 138,
+        "w": 235,
+        "h": 236
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_17": {
+      "frame": {
+        "x": 2438,
+        "y": 1689,
+        "w": 235,
+        "h": 236
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 126,
+        "y": 138,
+        "w": 235,
+        "h": 236
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_18": {
+      "frame": {
+        "x": 2442,
+        "y": 1454,
+        "w": 235,
+        "h": 236
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 126,
+        "y": 138,
+        "w": 235,
+        "h": 236
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_19": {
+      "frame": {
+        "x": 2442,
+        "y": 1200,
+        "w": 263,
+        "h": 254
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 102,
+        "y": 123,
+        "w": 263,
+        "h": 254
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_20": {
+      "frame": {
+        "x": 2445,
+        "y": 825,
+        "w": 275,
+        "h": 260
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 118,
+        "w": 275,
+        "h": 260
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_21": {
+      "frame": {
+        "x": 2447,
+        "y": 550,
+        "w": 275,
+        "h": 260
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 118,
+        "w": 275,
+        "h": 260
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_22": {
+      "frame": {
+        "x": 2447,
+        "y": 275,
+        "w": 275,
+        "h": 260
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 118,
+        "w": 275,
+        "h": 260
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_23": {
+      "frame": {
+        "x": 2447,
+        "y": 0,
+        "w": 275,
+        "h": 260
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 118,
+        "w": 275,
+        "h": 260
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_24": {
+      "frame": {
+        "x": 1428,
+        "y": 2171,
+        "w": 275,
+        "h": 260
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 118,
+        "w": 275,
+        "h": 260
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_25": {
+      "frame": {
+        "x": 1847,
+        "y": 2166,
+        "w": 278,
+        "h": 265
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 115,
+        "w": 278,
+        "h": 265
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_26": {
+      "frame": {
+        "x": 2142,
+        "y": 2063,
+        "w": 283,
+        "h": 270
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 91,
+        "y": 112,
+        "w": 283,
+        "h": 270
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_27": {
+      "frame": {
+        "x": 1158,
+        "y": 2202,
+        "w": 283,
+        "h": 270
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 91,
+        "y": 112,
+        "w": 283,
+        "h": 270
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_28": {
+      "frame": {
+        "x": 888,
+        "y": 2205,
+        "w": 283,
+        "h": 270
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 91,
+        "y": 112,
+        "w": 283,
+        "h": 270
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_29": {
+      "frame": {
+        "x": 1861,
+        "y": 1553,
+        "w": 292,
+        "h": 279
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 88,
+        "y": 109,
+        "w": 292,
+        "h": 279
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_30": {
+      "frame": {
+        "x": 592,
+        "y": 2205,
+        "w": 296,
+        "h": 286
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 87,
+        "y": 106,
+        "w": 296,
+        "h": 286
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_31": {
+      "frame": {
+        "x": 296,
+        "y": 2205,
+        "w": 296,
+        "h": 286
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 87,
+        "y": 106,
+        "w": 296,
+        "h": 286
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_32": {
+      "frame": {
+        "x": 0,
+        "y": 2205,
+        "w": 296,
+        "h": 286
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 87,
+        "y": 106,
+        "w": 296,
+        "h": 286
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_33": {
+      "frame": {
+        "x": 2142,
+        "y": 1777,
+        "w": 296,
+        "h": 286
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 87,
+        "y": 106,
+        "w": 296,
+        "h": 286
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_34": {
+      "frame": {
+        "x": 2142,
+        "y": 1491,
+        "w": 296,
+        "h": 286
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 87,
+        "y": 106,
+        "w": 296,
+        "h": 286
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_35": {
+      "frame": {
+        "x": 2142,
+        "y": 1200,
+        "w": 300,
+        "h": 291
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 86,
+        "y": 105,
+        "w": 300,
+        "h": 291
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_36": {
+      "frame": {
+        "x": 2142,
+        "y": 904,
+        "w": 303,
+        "h": 296
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 84,
+        "y": 104,
+        "w": 303,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_37": {
+      "frame": {
+        "x": 1847,
+        "y": 1863,
+        "w": 303,
+        "h": 295
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 84,
+        "y": 105,
+        "w": 303,
+        "h": 295
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_38": {
+      "frame": {
+        "x": 2142,
+        "y": 608,
+        "w": 303,
+        "h": 296
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 84,
+        "y": 104,
+        "w": 303,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_39": {
+      "frame": {
+        "x": 2142,
+        "y": 308,
+        "w": 305,
+        "h": 300
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 83,
+        "y": 103,
+        "w": 305,
+        "h": 300
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_40": {
+      "frame": {
+        "x": 2142,
+        "y": 0,
+        "w": 308,
+        "h": 305
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 82,
+        "y": 101,
+        "w": 308,
+        "h": 305
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_41": {
+      "frame": {
+        "x": 1542,
+        "y": 1863,
+        "w": 308,
+        "h": 305
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 82,
+        "y": 101,
+        "w": 308,
+        "h": 305
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_42": {
+      "frame": {
+        "x": 1234,
+        "y": 1803,
+        "w": 308,
+        "h": 305
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 82,
+        "y": 101,
+        "w": 308,
+        "h": 305
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_43": {
+      "frame": {
+        "x": 929,
+        "y": 1894,
+        "w": 308,
+        "h": 305
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 82,
+        "y": 101,
+        "w": 308,
+        "h": 305
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_44": {
+      "frame": {
+        "x": 0,
+        "y": 1896,
+        "w": 308,
+        "h": 305
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 82,
+        "y": 101,
+        "w": 308,
+        "h": 305
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_45": {
+      "frame": {
+        "x": 621,
+        "y": 1895,
+        "w": 310,
+        "h": 308
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 80,
+        "y": 99,
+        "w": 310,
+        "h": 308
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_46": {
+      "frame": {
+        "x": 312,
+        "y": 1895,
+        "w": 310,
+        "h": 309
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 80,
+        "y": 98,
+        "w": 310,
+        "h": 309
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_47": {
+      "frame": {
+        "x": 1552,
+        "y": 1553,
+        "w": 310,
+        "h": 309
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 80,
+        "y": 98,
+        "w": 310,
+        "h": 309
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_48": {
+      "frame": {
+        "x": 1761,
+        "y": 1244,
+        "w": 310,
+        "h": 309
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 80,
+        "y": 98,
+        "w": 310,
+        "h": 309
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_49": {
+      "frame": {
+        "x": 1761,
+        "y": 934,
+        "w": 312,
+        "h": 310
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 79,
+        "y": 97,
+        "w": 312,
+        "h": 310
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_50": {
+      "frame": {
+        "x": 1761,
+        "y": 624,
+        "w": 312,
+        "h": 310
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 79,
+        "y": 97,
+        "w": 312,
+        "h": 310
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_51": {
+      "frame": {
+        "x": 1832,
+        "y": 312,
+        "w": 312,
+        "h": 310
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 79,
+        "y": 97,
+        "w": 312,
+        "h": 310
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_52": {
+      "frame": {
+        "x": 1832,
+        "y": 0,
+        "w": 312,
+        "h": 310
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 79,
+        "y": 97,
+        "w": 312,
+        "h": 310
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_53": {
+      "frame": {
+        "x": 1242,
+        "y": 1491,
+        "w": 312,
+        "h": 310
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 79,
+        "y": 97,
+        "w": 312,
+        "h": 310
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_54": {
+      "frame": {
+        "x": 932,
+        "y": 1491,
+        "w": 312,
+        "h": 310
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 79,
+        "y": 97,
+        "w": 312,
+        "h": 310
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_55": {
+      "frame": {
+        "x": 622,
+        "y": 1582,
+        "w": 312,
+        "h": 310
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 79,
+        "y": 97,
+        "w": 312,
+        "h": 310
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_56": {
+      "frame": {
+        "x": 312,
+        "y": 1583,
+        "w": 312,
+        "h": 310
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 79,
+        "y": 97,
+        "w": 312,
+        "h": 310
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_57": {
+      "frame": {
+        "x": 0,
+        "y": 1586,
+        "w": 312,
+        "h": 310
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 79,
+        "y": 97,
+        "w": 312,
+        "h": 310
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_58": {
+      "frame": {
+        "x": 1449,
+        "y": 1181,
+        "w": 312,
+        "h": 310
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 79,
+        "y": 97,
+        "w": 312,
+        "h": 310
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_59": {
+      "frame": {
+        "x": 1449,
+        "y": 869,
+        "w": 312,
+        "h": 312
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 79,
+        "y": 95,
+        "w": 312,
+        "h": 312
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_60": {
+      "frame": {
+        "x": 1449,
+        "y": 592,
+        "w": 296,
+        "h": 277
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 95,
+        "w": 296,
+        "h": 277
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_61": {
+      "frame": {
+        "x": 1555,
+        "y": 296,
+        "w": 296,
+        "h": 277
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 95,
+        "w": 296,
+        "h": 277
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_62": {
+      "frame": {
+        "x": 1555,
+        "y": 0,
+        "w": 296,
+        "h": 277
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 95,
+        "w": 296,
+        "h": 277
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_63": {
+      "frame": {
+        "x": 577,
+        "y": 1136,
+        "w": 296,
+        "h": 277
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 95,
+        "w": 296,
+        "h": 277
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_64": {
+      "frame": {
+        "x": 855,
+        "y": 1118,
+        "w": 296,
+        "h": 277
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 95,
+        "w": 296,
+        "h": 277
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_65": {
+      "frame": {
+        "x": 1152,
+        "y": 1117,
+        "w": 297,
+        "h": 278
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 95,
+        "w": 297,
+        "h": 278
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_66": {
+      "frame": {
+        "x": 297,
+        "y": 1286,
+        "w": 297,
+        "h": 280
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 94,
+        "w": 297,
+        "h": 280
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_67": {
+      "frame": {
+        "x": 0,
+        "y": 1306,
+        "w": 297,
+        "h": 280
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 94,
+        "w": 297,
+        "h": 280
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_68": {
+      "frame": {
+        "x": 1152,
+        "y": 837,
+        "w": 297,
+        "h": 280
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 94,
+        "w": 297,
+        "h": 280
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_69": {
+      "frame": {
+        "x": 1140,
+        "y": 558,
+        "w": 297,
+        "h": 279
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 94,
+        "w": 297,
+        "h": 279
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_70": {
+      "frame": {
+        "x": 1276,
+        "y": 0,
+        "w": 297,
+        "h": 279
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 94,
+        "w": 297,
+        "h": 279
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_71": {
+      "frame": {
+        "x": 855,
+        "y": 839,
+        "w": 297,
+        "h": 279
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 94,
+        "w": 297,
+        "h": 279
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_72": {
+      "frame": {
+        "x": 576,
+        "y": 839,
+        "w": 297,
+        "h": 279
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 94,
+        "w": 297,
+        "h": 279
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_73": {
+      "frame": {
+        "x": 297,
+        "y": 839,
+        "w": 297,
+        "h": 279
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 94,
+        "w": 297,
+        "h": 279
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_74": {
+      "frame": {
+        "x": 0,
+        "y": 1027,
+        "w": 297,
+        "h": 279
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 94,
+        "w": 297,
+        "h": 279
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_75": {
+      "frame": {
+        "x": 843,
+        "y": 558,
+        "w": 297,
+        "h": 281
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 93,
+        "w": 297,
+        "h": 281
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_76": {
+      "frame": {
+        "x": 993,
+        "y": 281,
+        "w": 277,
+        "h": 281
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 93,
+        "w": 277,
+        "h": 281
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_77": {
+      "frame": {
+        "x": 999,
+        "y": 0,
+        "w": 277,
+        "h": 281
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 93,
+        "w": 277,
+        "h": 281
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_78": {
+      "frame": {
+        "x": 562,
+        "y": 558,
+        "w": 277,
+        "h": 281
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 93,
+        "w": 277,
+        "h": 281
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_79": {
+      "frame": {
+        "x": 0,
+        "y": 750,
+        "w": 277,
+        "h": 281
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 93,
+        "w": 277,
+        "h": 281
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_80": {
+      "frame": {
+        "x": 281,
+        "y": 555,
+        "w": 277,
+        "h": 281
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 93,
+        "w": 277,
+        "h": 281
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_81": {
+      "frame": {
+        "x": 562,
+        "y": 281,
+        "w": 277,
+        "h": 281
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 93,
+        "w": 277,
+        "h": 281
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_82": {
+      "frame": {
+        "x": 722,
+        "y": 0,
+        "w": 277,
+        "h": 281
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 93,
+        "w": 277,
+        "h": 281
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_83": {
+      "frame": {
+        "x": 281,
+        "y": 278,
+        "w": 277,
+        "h": 281
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 93,
+        "w": 277,
+        "h": 281
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_84": {
+      "frame": {
+        "x": 0,
+        "y": 473,
+        "w": 277,
+        "h": 281
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 93,
+        "w": 277,
+        "h": 281
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_85": {
+      "frame": {
+        "x": 449,
+        "y": 0,
+        "w": 278,
+        "h": 273
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 96,
+        "y": 93,
+        "w": 278,
+        "h": 273
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_86": {
+      "frame": {
+        "x": 0,
+        "y": 236,
+        "w": 237,
+        "h": 265
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 100,
+        "y": 93,
+        "w": 237,
+        "h": 265
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    },
+    "infernoExplosion_87": {
+      "frame": {
+        "x": 184,
+        "y": 0,
+        "w": 236,
+        "h": 265
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 100,
+        "y": 93,
+        "w": 236,
+        "h": 265
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 490
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "infernoExplosion.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2707,
+      "h": 2704
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

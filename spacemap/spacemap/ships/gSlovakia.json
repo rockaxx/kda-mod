@@ -1,0 +1,1295 @@
+{
+  "frames": {
+    "gSlovakia_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_1": {
+      "frame": {
+        "x": 162,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_2": {
+      "frame": {
+        "x": 324,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_3": {
+      "frame": {
+        "x": 486,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_4": {
+      "frame": {
+        "x": 648,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_5": {
+      "frame": {
+        "x": 810,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_6": {
+      "frame": {
+        "x": 972,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_7": {
+      "frame": {
+        "x": 1134,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_8": {
+      "frame": {
+        "x": 0,
+        "y": 130,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_9": {
+      "frame": {
+        "x": 162,
+        "y": 130,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_10": {
+      "frame": {
+        "x": 324,
+        "y": 130,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_11": {
+      "frame": {
+        "x": 486,
+        "y": 130,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_12": {
+      "frame": {
+        "x": 648,
+        "y": 130,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_13": {
+      "frame": {
+        "x": 810,
+        "y": 130,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_14": {
+      "frame": {
+        "x": 972,
+        "y": 130,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_15": {
+      "frame": {
+        "x": 1134,
+        "y": 130,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_16": {
+      "frame": {
+        "x": 0,
+        "y": 260,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_17": {
+      "frame": {
+        "x": 162,
+        "y": 260,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_18": {
+      "frame": {
+        "x": 324,
+        "y": 260,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_19": {
+      "frame": {
+        "x": 486,
+        "y": 260,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_20": {
+      "frame": {
+        "x": 648,
+        "y": 260,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_21": {
+      "frame": {
+        "x": 810,
+        "y": 260,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_22": {
+      "frame": {
+        "x": 972,
+        "y": 260,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_23": {
+      "frame": {
+        "x": 1134,
+        "y": 260,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_24": {
+      "frame": {
+        "x": 0,
+        "y": 390,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_25": {
+      "frame": {
+        "x": 162,
+        "y": 390,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_26": {
+      "frame": {
+        "x": 324,
+        "y": 390,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_27": {
+      "frame": {
+        "x": 486,
+        "y": 390,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_28": {
+      "frame": {
+        "x": 648,
+        "y": 390,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_29": {
+      "frame": {
+        "x": 810,
+        "y": 390,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_30": {
+      "frame": {
+        "x": 972,
+        "y": 390,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_31": {
+      "frame": {
+        "x": 1134,
+        "y": 390,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_32": {
+      "frame": {
+        "x": 0,
+        "y": 520,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_33": {
+      "frame": {
+        "x": 162,
+        "y": 520,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_34": {
+      "frame": {
+        "x": 324,
+        "y": 520,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_35": {
+      "frame": {
+        "x": 486,
+        "y": 520,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_36": {
+      "frame": {
+        "x": 648,
+        "y": 520,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_37": {
+      "frame": {
+        "x": 810,
+        "y": 520,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_38": {
+      "frame": {
+        "x": 972,
+        "y": 520,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_39": {
+      "frame": {
+        "x": 1134,
+        "y": 520,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_40": {
+      "frame": {
+        "x": 0,
+        "y": 650,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_41": {
+      "frame": {
+        "x": 162,
+        "y": 650,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_42": {
+      "frame": {
+        "x": 324,
+        "y": 650,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_43": {
+      "frame": {
+        "x": 486,
+        "y": 650,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_44": {
+      "frame": {
+        "x": 648,
+        "y": 650,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_45": {
+      "frame": {
+        "x": 810,
+        "y": 650,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_46": {
+      "frame": {
+        "x": 972,
+        "y": 650,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_47": {
+      "frame": {
+        "x": 1134,
+        "y": 650,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_48": {
+      "frame": {
+        "x": 0,
+        "y": 780,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_49": {
+      "frame": {
+        "x": 162,
+        "y": 780,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_50": {
+      "frame": {
+        "x": 324,
+        "y": 780,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_51": {
+      "frame": {
+        "x": 486,
+        "y": 780,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_52": {
+      "frame": {
+        "x": 648,
+        "y": 780,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_53": {
+      "frame": {
+        "x": 810,
+        "y": 780,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_54": {
+      "frame": {
+        "x": 972,
+        "y": 780,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_55": {
+      "frame": {
+        "x": 1134,
+        "y": 780,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_56": {
+      "frame": {
+        "x": 0,
+        "y": 910,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_57": {
+      "frame": {
+        "x": 162,
+        "y": 910,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_58": {
+      "frame": {
+        "x": 324,
+        "y": 910,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_59": {
+      "frame": {
+        "x": 486,
+        "y": 910,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_60": {
+      "frame": {
+        "x": 648,
+        "y": 910,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_61": {
+      "frame": {
+        "x": 810,
+        "y": 910,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_62": {
+      "frame": {
+        "x": 972,
+        "y": 910,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "gSlovakia_63": {
+      "frame": {
+        "x": 1134,
+        "y": 910,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Atlas Generator v2",
+    "version": "1.0",
+    "image": "gSlovakia.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1296,
+      "h": 1040
+    },
+    "scale": 1
+  }
+}

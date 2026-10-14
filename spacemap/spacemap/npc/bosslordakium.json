@@ -1,0 +1,456 @@
+{
+  "frames": {
+    "bosslordakium_0": {
+      "frame": {
+        "x": 625,
+        "y": 876,
+        "w": 224,
+        "h": 208
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 10,
+        "w": 224,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 235
+      }
+    },
+    "bosslordakium_1": {
+      "frame": {
+        "x": 0,
+        "y": 862,
+        "w": 224,
+        "h": 208
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 10,
+        "w": 224,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 235
+      }
+    },
+    "bosslordakium_2": {
+      "frame": {
+        "x": 635,
+        "y": 0,
+        "w": 223,
+        "h": 211
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 9,
+        "w": 223,
+        "h": 211
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 235
+      }
+    },
+    "bosslordakium_3": {
+      "frame": {
+        "x": 0,
+        "y": 414,
+        "w": 223,
+        "h": 211
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 9,
+        "w": 223,
+        "h": 211
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 235
+      }
+    },
+    "bosslordakium_4": {
+      "frame": {
+        "x": 428,
+        "y": 222,
+        "w": 222,
+        "h": 207
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 11,
+        "w": 222,
+        "h": 207
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 235
+      }
+    },
+    "bosslordakium_5": {
+      "frame": {
+        "x": 428,
+        "y": 0,
+        "w": 222,
+        "h": 207
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 11,
+        "w": 222,
+        "h": 207
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 235
+      }
+    },
+    "bosslordakium_6": {
+      "frame": {
+        "x": 220,
+        "y": 226,
+        "w": 226,
+        "h": 208
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 10,
+        "w": 226,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 235
+      }
+    },
+    "bosslordakium_7": {
+      "frame": {
+        "x": 220,
+        "y": 0,
+        "w": 226,
+        "h": 208
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 10,
+        "w": 226,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 235
+      }
+    },
+    "bosslordakium_8": {
+      "frame": {
+        "x": 0,
+        "y": 207,
+        "w": 220,
+        "h": 207
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 11,
+        "w": 220,
+        "h": 207
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 235
+      }
+    },
+    "bosslordakium_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 220,
+        "h": 207
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 11,
+        "w": 220,
+        "h": 207
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 235
+      }
+    },
+    "bosslordakium_10": {
+      "frame": {
+        "x": 846,
+        "y": 669,
+        "w": 221,
+        "h": 206
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 11,
+        "w": 221,
+        "h": 206
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 235
+      }
+    },
+    "bosslordakium_11": {
+      "frame": {
+        "x": 844,
+        "y": 448,
+        "w": 221,
+        "h": 206
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 11,
+        "w": 221,
+        "h": 206
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 235
+      }
+    },
+    "bosslordakium_12": {
+      "frame": {
+        "x": 846,
+        "y": 224,
+        "w": 224,
+        "h": 211
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 9,
+        "w": 224,
+        "h": 211
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 235
+      }
+    },
+    "bosslordakium_13": {
+      "frame": {
+        "x": 846,
+        "y": 0,
+        "w": 224,
+        "h": 211
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 9,
+        "w": 224,
+        "h": 211
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 235
+      }
+    },
+    "bosslordakium_14": {
+      "frame": {
+        "x": 208,
+        "y": 673,
+        "w": 221,
+        "h": 207
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 11,
+        "w": 221,
+        "h": 207
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 235
+      }
+    },
+    "bosslordakium_15": {
+      "frame": {
+        "x": 625,
+        "y": 669,
+        "w": 221,
+        "h": 207
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 11,
+        "w": 221,
+        "h": 207
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 235
+      }
+    },
+    "bosslordakium_16": {
+      "frame": {
+        "x": 417,
+        "y": 665,
+        "w": 225,
+        "h": 208
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 10,
+        "w": 225,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 235
+      }
+    },
+    "bosslordakium_17": {
+      "frame": {
+        "x": 0,
+        "y": 637,
+        "w": 225,
+        "h": 208
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 10,
+        "w": 225,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 235
+      }
+    },
+    "bosslordakium_18": {
+      "frame": {
+        "x": 634,
+        "y": 446,
+        "w": 223,
+        "h": 210
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 10,
+        "w": 223,
+        "h": 210
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 235
+      }
+    },
+    "bosslordakium_19": {
+      "frame": {
+        "x": 635,
+        "y": 223,
+        "w": 223,
+        "h": 210
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 10,
+        "w": 223,
+        "h": 210
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 235
+      }
+    },
+    "bosslordakium_20": {
+      "frame": {
+        "x": 211,
+        "y": 452,
+        "w": 221,
+        "h": 206
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 11,
+        "w": 221,
+        "h": 206
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 235
+      }
+    },
+    "bosslordakium_21": {
+      "frame": {
+        "x": 428,
+        "y": 444,
+        "w": 221,
+        "h": 206
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 11,
+        "w": 221,
+        "h": 206
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 235
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "bosslordakium.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1057,
+      "h": 1100
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

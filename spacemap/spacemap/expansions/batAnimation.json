@@ -1,0 +1,1295 @@
+{
+  "frames": {
+    "batAnimation_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_1": {
+      "frame": {
+        "x": 216,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_2": {
+      "frame": {
+        "x": 432,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_3": {
+      "frame": {
+        "x": 648,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_4": {
+      "frame": {
+        "x": 864,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_5": {
+      "frame": {
+        "x": 1080,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_6": {
+      "frame": {
+        "x": 1296,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_7": {
+      "frame": {
+        "x": 1512,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_8": {
+      "frame": {
+        "x": 0,
+        "y": 184,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_9": {
+      "frame": {
+        "x": 216,
+        "y": 184,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_10": {
+      "frame": {
+        "x": 432,
+        "y": 184,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_11": {
+      "frame": {
+        "x": 648,
+        "y": 184,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_12": {
+      "frame": {
+        "x": 864,
+        "y": 184,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_13": {
+      "frame": {
+        "x": 1080,
+        "y": 184,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_14": {
+      "frame": {
+        "x": 1296,
+        "y": 184,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_15": {
+      "frame": {
+        "x": 1512,
+        "y": 184,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_16": {
+      "frame": {
+        "x": 0,
+        "y": 368,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_17": {
+      "frame": {
+        "x": 216,
+        "y": 368,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_18": {
+      "frame": {
+        "x": 432,
+        "y": 368,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_19": {
+      "frame": {
+        "x": 648,
+        "y": 368,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_20": {
+      "frame": {
+        "x": 864,
+        "y": 368,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_21": {
+      "frame": {
+        "x": 1080,
+        "y": 368,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_22": {
+      "frame": {
+        "x": 1296,
+        "y": 368,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_23": {
+      "frame": {
+        "x": 1512,
+        "y": 368,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_24": {
+      "frame": {
+        "x": 0,
+        "y": 552,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_25": {
+      "frame": {
+        "x": 216,
+        "y": 552,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_26": {
+      "frame": {
+        "x": 432,
+        "y": 552,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_27": {
+      "frame": {
+        "x": 648,
+        "y": 552,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_28": {
+      "frame": {
+        "x": 864,
+        "y": 552,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_29": {
+      "frame": {
+        "x": 1080,
+        "y": 552,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_30": {
+      "frame": {
+        "x": 1296,
+        "y": 552,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_31": {
+      "frame": {
+        "x": 1512,
+        "y": 552,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_32": {
+      "frame": {
+        "x": 0,
+        "y": 736,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_33": {
+      "frame": {
+        "x": 216,
+        "y": 736,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_34": {
+      "frame": {
+        "x": 432,
+        "y": 736,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_35": {
+      "frame": {
+        "x": 648,
+        "y": 736,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_36": {
+      "frame": {
+        "x": 864,
+        "y": 736,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_37": {
+      "frame": {
+        "x": 1080,
+        "y": 736,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_38": {
+      "frame": {
+        "x": 1296,
+        "y": 736,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_39": {
+      "frame": {
+        "x": 1512,
+        "y": 736,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_40": {
+      "frame": {
+        "x": 0,
+        "y": 920,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_41": {
+      "frame": {
+        "x": 216,
+        "y": 920,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_42": {
+      "frame": {
+        "x": 432,
+        "y": 920,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_43": {
+      "frame": {
+        "x": 648,
+        "y": 920,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_44": {
+      "frame": {
+        "x": 864,
+        "y": 920,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_45": {
+      "frame": {
+        "x": 1080,
+        "y": 920,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_46": {
+      "frame": {
+        "x": 1296,
+        "y": 920,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_47": {
+      "frame": {
+        "x": 1512,
+        "y": 920,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_48": {
+      "frame": {
+        "x": 0,
+        "y": 1104,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_49": {
+      "frame": {
+        "x": 216,
+        "y": 1104,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_50": {
+      "frame": {
+        "x": 432,
+        "y": 1104,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_51": {
+      "frame": {
+        "x": 648,
+        "y": 1104,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_52": {
+      "frame": {
+        "x": 864,
+        "y": 1104,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_53": {
+      "frame": {
+        "x": 1080,
+        "y": 1104,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_54": {
+      "frame": {
+        "x": 1296,
+        "y": 1104,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_55": {
+      "frame": {
+        "x": 1512,
+        "y": 1104,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_56": {
+      "frame": {
+        "x": 0,
+        "y": 1288,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_57": {
+      "frame": {
+        "x": 216,
+        "y": 1288,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_58": {
+      "frame": {
+        "x": 432,
+        "y": 1288,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_59": {
+      "frame": {
+        "x": 648,
+        "y": 1288,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_60": {
+      "frame": {
+        "x": 864,
+        "y": 1288,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_61": {
+      "frame": {
+        "x": 1080,
+        "y": 1288,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_62": {
+      "frame": {
+        "x": 1296,
+        "y": 1288,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    },
+    "batAnimation_63": {
+      "frame": {
+        "x": 1512,
+        "y": 1288,
+        "w": 216,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 184
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Toolkit Engine",
+    "version": "1.0",
+    "image": "batAnimation.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1728,
+      "h": 1472
+    },
+    "scale": 1
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "frames": {
+    "bossmordon_0": {
+      "frame": {
+        "x": 348,
+        "y": 555,
+        "w": 185,
+        "h": 163
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 185,
+        "h": 163
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 164
+      }
+    },
+    "bossmordon_1": {
+      "frame": {
+        "x": 185,
+        "y": 555,
+        "w": 185,
+        "h": 163
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 185,
+        "h": 163
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 164
+      }
+    },
+    "bossmordon_2": {
+      "frame": {
+        "x": 0,
+        "y": 489,
+        "w": 185,
+        "h": 163
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 185,
+        "h": 163
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 164
+      }
+    },
+    "bossmordon_3": {
+      "frame": {
+        "x": 348,
+        "y": 185,
+        "w": 185,
+        "h": 163
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 185,
+        "h": 163
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 164
+      }
+    },
+    "bossmordon_4": {
+      "frame": {
+        "x": 348,
+        "y": 0,
+        "w": 185,
+        "h": 163
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 185,
+        "h": 163
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 164
+      }
+    },
+    "bossmordon_5": {
+      "frame": {
+        "x": 0,
+        "y": 326,
+        "w": 185,
+        "h": 163
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 185,
+        "h": 163
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 164
+      }
+    },
+    "bossmordon_6": {
+      "frame": {
+        "x": 185,
+        "y": 185,
+        "w": 185,
+        "h": 163
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 185,
+        "h": 163
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 164
+      }
+    },
+    "bossmordon_7": {
+      "frame": {
+        "x": 185,
+        "y": 0,
+        "w": 185,
+        "h": 163
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 185,
+        "h": 163
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 164
+      }
+    },
+    "bossmordon_8": {
+      "frame": {
+        "x": 0,
+        "y": 163,
+        "w": 185,
+        "h": 163
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 185,
+        "h": 163
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 164
+      }
+    },
+    "bossmordon_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 163
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 185,
+        "h": 163
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 164
+      }
+    },
+    "bossmordon_10": {
+      "frame": {
+        "x": 0,
+        "y": 652,
+        "w": 185,
+        "h": 163
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 185,
+        "h": 163
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 164
+      }
+    },
+    "bossmordon_11": {
+      "frame": {
+        "x": 511,
+        "y": 370,
+        "w": 185,
+        "h": 163
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 185,
+        "h": 163
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 164
+      }
+    },
+    "bossmordon_12": {
+      "frame": {
+        "x": 511,
+        "y": 185,
+        "w": 185,
+        "h": 163
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 185,
+        "h": 163
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 164
+      }
+    },
+    "bossmordon_13": {
+      "frame": {
+        "x": 511,
+        "y": 0,
+        "w": 185,
+        "h": 163
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 185,
+        "h": 163
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 164
+      }
+    },
+    "bossmordon_14": {
+      "frame": {
+        "x": 348,
+        "y": 370,
+        "w": 185,
+        "h": 163
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 185,
+        "h": 163
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 164
+      }
+    },
+    "bossmordon_15": {
+      "frame": {
+        "x": 185,
+        "y": 370,
+        "w": 185,
+        "h": 163
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 185,
+        "h": 163
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 164
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "bossmordon.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 674,
+      "h": 815
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

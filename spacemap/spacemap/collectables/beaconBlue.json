@@ -1,0 +1,195 @@
+{
+  "frames": {
+    "beaconBlue_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 70,
+        "h": 112
+      }
+    },
+    "beaconBlue_1": {
+      "frame": {
+        "x": 70,
+        "y": 0,
+        "w": 70,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 70,
+        "h": 112
+      }
+    },
+    "beaconBlue_2": {
+      "frame": {
+        "x": 140,
+        "y": 0,
+        "w": 70,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 70,
+        "h": 112
+      }
+    },
+    "beaconBlue_3": {
+      "frame": {
+        "x": 210,
+        "y": 0,
+        "w": 70,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 70,
+        "h": 112
+      }
+    },
+    "beaconBlue_4": {
+      "frame": {
+        "x": 280,
+        "y": 0,
+        "w": 70,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 70,
+        "h": 112
+      }
+    },
+    "beaconBlue_5": {
+      "frame": {
+        "x": 350,
+        "y": 0,
+        "w": 70,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 70,
+        "h": 112
+      }
+    },
+    "beaconBlue_6": {
+      "frame": {
+        "x": 420,
+        "y": 0,
+        "w": 70,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 70,
+        "h": 112
+      }
+    },
+    "beaconBlue_7": {
+      "frame": {
+        "x": 490,
+        "y": 0,
+        "w": 70,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 70,
+        "h": 112
+      }
+    },
+    "beaconBlue_8": {
+      "frame": {
+        "x": 0,
+        "y": 112,
+        "w": 70,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 70,
+        "h": 112
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Atlas Generator v2",
+    "version": "1.0",
+    "image": "beaconBlue.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 560,
+      "h": 896
+    },
+    "scale": 1
+  }
+}

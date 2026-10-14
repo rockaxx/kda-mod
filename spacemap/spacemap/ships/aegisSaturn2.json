@@ -1,0 +1,1295 @@
+{
+  "frames": {
+    "aegisSaturn2_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_1": {
+      "frame": {
+        "x": 189,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_2": {
+      "frame": {
+        "x": 378,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_3": {
+      "frame": {
+        "x": 567,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_4": {
+      "frame": {
+        "x": 756,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_5": {
+      "frame": {
+        "x": 945,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_6": {
+      "frame": {
+        "x": 1134,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_7": {
+      "frame": {
+        "x": 1323,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_8": {
+      "frame": {
+        "x": 0,
+        "y": 167,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_9": {
+      "frame": {
+        "x": 189,
+        "y": 167,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_10": {
+      "frame": {
+        "x": 378,
+        "y": 167,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_11": {
+      "frame": {
+        "x": 567,
+        "y": 167,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_12": {
+      "frame": {
+        "x": 756,
+        "y": 167,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_13": {
+      "frame": {
+        "x": 945,
+        "y": 167,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_14": {
+      "frame": {
+        "x": 1134,
+        "y": 167,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_15": {
+      "frame": {
+        "x": 1323,
+        "y": 167,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_16": {
+      "frame": {
+        "x": 0,
+        "y": 334,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_17": {
+      "frame": {
+        "x": 189,
+        "y": 334,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_18": {
+      "frame": {
+        "x": 378,
+        "y": 334,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_19": {
+      "frame": {
+        "x": 567,
+        "y": 334,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_20": {
+      "frame": {
+        "x": 756,
+        "y": 334,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_21": {
+      "frame": {
+        "x": 945,
+        "y": 334,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_22": {
+      "frame": {
+        "x": 1134,
+        "y": 334,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_23": {
+      "frame": {
+        "x": 1323,
+        "y": 334,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_24": {
+      "frame": {
+        "x": 0,
+        "y": 501,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_25": {
+      "frame": {
+        "x": 189,
+        "y": 501,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_26": {
+      "frame": {
+        "x": 378,
+        "y": 501,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_27": {
+      "frame": {
+        "x": 567,
+        "y": 501,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_28": {
+      "frame": {
+        "x": 756,
+        "y": 501,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_29": {
+      "frame": {
+        "x": 945,
+        "y": 501,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_30": {
+      "frame": {
+        "x": 1134,
+        "y": 501,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_31": {
+      "frame": {
+        "x": 1323,
+        "y": 501,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_32": {
+      "frame": {
+        "x": 0,
+        "y": 668,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_33": {
+      "frame": {
+        "x": 189,
+        "y": 668,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_34": {
+      "frame": {
+        "x": 378,
+        "y": 668,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_35": {
+      "frame": {
+        "x": 567,
+        "y": 668,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_36": {
+      "frame": {
+        "x": 756,
+        "y": 668,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_37": {
+      "frame": {
+        "x": 945,
+        "y": 668,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_38": {
+      "frame": {
+        "x": 1134,
+        "y": 668,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_39": {
+      "frame": {
+        "x": 1323,
+        "y": 668,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_40": {
+      "frame": {
+        "x": 0,
+        "y": 835,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_41": {
+      "frame": {
+        "x": 189,
+        "y": 835,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_42": {
+      "frame": {
+        "x": 378,
+        "y": 835,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_43": {
+      "frame": {
+        "x": 567,
+        "y": 835,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_44": {
+      "frame": {
+        "x": 756,
+        "y": 835,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_45": {
+      "frame": {
+        "x": 945,
+        "y": 835,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_46": {
+      "frame": {
+        "x": 1134,
+        "y": 835,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_47": {
+      "frame": {
+        "x": 1323,
+        "y": 835,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_48": {
+      "frame": {
+        "x": 0,
+        "y": 1002,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_49": {
+      "frame": {
+        "x": 189,
+        "y": 1002,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_50": {
+      "frame": {
+        "x": 378,
+        "y": 1002,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_51": {
+      "frame": {
+        "x": 567,
+        "y": 1002,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_52": {
+      "frame": {
+        "x": 756,
+        "y": 1002,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_53": {
+      "frame": {
+        "x": 945,
+        "y": 1002,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_54": {
+      "frame": {
+        "x": 1134,
+        "y": 1002,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_55": {
+      "frame": {
+        "x": 1323,
+        "y": 1002,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_56": {
+      "frame": {
+        "x": 0,
+        "y": 1169,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_57": {
+      "frame": {
+        "x": 189,
+        "y": 1169,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_58": {
+      "frame": {
+        "x": 378,
+        "y": 1169,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_59": {
+      "frame": {
+        "x": 567,
+        "y": 1169,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_60": {
+      "frame": {
+        "x": 756,
+        "y": 1169,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_61": {
+      "frame": {
+        "x": 945,
+        "y": 1169,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_62": {
+      "frame": {
+        "x": 1134,
+        "y": 1169,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    },
+    "aegisSaturn2_63": {
+      "frame": {
+        "x": 1323,
+        "y": 1169,
+        "w": 189,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 167
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Toolkit Engine",
+    "version": "1.0",
+    "image": "aegisSaturn2.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1512,
+      "h": 1336
+    },
+    "scale": 1
+  }
+}

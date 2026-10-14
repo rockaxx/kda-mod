@@ -1,0 +1,656 @@
+{
+  "frames": {
+    "bosslordakia_0": {
+      "frame": {
+        "x": 392,
+        "y": 416,
+        "w": 84,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 77
+      }
+    },
+    "bosslordakia_1": {
+      "frame": {
+        "x": 392,
+        "y": 332,
+        "w": 84,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 77
+      }
+    },
+    "bosslordakia_2": {
+      "frame": {
+        "x": 314,
+        "y": 166,
+        "w": 84,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 77
+      }
+    },
+    "bosslordakia_3": {
+      "frame": {
+        "x": 83,
+        "y": 166,
+        "w": 84,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 77
+      }
+    },
+    "bosslordakia_4": {
+      "frame": {
+        "x": 161,
+        "y": 0,
+        "w": 83,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 77
+      }
+    },
+    "bosslordakia_5": {
+      "frame": {
+        "x": 0,
+        "y": 154,
+        "w": 83,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 77
+      }
+    },
+    "bosslordakia_6": {
+      "frame": {
+        "x": 84,
+        "y": 83,
+        "w": 83,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 77
+      }
+    },
+    "bosslordakia_7": {
+      "frame": {
+        "x": 84,
+        "y": 0,
+        "w": 83,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 77
+      }
+    },
+    "bosslordakia_8": {
+      "frame": {
+        "x": 0,
+        "y": 77,
+        "w": 84,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 77
+      }
+    },
+    "bosslordakia_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 77
+      }
+    },
+    "bosslordakia_10": {
+      "frame": {
+        "x": 392,
+        "y": 249,
+        "w": 83,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 83,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 77
+      }
+    },
+    "bosslordakia_11": {
+      "frame": {
+        "x": 392,
+        "y": 166,
+        "w": 83,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 83,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 77
+      }
+    },
+    "bosslordakia_12": {
+      "frame": {
+        "x": 392,
+        "y": 83,
+        "w": 83,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 77
+      }
+    },
+    "bosslordakia_13": {
+      "frame": {
+        "x": 392,
+        "y": 0,
+        "w": 83,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 77
+      }
+    },
+    "bosslordakia_14": {
+      "frame": {
+        "x": 315,
+        "y": 334,
+        "w": 83,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 77
+      }
+    },
+    "bosslordakia_15": {
+      "frame": {
+        "x": 238,
+        "y": 334,
+        "w": 83,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 77
+      }
+    },
+    "bosslordakia_16": {
+      "frame": {
+        "x": 161,
+        "y": 334,
+        "w": 84,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 77
+      }
+    },
+    "bosslordakia_17": {
+      "frame": {
+        "x": 84,
+        "y": 334,
+        "w": 84,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 77
+      }
+    },
+    "bosslordakia_18": {
+      "frame": {
+        "x": 0,
+        "y": 385,
+        "w": 84,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 77
+      }
+    },
+    "bosslordakia_19": {
+      "frame": {
+        "x": 314,
+        "y": 250,
+        "w": 84,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 77
+      }
+    },
+    "bosslordakia_20": {
+      "frame": {
+        "x": 315,
+        "y": 83,
+        "w": 83,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 77
+      }
+    },
+    "bosslordakia_21": {
+      "frame": {
+        "x": 315,
+        "y": 0,
+        "w": 83,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 77
+      }
+    },
+    "bosslordakia_22": {
+      "frame": {
+        "x": 237,
+        "y": 249,
+        "w": 83,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 77
+      }
+    },
+    "bosslordakia_23": {
+      "frame": {
+        "x": 160,
+        "y": 249,
+        "w": 83,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 77
+      }
+    },
+    "bosslordakia_24": {
+      "frame": {
+        "x": 83,
+        "y": 250,
+        "w": 83,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 77
+      }
+    },
+    "bosslordakia_25": {
+      "frame": {
+        "x": 0,
+        "y": 308,
+        "w": 83,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 77
+      }
+    },
+    "bosslordakia_26": {
+      "frame": {
+        "x": 237,
+        "y": 166,
+        "w": 83,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 77
+      }
+    },
+    "bosslordakia_27": {
+      "frame": {
+        "x": 238,
+        "y": 83,
+        "w": 83,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 77
+      }
+    },
+    "bosslordakia_28": {
+      "frame": {
+        "x": 238,
+        "y": 0,
+        "w": 83,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 77
+      }
+    },
+    "bosslordakia_29": {
+      "frame": {
+        "x": 160,
+        "y": 166,
+        "w": 83,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 77
+      }
+    },
+    "bosslordakia_30": {
+      "frame": {
+        "x": 0,
+        "y": 231,
+        "w": 83,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 77
+      }
+    },
+    "bosslordakia_31": {
+      "frame": {
+        "x": 161,
+        "y": 83,
+        "w": 83,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 77
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "bosslordakia.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 469,
+      "h": 500
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

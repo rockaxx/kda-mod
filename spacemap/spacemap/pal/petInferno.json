@@ -1,0 +1,676 @@
+{
+  "frames": {
+    "petInferno_0": {
+      "frame": {
+        "x": 175,
+        "y": 875,
+        "w": 175,
+        "h": 149
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 175,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 175,
+        "h": 175
+      }
+    },
+    "petInferno_1": {
+      "frame": {
+        "x": 0,
+        "y": 894,
+        "w": 175,
+        "h": 149
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 175,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 175,
+        "h": 175
+      }
+    },
+    "petInferno_2": {
+      "frame": {
+        "x": 622,
+        "y": 525,
+        "w": 175,
+        "h": 149
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 175,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 175,
+        "h": 175
+      }
+    },
+    "petInferno_3": {
+      "frame": {
+        "x": 324,
+        "y": 350,
+        "w": 175,
+        "h": 149
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 175,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 175,
+        "h": 175
+      }
+    },
+    "petInferno_4": {
+      "frame": {
+        "x": 324,
+        "y": 0,
+        "w": 175,
+        "h": 149
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 175,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 175,
+        "h": 175
+      }
+    },
+    "petInferno_5": {
+      "frame": {
+        "x": 0,
+        "y": 298,
+        "w": 175,
+        "h": 149
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 175,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 175,
+        "h": 175
+      }
+    },
+    "petInferno_6": {
+      "frame": {
+        "x": 175,
+        "y": 175,
+        "w": 175,
+        "h": 149
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 175,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 175,
+        "h": 175
+      }
+    },
+    "petInferno_7": {
+      "frame": {
+        "x": 175,
+        "y": 0,
+        "w": 175,
+        "h": 149
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 175,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 175,
+        "h": 175
+      }
+    },
+    "petInferno_8": {
+      "frame": {
+        "x": 0,
+        "y": 149,
+        "w": 175,
+        "h": 149
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 175,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 175,
+        "h": 175
+      }
+    },
+    "petInferno_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 149
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 175,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 175,
+        "h": 175
+      }
+    },
+    "petInferno_10": {
+      "frame": {
+        "x": 771,
+        "y": 700,
+        "w": 175,
+        "h": 149
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 175,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 175,
+        "h": 175
+      }
+    },
+    "petInferno_11": {
+      "frame": {
+        "x": 771,
+        "y": 525,
+        "w": 175,
+        "h": 149
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 175,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 175,
+        "h": 175
+      }
+    },
+    "petInferno_12": {
+      "frame": {
+        "x": 771,
+        "y": 350,
+        "w": 175,
+        "h": 149
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 175,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 175,
+        "h": 175
+      }
+    },
+    "petInferno_13": {
+      "frame": {
+        "x": 771,
+        "y": 175,
+        "w": 175,
+        "h": 149
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 175,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 175,
+        "h": 175
+      }
+    },
+    "petInferno_14": {
+      "frame": {
+        "x": 771,
+        "y": 0,
+        "w": 175,
+        "h": 149
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 175,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 175,
+        "h": 175
+      }
+    },
+    "petInferno_15": {
+      "frame": {
+        "x": 622,
+        "y": 700,
+        "w": 175,
+        "h": 149
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 175,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 175,
+        "h": 175
+      }
+    },
+    "petInferno_16": {
+      "frame": {
+        "x": 473,
+        "y": 700,
+        "w": 175,
+        "h": 149
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 175,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 175,
+        "h": 175
+      }
+    },
+    "petInferno_17": {
+      "frame": {
+        "x": 324,
+        "y": 700,
+        "w": 175,
+        "h": 149
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 175,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 175,
+        "h": 175
+      }
+    },
+    "petInferno_18": {
+      "frame": {
+        "x": 175,
+        "y": 700,
+        "w": 175,
+        "h": 149
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 175,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 175,
+        "h": 175
+      }
+    },
+    "petInferno_19": {
+      "frame": {
+        "x": 0,
+        "y": 745,
+        "w": 175,
+        "h": 149
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 175,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 175,
+        "h": 175
+      }
+    },
+    "petInferno_20": {
+      "frame": {
+        "x": 622,
+        "y": 350,
+        "w": 175,
+        "h": 149
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 175,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 175,
+        "h": 175
+      }
+    },
+    "petInferno_21": {
+      "frame": {
+        "x": 622,
+        "y": 175,
+        "w": 175,
+        "h": 149
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 175,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 175,
+        "h": 175
+      }
+    },
+    "petInferno_22": {
+      "frame": {
+        "x": 622,
+        "y": 0,
+        "w": 175,
+        "h": 149
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 175,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 175,
+        "h": 175
+      }
+    },
+    "petInferno_23": {
+      "frame": {
+        "x": 473,
+        "y": 525,
+        "w": 175,
+        "h": 149
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 175,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 175,
+        "h": 175
+      }
+    },
+    "petInferno_24": {
+      "frame": {
+        "x": 324,
+        "y": 525,
+        "w": 175,
+        "h": 149
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 175,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 175,
+        "h": 175
+      }
+    },
+    "petInferno_25": {
+      "frame": {
+        "x": 175,
+        "y": 525,
+        "w": 175,
+        "h": 149
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 175,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 175,
+        "h": 175
+      }
+    },
+    "petInferno_26": {
+      "frame": {
+        "x": 0,
+        "y": 596,
+        "w": 175,
+        "h": 149
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 175,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 175,
+        "h": 175
+      }
+    },
+    "petInferno_27": {
+      "frame": {
+        "x": 473,
+        "y": 350,
+        "w": 175,
+        "h": 149
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 175,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 175,
+        "h": 175
+      }
+    },
+    "petInferno_28": {
+      "frame": {
+        "x": 473,
+        "y": 175,
+        "w": 175,
+        "h": 149
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 175,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 175,
+        "h": 175
+      }
+    },
+    "petInferno_29": {
+      "frame": {
+        "x": 473,
+        "y": 0,
+        "w": 175,
+        "h": 149
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 175,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 175,
+        "h": 175
+      }
+    },
+    "petInferno_30": {
+      "frame": {
+        "x": 175,
+        "y": 350,
+        "w": 175,
+        "h": 149
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 175,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 175,
+        "h": 175
+      }
+    },
+    "petInferno_31": {
+      "frame": {
+        "x": 0,
+        "y": 447,
+        "w": 175,
+        "h": 149
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 175,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 175,
+        "h": 175
+      }
+    },
+    "petInferno_32": {
+      "frame": {
+        "x": 324,
+        "y": 175,
+        "w": 175,
+        "h": 149
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 175,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 175,
+        "h": 175
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "petInferno.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 920,
+      "h": 1043
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

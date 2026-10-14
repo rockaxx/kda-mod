@@ -1,0 +1,516 @@
+{
+  "frames": {
+    "goldBox_0": {
+      "frame": {
+        "x": 354,
+        "y": 0,
+        "w": 75,
+        "h": 70
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 75,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 80
+      }
+    },
+    "goldBox_1": {
+      "frame": {
+        "x": 77,
+        "y": 349,
+        "w": 75,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 75,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 80
+      }
+    },
+    "goldBox_2": {
+      "frame": {
+        "x": 0,
+        "y": 279,
+        "w": 74,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 74,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 80
+      }
+    },
+    "goldBox_3": {
+      "frame": {
+        "x": 145,
+        "y": 75,
+        "w": 75,
+        "h": 67
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 75,
+        "h": 67
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 80
+      }
+    },
+    "goldBox_4": {
+      "frame": {
+        "x": 145,
+        "y": 0,
+        "w": 75,
+        "h": 69
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 75,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 80
+      }
+    },
+    "goldBox_5": {
+      "frame": {
+        "x": 0,
+        "y": 140,
+        "w": 75,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 75,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 80
+      }
+    },
+    "goldBox_6": {
+      "frame": {
+        "x": 75,
+        "y": 75,
+        "w": 76,
+        "h": 70
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 76,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 80
+      }
+    },
+    "goldBox_7": {
+      "frame": {
+        "x": 76,
+        "y": 0,
+        "w": 75,
+        "h": 69
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 11,
+        "w": 75,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 80
+      }
+    },
+    "goldBox_8": {
+      "frame": {
+        "x": 0,
+        "y": 70,
+        "w": 75,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 75,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 80
+      }
+    },
+    "goldBox_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 76,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 80
+      }
+    },
+    "goldBox_10": {
+      "frame": {
+        "x": 222,
+        "y": 312,
+        "w": 77,
+        "h": 70
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 77,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 80
+      }
+    },
+    "goldBox_11": {
+      "frame": {
+        "x": 0,
+        "y": 349,
+        "w": 77,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 77,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 80
+      }
+    },
+    "goldBox_12": {
+      "frame": {
+        "x": 152,
+        "y": 309,
+        "w": 77,
+        "h": 70
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 77,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 80
+      }
+    },
+    "goldBox_13": {
+      "frame": {
+        "x": 222,
+        "y": 234,
+        "w": 78,
+        "h": 70
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 78,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 80
+      }
+    },
+    "goldBox_14": {
+      "frame": {
+        "x": 284,
+        "y": 156,
+        "w": 78,
+        "h": 70
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 78,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 80
+      }
+    },
+    "goldBox_15": {
+      "frame": {
+        "x": 284,
+        "y": 78,
+        "w": 78,
+        "h": 70
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 78,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 80
+      }
+    },
+    "goldBox_16": {
+      "frame": {
+        "x": 284,
+        "y": 0,
+        "w": 78,
+        "h": 70
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 78,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 80
+      }
+    },
+    "goldBox_17": {
+      "frame": {
+        "x": 76,
+        "y": 151,
+        "w": 78,
+        "h": 69
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 11,
+        "w": 78,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 80
+      }
+    },
+    "goldBox_18": {
+      "frame": {
+        "x": 152,
+        "y": 231,
+        "w": 78,
+        "h": 70
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 78,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 80
+      }
+    },
+    "goldBox_19": {
+      "frame": {
+        "x": 74,
+        "y": 279,
+        "w": 78,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 78,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 80
+      }
+    },
+    "goldBox_20": {
+      "frame": {
+        "x": 214,
+        "y": 154,
+        "w": 77,
+        "h": 70
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 77,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 80
+      }
+    },
+    "goldBox_21": {
+      "frame": {
+        "x": 214,
+        "y": 77,
+        "w": 77,
+        "h": 70
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 77,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 80
+      }
+    },
+    "goldBox_22": {
+      "frame": {
+        "x": 214,
+        "y": 0,
+        "w": 77,
+        "h": 70
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 77,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 80
+      }
+    },
+    "goldBox_23": {
+      "frame": {
+        "x": 0,
+        "y": 210,
+        "w": 76,
+        "h": 69
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 76,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 80
+      }
+    },
+    "goldBox_24": {
+      "frame": {
+        "x": 145,
+        "y": 150,
+        "w": 76,
+        "h": 69
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 76,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 80
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "goldBox.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 424,
+      "h": 419
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

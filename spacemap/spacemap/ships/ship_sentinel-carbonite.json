@@ -1,0 +1,1295 @@
+{
+  "frames": {
+    "ship_sentinel-carbonite_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_1": {
+      "frame": {
+        "x": 185,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_2": {
+      "frame": {
+        "x": 370,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_3": {
+      "frame": {
+        "x": 555,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_4": {
+      "frame": {
+        "x": 740,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_5": {
+      "frame": {
+        "x": 925,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_6": {
+      "frame": {
+        "x": 1110,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_7": {
+      "frame": {
+        "x": 1295,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_8": {
+      "frame": {
+        "x": 0,
+        "y": 185,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_9": {
+      "frame": {
+        "x": 185,
+        "y": 185,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_10": {
+      "frame": {
+        "x": 370,
+        "y": 185,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_11": {
+      "frame": {
+        "x": 555,
+        "y": 185,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_12": {
+      "frame": {
+        "x": 740,
+        "y": 185,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_13": {
+      "frame": {
+        "x": 925,
+        "y": 185,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_14": {
+      "frame": {
+        "x": 1110,
+        "y": 185,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_15": {
+      "frame": {
+        "x": 1295,
+        "y": 185,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_16": {
+      "frame": {
+        "x": 0,
+        "y": 370,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_17": {
+      "frame": {
+        "x": 185,
+        "y": 370,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_18": {
+      "frame": {
+        "x": 370,
+        "y": 370,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_19": {
+      "frame": {
+        "x": 555,
+        "y": 370,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_20": {
+      "frame": {
+        "x": 740,
+        "y": 370,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_21": {
+      "frame": {
+        "x": 925,
+        "y": 370,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_22": {
+      "frame": {
+        "x": 1110,
+        "y": 370,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_23": {
+      "frame": {
+        "x": 1295,
+        "y": 370,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_24": {
+      "frame": {
+        "x": 0,
+        "y": 555,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_25": {
+      "frame": {
+        "x": 185,
+        "y": 555,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_26": {
+      "frame": {
+        "x": 370,
+        "y": 555,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_27": {
+      "frame": {
+        "x": 555,
+        "y": 555,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_28": {
+      "frame": {
+        "x": 740,
+        "y": 555,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_29": {
+      "frame": {
+        "x": 925,
+        "y": 555,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_30": {
+      "frame": {
+        "x": 1110,
+        "y": 555,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_31": {
+      "frame": {
+        "x": 1295,
+        "y": 555,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_32": {
+      "frame": {
+        "x": 0,
+        "y": 740,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_33": {
+      "frame": {
+        "x": 185,
+        "y": 740,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_34": {
+      "frame": {
+        "x": 370,
+        "y": 740,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_35": {
+      "frame": {
+        "x": 555,
+        "y": 740,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_36": {
+      "frame": {
+        "x": 740,
+        "y": 740,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_37": {
+      "frame": {
+        "x": 925,
+        "y": 740,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_38": {
+      "frame": {
+        "x": 1110,
+        "y": 740,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_39": {
+      "frame": {
+        "x": 1295,
+        "y": 740,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_40": {
+      "frame": {
+        "x": 0,
+        "y": 925,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_41": {
+      "frame": {
+        "x": 185,
+        "y": 925,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_42": {
+      "frame": {
+        "x": 370,
+        "y": 925,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_43": {
+      "frame": {
+        "x": 555,
+        "y": 925,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_44": {
+      "frame": {
+        "x": 740,
+        "y": 925,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_45": {
+      "frame": {
+        "x": 925,
+        "y": 925,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_46": {
+      "frame": {
+        "x": 1110,
+        "y": 925,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_47": {
+      "frame": {
+        "x": 1295,
+        "y": 925,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_48": {
+      "frame": {
+        "x": 0,
+        "y": 1110,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_49": {
+      "frame": {
+        "x": 185,
+        "y": 1110,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_50": {
+      "frame": {
+        "x": 370,
+        "y": 1110,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_51": {
+      "frame": {
+        "x": 555,
+        "y": 1110,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_52": {
+      "frame": {
+        "x": 740,
+        "y": 1110,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_53": {
+      "frame": {
+        "x": 925,
+        "y": 1110,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_54": {
+      "frame": {
+        "x": 1110,
+        "y": 1110,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_55": {
+      "frame": {
+        "x": 1295,
+        "y": 1110,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_56": {
+      "frame": {
+        "x": 0,
+        "y": 1295,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_57": {
+      "frame": {
+        "x": 185,
+        "y": 1295,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_58": {
+      "frame": {
+        "x": 370,
+        "y": 1295,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_59": {
+      "frame": {
+        "x": 555,
+        "y": 1295,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_60": {
+      "frame": {
+        "x": 740,
+        "y": 1295,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_61": {
+      "frame": {
+        "x": 925,
+        "y": 1295,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_62": {
+      "frame": {
+        "x": 1110,
+        "y": 1295,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    },
+    "ship_sentinel-carbonite_63": {
+      "frame": {
+        "x": 1295,
+        "y": 1295,
+        "w": 185,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 185
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Atlas Generator v2",
+    "version": "1.0",
+    "image": "ship_sentinel-carbonite.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1480,
+      "h": 1480
+    },
+    "scale": 1
+  }
+}

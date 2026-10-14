@@ -1,0 +1,1296 @@
+{
+  "frames": {
+    "goldVenom_0": {
+      "frame": {
+        "x": 460,
+        "y": 998,
+        "w": 171,
+        "h": 119
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 19,
+        "w": 171,
+        "h": 119
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_1": {
+      "frame": {
+        "x": 150,
+        "y": 998,
+        "w": 170,
+        "h": 123
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 19,
+        "w": 170,
+        "h": 123
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_2": {
+      "frame": {
+        "x": 1004,
+        "y": 294,
+        "w": 169,
+        "h": 126
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 19,
+        "w": 169,
+        "h": 126
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_3": {
+      "frame": {
+        "x": 614,
+        "y": 869,
+        "w": 165,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 20,
+        "w": 165,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_4": {
+      "frame": {
+        "x": 299,
+        "y": 761,
+        "w": 163,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 21,
+        "w": 163,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_5": {
+      "frame": {
+        "x": 0,
+        "y": 637,
+        "w": 159,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 22,
+        "y": 23,
+        "w": 159,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_6": {
+      "frame": {
+        "x": 170,
+        "y": 332,
+        "w": 156,
+        "h": 129
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 25,
+        "w": 156,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_7": {
+      "frame": {
+        "x": 151,
+        "y": 0,
+        "w": 154,
+        "h": 128
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 27,
+        "w": 154,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_8": {
+      "frame": {
+        "x": 0,
+        "y": 129,
+        "w": 151,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30,
+        "y": 29,
+        "w": 151,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 146,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 34,
+        "y": 32,
+        "w": 146,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_10": {
+      "frame": {
+        "x": 710,
+        "y": 1121,
+        "w": 142,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 37,
+        "y": 35,
+        "w": 142,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_11": {
+      "frame": {
+        "x": 567,
+        "y": 1121,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 34,
+        "y": 38,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_12": {
+      "frame": {
+        "x": 423,
+        "y": 1121,
+        "w": 144,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 40,
+        "w": 144,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_13": {
+      "frame": {
+        "x": 280,
+        "y": 1121,
+        "w": 143,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 39,
+        "w": 143,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_14": {
+      "frame": {
+        "x": 139,
+        "y": 1122,
+        "w": 141,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": 39,
+        "w": 141,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_15": {
+      "frame": {
+        "x": 1004,
+        "y": 751,
+        "w": 140,
+        "h": 129
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 39,
+        "w": 140,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_16": {
+      "frame": {
+        "x": 0,
+        "y": 1122,
+        "w": 139,
+        "h": 131
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 37,
+        "w": 139,
+        "h": 131
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_17": {
+      "frame": {
+        "x": 1000,
+        "y": 608,
+        "w": 143,
+        "h": 130
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 36,
+        "w": 143,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_18": {
+      "frame": {
+        "x": 1004,
+        "y": 463,
+        "w": 145,
+        "h": 129
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 35,
+        "w": 145,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_19": {
+      "frame": {
+        "x": 925,
+        "y": 974,
+        "w": 147,
+        "h": 127
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": 34,
+        "w": 147,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_20": {
+      "frame": {
+        "x": 1006,
+        "y": 147,
+        "w": 147,
+        "h": 127
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30,
+        "y": 32,
+        "w": 147,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_21": {
+      "frame": {
+        "x": 1006,
+        "y": 0,
+        "w": 147,
+        "h": 127
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 30,
+        "w": 147,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_22": {
+      "frame": {
+        "x": 333,
+        "y": 891,
+        "w": 145,
+        "h": 127
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 28,
+        "w": 145,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_23": {
+      "frame": {
+        "x": 779,
+        "y": 993,
+        "w": 146,
+        "h": 126
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 27,
+        "w": 146,
+        "h": 126
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_24": {
+      "frame": {
+        "x": 0,
+        "y": 998,
+        "w": 150,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 26,
+        "w": 150,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_25": {
+      "frame": {
+        "x": 462,
+        "y": 877,
+        "w": 152,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 26,
+        "w": 152,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_26": {
+      "frame": {
+        "x": 887,
+        "y": 820,
+        "w": 154,
+        "h": 117
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 27,
+        "w": 154,
+        "h": 117
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_27": {
+      "frame": {
+        "x": 887,
+        "y": 661,
+        "w": 159,
+        "h": 113
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 27,
+        "w": 159,
+        "h": 113
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_28": {
+      "frame": {
+        "x": 898,
+        "y": 0,
+        "w": 163,
+        "h": 108
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 28,
+        "w": 163,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_29": {
+      "frame": {
+        "x": 779,
+        "y": 829,
+        "w": 164,
+        "h": 108
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 30,
+        "w": 164,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_30": {
+      "frame": {
+        "x": 167,
+        "y": 891,
+        "w": 166,
+        "h": 107
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 32,
+        "w": 166,
+        "h": 107
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_31": {
+      "frame": {
+        "x": 0,
+        "y": 893,
+        "w": 167,
+        "h": 105
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 34,
+        "w": 167,
+        "h": 105
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_32": {
+      "frame": {
+        "x": 768,
+        "y": 661,
+        "w": 168,
+        "h": 104
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 36,
+        "w": 168,
+        "h": 104
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_33": {
+      "frame": {
+        "x": 789,
+        "y": 494,
+        "w": 167,
+        "h": 106
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 33,
+        "w": 167,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_34": {
+      "frame": {
+        "x": 789,
+        "y": 327,
+        "w": 167,
+        "h": 107
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 31,
+        "w": 167,
+        "h": 107
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_35": {
+      "frame": {
+        "x": 789,
+        "y": 163,
+        "w": 164,
+        "h": 108
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 29,
+        "w": 164,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_36": {
+      "frame": {
+        "x": 790,
+        "y": 0,
+        "w": 163,
+        "h": 108
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 28,
+        "w": 163,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_37": {
+      "frame": {
+        "x": 676,
+        "y": 441,
+        "w": 159,
+        "h": 113
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 27,
+        "w": 159,
+        "h": 113
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_38": {
+      "frame": {
+        "x": 614,
+        "y": 751,
+        "w": 154,
+        "h": 118
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 26,
+        "w": 154,
+        "h": 118
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_39": {
+      "frame": {
+        "x": 462,
+        "y": 756,
+        "w": 152,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 26,
+        "w": 152,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_40": {
+      "frame": {
+        "x": 145,
+        "y": 767,
+        "w": 150,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 26,
+        "w": 150,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_41": {
+      "frame": {
+        "x": 0,
+        "y": 767,
+        "w": 145,
+        "h": 126
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 27,
+        "w": 145,
+        "h": 126
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_42": {
+      "frame": {
+        "x": 566,
+        "y": 604,
+        "w": 147,
+        "h": 126
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 29,
+        "w": 147,
+        "h": 126
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_43": {
+      "frame": {
+        "x": 557,
+        "y": 293,
+        "w": 148,
+        "h": 127
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 30,
+        "w": 148,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_44": {
+      "frame": {
+        "x": 549,
+        "y": 456,
+        "w": 148,
+        "h": 127
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 32,
+        "w": 148,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_45": {
+      "frame": {
+        "x": 660,
+        "y": 146,
+        "w": 147,
+        "h": 127
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 22,
+        "y": 34,
+        "w": 147,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_46": {
+      "frame": {
+        "x": 661,
+        "y": 0,
+        "w": 146,
+        "h": 129
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 35,
+        "w": 146,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_47": {
+      "frame": {
+        "x": 437,
+        "y": 613,
+        "w": 143,
+        "h": 129
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 36,
+        "w": 143,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_48": {
+      "frame": {
+        "x": 299,
+        "y": 630,
+        "w": 138,
+        "h": 131
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 37,
+        "w": 138,
+        "h": 131
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_49": {
+      "frame": {
+        "x": 159,
+        "y": 635,
+        "w": 140,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30,
+        "y": 38,
+        "w": 140,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_50": {
+      "frame": {
+        "x": 427,
+        "y": 315,
+        "w": 141,
+        "h": 130
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 39,
+        "w": 141,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_51": {
+      "frame": {
+        "x": 420,
+        "y": 470,
+        "w": 143,
+        "h": 129
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 39,
+        "w": 143,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_52": {
+      "frame": {
+        "x": 533,
+        "y": 143,
+        "w": 144,
+        "h": 127
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 40,
+        "w": 144,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_53": {
+      "frame": {
+        "x": 533,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 38,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_54": {
+      "frame": {
+        "x": 291,
+        "y": 488,
+        "w": 142,
+        "h": 129
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 35,
+        "w": 142,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_55": {
+      "frame": {
+        "x": 162,
+        "y": 488,
+        "w": 147,
+        "h": 129
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 32,
+        "w": 147,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_56": {
+      "frame": {
+        "x": 0,
+        "y": 509,
+        "w": 152,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 30,
+        "w": 152,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_57": {
+      "frame": {
+        "x": 299,
+        "y": 315,
+        "w": 155,
+        "h": 128
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 27,
+        "w": 155,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_58": {
+      "frame": {
+        "x": 404,
+        "y": 159,
+        "w": 156,
+        "h": 129
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 25,
+        "w": 156,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_59": {
+      "frame": {
+        "x": 404,
+        "y": 0,
+        "w": 159,
+        "h": 129
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 23,
+        "w": 159,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_60": {
+      "frame": {
+        "x": 0,
+        "y": 381,
+        "w": 162,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 22,
+        "w": 162,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_61": {
+      "frame": {
+        "x": 170,
+        "y": 167,
+        "w": 165,
+        "h": 128
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 20,
+        "w": 165,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_62": {
+      "frame": {
+        "x": 279,
+        "y": 0,
+        "w": 167,
+        "h": 125
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 20,
+        "w": 167,
+        "h": 125
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "goldVenom_63": {
+      "frame": {
+        "x": 0,
+        "y": 259,
+        "w": 170,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 19,
+        "w": 170,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "goldVenom.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1133,
+      "h": 1253
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

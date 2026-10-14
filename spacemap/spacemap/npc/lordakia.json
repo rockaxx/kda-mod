@@ -1,0 +1,676 @@
+{
+  "frames": {
+    "lordakia_0": {
+      "frame": {
+        "x": 254,
+        "y": 339,
+        "w": 69,
+        "h": 61
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 69,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 65
+      }
+    },
+    "lordakia_1": {
+      "frame": {
+        "x": 0,
+        "y": 370,
+        "w": 67,
+        "h": 63
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 1,
+        "w": 67,
+        "h": 63
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 65
+      }
+    },
+    "lordakia_2": {
+      "frame": {
+        "x": 254,
+        "y": 203,
+        "w": 68,
+        "h": 62
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 68,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 65
+      }
+    },
+    "lordakia_3": {
+      "frame": {
+        "x": 192,
+        "y": 0,
+        "w": 69,
+        "h": 62
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 69,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 65
+      }
+    },
+    "lordakia_4": {
+      "frame": {
+        "x": 131,
+        "y": 0,
+        "w": 68,
+        "h": 61
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 68,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 65
+      }
+    },
+    "lordakia_5": {
+      "frame": {
+        "x": 0,
+        "y": 122,
+        "w": 68,
+        "h": 61
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 2,
+        "w": 68,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 65
+      }
+    },
+    "lordakia_6": {
+      "frame": {
+        "x": 69,
+        "y": 68,
+        "w": 67,
+        "h": 62
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 67,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 65
+      }
+    },
+    "lordakia_7": {
+      "frame": {
+        "x": 69,
+        "y": 0,
+        "w": 68,
+        "h": 62
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 68,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 65
+      }
+    },
+    "lordakia_8": {
+      "frame": {
+        "x": 0,
+        "y": 61,
+        "w": 69,
+        "h": 61
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 69,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 65
+      }
+    },
+    "lordakia_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 68,
+        "h": 61
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 2,
+        "w": 68,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 65
+      }
+    },
+    "lordakia_10": {
+      "frame": {
+        "x": 316,
+        "y": 273,
+        "w": 68,
+        "h": 62
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 68,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 65
+      }
+    },
+    "lordakia_11": {
+      "frame": {
+        "x": 316,
+        "y": 204,
+        "w": 69,
+        "h": 62
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 69,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 65
+      }
+    },
+    "lordakia_12": {
+      "frame": {
+        "x": 316,
+        "y": 135,
+        "w": 69,
+        "h": 61
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 69,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 65
+      }
+    },
+    "lordakia_13": {
+      "frame": {
+        "x": 316,
+        "y": 67,
+        "w": 68,
+        "h": 62
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 68,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 65
+      }
+    },
+    "lordakia_14": {
+      "frame": {
+        "x": 316,
+        "y": 0,
+        "w": 67,
+        "h": 63
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 1,
+        "w": 67,
+        "h": 63
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 65
+      }
+    },
+    "lordakia_15": {
+      "frame": {
+        "x": 192,
+        "y": 274,
+        "w": 69,
+        "h": 62
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 69,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 65
+      }
+    },
+    "lordakia_16": {
+      "frame": {
+        "x": 131,
+        "y": 274,
+        "w": 69,
+        "h": 61
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 69,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 65
+      }
+    },
+    "lordakia_17": {
+      "frame": {
+        "x": 0,
+        "y": 307,
+        "w": 67,
+        "h": 63
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 1,
+        "w": 67,
+        "h": 63
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 65
+      }
+    },
+    "lordakia_18": {
+      "frame": {
+        "x": 254,
+        "y": 271,
+        "w": 68,
+        "h": 62
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 68,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 65
+      }
+    },
+    "lordakia_19": {
+      "frame": {
+        "x": 69,
+        "y": 272,
+        "w": 69,
+        "h": 62
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 69,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 65
+      }
+    },
+    "lordakia_20": {
+      "frame": {
+        "x": 254,
+        "y": 135,
+        "w": 68,
+        "h": 61
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 68,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 65
+      }
+    },
+    "lordakia_21": {
+      "frame": {
+        "x": 254,
+        "y": 67,
+        "w": 68,
+        "h": 61
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 2,
+        "w": 68,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 65
+      }
+    },
+    "lordakia_22": {
+      "frame": {
+        "x": 254,
+        "y": 0,
+        "w": 67,
+        "h": 62
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 67,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 65
+      }
+    },
+    "lordakia_23": {
+      "frame": {
+        "x": 131,
+        "y": 206,
+        "w": 68,
+        "h": 62
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 68,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 65
+      }
+    },
+    "lordakia_24": {
+      "frame": {
+        "x": 193,
+        "y": 205,
+        "w": 69,
+        "h": 61
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 69,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 65
+      }
+    },
+    "lordakia_25": {
+      "frame": {
+        "x": 193,
+        "y": 137,
+        "w": 68,
+        "h": 61
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 2,
+        "w": 68,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 65
+      }
+    },
+    "lordakia_26": {
+      "frame": {
+        "x": 69,
+        "y": 204,
+        "w": 68,
+        "h": 62
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 68,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 65
+      }
+    },
+    "lordakia_27": {
+      "frame": {
+        "x": 0,
+        "y": 245,
+        "w": 69,
+        "h": 62
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 69,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 65
+      }
+    },
+    "lordakia_28": {
+      "frame": {
+        "x": 132,
+        "y": 137,
+        "w": 69,
+        "h": 61
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 69,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 65
+      }
+    },
+    "lordakia_29": {
+      "frame": {
+        "x": 192,
+        "y": 69,
+        "w": 68,
+        "h": 62
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 68,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 65
+      }
+    },
+    "lordakia_30": {
+      "frame": {
+        "x": 69,
+        "y": 137,
+        "w": 67,
+        "h": 63
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 1,
+        "w": 67,
+        "h": 63
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 65
+      }
+    },
+    "lordakia_31": {
+      "frame": {
+        "x": 0,
+        "y": 183,
+        "w": 69,
+        "h": 62
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 69,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 65
+      }
+    },
+    "lordakia_32": {
+      "frame": {
+        "x": 131,
+        "y": 68,
+        "w": 69,
+        "h": 61
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1,
+        "w": 69,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 65
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "lordakia.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 379,
+      "h": 433
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

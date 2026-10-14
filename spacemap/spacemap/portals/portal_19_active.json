@@ -1,0 +1,56 @@
+{
+  "frames": {
+    "portal_19_active_0": {
+      "frame": {
+        "x": 398,
+        "y": 0,
+        "w": 400,
+        "h": 487
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 49,
+        "y": 0,
+        "w": 400,
+        "h": 487
+      },
+      "sourceSize": {
+        "w": 498,
+        "h": 490
+      }
+    },
+    "portal_19_active_1": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 398,
+        "h": 483
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 49,
+        "y": 5,
+        "w": 398,
+        "h": 483
+      },
+      "sourceSize": {
+        "w": 498,
+        "h": 490
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "portal_19_active.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 798,
+      "h": 487
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

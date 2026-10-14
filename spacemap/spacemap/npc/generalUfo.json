@@ -1,0 +1,636 @@
+{
+  "frames": {
+    "generalUfo_0": {
+      "frame": {
+        "x": 1912,
+        "y": 1435,
+        "w": 477,
+        "h": 297
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 87,
+        "w": 477,
+        "h": 297
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "generalUfo_1": {
+      "frame": {
+        "x": 1912,
+        "y": 957,
+        "w": 478,
+        "h": 294
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 90,
+        "w": 478,
+        "h": 294
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "generalUfo_2": {
+      "frame": {
+        "x": 956,
+        "y": 1434,
+        "w": 478,
+        "h": 297
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 87,
+        "w": 478,
+        "h": 297
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "generalUfo_3": {
+      "frame": {
+        "x": 478,
+        "y": 774,
+        "w": 478,
+        "h": 297
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 87,
+        "w": 478,
+        "h": 297
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "generalUfo_4": {
+      "frame": {
+        "x": 478,
+        "y": 478,
+        "w": 478,
+        "h": 296
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 88,
+        "w": 478,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "generalUfo_5": {
+      "frame": {
+        "x": 775,
+        "y": 0,
+        "w": 478,
+        "h": 296
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 88,
+        "w": 478,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "generalUfo_6": {
+      "frame": {
+        "x": 0,
+        "y": 590,
+        "w": 478,
+        "h": 297
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 86,
+        "w": 478,
+        "h": 297
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "generalUfo_7": {
+      "frame": {
+        "x": 478,
+        "y": 0,
+        "w": 478,
+        "h": 297
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 86,
+        "w": 478,
+        "h": 297
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "generalUfo_8": {
+      "frame": {
+        "x": 0,
+        "y": 296,
+        "w": 478,
+        "h": 294
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 89,
+        "w": 478,
+        "h": 294
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "generalUfo_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 478,
+        "h": 296
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 86,
+        "w": 478,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "generalUfo_10": {
+      "frame": {
+        "x": 1959,
+        "y": 479,
+        "w": 478,
+        "h": 297
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 85,
+        "w": 478,
+        "h": 297
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "generalUfo_11": {
+      "frame": {
+        "x": 0,
+        "y": 1777,
+        "w": 478,
+        "h": 296
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 86,
+        "w": 478,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "generalUfo_12": {
+      "frame": {
+        "x": 1960,
+        "y": 0,
+        "w": 479,
+        "h": 296
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 86,
+        "w": 479,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "generalUfo_13": {
+      "frame": {
+        "x": 1434,
+        "y": 1731,
+        "w": 478,
+        "h": 297
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 85,
+        "w": 478,
+        "h": 297
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "generalUfo_14": {
+      "frame": {
+        "x": 956,
+        "y": 1731,
+        "w": 478,
+        "h": 297
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 84,
+        "w": 478,
+        "h": 297
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "generalUfo_15": {
+      "frame": {
+        "x": 1545,
+        "y": 957,
+        "w": 477,
+        "h": 294
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 87,
+        "w": 477,
+        "h": 294
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "generalUfo_16": {
+      "frame": {
+        "x": 478,
+        "y": 1665,
+        "w": 478,
+        "h": 296
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 85,
+        "w": 478,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "generalUfo_17": {
+      "frame": {
+        "x": 1434,
+        "y": 1434,
+        "w": 477,
+        "h": 297
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 84,
+        "w": 477,
+        "h": 297
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "generalUfo_18": {
+      "frame": {
+        "x": 1663,
+        "y": 479,
+        "w": 478,
+        "h": 296
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 85,
+        "w": 478,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "generalUfo_19": {
+      "frame": {
+        "x": 1664,
+        "y": 0,
+        "w": 479,
+        "h": 296
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 86,
+        "w": 479,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "generalUfo_20": {
+      "frame": {
+        "x": 0,
+        "y": 1480,
+        "w": 478,
+        "h": 297
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 85,
+        "w": 478,
+        "h": 297
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "generalUfo_21": {
+      "frame": {
+        "x": 478,
+        "y": 1368,
+        "w": 478,
+        "h": 297
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 85,
+        "w": 478,
+        "h": 297
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "generalUfo_22": {
+      "frame": {
+        "x": 1250,
+        "y": 956,
+        "w": 478,
+        "h": 295
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 87,
+        "w": 478,
+        "h": 295
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "generalUfo_23": {
+      "frame": {
+        "x": 1367,
+        "y": 477,
+        "w": 477,
+        "h": 296
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 86,
+        "w": 477,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "generalUfo_24": {
+      "frame": {
+        "x": 1367,
+        "y": 0,
+        "w": 477,
+        "h": 297
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 86,
+        "w": 477,
+        "h": 297
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "generalUfo_25": {
+      "frame": {
+        "x": 478,
+        "y": 1071,
+        "w": 477,
+        "h": 297
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 86,
+        "w": 477,
+        "h": 297
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "generalUfo_26": {
+      "frame": {
+        "x": 956,
+        "y": 956,
+        "w": 478,
+        "h": 294
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 89,
+        "w": 478,
+        "h": 294
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "generalUfo_27": {
+      "frame": {
+        "x": 0,
+        "y": 1183,
+        "w": 478,
+        "h": 297
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 86,
+        "w": 478,
+        "h": 297
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "generalUfo_28": {
+      "frame": {
+        "x": 956,
+        "y": 478,
+        "w": 478,
+        "h": 297
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 87,
+        "w": 478,
+        "h": 297
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "generalUfo_29": {
+      "frame": {
+        "x": 1071,
+        "y": 0,
+        "w": 478,
+        "h": 296
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 88,
+        "w": 478,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "generalUfo_30": {
+      "frame": {
+        "x": 0,
+        "y": 887,
+        "w": 478,
+        "h": 296
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 88,
+        "w": 478,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "generalUfo.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2256,
+      "h": 2073
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

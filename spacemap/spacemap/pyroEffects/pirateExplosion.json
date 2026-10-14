@@ -1,0 +1,1616 @@
+{
+    "frames": {
+        "pirateExplosion_0": {
+            "frame": {
+                "x": 391,
+                "y": 958,
+                "w": 179,
+                "h": 154
+            },
+            "rotated": true,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 248,
+                "y": 279,
+                "w": 179,
+                "h": 154
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_1": {
+            "frame": {
+                "x": 690,
+                "y": 1424,
+                "w": 249,
+                "h": 218
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 203,
+                "y": 235,
+                "w": 249,
+                "h": 218
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_2": {
+            "frame": {
+                "x": 1821,
+                "y": 329,
+                "w": 286,
+                "h": 249
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 189,
+                "y": 215,
+                "w": 286,
+                "h": 249
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_3": {
+            "frame": {
+                "x": 2573,
+                "y": 2071,
+                "w": 324,
+                "h": 284
+            },
+            "rotated": true,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 176,
+                "y": 197,
+                "w": 324,
+                "h": 284
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_4": {
+            "frame": {
+                "x": 1825,
+                "y": 1121,
+                "w": 347,
+                "h": 311
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 171,
+                "y": 182,
+                "w": 347,
+                "h": 311
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_5": {
+            "frame": {
+                "x": 1275,
+                "y": 1645,
+                "w": 360,
+                "h": 343
+            },
+            "rotated": true,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 170,
+                "y": 171,
+                "w": 360,
+                "h": 343
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_6": {
+            "frame": {
+                "x": 1141,
+                "y": 1277,
+                "w": 368,
+                "h": 368
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 168,
+                "y": 168,
+                "w": 368,
+                "h": 368
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_7": {
+            "frame": {
+                "x": 0,
+                "y": 1057,
+                "w": 370,
+                "h": 391
+            },
+            "rotated": true,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 168,
+                "y": 166,
+                "w": 370,
+                "h": 391
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_8": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 380,
+                "h": 404
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 162,
+                "y": 166,
+                "w": 380,
+                "h": 404
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_9": {
+            "frame": {
+                "x": 2217,
+                "y": 2984,
+                "w": 400,
+                "h": 413
+            },
+            "rotated": true,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 157,
+                "y": 166,
+                "w": 400,
+                "h": 413
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_10": {
+            "frame": {
+                "x": 1618,
+                "y": 1539,
+                "w": 440,
+                "h": 440
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 146,
+                "y": 158,
+                "w": 440,
+                "h": 440
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_11": {
+            "frame": {
+                "x": 2650,
+                "y": 3424,
+                "w": 493,
+                "h": 499
+            },
+            "rotated": true,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 103,
+                "y": 122,
+                "w": 493,
+                "h": 499
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_12": {
+            "frame": {
+                "x": 2143,
+                "y": 3490,
+                "w": 504,
+                "h": 507
+            },
+            "rotated": true,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 96,
+                "y": 116,
+                "w": 504,
+                "h": 507
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_13": {
+            "frame": {
+                "x": 1635,
+                "y": 3492,
+                "w": 508,
+                "h": 498
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 90,
+                "y": 111,
+                "w": 508,
+                "h": 498
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_14": {
+            "frame": {
+                "x": 1120,
+                "y": 3492,
+                "w": 515,
+                "h": 501
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 84,
+                "y": 106,
+                "w": 515,
+                "h": 501
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_15": {
+            "frame": {
+                "x": 3196,
+                "y": 3263,
+                "w": 518,
+                "h": 499
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 78,
+                "y": 101,
+                "w": 518,
+                "h": 499
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_16": {
+            "frame": {
+                "x": 526,
+                "y": 3496,
+                "w": 525,
+                "h": 494
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 73,
+                "y": 96,
+                "w": 525,
+                "h": 494
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_17": {
+            "frame": {
+                "x": 0,
+                "y": 3496,
+                "w": 526,
+                "h": 498
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 68,
+                "y": 92,
+                "w": 526,
+                "h": 498
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_18": {
+            "frame": {
+                "x": 3196,
+                "y": 2732,
+                "w": 531,
+                "h": 499
+            },
+            "rotated": true,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 63,
+                "y": 88,
+                "w": 531,
+                "h": 499
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_19": {
+            "frame": {
+                "x": 3196,
+                "y": 2197,
+                "w": 535,
+                "h": 503
+            },
+            "rotated": true,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 59,
+                "y": 84,
+                "w": 535,
+                "h": 503
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_20": {
+            "frame": {
+                "x": 3196,
+                "y": 1656,
+                "w": 541,
+                "h": 503
+            },
+            "rotated": true,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 54,
+                "y": 80,
+                "w": 541,
+                "h": 503
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_21": {
+            "frame": {
+                "x": 3196,
+                "y": 1112,
+                "w": 544,
+                "h": 508
+            },
+            "rotated": true,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 50,
+                "y": 77,
+                "w": 544,
+                "h": 508
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_22": {
+            "frame": {
+                "x": 1671,
+                "y": 2984,
+                "w": 546,
+                "h": 506
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 47,
+                "y": 74,
+                "w": 546,
+                "h": 506
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_23": {
+            "frame": {
+                "x": 1120,
+                "y": 2984,
+                "w": 551,
+                "h": 508
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 43,
+                "y": 71,
+                "w": 551,
+                "h": 508
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_24": {
+            "frame": {
+                "x": 566,
+                "y": 2982,
+                "w": 554,
+                "h": 513
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 39,
+                "y": 68,
+                "w": 554,
+                "h": 513
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_25": {
+            "frame": {
+                "x": 3196,
+                "y": 554,
+                "w": 558,
+                "h": 515
+            },
+            "rotated": true,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 36,
+                "y": 65,
+                "w": 558,
+                "h": 515
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_26": {
+            "frame": {
+                "x": 3197,
+                "y": 0,
+                "w": 554,
+                "h": 517
+            },
+            "rotated": true,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 32,
+                "y": 62,
+                "w": 554,
+                "h": 517
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_27": {
+            "frame": {
+                "x": 2637,
+                "y": 2907,
+                "w": 559,
+                "h": 517
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 30,
+                "y": 59,
+                "w": 559,
+                "h": 517
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_28": {
+            "frame": {
+                "x": 0,
+                "y": 2984,
+                "w": 566,
+                "h": 512
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 27,
+                "y": 57,
+                "w": 566,
+                "h": 512
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_29": {
+            "frame": {
+                "x": 2637,
+                "y": 2395,
+                "w": 550,
+                "h": 512
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 24,
+                "y": 54,
+                "w": 550,
+                "h": 512
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_30": {
+            "frame": {
+                "x": 2637,
+                "y": 1587,
+                "w": 537,
+                "h": 484
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 21,
+                "y": 51,
+                "w": 537,
+                "h": 484
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_31": {
+            "frame": {
+                "x": 2087,
+                "y": 2502,
+                "w": 550,
+                "h": 482
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 19,
+                "y": 49,
+                "w": 550,
+                "h": 482
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_32": {
+            "frame": {
+                "x": 2700,
+                "y": 1053,
+                "w": 534,
+                "h": 483
+            },
+            "rotated": true,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 17,
+                "y": 47,
+                "w": 534,
+                "h": 483
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_33": {
+            "frame": {
+                "x": 2702,
+                "y": 523,
+                "w": 530,
+                "h": 483
+            },
+            "rotated": true,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 15,
+                "y": 45,
+                "w": 530,
+                "h": 483
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_34": {
+            "frame": {
+                "x": 2714,
+                "y": 0,
+                "w": 523,
+                "h": 483
+            },
+            "rotated": true,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 13,
+                "y": 42,
+                "w": 523,
+                "h": 483
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_35": {
+            "frame": {
+                "x": 1550,
+                "y": 2502,
+                "w": 537,
+                "h": 479
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 11,
+                "y": 41,
+                "w": 537,
+                "h": 479
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_36": {
+            "frame": {
+                "x": 1028,
+                "y": 2502,
+                "w": 522,
+                "h": 480
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 9,
+                "y": 39,
+                "w": 522,
+                "h": 480
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_37": {
+            "frame": {
+                "x": 514,
+                "y": 2502,
+                "w": 514,
+                "h": 479
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 37,
+                "w": 514,
+                "h": 479
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_38": {
+            "frame": {
+                "x": 0,
+                "y": 2506,
+                "w": 513,
+                "h": 478
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 7,
+                "y": 35,
+                "w": 513,
+                "h": 478
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_39": {
+            "frame": {
+                "x": 2059,
+                "y": 2022,
+                "w": 514,
+                "h": 480
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 34,
+                "w": 514,
+                "h": 480
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_40": {
+            "frame": {
+                "x": 2059,
+                "y": 1540,
+                "w": 511,
+                "h": 482
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 33,
+                "w": 511,
+                "h": 482
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_41": {
+            "frame": {
+                "x": 2217,
+                "y": 1028,
+                "w": 512,
+                "h": 483
+            },
+            "rotated": true,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 4,
+                "y": 32,
+                "w": 512,
+                "h": 483
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_42": {
+            "frame": {
+                "x": 2217,
+                "y": 514,
+                "w": 514,
+                "h": 485
+            },
+            "rotated": true,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 3,
+                "y": 31,
+                "w": 514,
+                "h": 485
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_43": {
+            "frame": {
+                "x": 2227,
+                "y": 0,
+                "w": 514,
+                "h": 487
+            },
+            "rotated": true,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 3,
+                "y": 30,
+                "w": 514,
+                "h": 487
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_44": {
+            "frame": {
+                "x": 1544,
+                "y": 2005,
+                "w": 515,
+                "h": 488
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 3,
+                "y": 29,
+                "w": 515,
+                "h": 488
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_45": {
+            "frame": {
+                "x": 1029,
+                "y": 2005,
+                "w": 515,
+                "h": 488
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 3,
+                "y": 29,
+                "w": 515,
+                "h": 488
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_46": {
+            "frame": {
+                "x": 514,
+                "y": 2009,
+                "w": 515,
+                "h": 489
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 3,
+                "y": 29,
+                "w": 515,
+                "h": 489
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_47": {
+            "frame": {
+                "x": 0,
+                "y": 2016,
+                "w": 514,
+                "h": 490
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 4,
+                "y": 29,
+                "w": 514,
+                "h": 490
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_48": {
+            "frame": {
+                "x": 1727,
+                "y": 609,
+                "w": 512,
+                "h": 490
+            },
+            "rotated": true,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 29,
+                "w": 512,
+                "h": 490
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_49": {
+            "frame": {
+                "x": 1918,
+                "y": 0,
+                "w": 309,
+                "h": 329
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 200,
+                "y": 181,
+                "w": 309,
+                "h": 329
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_50": {
+            "frame": {
+                "x": 969,
+                "y": 1645,
+                "w": 306,
+                "h": 328
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 202,
+                "y": 182,
+                "w": 306,
+                "h": 328
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_51": {
+            "frame": {
+                "x": 641,
+                "y": 1705,
+                "w": 304,
+                "h": 328
+            },
+            "rotated": true,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 203,
+                "y": 183,
+                "w": 304,
+                "h": 328
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_52": {
+            "frame": {
+                "x": 317,
+                "y": 1705,
+                "w": 304,
+                "h": 324
+            },
+            "rotated": true,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 202,
+                "y": 183,
+                "w": 304,
+                "h": 324
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_53": {
+            "frame": {
+                "x": 0,
+                "y": 1712,
+                "w": 304,
+                "h": 317
+            },
+            "rotated": true,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 202,
+                "y": 185,
+                "w": 304,
+                "h": 317
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_54": {
+            "frame": {
+                "x": 1509,
+                "y": 1236,
+                "w": 303,
+                "h": 316
+            },
+            "rotated": true,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 203,
+                "y": 186,
+                "w": 303,
+                "h": 316
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_55": {
+            "frame": {
+                "x": 1424,
+                "y": 922,
+                "w": 303,
+                "h": 314
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 203,
+                "y": 186,
+                "w": 303,
+                "h": 314
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_56": {
+            "frame": {
+                "x": 1360,
+                "y": 609,
+                "w": 301,
+                "h": 313
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 205,
+                "y": 186,
+                "w": 301,
+                "h": 313
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_57": {
+            "frame": {
+                "x": 1509,
+                "y": 310,
+                "w": 299,
+                "h": 312
+            },
+            "rotated": true,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 205,
+                "y": 187,
+                "w": 299,
+                "h": 312
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_58": {
+            "frame": {
+                "x": 1624,
+                "y": 0,
+                "w": 294,
+                "h": 310
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 209,
+                "y": 188,
+                "w": 294,
+                "h": 310
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_59": {
+            "frame": {
+                "x": 391,
+                "y": 1414,
+                "w": 291,
+                "h": 299
+            },
+            "rotated": true,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 211,
+                "y": 188,
+                "w": 291,
+                "h": 299
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_60": {
+            "frame": {
+                "x": 0,
+                "y": 1427,
+                "w": 285,
+                "h": 296
+            },
+            "rotated": true,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 217,
+                "y": 191,
+                "w": 285,
+                "h": 296
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_61": {
+            "frame": {
+                "x": 1141,
+                "y": 985,
+                "w": 283,
+                "h": 292
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 217,
+                "y": 191,
+                "w": 283,
+                "h": 292
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_62": {
+            "frame": {
+                "x": 1080,
+                "y": 283,
+                "w": 284,
+                "h": 291
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 216,
+                "y": 192,
+                "w": 284,
+                "h": 291
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_63": {
+            "frame": {
+                "x": 1077,
+                "y": 700,
+                "w": 283,
+                "h": 285
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 218,
+                "y": 192,
+                "w": 283,
+                "h": 285
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_64": {
+            "frame": {
+                "x": 1344,
+                "y": 0,
+                "w": 283,
+                "h": 280
+            },
+            "rotated": true,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 216,
+                "y": 194,
+                "w": 283,
+                "h": 280
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_65": {
+            "frame": {
+                "x": 872,
+                "y": 1146,
+                "w": 278,
+                "h": 269
+            },
+            "rotated": true,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 219,
+                "y": 202,
+                "w": 278,
+                "h": 269
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_66": {
+            "frame": {
+                "x": 1080,
+                "y": 0,
+                "w": 274,
+                "h": 264
+            },
+            "rotated": true,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 224,
+                "y": 204,
+                "w": 274,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_67": {
+            "frame": {
+                "x": 626,
+                "y": 1146,
+                "w": 268,
+                "h": 246
+            },
+            "rotated": true,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 225,
+                "y": 206,
+                "w": 268,
+                "h": 246
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_68": {
+            "frame": {
+                "x": 391,
+                "y": 1146,
+                "w": 264,
+                "h": 235
+            },
+            "rotated": true,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 227,
+                "y": 213,
+                "w": 264,
+                "h": 235
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_69": {
+            "frame": {
+                "x": 832,
+                "y": 918,
+                "w": 245,
+                "h": 228
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 231,
+                "y": 218,
+                "w": 245,
+                "h": 228
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_70": {
+            "frame": {
+                "x": 832,
+                "y": 700,
+                "w": 237,
+                "h": 218
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 234,
+                "y": 219,
+                "w": 237,
+                "h": 218
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_71": {
+            "frame": {
+                "x": 614,
+                "y": 700,
+                "w": 229,
+                "h": 218
+            },
+            "rotated": true,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 243,
+                "y": 218,
+                "w": 229,
+                "h": 218
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_72": {
+            "frame": {
+                "x": 399,
+                "y": 700,
+                "w": 221,
+                "h": 215
+            },
+            "rotated": true,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 246,
+                "y": 221,
+                "w": 221,
+                "h": 215
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_73": {
+            "frame": {
+                "x": 203,
+                "y": 745,
+                "w": 213,
+                "h": 196
+            },
+            "rotated": true,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 253,
+                "y": 230,
+                "w": 213,
+                "h": 196
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_74": {
+            "frame": {
+                "x": 0,
+                "y": 867,
+                "w": 203,
+                "h": 190
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 260,
+                "y": 232,
+                "w": 203,
+                "h": 190
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_75": {
+            "frame": {
+                "x": 181,
+                "y": 560,
+                "w": 192,
+                "h": 185
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 260,
+                "y": 231,
+                "w": 192,
+                "h": 185
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_76": {
+            "frame": {
+                "x": 0,
+                "y": 700,
+                "w": 167,
+                "h": 181
+            },
+            "rotated": true,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 268,
+                "y": 234,
+                "w": 167,
+                "h": 181
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_77": {
+            "frame": {
+                "x": 129,
+                "y": 404,
+                "w": 156,
+                "h": 171
+            },
+            "rotated": true,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 276,
+                "y": 237,
+                "w": 156,
+                "h": 171
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_78": {
+            "frame": {
+                "x": 0,
+                "y": 404,
+                "w": 129,
+                "h": 161
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 288,
+                "y": 244,
+                "w": 129,
+                "h": 161
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        },
+        "pirateExplosion_79": {
+            "frame": {
+                "x": 380,
+                "y": 0,
+                "w": 700,
+                "h": 700
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 700,
+                "h": 700
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 700
+            }
+        }
+    },
+    "meta": {
+        "app": "http://github.com/pixijs/assetpack",
+        "version": "1.0",
+        "image": "pirateExplosion.webp",
+        "format": "RGBA8888",
+        "size": {
+            "w": 3714,
+            "h": 3994
+        },
+        "scale": 1,
+        "related_multi_packs": []
+    }
+}

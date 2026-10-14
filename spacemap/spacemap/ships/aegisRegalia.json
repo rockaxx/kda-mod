@@ -1,0 +1,1295 @@
+{
+  "frames": {
+    "aegisRegalia_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_1": {
+      "frame": {
+        "x": 159,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_2": {
+      "frame": {
+        "x": 318,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_3": {
+      "frame": {
+        "x": 477,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_4": {
+      "frame": {
+        "x": 636,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_5": {
+      "frame": {
+        "x": 795,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_6": {
+      "frame": {
+        "x": 954,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_7": {
+      "frame": {
+        "x": 1113,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_8": {
+      "frame": {
+        "x": 0,
+        "y": 164,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_9": {
+      "frame": {
+        "x": 159,
+        "y": 164,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_10": {
+      "frame": {
+        "x": 318,
+        "y": 164,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_11": {
+      "frame": {
+        "x": 477,
+        "y": 164,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_12": {
+      "frame": {
+        "x": 636,
+        "y": 164,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_13": {
+      "frame": {
+        "x": 795,
+        "y": 164,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_14": {
+      "frame": {
+        "x": 954,
+        "y": 164,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_15": {
+      "frame": {
+        "x": 1113,
+        "y": 164,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_16": {
+      "frame": {
+        "x": 0,
+        "y": 328,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_17": {
+      "frame": {
+        "x": 159,
+        "y": 328,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_18": {
+      "frame": {
+        "x": 318,
+        "y": 328,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_19": {
+      "frame": {
+        "x": 477,
+        "y": 328,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_20": {
+      "frame": {
+        "x": 636,
+        "y": 328,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_21": {
+      "frame": {
+        "x": 795,
+        "y": 328,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_22": {
+      "frame": {
+        "x": 954,
+        "y": 328,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_23": {
+      "frame": {
+        "x": 1113,
+        "y": 328,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_24": {
+      "frame": {
+        "x": 0,
+        "y": 492,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_25": {
+      "frame": {
+        "x": 159,
+        "y": 492,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_26": {
+      "frame": {
+        "x": 318,
+        "y": 492,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_27": {
+      "frame": {
+        "x": 477,
+        "y": 492,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_28": {
+      "frame": {
+        "x": 636,
+        "y": 492,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_29": {
+      "frame": {
+        "x": 795,
+        "y": 492,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_30": {
+      "frame": {
+        "x": 954,
+        "y": 492,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_31": {
+      "frame": {
+        "x": 1113,
+        "y": 492,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_32": {
+      "frame": {
+        "x": 0,
+        "y": 656,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_33": {
+      "frame": {
+        "x": 159,
+        "y": 656,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_34": {
+      "frame": {
+        "x": 318,
+        "y": 656,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_35": {
+      "frame": {
+        "x": 477,
+        "y": 656,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_36": {
+      "frame": {
+        "x": 636,
+        "y": 656,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_37": {
+      "frame": {
+        "x": 795,
+        "y": 656,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_38": {
+      "frame": {
+        "x": 954,
+        "y": 656,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_39": {
+      "frame": {
+        "x": 1113,
+        "y": 656,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_40": {
+      "frame": {
+        "x": 0,
+        "y": 820,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_41": {
+      "frame": {
+        "x": 159,
+        "y": 820,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_42": {
+      "frame": {
+        "x": 318,
+        "y": 820,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_43": {
+      "frame": {
+        "x": 477,
+        "y": 820,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_44": {
+      "frame": {
+        "x": 636,
+        "y": 820,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_45": {
+      "frame": {
+        "x": 795,
+        "y": 820,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_46": {
+      "frame": {
+        "x": 954,
+        "y": 820,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_47": {
+      "frame": {
+        "x": 1113,
+        "y": 820,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_48": {
+      "frame": {
+        "x": 0,
+        "y": 984,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_49": {
+      "frame": {
+        "x": 159,
+        "y": 984,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_50": {
+      "frame": {
+        "x": 318,
+        "y": 984,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_51": {
+      "frame": {
+        "x": 477,
+        "y": 984,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_52": {
+      "frame": {
+        "x": 636,
+        "y": 984,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_53": {
+      "frame": {
+        "x": 795,
+        "y": 984,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_54": {
+      "frame": {
+        "x": 954,
+        "y": 984,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_55": {
+      "frame": {
+        "x": 1113,
+        "y": 984,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_56": {
+      "frame": {
+        "x": 0,
+        "y": 1148,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_57": {
+      "frame": {
+        "x": 159,
+        "y": 1148,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_58": {
+      "frame": {
+        "x": 318,
+        "y": 1148,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_59": {
+      "frame": {
+        "x": 477,
+        "y": 1148,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_60": {
+      "frame": {
+        "x": 636,
+        "y": 1148,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_61": {
+      "frame": {
+        "x": 795,
+        "y": 1148,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_62": {
+      "frame": {
+        "x": 954,
+        "y": 1148,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisRegalia_63": {
+      "frame": {
+        "x": 1113,
+        "y": 1148,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Atlas Generator v2",
+    "version": "1.0",
+    "image": "aegisRegalia.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1272,
+      "h": 1312
+    },
+    "scale": 1
+  }
+}

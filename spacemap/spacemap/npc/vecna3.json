@@ -1,0 +1,335 @@
+{
+  "frames": {
+    "vecna3_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 605,
+        "h": 605
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 605,
+        "h": 605
+      },
+      "sourceSize": {
+        "w": 605,
+        "h": 605
+      }
+    },
+    "vecna3_1": {
+      "frame": {
+        "x": 605,
+        "y": 0,
+        "w": 605,
+        "h": 605
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 605,
+        "h": 605
+      },
+      "sourceSize": {
+        "w": 605,
+        "h": 605
+      }
+    },
+    "vecna3_2": {
+      "frame": {
+        "x": 1210,
+        "y": 0,
+        "w": 605,
+        "h": 605
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 605,
+        "h": 605
+      },
+      "sourceSize": {
+        "w": 605,
+        "h": 605
+      }
+    },
+    "vecna3_3": {
+      "frame": {
+        "x": 1815,
+        "y": 0,
+        "w": 605,
+        "h": 605
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 605,
+        "h": 605
+      },
+      "sourceSize": {
+        "w": 605,
+        "h": 605
+      }
+    },
+    "vecna3_4": {
+      "frame": {
+        "x": 2420,
+        "y": 0,
+        "w": 605,
+        "h": 605
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 605,
+        "h": 605
+      },
+      "sourceSize": {
+        "w": 605,
+        "h": 605
+      }
+    },
+    "vecna3_5": {
+      "frame": {
+        "x": 3025,
+        "y": 0,
+        "w": 605,
+        "h": 605
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 605,
+        "h": 605
+      },
+      "sourceSize": {
+        "w": 605,
+        "h": 605
+      }
+    },
+    "vecna3_6": {
+      "frame": {
+        "x": 3630,
+        "y": 0,
+        "w": 605,
+        "h": 605
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 605,
+        "h": 605
+      },
+      "sourceSize": {
+        "w": 605,
+        "h": 605
+      }
+    },
+    "vecna3_7": {
+      "frame": {
+        "x": 4235,
+        "y": 0,
+        "w": 605,
+        "h": 605
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 605,
+        "h": 605
+      },
+      "sourceSize": {
+        "w": 605,
+        "h": 605
+      }
+    },
+    "vecna3_8": {
+      "frame": {
+        "x": 0,
+        "y": 605,
+        "w": 605,
+        "h": 605
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 605,
+        "h": 605
+      },
+      "sourceSize": {
+        "w": 605,
+        "h": 605
+      }
+    },
+    "vecna3_9": {
+      "frame": {
+        "x": 605,
+        "y": 605,
+        "w": 605,
+        "h": 605
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 605,
+        "h": 605
+      },
+      "sourceSize": {
+        "w": 605,
+        "h": 605
+      }
+    },
+    "vecna3_10": {
+      "frame": {
+        "x": 1210,
+        "y": 605,
+        "w": 605,
+        "h": 605
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 605,
+        "h": 605
+      },
+      "sourceSize": {
+        "w": 605,
+        "h": 605
+      }
+    },
+    "vecna3_11": {
+      "frame": {
+        "x": 1815,
+        "y": 605,
+        "w": 605,
+        "h": 605
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 605,
+        "h": 605
+      },
+      "sourceSize": {
+        "w": 605,
+        "h": 605
+      }
+    },
+    "vecna3_12": {
+      "frame": {
+        "x": 2420,
+        "y": 605,
+        "w": 605,
+        "h": 605
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 605,
+        "h": 605
+      },
+      "sourceSize": {
+        "w": 605,
+        "h": 605
+      }
+    },
+    "vecna3_13": {
+      "frame": {
+        "x": 3025,
+        "y": 605,
+        "w": 605,
+        "h": 605
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 605,
+        "h": 605
+      },
+      "sourceSize": {
+        "w": 605,
+        "h": 605
+      }
+    },
+    "vecna3_14": {
+      "frame": {
+        "x": 3630,
+        "y": 605,
+        "w": 605,
+        "h": 605
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 605,
+        "h": 605
+      },
+      "sourceSize": {
+        "w": 605,
+        "h": 605
+      }
+    },
+    "vecna3_15": {
+      "frame": {
+        "x": 4235,
+        "y": 605,
+        "w": 605,
+        "h": 605
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 605,
+        "h": 605
+      },
+      "sourceSize": {
+        "w": 605,
+        "h": 605
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Toolkit Engine",
+    "version": "1.0",
+    "image": "vecna3.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 4840,
+      "h": 4840
+    },
+    "scale": 1
+  }
+}

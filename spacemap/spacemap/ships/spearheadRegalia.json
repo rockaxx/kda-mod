@@ -1,0 +1,1295 @@
+{
+  "frames": {
+    "spearheadRegalia_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_1": {
+      "frame": {
+        "x": 156,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_2": {
+      "frame": {
+        "x": 312,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_3": {
+      "frame": {
+        "x": 468,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_4": {
+      "frame": {
+        "x": 624,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_5": {
+      "frame": {
+        "x": 780,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_6": {
+      "frame": {
+        "x": 936,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_7": {
+      "frame": {
+        "x": 1092,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_8": {
+      "frame": {
+        "x": 0,
+        "y": 154,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_9": {
+      "frame": {
+        "x": 156,
+        "y": 154,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_10": {
+      "frame": {
+        "x": 312,
+        "y": 154,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_11": {
+      "frame": {
+        "x": 468,
+        "y": 154,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_12": {
+      "frame": {
+        "x": 624,
+        "y": 154,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_13": {
+      "frame": {
+        "x": 780,
+        "y": 154,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_14": {
+      "frame": {
+        "x": 936,
+        "y": 154,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_15": {
+      "frame": {
+        "x": 1092,
+        "y": 154,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_16": {
+      "frame": {
+        "x": 0,
+        "y": 308,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_17": {
+      "frame": {
+        "x": 156,
+        "y": 308,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_18": {
+      "frame": {
+        "x": 312,
+        "y": 308,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_19": {
+      "frame": {
+        "x": 468,
+        "y": 308,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_20": {
+      "frame": {
+        "x": 624,
+        "y": 308,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_21": {
+      "frame": {
+        "x": 780,
+        "y": 308,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_22": {
+      "frame": {
+        "x": 936,
+        "y": 308,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_23": {
+      "frame": {
+        "x": 1092,
+        "y": 308,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_24": {
+      "frame": {
+        "x": 0,
+        "y": 462,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_25": {
+      "frame": {
+        "x": 156,
+        "y": 462,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_26": {
+      "frame": {
+        "x": 312,
+        "y": 462,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_27": {
+      "frame": {
+        "x": 468,
+        "y": 462,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_28": {
+      "frame": {
+        "x": 624,
+        "y": 462,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_29": {
+      "frame": {
+        "x": 780,
+        "y": 462,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_30": {
+      "frame": {
+        "x": 936,
+        "y": 462,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_31": {
+      "frame": {
+        "x": 1092,
+        "y": 462,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_32": {
+      "frame": {
+        "x": 0,
+        "y": 616,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_33": {
+      "frame": {
+        "x": 156,
+        "y": 616,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_34": {
+      "frame": {
+        "x": 312,
+        "y": 616,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_35": {
+      "frame": {
+        "x": 468,
+        "y": 616,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_36": {
+      "frame": {
+        "x": 624,
+        "y": 616,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_37": {
+      "frame": {
+        "x": 780,
+        "y": 616,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_38": {
+      "frame": {
+        "x": 936,
+        "y": 616,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_39": {
+      "frame": {
+        "x": 1092,
+        "y": 616,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_40": {
+      "frame": {
+        "x": 0,
+        "y": 770,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_41": {
+      "frame": {
+        "x": 156,
+        "y": 770,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_42": {
+      "frame": {
+        "x": 312,
+        "y": 770,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_43": {
+      "frame": {
+        "x": 468,
+        "y": 770,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_44": {
+      "frame": {
+        "x": 624,
+        "y": 770,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_45": {
+      "frame": {
+        "x": 780,
+        "y": 770,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_46": {
+      "frame": {
+        "x": 936,
+        "y": 770,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_47": {
+      "frame": {
+        "x": 1092,
+        "y": 770,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_48": {
+      "frame": {
+        "x": 0,
+        "y": 924,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_49": {
+      "frame": {
+        "x": 156,
+        "y": 924,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_50": {
+      "frame": {
+        "x": 312,
+        "y": 924,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_51": {
+      "frame": {
+        "x": 468,
+        "y": 924,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_52": {
+      "frame": {
+        "x": 624,
+        "y": 924,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_53": {
+      "frame": {
+        "x": 780,
+        "y": 924,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_54": {
+      "frame": {
+        "x": 936,
+        "y": 924,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_55": {
+      "frame": {
+        "x": 1092,
+        "y": 924,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_56": {
+      "frame": {
+        "x": 0,
+        "y": 1078,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_57": {
+      "frame": {
+        "x": 156,
+        "y": 1078,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_58": {
+      "frame": {
+        "x": 312,
+        "y": 1078,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_59": {
+      "frame": {
+        "x": 468,
+        "y": 1078,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_60": {
+      "frame": {
+        "x": 624,
+        "y": 1078,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_61": {
+      "frame": {
+        "x": 780,
+        "y": 1078,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_62": {
+      "frame": {
+        "x": 936,
+        "y": 1078,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    },
+    "spearheadRegalia_63": {
+      "frame": {
+        "x": 1092,
+        "y": 1078,
+        "w": 156,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 154
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Toolkit Engine",
+    "version": "1.0",
+    "image": "spearheadRegalia.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1248,
+      "h": 1232
+    },
+    "scale": 1
+  }
+}

@@ -1,0 +1,556 @@
+{
+  "frames": {
+    "weakShield_0": {
+      "frame": {
+        "x": 509,
+        "y": 836,
+        "w": 168,
+        "h": 160
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 15,
+        "w": 168,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "weakShield_1": {
+      "frame": {
+        "x": 679,
+        "y": 677,
+        "w": 171,
+        "h": 163
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 14,
+        "w": 171,
+        "h": 163
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "weakShield_2": {
+      "frame": {
+        "x": 166,
+        "y": 665,
+        "w": 171,
+        "h": 163
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 15,
+        "w": 171,
+        "h": 163
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "weakShield_3": {
+      "frame": {
+        "x": 168,
+        "y": 331,
+        "w": 171,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 14,
+        "w": 171,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "weakShield_4": {
+      "frame": {
+        "x": 0,
+        "y": 331,
+        "w": 171,
+        "h": 168
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 15,
+        "w": 171,
+        "h": 168
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "weakShield_5": {
+      "frame": {
+        "x": 333,
+        "y": 0,
+        "w": 168,
+        "h": 166
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 16,
+        "w": 168,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "weakShield_6": {
+      "frame": {
+        "x": 167,
+        "y": 166,
+        "w": 166,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 16,
+        "w": 166,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "weakShield_7": {
+      "frame": {
+        "x": 168,
+        "y": 0,
+        "w": 166,
+        "h": 165
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 16,
+        "w": 166,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "weakShield_8": {
+      "frame": {
+        "x": 0,
+        "y": 165,
+        "w": 167,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 16,
+        "w": 167,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "weakShield_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 168,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 15,
+        "w": 168,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "weakShield_10": {
+      "frame": {
+        "x": 343,
+        "y": 670,
+        "w": 170,
+        "h": 166
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 14,
+        "w": 170,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "weakShield_11": {
+      "frame": {
+        "x": 509,
+        "y": 668,
+        "w": 170,
+        "h": 168
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 14,
+        "w": 170,
+        "h": 168
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "weakShield_12": {
+      "frame": {
+        "x": 171,
+        "y": 828,
+        "w": 172,
+        "h": 168
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 14,
+        "w": 172,
+        "h": 168
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "weakShield_13": {
+      "frame": {
+        "x": 0,
+        "y": 828,
+        "w": 171,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 14,
+        "w": 171,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "weakShield_14": {
+      "frame": {
+        "x": 679,
+        "y": 508,
+        "w": 173,
+        "h": 169
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 14,
+        "w": 173,
+        "h": 169
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "weakShield_15": {
+      "frame": {
+        "x": 679,
+        "y": 339,
+        "w": 172,
+        "h": 169
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 15,
+        "w": 172,
+        "h": 169
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "weakShield_16": {
+      "frame": {
+        "x": 679,
+        "y": 169,
+        "w": 171,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 15,
+        "w": 171,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "weakShield_17": {
+      "frame": {
+        "x": 664,
+        "y": 0,
+        "w": 169,
+        "h": 168
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 16,
+        "w": 169,
+        "h": 168
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "weakShield_18": {
+      "frame": {
+        "x": 511,
+        "y": 500,
+        "w": 168,
+        "h": 168
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 16,
+        "w": 168,
+        "h": 168
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "weakShield_19": {
+      "frame": {
+        "x": 511,
+        "y": 334,
+        "w": 166,
+        "h": 167
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 16,
+        "w": 166,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "weakShield_20": {
+      "frame": {
+        "x": 508,
+        "y": 169,
+        "w": 168,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 15,
+        "w": 168,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "weakShield_21": {
+      "frame": {
+        "x": 339,
+        "y": 503,
+        "w": 170,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 15,
+        "w": 170,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "weakShield_22": {
+      "frame": {
+        "x": 0,
+        "y": 502,
+        "w": 171,
+        "h": 166
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 15,
+        "w": 171,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "weakShield_23": {
+      "frame": {
+        "x": 168,
+        "y": 498,
+        "w": 171,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 15,
+        "w": 171,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "weakShield_24": {
+      "frame": {
+        "x": 339,
+        "y": 334,
+        "w": 172,
+        "h": 169
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 15,
+        "w": 172,
+        "h": 169
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "weakShield_25": {
+      "frame": {
+        "x": 339,
+        "y": 169,
+        "w": 169,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 15,
+        "w": 169,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "weakShield_26": {
+      "frame": {
+        "x": 499,
+        "y": 0,
+        "w": 169,
+        "h": 165
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 15,
+        "w": 169,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "weakShield.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 852,
+      "h": 996
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

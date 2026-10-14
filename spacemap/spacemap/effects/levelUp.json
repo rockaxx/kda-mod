@@ -1,0 +1,996 @@
+{
+  "frames": {
+    "levelUp_0": {
+      "frame": {
+        "x": 1378,
+        "y": 948,
+        "w": 27,
+        "h": 40
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 117,
+        "y": 150,
+        "w": 27,
+        "h": 40
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_1": {
+      "frame": {
+        "x": 1351,
+        "y": 948,
+        "w": 27,
+        "h": 40
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 117,
+        "y": 150,
+        "w": 27,
+        "h": 40
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_2": {
+      "frame": {
+        "x": 1608,
+        "y": 992,
+        "w": 90,
+        "h": 101
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 90,
+        "y": 126,
+        "w": 90,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_3": {
+      "frame": {
+        "x": 1351,
+        "y": 809,
+        "w": 99,
+        "h": 139
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 90,
+        "y": 106,
+        "w": 99,
+        "h": 139
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_4": {
+      "frame": {
+        "x": 538,
+        "y": 801,
+        "w": 136,
+        "h": 239
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 71,
+        "y": 36,
+        "w": 136,
+        "h": 239
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_5": {
+      "frame": {
+        "x": 242,
+        "y": 242,
+        "w": 176,
+        "h": 239
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 49,
+        "y": 36,
+        "w": 176,
+        "h": 239
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_6": {
+      "frame": {
+        "x": 447,
+        "y": 0,
+        "w": 215,
+        "h": 239
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 36,
+        "w": 215,
+        "h": 239
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_7": {
+      "frame": {
+        "x": 0,
+        "y": 242,
+        "w": 225,
+        "h": 242
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 33,
+        "w": 225,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_8": {
+      "frame": {
+        "x": 222,
+        "y": 0,
+        "w": 225,
+        "h": 242
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": 33,
+        "w": 225,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 222,
+        "h": 242
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 33,
+        "w": 222,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_10": {
+      "frame": {
+        "x": 1638,
+        "y": 550,
+        "w": 222,
+        "h": 242
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 33,
+        "w": 222,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_11": {
+      "frame": {
+        "x": 1716,
+        "y": 242,
+        "w": 221,
+        "h": 242
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 33,
+        "w": 221,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_12": {
+      "frame": {
+        "x": 1716,
+        "y": 0,
+        "w": 221,
+        "h": 242
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 33,
+        "w": 221,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_13": {
+      "frame": {
+        "x": 1430,
+        "y": 1473,
+        "w": 220,
+        "h": 242
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 33,
+        "w": 220,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_14": {
+      "frame": {
+        "x": 1210,
+        "y": 1473,
+        "w": 220,
+        "h": 242
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 33,
+        "w": 220,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_15": {
+      "frame": {
+        "x": 990,
+        "y": 1473,
+        "w": 220,
+        "h": 242
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 33,
+        "w": 220,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_16": {
+      "frame": {
+        "x": 770,
+        "y": 1487,
+        "w": 220,
+        "h": 242
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 33,
+        "w": 220,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_17": {
+      "frame": {
+        "x": 550,
+        "y": 1487,
+        "w": 220,
+        "h": 242
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 33,
+        "w": 220,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_18": {
+      "frame": {
+        "x": 242,
+        "y": 1514,
+        "w": 220,
+        "h": 242
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 33,
+        "w": 220,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_19": {
+      "frame": {
+        "x": 0,
+        "y": 1514,
+        "w": 220,
+        "h": 242
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 33,
+        "w": 220,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_20": {
+      "frame": {
+        "x": 1351,
+        "y": 1225,
+        "w": 230,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 27,
+        "w": 230,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_21": {
+      "frame": {
+        "x": 1351,
+        "y": 992,
+        "w": 233,
+        "h": 257
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 18,
+        "w": 233,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_22": {
+      "frame": {
+        "x": 1450,
+        "y": 772,
+        "w": 220,
+        "h": 266
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 9,
+        "w": 220,
+        "h": 266
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_23": {
+      "frame": {
+        "x": 1363,
+        "y": 550,
+        "w": 222,
+        "h": 275
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 25,
+        "y": 0,
+        "w": 222,
+        "h": 275
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_24": {
+      "frame": {
+        "x": 550,
+        "y": 1212,
+        "w": 249,
+        "h": 275
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 0,
+        "w": 249,
+        "h": 275
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_25": {
+      "frame": {
+        "x": 1450,
+        "y": 275,
+        "w": 254,
+        "h": 275
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 0,
+        "w": 254,
+        "h": 275
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_26": {
+      "frame": {
+        "x": 1454,
+        "y": 0,
+        "w": 262,
+        "h": 275
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 0,
+        "w": 262,
+        "h": 275
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_27": {
+      "frame": {
+        "x": 1076,
+        "y": 1075,
+        "w": 266,
+        "h": 275
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 0,
+        "w": 266,
+        "h": 275
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_28": {
+      "frame": {
+        "x": 275,
+        "y": 1243,
+        "w": 266,
+        "h": 275
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 0,
+        "w": 266,
+        "h": 275
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_29": {
+      "frame": {
+        "x": 0,
+        "y": 1248,
+        "w": 266,
+        "h": 275
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 0,
+        "w": 266,
+        "h": 275
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_30": {
+      "frame": {
+        "x": 801,
+        "y": 1060,
+        "w": 266,
+        "h": 275
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 0,
+        "w": 266,
+        "h": 275
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_31": {
+      "frame": {
+        "x": 1076,
+        "y": 809,
+        "w": 266,
+        "h": 275
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 0,
+        "w": 266,
+        "h": 275
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_32": {
+      "frame": {
+        "x": 1088,
+        "y": 542,
+        "w": 267,
+        "h": 275
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 0,
+        "w": 267,
+        "h": 275
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_33": {
+      "frame": {
+        "x": 1088,
+        "y": 275,
+        "w": 267,
+        "h": 275
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 0,
+        "w": 267,
+        "h": 275
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_34": {
+      "frame": {
+        "x": 1188,
+        "y": 0,
+        "w": 266,
+        "h": 275
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 0,
+        "w": 266,
+        "h": 275
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_35": {
+      "frame": {
+        "x": 801,
+        "y": 801,
+        "w": 259,
+        "h": 275
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 0,
+        "w": 259,
+        "h": 275
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_36": {
+      "frame": {
+        "x": 538,
+        "y": 937,
+        "w": 263,
+        "h": 275
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 0,
+        "w": 263,
+        "h": 275
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_37": {
+      "frame": {
+        "x": 275,
+        "y": 968,
+        "w": 263,
+        "h": 275
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 0,
+        "w": 263,
+        "h": 275
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_38": {
+      "frame": {
+        "x": 0,
+        "y": 985,
+        "w": 263,
+        "h": 275
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 0,
+        "w": 263,
+        "h": 275
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_39": {
+      "frame": {
+        "x": 813,
+        "y": 538,
+        "w": 263,
+        "h": 275
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 0,
+        "w": 263,
+        "h": 275
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_40": {
+      "frame": {
+        "x": 813,
+        "y": 275,
+        "w": 263,
+        "h": 275
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 0,
+        "w": 263,
+        "h": 275
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_41": {
+      "frame": {
+        "x": 925,
+        "y": 0,
+        "w": 263,
+        "h": 275
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 0,
+        "w": 263,
+        "h": 275
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_42": {
+      "frame": {
+        "x": 538,
+        "y": 538,
+        "w": 263,
+        "h": 275
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 0,
+        "w": 263,
+        "h": 275
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_43": {
+      "frame": {
+        "x": 275,
+        "y": 693,
+        "w": 263,
+        "h": 275
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 0,
+        "w": 263,
+        "h": 275
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_44": {
+      "frame": {
+        "x": 0,
+        "y": 722,
+        "w": 263,
+        "h": 275
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 0,
+        "w": 263,
+        "h": 275
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_45": {
+      "frame": {
+        "x": 538,
+        "y": 275,
+        "w": 263,
+        "h": 275
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 0,
+        "w": 263,
+        "h": 275
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_46": {
+      "frame": {
+        "x": 662,
+        "y": 0,
+        "w": 263,
+        "h": 275
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 0,
+        "w": 263,
+        "h": 275
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_47": {
+      "frame": {
+        "x": 275,
+        "y": 418,
+        "w": 263,
+        "h": 275
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 0,
+        "w": 263,
+        "h": 275
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    },
+    "levelUp_48": {
+      "frame": {
+        "x": 0,
+        "y": 467,
+        "w": 255,
+        "h": 275
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 0,
+        "w": 255,
+        "h": 275
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 275
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "levelUp.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1937,
+      "h": 1734
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

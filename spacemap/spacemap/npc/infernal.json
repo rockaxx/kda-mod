@@ -1,0 +1,676 @@
+{
+  "frames": {
+    "infernal_0": {
+      "frame": {
+        "x": 0,
+        "y": 283,
+        "w": 58,
+        "h": 40
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 40,
+        "w": 58,
+        "h": 40
+      },
+      "sourceSize": {
+        "w": 135,
+        "h": 120
+      }
+    },
+    "infernal_1": {
+      "frame": {
+        "x": 279,
+        "y": 178,
+        "w": 59,
+        "h": 42
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33,
+        "y": 39,
+        "w": 59,
+        "h": 42
+      },
+      "sourceSize": {
+        "w": 135,
+        "h": 120
+      }
+    },
+    "infernal_2": {
+      "frame": {
+        "x": 236,
+        "y": 161,
+        "w": 55,
+        "h": 41
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 40,
+        "w": 55,
+        "h": 41
+      },
+      "sourceSize": {
+        "w": 135,
+        "h": 120
+      }
+    },
+    "infernal_3": {
+      "frame": {
+        "x": 143,
+        "y": 0,
+        "w": 58,
+        "h": 41
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30,
+        "y": 40,
+        "w": 58,
+        "h": 41
+      },
+      "sourceSize": {
+        "w": 135,
+        "h": 120
+      }
+    },
+    "infernal_4": {
+      "frame": {
+        "x": 0,
+        "y": 102,
+        "w": 60,
+        "h": 41
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30,
+        "y": 39,
+        "w": 60,
+        "h": 41
+      },
+      "sourceSize": {
+        "w": 135,
+        "h": 120
+      }
+    },
+    "infernal_5": {
+      "frame": {
+        "x": 54,
+        "y": 59,
+        "w": 61,
+        "h": 41
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 38,
+        "w": 61,
+        "h": 41
+      },
+      "sourceSize": {
+        "w": 135,
+        "h": 120
+      }
+    },
+    "infernal_6": {
+      "frame": {
+        "x": 99,
+        "y": 0,
+        "w": 59,
+        "h": 44
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 34,
+        "y": 37,
+        "w": 59,
+        "h": 44
+      },
+      "sourceSize": {
+        "w": 135,
+        "h": 120
+      }
+    },
+    "infernal_7": {
+      "frame": {
+        "x": 0,
+        "y": 53,
+        "w": 54,
+        "h": 49
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 37,
+        "w": 54,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 135,
+        "h": 120
+      }
+    },
+    "infernal_8": {
+      "frame": {
+        "x": 52,
+        "y": 0,
+        "w": 47,
+        "h": 51
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 43,
+        "y": 38,
+        "w": 47,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 135,
+        "h": 120
+      }
+    },
+    "infernal_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 52,
+        "h": 53
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 39,
+        "w": 52,
+        "h": 53
+      },
+      "sourceSize": {
+        "w": 135,
+        "h": 120
+      }
+    },
+    "infernal_10": {
+      "frame": {
+        "x": 277,
+        "y": 120,
+        "w": 58,
+        "h": 54
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 34,
+        "y": 39,
+        "w": 58,
+        "h": 54
+      },
+      "sourceSize": {
+        "w": 135,
+        "h": 120
+      }
+    },
+    "infernal_11": {
+      "frame": {
+        "x": 279,
+        "y": 60,
+        "w": 60,
+        "h": 53
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 41,
+        "w": 60,
+        "h": 53
+      },
+      "sourceSize": {
+        "w": 135,
+        "h": 120
+      }
+    },
+    "infernal_12": {
+      "frame": {
+        "x": 280,
+        "y": 0,
+        "w": 60,
+        "h": 52
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30,
+        "y": 42,
+        "w": 60,
+        "h": 52
+      },
+      "sourceSize": {
+        "w": 135,
+        "h": 120
+      }
+    },
+    "infernal_13": {
+      "frame": {
+        "x": 182,
+        "y": 221,
+        "w": 58,
+        "h": 50
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30,
+        "y": 43,
+        "w": 58,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 135,
+        "h": 120
+      }
+    },
+    "infernal_14": {
+      "frame": {
+        "x": 114,
+        "y": 235,
+        "w": 55,
+        "h": 48
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 44,
+        "w": 55,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 135,
+        "h": 120
+      }
+    },
+    "infernal_15": {
+      "frame": {
+        "x": 51,
+        "y": 184,
+        "w": 59,
+        "h": 44
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33,
+        "y": 45,
+        "w": 59,
+        "h": 44
+      },
+      "sourceSize": {
+        "w": 135,
+        "h": 120
+      }
+    },
+    "infernal_16": {
+      "frame": {
+        "x": 240,
+        "y": 53,
+        "w": 58,
+        "h": 38
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 46,
+        "w": 58,
+        "h": 38
+      },
+      "sourceSize": {
+        "w": 135,
+        "h": 120
+      }
+    },
+    "infernal_17": {
+      "frame": {
+        "x": 236,
+        "y": 216,
+        "w": 58,
+        "h": 43
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 43,
+        "y": 45,
+        "w": 58,
+        "h": 43
+      },
+      "sourceSize": {
+        "w": 135,
+        "h": 120
+      }
+    },
+    "infernal_18": {
+      "frame": {
+        "x": 59,
+        "y": 235,
+        "w": 55,
+        "h": 48
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 48,
+        "y": 44,
+        "w": 55,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 135,
+        "h": 120
+      }
+    },
+    "infernal_19": {
+      "frame": {
+        "x": 0,
+        "y": 231,
+        "w": 59,
+        "h": 51
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 46,
+        "y": 43,
+        "w": 59,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 135,
+        "h": 120
+      }
+    },
+    "infernal_20": {
+      "frame": {
+        "x": 121,
+        "y": 183,
+        "w": 61,
+        "h": 52
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 44,
+        "y": 42,
+        "w": 61,
+        "h": 52
+      },
+      "sourceSize": {
+        "w": 135,
+        "h": 120
+      }
+    },
+    "infernal_21": {
+      "frame": {
+        "x": 182,
+        "y": 161,
+        "w": 60,
+        "h": 54
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 43,
+        "y": 41,
+        "w": 60,
+        "h": 54
+      },
+      "sourceSize": {
+        "w": 135,
+        "h": 120
+      }
+    },
+    "infernal_22": {
+      "frame": {
+        "x": 182,
+        "y": 106,
+        "w": 58,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 39,
+        "w": 58,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 135,
+        "h": 120
+      }
+    },
+    "infernal_23": {
+      "frame": {
+        "x": 228,
+        "y": 0,
+        "w": 53,
+        "h": 52
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 43,
+        "y": 39,
+        "w": 53,
+        "h": 52
+      },
+      "sourceSize": {
+        "w": 135,
+        "h": 120
+      }
+    },
+    "infernal_24": {
+      "frame": {
+        "x": 0,
+        "y": 184,
+        "w": 47,
+        "h": 51
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 44,
+        "y": 38,
+        "w": 47,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 135,
+        "h": 120
+      }
+    },
+    "infernal_25": {
+      "frame": {
+        "x": 173,
+        "y": 58,
+        "w": 53,
+        "h": 48
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 43,
+        "y": 37,
+        "w": 53,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 135,
+        "h": 120
+      }
+    },
+    "infernal_26": {
+      "frame": {
+        "x": 184,
+        "y": 0,
+        "w": 58,
+        "h": 44
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 37,
+        "w": 58,
+        "h": 44
+      },
+      "sourceSize": {
+        "w": 135,
+        "h": 120
+      }
+    },
+    "infernal_27": {
+      "frame": {
+        "x": 121,
+        "y": 142,
+        "w": 61,
+        "h": 41
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 38,
+        "w": 61,
+        "h": 41
+      },
+      "sourceSize": {
+        "w": 135,
+        "h": 120
+      }
+    },
+    "infernal_28": {
+      "frame": {
+        "x": 60,
+        "y": 142,
+        "w": 61,
+        "h": 42
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 44,
+        "y": 39,
+        "w": 61,
+        "h": 42
+      },
+      "sourceSize": {
+        "w": 135,
+        "h": 120
+      }
+    },
+    "infernal_29": {
+      "frame": {
+        "x": 0,
+        "y": 143,
+        "w": 59,
+        "h": 41
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 46,
+        "y": 40,
+        "w": 59,
+        "h": 41
+      },
+      "sourceSize": {
+        "w": 135,
+        "h": 120
+      }
+    },
+    "infernal_30": {
+      "frame": {
+        "x": 118,
+        "y": 100,
+        "w": 55,
+        "h": 42
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 48,
+        "y": 40,
+        "w": 55,
+        "h": 42
+      },
+      "sourceSize": {
+        "w": 135,
+        "h": 120
+      }
+    },
+    "infernal_31": {
+      "frame": {
+        "x": 115,
+        "y": 59,
+        "w": 58,
+        "h": 41
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 43,
+        "y": 40,
+        "w": 58,
+        "h": 41
+      },
+      "sourceSize": {
+        "w": 135,
+        "h": 120
+      }
+    },
+    "infernal_32": {
+      "frame": {
+        "x": 60,
+        "y": 100,
+        "w": 58,
+        "h": 40
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 40,
+        "w": 58,
+        "h": 40
+      },
+      "sourceSize": {
+        "w": 135,
+        "h": 120
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "infernal.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 332,
+      "h": 323
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

@@ -1,0 +1,1296 @@
+{
+  "frames": {
+    "aegis_pod_gold_0": {
+      "frame": {
+        "x": 502,
+        "y": 257,
+        "w": 28,
+        "h": 68
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 80,
+        "y": 19,
+        "w": 28,
+        "h": 68
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_1": {
+      "frame": {
+        "x": 502,
+        "y": 185,
+        "w": 28,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 79,
+        "y": 19,
+        "w": 28,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_2": {
+      "frame": {
+        "x": 265,
+        "y": 373,
+        "w": 29,
+        "h": 74
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 19,
+        "w": 29,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_3": {
+      "frame": {
+        "x": 259,
+        "y": 343,
+        "w": 30,
+        "h": 76
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 77,
+        "y": 19,
+        "w": 30,
+        "h": 76
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_4": {
+      "frame": {
+        "x": 122,
+        "y": 303,
+        "w": 30,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 75,
+        "y": 19,
+        "w": 30,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_5": {
+      "frame": {
+        "x": 0,
+        "y": 232,
+        "w": 33,
+        "h": 81
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 72,
+        "y": 18,
+        "w": 33,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_6": {
+      "frame": {
+        "x": 0,
+        "y": 116,
+        "w": 34,
+        "h": 82
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 70,
+        "y": 18,
+        "w": 34,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_7": {
+      "frame": {
+        "x": 76,
+        "y": 0,
+        "w": 36,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 68,
+        "y": 17,
+        "w": 36,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_8": {
+      "frame": {
+        "x": 39,
+        "y": 0,
+        "w": 37,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 66,
+        "y": 17,
+        "w": 37,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 88
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 64,
+        "y": 16,
+        "w": 39,
+        "h": 88
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_10": {
+      "frame": {
+        "x": 502,
+        "y": 96,
+        "w": 39,
+        "h": 89
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 63,
+        "y": 17,
+        "w": 39,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_11": {
+      "frame": {
+        "x": 502,
+        "y": 0,
+        "w": 41,
+        "h": 96
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 61,
+        "y": 16,
+        "w": 41,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_12": {
+      "frame": {
+        "x": 458,
+        "y": 346,
+        "w": 41,
+        "h": 98
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 60,
+        "y": 16,
+        "w": 41,
+        "h": 98
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_13": {
+      "frame": {
+        "x": 323,
+        "y": 489,
+        "w": 43,
+        "h": 101
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 58,
+        "y": 15,
+        "w": 43,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_14": {
+      "frame": {
+        "x": 458,
+        "y": 247,
+        "w": 44,
+        "h": 99
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 57,
+        "y": 15,
+        "w": 44,
+        "h": 99
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_15": {
+      "frame": {
+        "x": 217,
+        "y": 490,
+        "w": 45,
+        "h": 106
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 56,
+        "y": 15,
+        "w": 45,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_16": {
+      "frame": {
+        "x": 112,
+        "y": 491,
+        "w": 45,
+        "h": 105
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 56,
+        "y": 15,
+        "w": 45,
+        "h": 105
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_17": {
+      "frame": {
+        "x": 0,
+        "y": 491,
+        "w": 45,
+        "h": 112
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 56,
+        "y": 14,
+        "w": 45,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_18": {
+      "frame": {
+        "x": 374,
+        "y": 444,
+        "w": 45,
+        "h": 113
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 56,
+        "y": 15,
+        "w": 45,
+        "h": 113
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_19": {
+      "frame": {
+        "x": 457,
+        "y": 131,
+        "w": 45,
+        "h": 116
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 56,
+        "y": 14,
+        "w": 45,
+        "h": 116
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_20": {
+      "frame": {
+        "x": 458,
+        "y": 0,
+        "w": 44,
+        "h": 119
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 57,
+        "y": 14,
+        "w": 44,
+        "h": 119
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_21": {
+      "frame": {
+        "x": 252,
+        "y": 444,
+        "w": 44,
+        "h": 122
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 58,
+        "y": 13,
+        "w": 44,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_22": {
+      "frame": {
+        "x": 127,
+        "y": 447,
+        "w": 43,
+        "h": 125
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 59,
+        "y": 13,
+        "w": 43,
+        "h": 125
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_23": {
+      "frame": {
+        "x": 0,
+        "y": 447,
+        "w": 44,
+        "h": 127
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 60,
+        "y": 13,
+        "w": 44,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_24": {
+      "frame": {
+        "x": 416,
+        "y": 265,
+        "w": 42,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 62,
+        "y": 14,
+        "w": 42,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_25": {
+      "frame": {
+        "x": 416,
+        "y": 135,
+        "w": 41,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 64,
+        "y": 13,
+        "w": 41,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_26": {
+      "frame": {
+        "x": 419,
+        "y": 0,
+        "w": 39,
+        "h": 131
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 66,
+        "y": 13,
+        "w": 39,
+        "h": 131
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_27": {
+      "frame": {
+        "x": 266,
+        "y": 406,
+        "w": 38,
+        "h": 133
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 68,
+        "y": 12,
+        "w": 38,
+        "h": 133
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_28": {
+      "frame": {
+        "x": 136,
+        "y": 408,
+        "w": 36,
+        "h": 130
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 70,
+        "y": 13,
+        "w": 36,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_29": {
+      "frame": {
+        "x": 0,
+        "y": 414,
+        "w": 33,
+        "h": 136
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 73,
+        "y": 12,
+        "w": 33,
+        "h": 136
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_30": {
+      "frame": {
+        "x": 383,
+        "y": 271,
+        "w": 32,
+        "h": 135
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 75,
+        "y": 13,
+        "w": 32,
+        "h": 135
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_31": {
+      "frame": {
+        "x": 387,
+        "y": 135,
+        "w": 29,
+        "h": 136
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 12,
+        "w": 29,
+        "h": 136
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_32": {
+      "frame": {
+        "x": 390,
+        "y": 0,
+        "w": 29,
+        "h": 135
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 80,
+        "y": 13,
+        "w": 29,
+        "h": 135
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_33": {
+      "frame": {
+        "x": 130,
+        "y": 378,
+        "w": 30,
+        "h": 135
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 80,
+        "y": 13,
+        "w": 30,
+        "h": 135
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_34": {
+      "frame": {
+        "x": 0,
+        "y": 384,
+        "w": 30,
+        "h": 130
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 81,
+        "y": 13,
+        "w": 30,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_35": {
+      "frame": {
+        "x": 129,
+        "y": 343,
+        "w": 31,
+        "h": 130
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 82,
+        "y": 13,
+        "w": 31,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_36": {
+      "frame": {
+        "x": 351,
+        "y": 251,
+        "w": 32,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 83,
+        "y": 14,
+        "w": 32,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_37": {
+      "frame": {
+        "x": 0,
+        "y": 349,
+        "w": 35,
+        "h": 129
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 83,
+        "y": 15,
+        "w": 35,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_38": {
+      "frame": {
+        "x": 351,
+        "y": 127,
+        "w": 36,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 84,
+        "y": 15,
+        "w": 36,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_39": {
+      "frame": {
+        "x": 351,
+        "y": 0,
+        "w": 39,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 84,
+        "y": 14,
+        "w": 39,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_40": {
+      "frame": {
+        "x": 0,
+        "y": 309,
+        "w": 40,
+        "h": 122
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 85,
+        "y": 14,
+        "w": 40,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_41": {
+      "frame": {
+        "x": 227,
+        "y": 301,
+        "w": 42,
+        "h": 124
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 85,
+        "y": 14,
+        "w": 42,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_42": {
+      "frame": {
+        "x": 227,
+        "y": 259,
+        "w": 42,
+        "h": 121
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 86,
+        "y": 14,
+        "w": 42,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_43": {
+      "frame": {
+        "x": 304,
+        "y": 116,
+        "w": 44,
+        "h": 119
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 86,
+        "y": 14,
+        "w": 44,
+        "h": 119
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_44": {
+      "frame": {
+        "x": 307,
+        "y": 0,
+        "w": 44,
+        "h": 116
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 86,
+        "y": 15,
+        "w": 44,
+        "h": 116
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_45": {
+      "frame": {
+        "x": 113,
+        "y": 259,
+        "w": 44,
+        "h": 114
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 87,
+        "y": 15,
+        "w": 44,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_46": {
+      "frame": {
+        "x": 0,
+        "y": 265,
+        "w": 44,
+        "h": 113
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 87,
+        "y": 14,
+        "w": 44,
+        "h": 113
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_47": {
+      "frame": {
+        "x": 193,
+        "y": 214,
+        "w": 45,
+        "h": 110
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 87,
+        "y": 15,
+        "w": 45,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_48": {
+      "frame": {
+        "x": 259,
+        "y": 106,
+        "w": 45,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 87,
+        "y": 15,
+        "w": 45,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_49": {
+      "frame": {
+        "x": 262,
+        "y": 0,
+        "w": 45,
+        "h": 106
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 87,
+        "y": 15,
+        "w": 45,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_50": {
+      "frame": {
+        "x": 215,
+        "y": 100,
+        "w": 44,
+        "h": 101
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 87,
+        "y": 16,
+        "w": 44,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_51": {
+      "frame": {
+        "x": 218,
+        "y": 0,
+        "w": 44,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 87,
+        "y": 16,
+        "w": 44,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_52": {
+      "frame": {
+        "x": 96,
+        "y": 189,
+        "w": 43,
+        "h": 97
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 87,
+        "y": 17,
+        "w": 43,
+        "h": 97
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_53": {
+      "frame": {
+        "x": 0,
+        "y": 189,
+        "w": 43,
+        "h": 96
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 86,
+        "y": 16,
+        "w": 43,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_54": {
+      "frame": {
+        "x": 174,
+        "y": 91,
+        "w": 41,
+        "h": 92
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 86,
+        "y": 17,
+        "w": 41,
+        "h": 92
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_55": {
+      "frame": {
+        "x": 178,
+        "y": 0,
+        "w": 40,
+        "h": 91
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 86,
+        "y": 17,
+        "w": 40,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_56": {
+      "frame": {
+        "x": 87,
+        "y": 150,
+        "w": 39,
+        "h": 87
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 85,
+        "y": 18,
+        "w": 39,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_57": {
+      "frame": {
+        "x": 0,
+        "y": 150,
+        "w": 39,
+        "h": 87
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 84,
+        "y": 17,
+        "w": 39,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_58": {
+      "frame": {
+        "x": 82,
+        "y": 114,
+        "w": 36,
+        "h": 81
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 84,
+        "y": 18,
+        "w": 36,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_59": {
+      "frame": {
+        "x": 141,
+        "y": 0,
+        "w": 37,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 82,
+        "y": 18,
+        "w": 37,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_60": {
+      "frame": {
+        "x": 112,
+        "y": 40,
+        "w": 28,
+        "h": 40
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 82,
+        "y": 18,
+        "w": 28,
+        "h": 40
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_61": {
+      "frame": {
+        "x": 112,
+        "y": 0,
+        "w": 29,
+        "h": 40
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 81,
+        "y": 18,
+        "w": 29,
+        "h": 40
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_62": {
+      "frame": {
+        "x": 69,
+        "y": 86,
+        "w": 28,
+        "h": 40
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 81,
+        "y": 18,
+        "w": 28,
+        "h": 40
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    },
+    "aegis_pod_gold_63": {
+      "frame": {
+        "x": 0,
+        "y": 88,
+        "w": 28,
+        "h": 69
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 81,
+        "y": 18,
+        "w": 28,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 166
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "aegis_pod_gold.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 543,
+      "h": 536
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

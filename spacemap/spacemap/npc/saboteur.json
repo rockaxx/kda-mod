@@ -1,0 +1,676 @@
+{
+  "frames": {
+    "saboteur_0": {
+      "frame": {
+        "x": 0,
+        "y": 434,
+        "w": 52,
+        "h": 94
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 37,
+        "y": 14,
+        "w": 52,
+        "h": 94
+      },
+      "sourceSize": {
+        "w": 131,
+        "h": 116
+      }
+    },
+    "saboteur_1": {
+      "frame": {
+        "x": 433,
+        "y": 268,
+        "w": 53,
+        "h": 92
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 15,
+        "w": 53,
+        "h": 92
+      },
+      "sourceSize": {
+        "w": 131,
+        "h": 116
+      }
+    },
+    "saboteur_2": {
+      "frame": {
+        "x": 316,
+        "y": 190,
+        "w": 55,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 17,
+        "w": 55,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 131,
+        "h": 116
+      }
+    },
+    "saboteur_3": {
+      "frame": {
+        "x": 0,
+        "y": 240,
+        "w": 70,
+        "h": 82
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30,
+        "y": 19,
+        "w": 70,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 131,
+        "h": 116
+      }
+    },
+    "saboteur_4": {
+      "frame": {
+        "x": 169,
+        "y": 0,
+        "w": 85,
+        "h": 74
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 23,
+        "w": 85,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 131,
+        "h": 116
+      }
+    },
+    "saboteur_5": {
+      "frame": {
+        "x": 0,
+        "y": 123,
+        "w": 96,
+        "h": 65
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 29,
+        "w": 96,
+        "h": 65
+      },
+      "sourceSize": {
+        "w": 131,
+        "h": 116
+      }
+    },
+    "saboteur_6": {
+      "frame": {
+        "x": 113,
+        "y": 0,
+        "w": 105,
+        "h": 56
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 35,
+        "w": 105,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 131,
+        "h": 116
+      }
+    },
+    "saboteur_7": {
+      "frame": {
+        "x": 0,
+        "y": 77,
+        "w": 110,
+        "h": 46
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 41,
+        "w": 110,
+        "h": 46
+      },
+      "sourceSize": {
+        "w": 131,
+        "h": 116
+      }
+    },
+    "saboteur_8": {
+      "frame": {
+        "x": 0,
+        "y": 40,
+        "w": 113,
+        "h": 37
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 47,
+        "w": 113,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 131,
+        "h": 116
+      }
+    },
+    "saboteur_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 40
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 45,
+        "w": 111,
+        "h": 40
+      },
+      "sourceSize": {
+        "w": 131,
+        "h": 116
+      }
+    },
+    "saboteur_10": {
+      "frame": {
+        "x": 433,
+        "y": 163,
+        "w": 105,
+        "h": 51
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 39,
+        "w": 105,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 131,
+        "h": 116
+      }
+    },
+    "saboteur_11": {
+      "frame": {
+        "x": 371,
+        "y": 177,
+        "w": 96,
+        "h": 62
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 34,
+        "w": 96,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 131,
+        "h": 116
+      }
+    },
+    "saboteur_12": {
+      "frame": {
+        "x": 416,
+        "y": 90,
+        "w": 84,
+        "h": 73
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 29,
+        "w": 84,
+        "h": 73
+      },
+      "sourceSize": {
+        "w": 131,
+        "h": 116
+      }
+    },
+    "saboteur_13": {
+      "frame": {
+        "x": 351,
+        "y": 277,
+        "w": 71,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 25,
+        "y": 25,
+        "w": 71,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 131,
+        "h": 116
+      }
+    },
+    "saboteur_14": {
+      "frame": {
+        "x": 354,
+        "y": 90,
+        "w": 62,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 21,
+        "w": 62,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 131,
+        "h": 116
+      }
+    },
+    "saboteur_15": {
+      "frame": {
+        "x": 371,
+        "y": 0,
+        "w": 53,
+        "h": 90
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 41,
+        "y": 20,
+        "w": 53,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 131,
+        "h": 116
+      }
+    },
+    "saboteur_16": {
+      "frame": {
+        "x": 331,
+        "y": 382,
+        "w": 52,
+        "h": 90
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 19,
+        "w": 52,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 131,
+        "h": 116
+      }
+    },
+    "saboteur_17": {
+      "frame": {
+        "x": 240,
+        "y": 382,
+        "w": 51,
+        "h": 91
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 41,
+        "y": 19,
+        "w": 51,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 131,
+        "h": 116
+      }
+    },
+    "saboteur_18": {
+      "frame": {
+        "x": 182,
+        "y": 310,
+        "w": 58,
+        "h": 89
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 20,
+        "w": 58,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 131,
+        "h": 116
+      }
+    },
+    "saboteur_19": {
+      "frame": {
+        "x": 96,
+        "y": 363,
+        "w": 69,
+        "h": 86
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 21,
+        "w": 69,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 131,
+        "h": 116
+      }
+    },
+    "saboteur_20": {
+      "frame": {
+        "x": 267,
+        "y": 303,
+        "w": 84,
+        "h": 79
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": 23,
+        "w": 84,
+        "h": 79
+      },
+      "sourceSize": {
+        "w": 131,
+        "h": 116
+      }
+    },
+    "saboteur_21": {
+      "frame": {
+        "x": 0,
+        "y": 363,
+        "w": 96,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 26,
+        "w": 96,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 131,
+        "h": 116
+      }
+    },
+    "saboteur_22": {
+      "frame": {
+        "x": 292,
+        "y": 85,
+        "w": 105,
+        "h": 62
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 29,
+        "w": 105,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 131,
+        "h": 116
+      }
+    },
+    "saboteur_23": {
+      "frame": {
+        "x": 0,
+        "y": 310,
+        "w": 112,
+        "h": 53
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 34,
+        "w": 112,
+        "h": 53
+      },
+      "sourceSize": {
+        "w": 131,
+        "h": 116
+      }
+    },
+    "saboteur_24": {
+      "frame": {
+        "x": 267,
+        "y": 190,
+        "w": 113,
+        "h": 49
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 38,
+        "w": 113,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 131,
+        "h": 116
+      }
+    },
+    "saboteur_25": {
+      "frame": {
+        "x": 156,
+        "y": 262,
+        "w": 111,
+        "h": 48
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 41,
+        "w": 111,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 131,
+        "h": 116
+      }
+    },
+    "saboteur_26": {
+      "frame": {
+        "x": 237,
+        "y": 85,
+        "w": 105,
+        "h": 55
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 35,
+        "w": 105,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 131,
+        "h": 116
+      }
+    },
+    "saboteur_27": {
+      "frame": {
+        "x": 94,
+        "y": 194,
+        "w": 97,
+        "h": 62
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 29,
+        "w": 97,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 131,
+        "h": 116
+      }
+    },
+    "saboteur_28": {
+      "frame": {
+        "x": 243,
+        "y": 0,
+        "w": 85,
+        "h": 73
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 24,
+        "w": 85,
+        "h": 73
+      },
+      "sourceSize": {
+        "w": 131,
+        "h": 116
+      }
+    },
+    "saboteur_29": {
+      "frame": {
+        "x": 166,
+        "y": 179,
+        "w": 71,
+        "h": 83
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 19,
+        "w": 71,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 131,
+        "h": 116
+      }
+    },
+    "saboteur_30": {
+      "frame": {
+        "x": 110,
+        "y": 105,
+        "w": 56,
+        "h": 89
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 16,
+        "w": 56,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 131,
+        "h": 116
+      }
+    },
+    "saboteur_31": {
+      "frame": {
+        "x": 0,
+        "y": 188,
+        "w": 52,
+        "h": 94
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 37,
+        "y": 14,
+        "w": 52,
+        "h": 94
+      },
+      "sourceSize": {
+        "w": 131,
+        "h": 116
+      }
+    },
+    "saboteur_32": {
+      "frame": {
+        "x": 169,
+        "y": 85,
+        "w": 52,
+        "h": 94
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 37,
+        "y": 14,
+        "w": 52,
+        "h": 94
+      },
+      "sourceSize": {
+        "w": 131,
+        "h": 116
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "saboteur.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 500,
+      "h": 486
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

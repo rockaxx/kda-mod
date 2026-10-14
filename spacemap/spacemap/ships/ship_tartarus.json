@@ -1,0 +1,1295 @@
+{
+  "frames": {
+    "ship_tartarus_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_1": {
+      "frame": {
+        "x": 260,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_2": {
+      "frame": {
+        "x": 520,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_3": {
+      "frame": {
+        "x": 780,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_4": {
+      "frame": {
+        "x": 1040,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_5": {
+      "frame": {
+        "x": 1300,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_6": {
+      "frame": {
+        "x": 1560,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_7": {
+      "frame": {
+        "x": 1820,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_8": {
+      "frame": {
+        "x": 0,
+        "y": 208,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_9": {
+      "frame": {
+        "x": 260,
+        "y": 208,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_10": {
+      "frame": {
+        "x": 520,
+        "y": 208,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_11": {
+      "frame": {
+        "x": 780,
+        "y": 208,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_12": {
+      "frame": {
+        "x": 1040,
+        "y": 208,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_13": {
+      "frame": {
+        "x": 1300,
+        "y": 208,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_14": {
+      "frame": {
+        "x": 1560,
+        "y": 208,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_15": {
+      "frame": {
+        "x": 1820,
+        "y": 208,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_16": {
+      "frame": {
+        "x": 0,
+        "y": 416,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_17": {
+      "frame": {
+        "x": 260,
+        "y": 416,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_18": {
+      "frame": {
+        "x": 520,
+        "y": 416,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_19": {
+      "frame": {
+        "x": 780,
+        "y": 416,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_20": {
+      "frame": {
+        "x": 1040,
+        "y": 416,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_21": {
+      "frame": {
+        "x": 1300,
+        "y": 416,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_22": {
+      "frame": {
+        "x": 1560,
+        "y": 416,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_23": {
+      "frame": {
+        "x": 1820,
+        "y": 416,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_24": {
+      "frame": {
+        "x": 0,
+        "y": 624,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_25": {
+      "frame": {
+        "x": 260,
+        "y": 624,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_26": {
+      "frame": {
+        "x": 520,
+        "y": 624,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_27": {
+      "frame": {
+        "x": 780,
+        "y": 624,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_28": {
+      "frame": {
+        "x": 1040,
+        "y": 624,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_29": {
+      "frame": {
+        "x": 1300,
+        "y": 624,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_30": {
+      "frame": {
+        "x": 1560,
+        "y": 624,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_31": {
+      "frame": {
+        "x": 1820,
+        "y": 624,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_32": {
+      "frame": {
+        "x": 0,
+        "y": 832,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_33": {
+      "frame": {
+        "x": 260,
+        "y": 832,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_34": {
+      "frame": {
+        "x": 520,
+        "y": 832,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_35": {
+      "frame": {
+        "x": 780,
+        "y": 832,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_36": {
+      "frame": {
+        "x": 1040,
+        "y": 832,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_37": {
+      "frame": {
+        "x": 1300,
+        "y": 832,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_38": {
+      "frame": {
+        "x": 1560,
+        "y": 832,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_39": {
+      "frame": {
+        "x": 1820,
+        "y": 832,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_40": {
+      "frame": {
+        "x": 0,
+        "y": 1040,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_41": {
+      "frame": {
+        "x": 260,
+        "y": 1040,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_42": {
+      "frame": {
+        "x": 520,
+        "y": 1040,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_43": {
+      "frame": {
+        "x": 780,
+        "y": 1040,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_44": {
+      "frame": {
+        "x": 1040,
+        "y": 1040,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_45": {
+      "frame": {
+        "x": 1300,
+        "y": 1040,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_46": {
+      "frame": {
+        "x": 1560,
+        "y": 1040,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_47": {
+      "frame": {
+        "x": 1820,
+        "y": 1040,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_48": {
+      "frame": {
+        "x": 0,
+        "y": 1248,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_49": {
+      "frame": {
+        "x": 260,
+        "y": 1248,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_50": {
+      "frame": {
+        "x": 520,
+        "y": 1248,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_51": {
+      "frame": {
+        "x": 780,
+        "y": 1248,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_52": {
+      "frame": {
+        "x": 1040,
+        "y": 1248,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_53": {
+      "frame": {
+        "x": 1300,
+        "y": 1248,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_54": {
+      "frame": {
+        "x": 1560,
+        "y": 1248,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_55": {
+      "frame": {
+        "x": 1820,
+        "y": 1248,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_56": {
+      "frame": {
+        "x": 0,
+        "y": 1456,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_57": {
+      "frame": {
+        "x": 260,
+        "y": 1456,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_58": {
+      "frame": {
+        "x": 520,
+        "y": 1456,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_59": {
+      "frame": {
+        "x": 780,
+        "y": 1456,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_60": {
+      "frame": {
+        "x": 1040,
+        "y": 1456,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_61": {
+      "frame": {
+        "x": 1300,
+        "y": 1456,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_62": {
+      "frame": {
+        "x": 1560,
+        "y": 1456,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    },
+    "ship_tartarus_63": {
+      "frame": {
+        "x": 1820,
+        "y": 1456,
+        "w": 260,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 208
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Atlas Generator v2",
+    "version": "1.0",
+    "image": "ship_tartarus.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2080,
+      "h": 1664
+    },
+    "scale": 1
+  }
+}

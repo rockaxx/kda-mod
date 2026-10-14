@@ -1,0 +1,1295 @@
+{
+  "frames": {
+    "aegis-frost_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_1": {
+      "frame": {
+        "x": 187,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_2": {
+      "frame": {
+        "x": 374,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_3": {
+      "frame": {
+        "x": 561,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_4": {
+      "frame": {
+        "x": 748,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_5": {
+      "frame": {
+        "x": 935,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_6": {
+      "frame": {
+        "x": 1122,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_7": {
+      "frame": {
+        "x": 1309,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_8": {
+      "frame": {
+        "x": 0,
+        "y": 166,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_9": {
+      "frame": {
+        "x": 187,
+        "y": 166,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_10": {
+      "frame": {
+        "x": 374,
+        "y": 166,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_11": {
+      "frame": {
+        "x": 561,
+        "y": 166,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_12": {
+      "frame": {
+        "x": 748,
+        "y": 166,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_13": {
+      "frame": {
+        "x": 935,
+        "y": 166,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_14": {
+      "frame": {
+        "x": 1122,
+        "y": 166,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_15": {
+      "frame": {
+        "x": 1309,
+        "y": 166,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_16": {
+      "frame": {
+        "x": 0,
+        "y": 332,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_17": {
+      "frame": {
+        "x": 187,
+        "y": 332,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_18": {
+      "frame": {
+        "x": 374,
+        "y": 332,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_19": {
+      "frame": {
+        "x": 561,
+        "y": 332,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_20": {
+      "frame": {
+        "x": 748,
+        "y": 332,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_21": {
+      "frame": {
+        "x": 935,
+        "y": 332,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_22": {
+      "frame": {
+        "x": 1122,
+        "y": 332,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_23": {
+      "frame": {
+        "x": 1309,
+        "y": 332,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_24": {
+      "frame": {
+        "x": 0,
+        "y": 498,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_25": {
+      "frame": {
+        "x": 187,
+        "y": 498,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_26": {
+      "frame": {
+        "x": 374,
+        "y": 498,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_27": {
+      "frame": {
+        "x": 561,
+        "y": 498,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_28": {
+      "frame": {
+        "x": 748,
+        "y": 498,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_29": {
+      "frame": {
+        "x": 935,
+        "y": 498,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_30": {
+      "frame": {
+        "x": 1122,
+        "y": 498,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_31": {
+      "frame": {
+        "x": 1309,
+        "y": 498,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_32": {
+      "frame": {
+        "x": 0,
+        "y": 664,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_33": {
+      "frame": {
+        "x": 187,
+        "y": 664,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_34": {
+      "frame": {
+        "x": 374,
+        "y": 664,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_35": {
+      "frame": {
+        "x": 561,
+        "y": 664,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_36": {
+      "frame": {
+        "x": 748,
+        "y": 664,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_37": {
+      "frame": {
+        "x": 935,
+        "y": 664,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_38": {
+      "frame": {
+        "x": 1122,
+        "y": 664,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_39": {
+      "frame": {
+        "x": 1309,
+        "y": 664,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_40": {
+      "frame": {
+        "x": 0,
+        "y": 830,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_41": {
+      "frame": {
+        "x": 187,
+        "y": 830,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_42": {
+      "frame": {
+        "x": 374,
+        "y": 830,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_43": {
+      "frame": {
+        "x": 561,
+        "y": 830,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_44": {
+      "frame": {
+        "x": 748,
+        "y": 830,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_45": {
+      "frame": {
+        "x": 935,
+        "y": 830,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_46": {
+      "frame": {
+        "x": 1122,
+        "y": 830,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_47": {
+      "frame": {
+        "x": 1309,
+        "y": 830,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_48": {
+      "frame": {
+        "x": 0,
+        "y": 996,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_49": {
+      "frame": {
+        "x": 187,
+        "y": 996,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_50": {
+      "frame": {
+        "x": 374,
+        "y": 996,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_51": {
+      "frame": {
+        "x": 561,
+        "y": 996,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_52": {
+      "frame": {
+        "x": 748,
+        "y": 996,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_53": {
+      "frame": {
+        "x": 935,
+        "y": 996,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_54": {
+      "frame": {
+        "x": 1122,
+        "y": 996,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_55": {
+      "frame": {
+        "x": 1309,
+        "y": 996,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_56": {
+      "frame": {
+        "x": 0,
+        "y": 1162,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_57": {
+      "frame": {
+        "x": 187,
+        "y": 1162,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_58": {
+      "frame": {
+        "x": 374,
+        "y": 1162,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_59": {
+      "frame": {
+        "x": 561,
+        "y": 1162,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_60": {
+      "frame": {
+        "x": 748,
+        "y": 1162,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_61": {
+      "frame": {
+        "x": 935,
+        "y": 1162,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_62": {
+      "frame": {
+        "x": 1122,
+        "y": 1162,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    },
+    "aegis-frost_63": {
+      "frame": {
+        "x": 1309,
+        "y": 1162,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 166
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Atlas Generator v2",
+    "version": "1.0",
+    "image": "aegis-frost.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1496,
+      "h": 1328
+    },
+    "scale": 1
+  }
+}

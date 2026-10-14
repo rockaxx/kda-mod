@@ -1,0 +1,1295 @@
+{
+  "frames": {
+    "ship_goliath-veteran_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_1": {
+      "frame": {
+        "x": 169,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_2": {
+      "frame": {
+        "x": 338,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_3": {
+      "frame": {
+        "x": 507,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_4": {
+      "frame": {
+        "x": 676,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_5": {
+      "frame": {
+        "x": 845,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_6": {
+      "frame": {
+        "x": 1014,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_7": {
+      "frame": {
+        "x": 1183,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_8": {
+      "frame": {
+        "x": 0,
+        "y": 150,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_9": {
+      "frame": {
+        "x": 169,
+        "y": 150,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_10": {
+      "frame": {
+        "x": 338,
+        "y": 150,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_11": {
+      "frame": {
+        "x": 507,
+        "y": 150,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_12": {
+      "frame": {
+        "x": 676,
+        "y": 150,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_13": {
+      "frame": {
+        "x": 845,
+        "y": 150,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_14": {
+      "frame": {
+        "x": 1014,
+        "y": 150,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_15": {
+      "frame": {
+        "x": 1183,
+        "y": 150,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_16": {
+      "frame": {
+        "x": 0,
+        "y": 300,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_17": {
+      "frame": {
+        "x": 169,
+        "y": 300,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_18": {
+      "frame": {
+        "x": 338,
+        "y": 300,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_19": {
+      "frame": {
+        "x": 507,
+        "y": 300,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_20": {
+      "frame": {
+        "x": 676,
+        "y": 300,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_21": {
+      "frame": {
+        "x": 845,
+        "y": 300,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_22": {
+      "frame": {
+        "x": 1014,
+        "y": 300,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_23": {
+      "frame": {
+        "x": 1183,
+        "y": 300,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_24": {
+      "frame": {
+        "x": 0,
+        "y": 450,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_25": {
+      "frame": {
+        "x": 169,
+        "y": 450,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_26": {
+      "frame": {
+        "x": 338,
+        "y": 450,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_27": {
+      "frame": {
+        "x": 507,
+        "y": 450,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_28": {
+      "frame": {
+        "x": 676,
+        "y": 450,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_29": {
+      "frame": {
+        "x": 845,
+        "y": 450,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_30": {
+      "frame": {
+        "x": 1014,
+        "y": 450,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_31": {
+      "frame": {
+        "x": 1183,
+        "y": 450,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_32": {
+      "frame": {
+        "x": 0,
+        "y": 600,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_33": {
+      "frame": {
+        "x": 169,
+        "y": 600,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_34": {
+      "frame": {
+        "x": 338,
+        "y": 600,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_35": {
+      "frame": {
+        "x": 507,
+        "y": 600,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_36": {
+      "frame": {
+        "x": 676,
+        "y": 600,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_37": {
+      "frame": {
+        "x": 845,
+        "y": 600,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_38": {
+      "frame": {
+        "x": 1014,
+        "y": 600,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_39": {
+      "frame": {
+        "x": 1183,
+        "y": 600,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_40": {
+      "frame": {
+        "x": 0,
+        "y": 750,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_41": {
+      "frame": {
+        "x": 169,
+        "y": 750,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_42": {
+      "frame": {
+        "x": 338,
+        "y": 750,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_43": {
+      "frame": {
+        "x": 507,
+        "y": 750,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_44": {
+      "frame": {
+        "x": 676,
+        "y": 750,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_45": {
+      "frame": {
+        "x": 845,
+        "y": 750,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_46": {
+      "frame": {
+        "x": 1014,
+        "y": 750,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_47": {
+      "frame": {
+        "x": 1183,
+        "y": 750,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_48": {
+      "frame": {
+        "x": 0,
+        "y": 900,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_49": {
+      "frame": {
+        "x": 169,
+        "y": 900,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_50": {
+      "frame": {
+        "x": 338,
+        "y": 900,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_51": {
+      "frame": {
+        "x": 507,
+        "y": 900,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_52": {
+      "frame": {
+        "x": 676,
+        "y": 900,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_53": {
+      "frame": {
+        "x": 845,
+        "y": 900,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_54": {
+      "frame": {
+        "x": 1014,
+        "y": 900,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_55": {
+      "frame": {
+        "x": 1183,
+        "y": 900,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_56": {
+      "frame": {
+        "x": 0,
+        "y": 1050,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_57": {
+      "frame": {
+        "x": 169,
+        "y": 1050,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_58": {
+      "frame": {
+        "x": 338,
+        "y": 1050,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_59": {
+      "frame": {
+        "x": 507,
+        "y": 1050,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_60": {
+      "frame": {
+        "x": 676,
+        "y": 1050,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_61": {
+      "frame": {
+        "x": 845,
+        "y": 1050,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_62": {
+      "frame": {
+        "x": 1014,
+        "y": 1050,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_goliath-veteran_63": {
+      "frame": {
+        "x": 1183,
+        "y": 1050,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Atlas Generator v2",
+    "version": "1.0",
+    "image": "ship_goliath-veteran.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1352,
+      "h": 1200
+    },
+    "scale": 1
+  }
+}

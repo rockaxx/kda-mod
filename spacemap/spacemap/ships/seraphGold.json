@@ -1,0 +1,1296 @@
+{
+  "frames": {
+    "seraphGold_0": {
+      "frame": {
+        "x": 820,
+        "y": 596,
+        "w": 74,
+        "h": 148
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 44,
+        "y": 8,
+        "w": 74,
+        "h": 148
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_1": {
+      "frame": {
+        "x": 823,
+        "y": 134,
+        "w": 73,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 45,
+        "y": 6,
+        "w": 73,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_2": {
+      "frame": {
+        "x": 447,
+        "y": 791,
+        "w": 75,
+        "h": 153
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 46,
+        "y": 6,
+        "w": 75,
+        "h": 153
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_3": {
+      "frame": {
+        "x": 472,
+        "y": 706,
+        "w": 85,
+        "h": 155
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 41,
+        "y": 5,
+        "w": 85,
+        "h": 155
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_4": {
+      "frame": {
+        "x": 472,
+        "y": 612,
+        "w": 94,
+        "h": 153
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 6,
+        "w": 94,
+        "h": 153
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_5": {
+      "frame": {
+        "x": 263,
+        "y": 455,
+        "w": 103,
+        "h": 154
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 5,
+        "w": 103,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_6": {
+      "frame": {
+        "x": 326,
+        "y": 0,
+        "w": 111,
+        "h": 151
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 7,
+        "w": 111,
+        "h": 151
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_7": {
+      "frame": {
+        "x": 0,
+        "y": 146,
+        "w": 118,
+        "h": 150
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 6,
+        "w": 118,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_8": {
+      "frame": {
+        "x": 129,
+        "y": 0,
+        "w": 124,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 8,
+        "w": 124,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 129,
+        "h": 143
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 9,
+        "w": 129,
+        "h": 143
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_10": {
+      "frame": {
+        "x": 733,
+        "y": 820,
+        "w": 133,
+        "h": 137
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 11,
+        "w": 133,
+        "h": 137
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_11": {
+      "frame": {
+        "x": 411,
+        "y": 866,
+        "w": 135,
+        "h": 133
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 12,
+        "w": 135,
+        "h": 133
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_12": {
+      "frame": {
+        "x": 274,
+        "y": 872,
+        "w": 137,
+        "h": 126
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 15,
+        "w": 137,
+        "h": 126
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_13": {
+      "frame": {
+        "x": 137,
+        "y": 872,
+        "w": 137,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 17,
+        "w": 137,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_14": {
+      "frame": {
+        "x": 0,
+        "y": 889,
+        "w": 137,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 21,
+        "w": 137,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_15": {
+      "frame": {
+        "x": 777,
+        "y": 490,
+        "w": 135,
+        "h": 106
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 23,
+        "w": 135,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_16": {
+      "frame": {
+        "x": 816,
+        "y": 354,
+        "w": 136,
+        "h": 100
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 27,
+        "w": 136,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_17": {
+      "frame": {
+        "x": 824,
+        "y": 0,
+        "w": 134,
+        "h": 94
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 30,
+        "w": 134,
+        "h": 94
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_18": {
+      "frame": {
+        "x": 733,
+        "y": 687,
+        "w": 133,
+        "h": 87
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 34,
+        "w": 133,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_19": {
+      "frame": {
+        "x": 600,
+        "y": 791,
+        "w": 133,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 37,
+        "w": 133,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_20": {
+      "frame": {
+        "x": 0,
+        "y": 816,
+        "w": 134,
+        "h": 73
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 42,
+        "w": 134,
+        "h": 73
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_21": {
+      "frame": {
+        "x": 743,
+        "y": 354,
+        "w": 133,
+        "h": 73
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 44,
+        "w": 133,
+        "h": 73
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_22": {
+      "frame": {
+        "x": 702,
+        "y": 555,
+        "w": 132,
+        "h": 75
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 44,
+        "w": 132,
+        "h": 75
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_23": {
+      "frame": {
+        "x": 743,
+        "y": 226,
+        "w": 128,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 44,
+        "w": 128,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_24": {
+      "frame": {
+        "x": 323,
+        "y": 739,
+        "w": 124,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 45,
+        "w": 124,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_25": {
+      "frame": {
+        "x": 744,
+        "y": 106,
+        "w": 120,
+        "h": 79
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 45,
+        "w": 120,
+        "h": 79
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_26": {
+      "frame": {
+        "x": 120,
+        "y": 738,
+        "w": 113,
+        "h": 78
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 46,
+        "w": 113,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_27": {
+      "frame": {
+        "x": 745,
+        "y": 0,
+        "w": 106,
+        "h": 79
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 46,
+        "w": 106,
+        "h": 79
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_28": {
+      "frame": {
+        "x": 627,
+        "y": 688,
+        "w": 98,
+        "h": 79
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 47,
+        "w": 98,
+        "h": 79
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_29": {
+      "frame": {
+        "x": 233,
+        "y": 736,
+        "w": 90,
+        "h": 79
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 47,
+        "w": 90,
+        "h": 79
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_30": {
+      "frame": {
+        "x": 0,
+        "y": 739,
+        "w": 81,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 49,
+        "w": 81,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_31": {
+      "frame": {
+        "x": 625,
+        "y": 612,
+        "w": 77,
+        "h": 76
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 41,
+        "y": 50,
+        "w": 77,
+        "h": 76
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_32": {
+      "frame": {
+        "x": 673,
+        "y": 480,
+        "w": 70,
+        "h": 75
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 46,
+        "y": 51,
+        "w": 70,
+        "h": 75
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_33": {
+      "frame": {
+        "x": 666,
+        "y": 135,
+        "w": 78,
+        "h": 75
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 45,
+        "y": 51,
+        "w": 78,
+        "h": 75
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_34": {
+      "frame": {
+        "x": 660,
+        "y": 272,
+        "w": 81,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 45,
+        "y": 52,
+        "w": 81,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_35": {
+      "frame": {
+        "x": 652,
+        "y": 407,
+        "w": 91,
+        "h": 73
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 41,
+        "y": 53,
+        "w": 91,
+        "h": 73
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_36": {
+      "frame": {
+        "x": 673,
+        "y": 0,
+        "w": 98,
+        "h": 72
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 40,
+        "y": 54,
+        "w": 98,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_37": {
+      "frame": {
+        "x": 268,
+        "y": 630,
+        "w": 106,
+        "h": 71
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 54,
+        "w": 106,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_38": {
+      "frame": {
+        "x": 120,
+        "y": 667,
+        "w": 113,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33,
+        "y": 53,
+        "w": 113,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_39": {
+      "frame": {
+        "x": 0,
+        "y": 667,
+        "w": 120,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 51,
+        "w": 120,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_40": {
+      "frame": {
+        "x": 549,
+        "y": 540,
+        "w": 124,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 50,
+        "w": 124,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_41": {
+      "frame": {
+        "x": 400,
+        "y": 611,
+        "w": 128,
+        "h": 72
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 49,
+        "w": 128,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_42": {
+      "frame": {
+        "x": 268,
+        "y": 558,
+        "w": 132,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 22,
+        "y": 48,
+        "w": 132,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_43": {
+      "frame": {
+        "x": 417,
+        "y": 537,
+        "w": 132,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 45,
+        "w": 132,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_44": {
+      "frame": {
+        "x": 134,
+        "y": 586,
+        "w": 134,
+        "h": 76
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 42,
+        "w": 134,
+        "h": 76
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_45": {
+      "frame": {
+        "x": 0,
+        "y": 586,
+        "w": 134,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 37,
+        "w": 134,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_46": {
+      "frame": {
+        "x": 565,
+        "y": 407,
+        "w": 133,
+        "h": 87
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 34,
+        "w": 133,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_47": {
+      "frame": {
+        "x": 566,
+        "y": 272,
+        "w": 135,
+        "h": 94
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 30,
+        "w": 135,
+        "h": 94
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_48": {
+      "frame": {
+        "x": 566,
+        "y": 135,
+        "w": 137,
+        "h": 100
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 27,
+        "w": 137,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_49": {
+      "frame": {
+        "x": 566,
+        "y": 0,
+        "w": 135,
+        "h": 107
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 23,
+        "w": 135,
+        "h": 107
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_50": {
+      "frame": {
+        "x": 151,
+        "y": 445,
+        "w": 137,
+        "h": 112
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 21,
+        "w": 137,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_51": {
+      "frame": {
+        "x": 426,
+        "y": 417,
+        "w": 137,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 17,
+        "w": 137,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_52": {
+      "frame": {
+        "x": 0,
+        "y": 460,
+        "w": 138,
+        "h": 126
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 15,
+        "w": 138,
+        "h": 126
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_53": {
+      "frame": {
+        "x": 429,
+        "y": 285,
+        "w": 136,
+        "h": 132
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 13,
+        "w": 136,
+        "h": 132
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_54": {
+      "frame": {
+        "x": 429,
+        "y": 151,
+        "w": 134,
+        "h": 137
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 11,
+        "w": 134,
+        "h": 137
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_55": {
+      "frame": {
+        "x": 437,
+        "y": 0,
+        "w": 129,
+        "h": 143
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 9,
+        "w": 129,
+        "h": 143
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_56": {
+      "frame": {
+        "x": 155,
+        "y": 321,
+        "w": 124,
+        "h": 145
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 9,
+        "w": 124,
+        "h": 145
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_57": {
+      "frame": {
+        "x": 308,
+        "y": 305,
+        "w": 118,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 6,
+        "w": 118,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_58": {
+      "frame": {
+        "x": 0,
+        "y": 349,
+        "w": 111,
+        "h": 151
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 25,
+        "y": 7,
+        "w": 111,
+        "h": 151
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_59": {
+      "frame": {
+        "x": 326,
+        "y": 151,
+        "w": 103,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": 5,
+        "w": 103,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_60": {
+      "frame": {
+        "x": 155,
+        "y": 227,
+        "w": 94,
+        "h": 153
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 6,
+        "w": 94,
+        "h": 153
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_61": {
+      "frame": {
+        "x": 0,
+        "y": 264,
+        "w": 85,
+        "h": 155
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 5,
+        "w": 85,
+        "h": 155
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_62": {
+      "frame": {
+        "x": 150,
+        "y": 152,
+        "w": 75,
+        "h": 153
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 41,
+        "y": 6,
+        "w": 75,
+        "h": 153
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    },
+    "seraphGold_63": {
+      "frame": {
+        "x": 253,
+        "y": 0,
+        "w": 73,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 44,
+        "y": 6,
+        "w": 73,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 165
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "seraphGold.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 918,
+      "h": 1001
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

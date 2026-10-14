@@ -1,0 +1,1295 @@
+{
+  "frames": {
+    "venom-frost_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_1": {
+      "frame": {
+        "x": 195,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_2": {
+      "frame": {
+        "x": 390,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_3": {
+      "frame": {
+        "x": 585,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_4": {
+      "frame": {
+        "x": 780,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_5": {
+      "frame": {
+        "x": 975,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_6": {
+      "frame": {
+        "x": 1170,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_7": {
+      "frame": {
+        "x": 1365,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_8": {
+      "frame": {
+        "x": 0,
+        "y": 173,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_9": {
+      "frame": {
+        "x": 195,
+        "y": 173,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_10": {
+      "frame": {
+        "x": 390,
+        "y": 173,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_11": {
+      "frame": {
+        "x": 585,
+        "y": 173,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_12": {
+      "frame": {
+        "x": 780,
+        "y": 173,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_13": {
+      "frame": {
+        "x": 975,
+        "y": 173,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_14": {
+      "frame": {
+        "x": 1170,
+        "y": 173,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_15": {
+      "frame": {
+        "x": 1365,
+        "y": 173,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_16": {
+      "frame": {
+        "x": 0,
+        "y": 346,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_17": {
+      "frame": {
+        "x": 195,
+        "y": 346,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_18": {
+      "frame": {
+        "x": 390,
+        "y": 346,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_19": {
+      "frame": {
+        "x": 585,
+        "y": 346,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_20": {
+      "frame": {
+        "x": 780,
+        "y": 346,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_21": {
+      "frame": {
+        "x": 975,
+        "y": 346,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_22": {
+      "frame": {
+        "x": 1170,
+        "y": 346,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_23": {
+      "frame": {
+        "x": 1365,
+        "y": 346,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_24": {
+      "frame": {
+        "x": 0,
+        "y": 519,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_25": {
+      "frame": {
+        "x": 195,
+        "y": 519,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_26": {
+      "frame": {
+        "x": 390,
+        "y": 519,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_27": {
+      "frame": {
+        "x": 585,
+        "y": 519,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_28": {
+      "frame": {
+        "x": 780,
+        "y": 519,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_29": {
+      "frame": {
+        "x": 975,
+        "y": 519,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_30": {
+      "frame": {
+        "x": 1170,
+        "y": 519,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_31": {
+      "frame": {
+        "x": 1365,
+        "y": 519,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_32": {
+      "frame": {
+        "x": 0,
+        "y": 692,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_33": {
+      "frame": {
+        "x": 195,
+        "y": 692,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_34": {
+      "frame": {
+        "x": 390,
+        "y": 692,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_35": {
+      "frame": {
+        "x": 585,
+        "y": 692,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_36": {
+      "frame": {
+        "x": 780,
+        "y": 692,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_37": {
+      "frame": {
+        "x": 975,
+        "y": 692,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_38": {
+      "frame": {
+        "x": 1170,
+        "y": 692,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_39": {
+      "frame": {
+        "x": 1365,
+        "y": 692,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_40": {
+      "frame": {
+        "x": 0,
+        "y": 865,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_41": {
+      "frame": {
+        "x": 195,
+        "y": 865,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_42": {
+      "frame": {
+        "x": 390,
+        "y": 865,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_43": {
+      "frame": {
+        "x": 585,
+        "y": 865,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_44": {
+      "frame": {
+        "x": 780,
+        "y": 865,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_45": {
+      "frame": {
+        "x": 975,
+        "y": 865,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_46": {
+      "frame": {
+        "x": 1170,
+        "y": 865,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_47": {
+      "frame": {
+        "x": 1365,
+        "y": 865,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_48": {
+      "frame": {
+        "x": 0,
+        "y": 1038,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_49": {
+      "frame": {
+        "x": 195,
+        "y": 1038,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_50": {
+      "frame": {
+        "x": 390,
+        "y": 1038,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_51": {
+      "frame": {
+        "x": 585,
+        "y": 1038,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_52": {
+      "frame": {
+        "x": 780,
+        "y": 1038,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_53": {
+      "frame": {
+        "x": 975,
+        "y": 1038,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_54": {
+      "frame": {
+        "x": 1170,
+        "y": 1038,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_55": {
+      "frame": {
+        "x": 1365,
+        "y": 1038,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_56": {
+      "frame": {
+        "x": 0,
+        "y": 1211,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_57": {
+      "frame": {
+        "x": 195,
+        "y": 1211,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_58": {
+      "frame": {
+        "x": 390,
+        "y": 1211,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_59": {
+      "frame": {
+        "x": 585,
+        "y": 1211,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_60": {
+      "frame": {
+        "x": 780,
+        "y": 1211,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_61": {
+      "frame": {
+        "x": 975,
+        "y": 1211,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_62": {
+      "frame": {
+        "x": 1170,
+        "y": 1211,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    },
+    "venom-frost_63": {
+      "frame": {
+        "x": 1365,
+        "y": 1211,
+        "w": 195,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 173
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Atlas Generator v2",
+    "version": "1.0",
+    "image": "venom-frost.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1560,
+      "h": 1384
+    },
+    "scale": 1
+  }
+}

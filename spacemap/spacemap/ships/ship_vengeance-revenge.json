@@ -1,0 +1,1295 @@
+{
+  "frames": {
+    "ship_vengeance-revenge_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_1": {
+      "frame": {
+        "x": 169,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_2": {
+      "frame": {
+        "x": 338,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_3": {
+      "frame": {
+        "x": 507,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_4": {
+      "frame": {
+        "x": 676,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_5": {
+      "frame": {
+        "x": 845,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_6": {
+      "frame": {
+        "x": 1014,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_7": {
+      "frame": {
+        "x": 1183,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_8": {
+      "frame": {
+        "x": 0,
+        "y": 150,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_9": {
+      "frame": {
+        "x": 169,
+        "y": 150,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_10": {
+      "frame": {
+        "x": 338,
+        "y": 150,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_11": {
+      "frame": {
+        "x": 507,
+        "y": 150,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_12": {
+      "frame": {
+        "x": 676,
+        "y": 150,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_13": {
+      "frame": {
+        "x": 845,
+        "y": 150,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_14": {
+      "frame": {
+        "x": 1014,
+        "y": 150,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_15": {
+      "frame": {
+        "x": 1183,
+        "y": 150,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_16": {
+      "frame": {
+        "x": 0,
+        "y": 300,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_17": {
+      "frame": {
+        "x": 169,
+        "y": 300,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_18": {
+      "frame": {
+        "x": 338,
+        "y": 300,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_19": {
+      "frame": {
+        "x": 507,
+        "y": 300,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_20": {
+      "frame": {
+        "x": 676,
+        "y": 300,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_21": {
+      "frame": {
+        "x": 845,
+        "y": 300,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_22": {
+      "frame": {
+        "x": 1014,
+        "y": 300,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_23": {
+      "frame": {
+        "x": 1183,
+        "y": 300,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_24": {
+      "frame": {
+        "x": 0,
+        "y": 450,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_25": {
+      "frame": {
+        "x": 169,
+        "y": 450,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_26": {
+      "frame": {
+        "x": 338,
+        "y": 450,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_27": {
+      "frame": {
+        "x": 507,
+        "y": 450,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_28": {
+      "frame": {
+        "x": 676,
+        "y": 450,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_29": {
+      "frame": {
+        "x": 845,
+        "y": 450,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_30": {
+      "frame": {
+        "x": 1014,
+        "y": 450,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_31": {
+      "frame": {
+        "x": 1183,
+        "y": 450,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_32": {
+      "frame": {
+        "x": 0,
+        "y": 600,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_33": {
+      "frame": {
+        "x": 169,
+        "y": 600,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_34": {
+      "frame": {
+        "x": 338,
+        "y": 600,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_35": {
+      "frame": {
+        "x": 507,
+        "y": 600,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_36": {
+      "frame": {
+        "x": 676,
+        "y": 600,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_37": {
+      "frame": {
+        "x": 845,
+        "y": 600,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_38": {
+      "frame": {
+        "x": 1014,
+        "y": 600,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_39": {
+      "frame": {
+        "x": 1183,
+        "y": 600,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_40": {
+      "frame": {
+        "x": 0,
+        "y": 750,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_41": {
+      "frame": {
+        "x": 169,
+        "y": 750,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_42": {
+      "frame": {
+        "x": 338,
+        "y": 750,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_43": {
+      "frame": {
+        "x": 507,
+        "y": 750,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_44": {
+      "frame": {
+        "x": 676,
+        "y": 750,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_45": {
+      "frame": {
+        "x": 845,
+        "y": 750,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_46": {
+      "frame": {
+        "x": 1014,
+        "y": 750,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_47": {
+      "frame": {
+        "x": 1183,
+        "y": 750,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_48": {
+      "frame": {
+        "x": 0,
+        "y": 900,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_49": {
+      "frame": {
+        "x": 169,
+        "y": 900,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_50": {
+      "frame": {
+        "x": 338,
+        "y": 900,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_51": {
+      "frame": {
+        "x": 507,
+        "y": 900,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_52": {
+      "frame": {
+        "x": 676,
+        "y": 900,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_53": {
+      "frame": {
+        "x": 845,
+        "y": 900,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_54": {
+      "frame": {
+        "x": 1014,
+        "y": 900,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_55": {
+      "frame": {
+        "x": 1183,
+        "y": 900,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_56": {
+      "frame": {
+        "x": 0,
+        "y": 1050,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_57": {
+      "frame": {
+        "x": 169,
+        "y": 1050,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_58": {
+      "frame": {
+        "x": 338,
+        "y": 1050,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_59": {
+      "frame": {
+        "x": 507,
+        "y": 1050,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_60": {
+      "frame": {
+        "x": 676,
+        "y": 1050,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_61": {
+      "frame": {
+        "x": 845,
+        "y": 1050,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_62": {
+      "frame": {
+        "x": 1014,
+        "y": 1050,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    },
+    "ship_vengeance-revenge_63": {
+      "frame": {
+        "x": 1183,
+        "y": 1050,
+        "w": 169,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 150
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Atlas Generator v2",
+    "version": "1.0",
+    "image": "ship_vengeance-revenge.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1352,
+      "h": 1200
+    },
+    "scale": 1
+  }
+}

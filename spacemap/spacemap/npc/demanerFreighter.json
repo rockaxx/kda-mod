@@ -1,0 +1,676 @@
+{
+  "frames": {
+    "demanerFreighter_0": {
+      "frame": {
+        "x": 398,
+        "y": 1911,
+        "w": 223,
+        "h": 397
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 146,
+        "y": 27,
+        "w": 223,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 444
+      }
+    },
+    "demanerFreighter_1": {
+      "frame": {
+        "x": 0,
+        "y": 1911,
+        "w": 248,
+        "h": 398
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 155,
+        "y": 29,
+        "w": 248,
+        "h": 398
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 444
+      }
+    },
+    "demanerFreighter_2": {
+      "frame": {
+        "x": 0,
+        "y": 1607,
+        "w": 304,
+        "h": 394
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 133,
+        "y": 31,
+        "w": 304,
+        "h": 394
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 444
+      }
+    },
+    "demanerFreighter_3": {
+      "frame": {
+        "x": 419,
+        "y": 893,
+        "w": 343,
+        "h": 378
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 114,
+        "y": 36,
+        "w": 343,
+        "h": 378
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 444
+      }
+    },
+    "demanerFreighter_4": {
+      "frame": {
+        "x": 746,
+        "y": 0,
+        "w": 387,
+        "h": 354
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 89,
+        "y": 42,
+        "w": 387,
+        "h": 354
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 444
+      }
+    },
+    "demanerFreighter_5": {
+      "frame": {
+        "x": 0,
+        "y": 670,
+        "w": 419,
+        "h": 328
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 67,
+        "y": 51,
+        "w": 419,
+        "h": 328
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 444
+      }
+    },
+    "demanerFreighter_6": {
+      "frame": {
+        "x": 455,
+        "y": 0,
+        "w": 439,
+        "h": 291
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 49,
+        "y": 69,
+        "w": 439,
+        "h": 291
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 444
+      }
+    },
+    "demanerFreighter_7": {
+      "frame": {
+        "x": 0,
+        "y": 422,
+        "w": 447,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 86,
+        "w": 447,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 444
+      }
+    },
+    "demanerFreighter_8": {
+      "frame": {
+        "x": 0,
+        "y": 203,
+        "w": 455,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 102,
+        "w": 455,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 444
+      }
+    },
+    "demanerFreighter_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 453,
+        "h": 203
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 117,
+        "w": 453,
+        "h": 203
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 444
+      }
+    },
+    "demanerFreighter_10": {
+      "frame": {
+        "x": 1668,
+        "y": 1132,
+        "w": 443,
+        "h": 231
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 115,
+        "w": 443,
+        "h": 231
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 444
+      }
+    },
+    "demanerFreighter_11": {
+      "frame": {
+        "x": 1743,
+        "y": 704,
+        "w": 428,
+        "h": 265
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 106,
+        "w": 428,
+        "h": 265
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 444
+      }
+    },
+    "demanerFreighter_12": {
+      "frame": {
+        "x": 1337,
+        "y": 1602,
+        "w": 406,
+        "h": 291
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 99,
+        "w": 406,
+        "h": 291
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 444
+      }
+    },
+    "demanerFreighter_13": {
+      "frame": {
+        "x": 1710,
+        "y": 331,
+        "w": 373,
+        "h": 317
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 54,
+        "y": 91,
+        "w": 373,
+        "h": 317
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 444
+      }
+    },
+    "demanerFreighter_14": {
+      "frame": {
+        "x": 1710,
+        "y": 0,
+        "w": 326,
+        "h": 331
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 81,
+        "y": 87,
+        "w": 326,
+        "h": 331
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 444
+      }
+    },
+    "demanerFreighter_15": {
+      "frame": {
+        "x": 1409,
+        "y": 860,
+        "w": 259,
+        "h": 335
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 118,
+        "y": 86,
+        "w": 259,
+        "h": 335
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 444
+      }
+    },
+    "demanerFreighter_16": {
+      "frame": {
+        "x": 447,
+        "y": 439,
+        "w": 225,
+        "h": 331
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 147,
+        "y": 87,
+        "w": 225,
+        "h": 331
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 444
+      }
+    },
+    "demanerFreighter_17": {
+      "frame": {
+        "x": 1089,
+        "y": 1484,
+        "w": 248,
+        "h": 337
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 153,
+        "y": 85,
+        "w": 248,
+        "h": 337
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 444
+      }
+    },
+    "demanerFreighter_18": {
+      "frame": {
+        "x": 757,
+        "y": 1602,
+        "w": 309,
+        "h": 332
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 131,
+        "y": 86,
+        "w": 309,
+        "h": 332
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 444
+      }
+    },
+    "demanerFreighter_19": {
+      "frame": {
+        "x": 440,
+        "y": 1514,
+        "w": 362,
+        "h": 317
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 111,
+        "y": 90,
+        "w": 362,
+        "h": 317
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 444
+      }
+    },
+    "demanerFreighter_20": {
+      "frame": {
+        "x": 1342,
+        "y": 1203,
+        "w": 399,
+        "h": 293
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 93,
+        "y": 98,
+        "w": 399,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 444
+      }
+    },
+    "demanerFreighter_21": {
+      "frame": {
+        "x": 1437,
+        "y": 438,
+        "w": 422,
+        "h": 266
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 109,
+        "w": 422,
+        "h": 266
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 444
+      }
+    },
+    "demanerFreighter_22": {
+      "frame": {
+        "x": 1450,
+        "y": 0,
+        "w": 438,
+        "h": 260
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 63,
+        "y": 97,
+        "w": 438,
+        "h": 260
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 444
+      }
+    },
+    "demanerFreighter_23": {
+      "frame": {
+        "x": 895,
+        "y": 1236,
+        "w": 447,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 51,
+        "y": 86,
+        "w": 447,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 444
+      }
+    },
+    "demanerFreighter_24": {
+      "frame": {
+        "x": 440,
+        "y": 1271,
+        "w": 455,
+        "h": 243
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 47,
+        "y": 73,
+        "w": 455,
+        "h": 243
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 444
+      }
+    },
+    "demanerFreighter_25": {
+      "frame": {
+        "x": 816,
+        "y": 789,
+        "w": 447,
+        "h": 260
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 50,
+        "y": 61,
+        "w": 447,
+        "h": 260
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 444
+      }
+    },
+    "demanerFreighter_26": {
+      "frame": {
+        "x": 0,
+        "y": 1310,
+        "w": 440,
+        "h": 297
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 47,
+        "y": 51,
+        "w": 440,
+        "h": 297
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 444
+      }
+    },
+    "demanerFreighter_27": {
+      "frame": {
+        "x": 1077,
+        "y": 781,
+        "w": 422,
+        "h": 332
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 48,
+        "y": 43,
+        "w": 422,
+        "h": 332
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 444
+      }
+    },
+    "demanerFreighter_28": {
+      "frame": {
+        "x": 1077,
+        "y": 388,
+        "w": 393,
+        "h": 360
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 56,
+        "y": 36,
+        "w": 393,
+        "h": 360
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 444
+      }
+    },
+    "demanerFreighter_29": {
+      "frame": {
+        "x": 1100,
+        "y": 0,
+        "w": 350,
+        "h": 388
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 74,
+        "y": 27,
+        "w": 350,
+        "h": 388
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 444
+      }
+    },
+    "demanerFreighter_30": {
+      "frame": {
+        "x": 0,
+        "y": 998,
+        "w": 312,
+        "h": 399
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 27,
+        "w": 312,
+        "h": 399
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 444
+      }
+    },
+    "demanerFreighter_31": {
+      "frame": {
+        "x": 816,
+        "y": 387,
+        "w": 261,
+        "h": 402
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 116,
+        "y": 27,
+        "w": 261,
+        "h": 402
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 444
+      }
+    },
+    "demanerFreighter_32": {
+      "frame": {
+        "x": 419,
+        "y": 670,
+        "w": 223,
+        "h": 397
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 146,
+        "y": 27,
+        "w": 223,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 444
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "demanerFreighter.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2036,
+      "h": 2159
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "frames": {
+    "shockwave_2_0": {
+      "frame": {
+        "x": 985,
+        "y": 739,
+        "w": 373,
+        "h": 329
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 24,
+        "w": 373,
+        "h": 329
+      },
+      "sourceSize": {
+        "w": 410,
+        "h": 353
+      }
+    },
+    "shockwave_2_1": {
+      "frame": {
+        "x": 1020,
+        "y": 366,
+        "w": 373,
+        "h": 329
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 24,
+        "w": 373,
+        "h": 329
+      },
+      "sourceSize": {
+        "w": 410,
+        "h": 353
+      }
+    },
+    "shockwave_2_2": {
+      "frame": {
+        "x": 328,
+        "y": 754,
+        "w": 369,
+        "h": 328
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 25,
+        "w": 369,
+        "h": 328
+      },
+      "sourceSize": {
+        "w": 410,
+        "h": 353
+      }
+    },
+    "shockwave_2_3": {
+      "frame": {
+        "x": 0,
+        "y": 658,
+        "w": 369,
+        "h": 328
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 25,
+        "w": 369,
+        "h": 328
+      },
+      "sourceSize": {
+        "w": 410,
+        "h": 353
+      }
+    },
+    "shockwave_2_4": {
+      "frame": {
+        "x": 693,
+        "y": 366,
+        "w": 366,
+        "h": 327
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 26,
+        "w": 366,
+        "h": 327
+      },
+      "sourceSize": {
+        "w": 410,
+        "h": 353
+      }
+    },
+    "shockwave_2_5": {
+      "frame": {
+        "x": 693,
+        "y": 0,
+        "w": 366,
+        "h": 327
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 26,
+        "w": 366,
+        "h": 327
+      },
+      "sourceSize": {
+        "w": 410,
+        "h": 353
+      }
+    },
+    "shockwave_2_6": {
+      "frame": {
+        "x": 365,
+        "y": 377,
+        "w": 377,
+        "h": 328
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 25,
+        "w": 377,
+        "h": 328
+      },
+      "sourceSize": {
+        "w": 410,
+        "h": 353
+      }
+    },
+    "shockwave_2_7": {
+      "frame": {
+        "x": 365,
+        "y": 0,
+        "w": 377,
+        "h": 328
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 25,
+        "w": 377,
+        "h": 328
+      },
+      "sourceSize": {
+        "w": 410,
+        "h": 353
+      }
+    },
+    "shockwave_2_8": {
+      "frame": {
+        "x": 0,
+        "y": 329,
+        "w": 365,
+        "h": 329
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 24,
+        "w": 365,
+        "h": 329
+      },
+      "sourceSize": {
+        "w": 410,
+        "h": 353
+      }
+    },
+    "shockwave_2_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 365,
+        "h": 329
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 24,
+        "w": 365,
+        "h": 329
+      },
+      "sourceSize": {
+        "w": 410,
+        "h": 353
+      }
+    },
+    "shockwave_2_10": {
+      "frame": {
+        "x": 1020,
+        "y": 0,
+        "w": 366,
+        "h": 329
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 24,
+        "w": 366,
+        "h": 329
+      },
+      "sourceSize": {
+        "w": 410,
+        "h": 353
+      }
+    },
+    "shockwave_2_11": {
+      "frame": {
+        "x": 656,
+        "y": 754,
+        "w": 366,
+        "h": 329
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 24,
+        "w": 366,
+        "h": 329
+      },
+      "sourceSize": {
+        "w": 410,
+        "h": 353
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "shockwave_2.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1349,
+      "h": 1123
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

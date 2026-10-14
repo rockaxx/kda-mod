@@ -1,0 +1,1296 @@
+{
+  "frames": {
+    "aegis_pod2_0": {
+      "frame": {
+        "x": 0,
+        "y": 588,
+        "w": 43,
+        "h": 73
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 57,
+        "y": 47,
+        "w": 43,
+        "h": 73
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_1": {
+      "frame": {
+        "x": 490,
+        "y": 368,
+        "w": 43,
+        "h": 75
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 56,
+        "y": 47,
+        "w": 43,
+        "h": 75
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_2": {
+      "frame": {
+        "x": 451,
+        "y": 426,
+        "w": 42,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 56,
+        "y": 47,
+        "w": 42,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_3": {
+      "frame": {
+        "x": 373,
+        "y": 426,
+        "w": 42,
+        "h": 78
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 54,
+        "y": 48,
+        "w": 42,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_4": {
+      "frame": {
+        "x": 225,
+        "y": 93,
+        "w": 43,
+        "h": 78
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 51,
+        "y": 49,
+        "w": 43,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_5": {
+      "frame": {
+        "x": 89,
+        "y": 215,
+        "w": 44,
+        "h": 78
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 48,
+        "y": 50,
+        "w": 44,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_6": {
+      "frame": {
+        "x": 131,
+        "y": 83,
+        "w": 44,
+        "h": 83
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 47,
+        "y": 51,
+        "w": 44,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_7": {
+      "frame": {
+        "x": 0,
+        "y": 85,
+        "w": 44,
+        "h": 83
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 45,
+        "y": 53,
+        "w": 44,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_8": {
+      "frame": {
+        "x": 45,
+        "y": 0,
+        "w": 44,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 44,
+        "y": 54,
+        "w": 44,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 43,
+        "y": 55,
+        "w": 45,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_10": {
+      "frame": {
+        "x": 543,
+        "y": 281,
+        "w": 46,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 55,
+        "w": 46,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_11": {
+      "frame": {
+        "x": 543,
+        "y": 192,
+        "w": 48,
+        "h": 89
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 55,
+        "w": 48,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_12": {
+      "frame": {
+        "x": 489,
+        "y": 468,
+        "w": 50,
+        "h": 91
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 37,
+        "y": 55,
+        "w": 50,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_13": {
+      "frame": {
+        "x": 333,
+        "y": 113,
+        "w": 52,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 56,
+        "w": 52,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_14": {
+      "frame": {
+        "x": 543,
+        "y": 97,
+        "w": 54,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 34,
+        "y": 56,
+        "w": 54,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_15": {
+      "frame": {
+        "x": 543,
+        "y": 0,
+        "w": 56,
+        "h": 97
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33,
+        "y": 57,
+        "w": 56,
+        "h": 97
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_16": {
+      "frame": {
+        "x": 442,
+        "y": 520,
+        "w": 58,
+        "h": 100
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 57,
+        "w": 58,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_17": {
+      "frame": {
+        "x": 339,
+        "y": 524,
+        "w": 59,
+        "h": 103
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 56,
+        "w": 59,
+        "h": 103
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_18": {
+      "frame": {
+        "x": 234,
+        "y": 530,
+        "w": 58,
+        "h": 105
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33,
+        "y": 56,
+        "w": 58,
+        "h": 105
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_19": {
+      "frame": {
+        "x": 126,
+        "y": 530,
+        "w": 58,
+        "h": 108
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 34,
+        "y": 56,
+        "w": 58,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_20": {
+      "frame": {
+        "x": 0,
+        "y": 531,
+        "w": 57,
+        "h": 110
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 56,
+        "w": 57,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_21": {
+      "frame": {
+        "x": 486,
+        "y": 242,
+        "w": 57,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 37,
+        "y": 55,
+        "w": 57,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_22": {
+      "frame": {
+        "x": 486,
+        "y": 128,
+        "w": 54,
+        "h": 114
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 40,
+        "y": 55,
+        "w": 54,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_23": {
+      "frame": {
+        "x": 490,
+        "y": 0,
+        "w": 53,
+        "h": 115
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 43,
+        "y": 55,
+        "w": 53,
+        "h": 115
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_24": {
+      "frame": {
+        "x": 373,
+        "y": 468,
+        "w": 52,
+        "h": 116
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 46,
+        "y": 55,
+        "w": 52,
+        "h": 116
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_25": {
+      "frame": {
+        "x": 248,
+        "y": 473,
+        "w": 51,
+        "h": 120
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 49,
+        "y": 54,
+        "w": 51,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_26": {
+      "frame": {
+        "x": 126,
+        "y": 480,
+        "w": 50,
+        "h": 122
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 51,
+        "y": 54,
+        "w": 50,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_27": {
+      "frame": {
+        "x": 434,
+        "y": 253,
+        "w": 52,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 52,
+        "y": 54,
+        "w": 52,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_28": {
+      "frame": {
+        "x": 0,
+        "y": 480,
+        "w": 51,
+        "h": 126
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 53,
+        "y": 54,
+        "w": 51,
+        "h": 126
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_29": {
+      "frame": {
+        "x": 434,
+        "y": 128,
+        "w": 51,
+        "h": 125
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 55,
+        "y": 56,
+        "w": 51,
+        "h": 125
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_30": {
+      "frame": {
+        "x": 441,
+        "y": 0,
+        "w": 49,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 57,
+        "y": 54,
+        "w": 49,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_31": {
+      "frame": {
+        "x": 362,
+        "y": 377,
+        "w": 49,
+        "h": 128
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 59,
+        "y": 54,
+        "w": 49,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_32": {
+      "frame": {
+        "x": 256,
+        "y": 426,
+        "w": 47,
+        "h": 117
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 61,
+        "y": 66,
+        "w": 47,
+        "h": 117
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_33": {
+      "frame": {
+        "x": 128,
+        "y": 427,
+        "w": 45,
+        "h": 128
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 64,
+        "y": 54,
+        "w": 45,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_34": {
+      "frame": {
+        "x": 0,
+        "y": 437,
+        "w": 43,
+        "h": 128
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 66,
+        "y": 54,
+        "w": 43,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_35": {
+      "frame": {
+        "x": 391,
+        "y": 250,
+        "w": 43,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 69,
+        "y": 54,
+        "w": 43,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_36": {
+      "frame": {
+        "x": 391,
+        "y": 124,
+        "w": 43,
+        "h": 126
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 71,
+        "y": 54,
+        "w": 43,
+        "h": 126
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_37": {
+      "frame": {
+        "x": 396,
+        "y": 0,
+        "w": 45,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 72,
+        "y": 54,
+        "w": 45,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_38": {
+      "frame": {
+        "x": 240,
+        "y": 380,
+        "w": 46,
+        "h": 122
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 73,
+        "y": 54,
+        "w": 46,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_39": {
+      "frame": {
+        "x": 119,
+        "y": 382,
+        "w": 45,
+        "h": 121
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 75,
+        "y": 54,
+        "w": 45,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_40": {
+      "frame": {
+        "x": 0,
+        "y": 391,
+        "w": 46,
+        "h": 119
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 76,
+        "y": 55,
+        "w": 46,
+        "h": 119
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_41": {
+      "frame": {
+        "x": 324,
+        "y": 253,
+        "w": 45,
+        "h": 117
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 77,
+        "y": 55,
+        "w": 45,
+        "h": 117
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_42": {
+      "frame": {
+        "x": 276,
+        "y": 206,
+        "w": 47,
+        "h": 115
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 77,
+        "y": 55,
+        "w": 47,
+        "h": 115
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_43": {
+      "frame": {
+        "x": 346,
+        "y": 0,
+        "w": 50,
+        "h": 113
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 77,
+        "y": 55,
+        "w": 50,
+        "h": 113
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_44": {
+      "frame": {
+        "x": 214,
+        "y": 329,
+        "w": 51,
+        "h": 110
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 55,
+        "w": 51,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_45": {
+      "frame": {
+        "x": 106,
+        "y": 329,
+        "w": 53,
+        "h": 108
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 77,
+        "y": 55,
+        "w": 53,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_46": {
+      "frame": {
+        "x": 0,
+        "y": 335,
+        "w": 56,
+        "h": 106
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 76,
+        "y": 55,
+        "w": 56,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_47": {
+      "frame": {
+        "x": 276,
+        "y": 101,
+        "w": 57,
+        "h": 105
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 75,
+        "y": 54,
+        "w": 57,
+        "h": 105
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_48": {
+      "frame": {
+        "x": 197,
+        "y": 271,
+        "w": 58,
+        "h": 103
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 74,
+        "y": 54,
+        "w": 58,
+        "h": 103
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_49": {
+      "frame": {
+        "x": 288,
+        "y": 0,
+        "w": 58,
+        "h": 101
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 74,
+        "y": 54,
+        "w": 58,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_50": {
+      "frame": {
+        "x": 97,
+        "y": 271,
+        "w": 57,
+        "h": 100
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 73,
+        "y": 53,
+        "w": 57,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_51": {
+      "frame": {
+        "x": 0,
+        "y": 277,
+        "w": 58,
+        "h": 97
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 72,
+        "y": 54,
+        "w": 58,
+        "h": 97
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_52": {
+      "frame": {
+        "x": 221,
+        "y": 176,
+        "w": 55,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 72,
+        "y": 53,
+        "w": 55,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_53": {
+      "frame": {
+        "x": 234,
+        "y": 0,
+        "w": 54,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 71,
+        "y": 54,
+        "w": 54,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_54": {
+      "frame": {
+        "x": 170,
+        "y": 176,
+        "w": 51,
+        "h": 90
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 71,
+        "y": 54,
+        "w": 51,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_55": {
+      "frame": {
+        "x": 0,
+        "y": 226,
+        "w": 51,
+        "h": 89
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 69,
+        "y": 52,
+        "w": 51,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_56": {
+      "frame": {
+        "x": 175,
+        "y": 88,
+        "w": 50,
+        "h": 88
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 67,
+        "y": 51,
+        "w": 50,
+        "h": 88
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_57": {
+      "frame": {
+        "x": 185,
+        "y": 0,
+        "w": 49,
+        "h": 88
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 65,
+        "y": 49,
+        "w": 49,
+        "h": 88
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_58": {
+      "frame": {
+        "x": 84,
+        "y": 166,
+        "w": 49,
+        "h": 86
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 64,
+        "y": 49,
+        "w": 49,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_59": {
+      "frame": {
+        "x": 0,
+        "y": 176,
+        "w": 50,
+        "h": 84
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 62,
+        "y": 48,
+        "w": 50,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_60": {
+      "frame": {
+        "x": 134,
+        "y": 0,
+        "w": 51,
+        "h": 83
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 60,
+        "y": 47,
+        "w": 51,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_61": {
+      "frame": {
+        "x": 83,
+        "y": 84,
+        "w": 48,
+        "h": 78
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 59,
+        "y": 47,
+        "w": 48,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_62": {
+      "frame": {
+        "x": 0,
+        "y": 129,
+        "w": 47,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 58,
+        "y": 47,
+        "w": 47,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    },
+    "aegis_pod2_63": {
+      "frame": {
+        "x": 89,
+        "y": 0,
+        "w": 45,
+        "h": 76
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 58,
+        "y": 47,
+        "w": 45,
+        "h": 76
+      },
+      "sourceSize": {
+        "w": 163,
+        "h": 219
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "aegis_pod2.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 599,
+      "h": 631
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

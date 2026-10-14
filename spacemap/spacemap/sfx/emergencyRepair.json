@@ -1,0 +1,436 @@
+{
+  "frames": {
+    "emergencyRepair_0": {
+      "frame": {
+        "x": 227,
+        "y": 300,
+        "w": 74,
+        "h": 56
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 41,
+        "w": 74,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "emergencyRepair_1": {
+      "frame": {
+        "x": 169,
+        "y": 338,
+        "w": 76,
+        "h": 58
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 39,
+        "w": 76,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "emergencyRepair_2": {
+      "frame": {
+        "x": 147,
+        "y": 169,
+        "w": 79,
+        "h": 57
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 38,
+        "w": 79,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "emergencyRepair_3": {
+      "frame": {
+        "x": 147,
+        "y": 88,
+        "w": 81,
+        "h": 58
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 36,
+        "w": 81,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "emergencyRepair_4": {
+      "frame": {
+        "x": 148,
+        "y": 0,
+        "w": 82,
+        "h": 57
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 35,
+        "w": 82,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "emergencyRepair_5": {
+      "frame": {
+        "x": 90,
+        "y": 88,
+        "w": 84,
+        "h": 57
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 33,
+        "w": 84,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "emergencyRepair_6": {
+      "frame": {
+        "x": 0,
+        "y": 122,
+        "w": 85,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 32,
+        "w": 85,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "emergencyRepair_7": {
+      "frame": {
+        "x": 93,
+        "y": 0,
+        "w": 88,
+        "h": 55
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 30,
+        "w": 88,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "emergencyRepair_8": {
+      "frame": {
+        "x": 0,
+        "y": 64,
+        "w": 90,
+        "h": 58
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 28,
+        "w": 90,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "emergencyRepair_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 93,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 23,
+        "w": 93,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "emergencyRepair_10": {
+      "frame": {
+        "x": 100,
+        "y": 338,
+        "w": 97,
+        "h": 69
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 19,
+        "w": 97,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "emergencyRepair_11": {
+      "frame": {
+        "x": 0,
+        "y": 366,
+        "w": 100,
+        "h": 75
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 14,
+        "w": 100,
+        "h": 75
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "emergencyRepair_12": {
+      "frame": {
+        "x": 297,
+        "y": 200,
+        "w": 100,
+        "h": 79
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 11,
+        "w": 100,
+        "h": 79
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "emergencyRepair_13": {
+      "frame": {
+        "x": 299,
+        "y": 100,
+        "w": 100,
+        "h": 83
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 8,
+        "w": 100,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "emergencyRepair_14": {
+      "frame": {
+        "x": 299,
+        "y": 0,
+        "w": 100,
+        "h": 87
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 5,
+        "w": 100,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "emergencyRepair_15": {
+      "frame": {
+        "x": 100,
+        "y": 248,
+        "w": 100,
+        "h": 90
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 2,
+        "w": 100,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "emergencyRepair_16": {
+      "frame": {
+        "x": 204,
+        "y": 200,
+        "w": 100,
+        "h": 93
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "emergencyRepair_17": {
+      "frame": {
+        "x": 0,
+        "y": 273,
+        "w": 100,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "emergencyRepair_18": {
+      "frame": {
+        "x": 205,
+        "y": 100,
+        "w": 100,
+        "h": 94
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 94
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "emergencyRepair_19": {
+      "frame": {
+        "x": 205,
+        "y": 0,
+        "w": 100,
+        "h": 94
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 94
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "emergencyRepair_20": {
+      "frame": {
+        "x": 0,
+        "y": 178,
+        "w": 100,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "emergencyRepair.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 386,
+      "h": 441
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

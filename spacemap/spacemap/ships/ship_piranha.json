@@ -1,0 +1,1295 @@
+{
+  "frames": {
+    "ship_piranha_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_1": {
+      "frame": {
+        "x": 155,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_2": {
+      "frame": {
+        "x": 310,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_3": {
+      "frame": {
+        "x": 465,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_4": {
+      "frame": {
+        "x": 620,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_5": {
+      "frame": {
+        "x": 775,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_6": {
+      "frame": {
+        "x": 930,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_7": {
+      "frame": {
+        "x": 1085,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_8": {
+      "frame": {
+        "x": 0,
+        "y": 138,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_9": {
+      "frame": {
+        "x": 155,
+        "y": 138,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_10": {
+      "frame": {
+        "x": 310,
+        "y": 138,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_11": {
+      "frame": {
+        "x": 465,
+        "y": 138,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_12": {
+      "frame": {
+        "x": 620,
+        "y": 138,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_13": {
+      "frame": {
+        "x": 775,
+        "y": 138,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_14": {
+      "frame": {
+        "x": 930,
+        "y": 138,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_15": {
+      "frame": {
+        "x": 1085,
+        "y": 138,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_16": {
+      "frame": {
+        "x": 0,
+        "y": 276,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_17": {
+      "frame": {
+        "x": 155,
+        "y": 276,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_18": {
+      "frame": {
+        "x": 310,
+        "y": 276,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_19": {
+      "frame": {
+        "x": 465,
+        "y": 276,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_20": {
+      "frame": {
+        "x": 620,
+        "y": 276,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_21": {
+      "frame": {
+        "x": 775,
+        "y": 276,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_22": {
+      "frame": {
+        "x": 930,
+        "y": 276,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_23": {
+      "frame": {
+        "x": 1085,
+        "y": 276,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_24": {
+      "frame": {
+        "x": 0,
+        "y": 414,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_25": {
+      "frame": {
+        "x": 155,
+        "y": 414,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_26": {
+      "frame": {
+        "x": 310,
+        "y": 414,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_27": {
+      "frame": {
+        "x": 465,
+        "y": 414,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_28": {
+      "frame": {
+        "x": 620,
+        "y": 414,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_29": {
+      "frame": {
+        "x": 775,
+        "y": 414,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_30": {
+      "frame": {
+        "x": 930,
+        "y": 414,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_31": {
+      "frame": {
+        "x": 1085,
+        "y": 414,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_32": {
+      "frame": {
+        "x": 0,
+        "y": 552,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_33": {
+      "frame": {
+        "x": 155,
+        "y": 552,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_34": {
+      "frame": {
+        "x": 310,
+        "y": 552,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_35": {
+      "frame": {
+        "x": 465,
+        "y": 552,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_36": {
+      "frame": {
+        "x": 620,
+        "y": 552,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_37": {
+      "frame": {
+        "x": 775,
+        "y": 552,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_38": {
+      "frame": {
+        "x": 930,
+        "y": 552,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_39": {
+      "frame": {
+        "x": 1085,
+        "y": 552,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_40": {
+      "frame": {
+        "x": 0,
+        "y": 690,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_41": {
+      "frame": {
+        "x": 155,
+        "y": 690,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_42": {
+      "frame": {
+        "x": 310,
+        "y": 690,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_43": {
+      "frame": {
+        "x": 465,
+        "y": 690,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_44": {
+      "frame": {
+        "x": 620,
+        "y": 690,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_45": {
+      "frame": {
+        "x": 775,
+        "y": 690,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_46": {
+      "frame": {
+        "x": 930,
+        "y": 690,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_47": {
+      "frame": {
+        "x": 1085,
+        "y": 690,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_48": {
+      "frame": {
+        "x": 0,
+        "y": 828,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_49": {
+      "frame": {
+        "x": 155,
+        "y": 828,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_50": {
+      "frame": {
+        "x": 310,
+        "y": 828,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_51": {
+      "frame": {
+        "x": 465,
+        "y": 828,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_52": {
+      "frame": {
+        "x": 620,
+        "y": 828,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_53": {
+      "frame": {
+        "x": 775,
+        "y": 828,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_54": {
+      "frame": {
+        "x": 930,
+        "y": 828,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_55": {
+      "frame": {
+        "x": 1085,
+        "y": 828,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_56": {
+      "frame": {
+        "x": 0,
+        "y": 966,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_57": {
+      "frame": {
+        "x": 155,
+        "y": 966,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_58": {
+      "frame": {
+        "x": 310,
+        "y": 966,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_59": {
+      "frame": {
+        "x": 465,
+        "y": 966,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_60": {
+      "frame": {
+        "x": 620,
+        "y": 966,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_61": {
+      "frame": {
+        "x": 775,
+        "y": 966,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_62": {
+      "frame": {
+        "x": 930,
+        "y": 966,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    },
+    "ship_piranha_63": {
+      "frame": {
+        "x": 1085,
+        "y": 966,
+        "w": 155,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 155,
+        "h": 138
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Atlas Generator v2",
+    "version": "1.0",
+    "image": "ship_piranha.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1240,
+      "h": 1104
+    },
+    "scale": 1
+  }
+}

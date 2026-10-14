@@ -1,0 +1,1676 @@
+{
+  "frames": {
+    "bosskristallon_0": {
+      "frame": {
+        "x": 1314,
+        "y": 1405,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_1": {
+      "frame": {
+        "x": 1465,
+        "y": 692,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_2": {
+      "frame": {
+        "x": 1305,
+        "y": 534,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_3": {
+      "frame": {
+        "x": 834,
+        "y": 1241,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_4": {
+      "frame": {
+        "x": 1133,
+        "y": 178,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_5": {
+      "frame": {
+        "x": 973,
+        "y": 178,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_6": {
+      "frame": {
+        "x": 813,
+        "y": 178,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_7": {
+      "frame": {
+        "x": 333,
+        "y": 519,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_8": {
+      "frame": {
+        "x": 0,
+        "y": 320,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_10": {
+      "frame": {
+        "x": 1469,
+        "y": 519,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_11": {
+      "frame": {
+        "x": 1469,
+        "y": 346,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_12": {
+      "frame": {
+        "x": 1469,
+        "y": 173,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_13": {
+      "frame": {
+        "x": 1469,
+        "y": 0,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_14": {
+      "frame": {
+        "x": 658,
+        "y": 1419,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_15": {
+      "frame": {
+        "x": 498,
+        "y": 1419,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_16": {
+      "frame": {
+        "x": 1154,
+        "y": 1419,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_17": {
+      "frame": {
+        "x": 338,
+        "y": 1419,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_18": {
+      "frame": {
+        "x": 994,
+        "y": 1419,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_19": {
+      "frame": {
+        "x": 178,
+        "y": 1419,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_20": {
+      "frame": {
+        "x": 834,
+        "y": 1414,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_21": {
+      "frame": {
+        "x": 0,
+        "y": 1452,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_22": {
+      "frame": {
+        "x": 1176,
+        "y": 885,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_23": {
+      "frame": {
+        "x": 1162,
+        "y": 1049,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_24": {
+      "frame": {
+        "x": 1158,
+        "y": 1227,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_25": {
+      "frame": {
+        "x": 1305,
+        "y": 356,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_26": {
+      "frame": {
+        "x": 1305,
+        "y": 178,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_27": {
+      "frame": {
+        "x": 1305,
+        "y": 0,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_28": {
+      "frame": {
+        "x": 1149,
+        "y": 707,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_29": {
+      "frame": {
+        "x": 994,
+        "y": 1241,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_30": {
+      "frame": {
+        "x": 670,
+        "y": 1241,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_31": {
+      "frame": {
+        "x": 506,
+        "y": 1241,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_32": {
+      "frame": {
+        "x": 342,
+        "y": 1241,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_33": {
+      "frame": {
+        "x": 178,
+        "y": 1241,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_34": {
+      "frame": {
+        "x": 0,
+        "y": 1288,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_35": {
+      "frame": {
+        "x": 998,
+        "y": 1049,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_36": {
+      "frame": {
+        "x": 998,
+        "y": 885,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_37": {
+      "frame": {
+        "x": 1141,
+        "y": 529,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_38": {
+      "frame": {
+        "x": 1141,
+        "y": 351,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_39": {
+      "frame": {
+        "x": 1141,
+        "y": 0,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_40": {
+      "frame": {
+        "x": 985,
+        "y": 707,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_41": {
+      "frame": {
+        "x": 834,
+        "y": 1063,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_42": {
+      "frame": {
+        "x": 670,
+        "y": 1063,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_43": {
+      "frame": {
+        "x": 506,
+        "y": 1063,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_44": {
+      "frame": {
+        "x": 342,
+        "y": 1063,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_45": {
+      "frame": {
+        "x": 178,
+        "y": 1063,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_46": {
+      "frame": {
+        "x": 0,
+        "y": 1124,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_47": {
+      "frame": {
+        "x": 834,
+        "y": 885,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_48": {
+      "frame": {
+        "x": 977,
+        "y": 529,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_49": {
+      "frame": {
+        "x": 977,
+        "y": 351,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_50": {
+      "frame": {
+        "x": 977,
+        "y": 0,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_51": {
+      "frame": {
+        "x": 821,
+        "y": 707,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_52": {
+      "frame": {
+        "x": 670,
+        "y": 885,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_53": {
+      "frame": {
+        "x": 506,
+        "y": 885,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_54": {
+      "frame": {
+        "x": 342,
+        "y": 885,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_55": {
+      "frame": {
+        "x": 178,
+        "y": 885,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_56": {
+      "frame": {
+        "x": 0,
+        "y": 960,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_57": {
+      "frame": {
+        "x": 657,
+        "y": 707,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_58": {
+      "frame": {
+        "x": 813,
+        "y": 529,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_59": {
+      "frame": {
+        "x": 813,
+        "y": 351,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_60": {
+      "frame": {
+        "x": 813,
+        "y": 0,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_61": {
+      "frame": {
+        "x": 493,
+        "y": 692,
+        "w": 178,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 15,
+        "w": 178,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_62": {
+      "frame": {
+        "x": 333,
+        "y": 692,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_63": {
+      "frame": {
+        "x": 173,
+        "y": 692,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_64": {
+      "frame": {
+        "x": 0,
+        "y": 800,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_65": {
+      "frame": {
+        "x": 653,
+        "y": 519,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_66": {
+      "frame": {
+        "x": 653,
+        "y": 346,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_67": {
+      "frame": {
+        "x": 653,
+        "y": 173,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_68": {
+      "frame": {
+        "x": 653,
+        "y": 0,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_69": {
+      "frame": {
+        "x": 493,
+        "y": 519,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_70": {
+      "frame": {
+        "x": 173,
+        "y": 519,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_71": {
+      "frame": {
+        "x": 0,
+        "y": 640,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_72": {
+      "frame": {
+        "x": 493,
+        "y": 346,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_73": {
+      "frame": {
+        "x": 493,
+        "y": 173,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_74": {
+      "frame": {
+        "x": 493,
+        "y": 0,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_75": {
+      "frame": {
+        "x": 333,
+        "y": 346,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_76": {
+      "frame": {
+        "x": 173,
+        "y": 346,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_77": {
+      "frame": {
+        "x": 0,
+        "y": 480,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_78": {
+      "frame": {
+        "x": 333,
+        "y": 173,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_79": {
+      "frame": {
+        "x": 333,
+        "y": 0,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_80": {
+      "frame": {
+        "x": 173,
+        "y": 173,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_81": {
+      "frame": {
+        "x": 173,
+        "y": 0,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    },
+    "bosskristallon_82": {
+      "frame": {
+        "x": 0,
+        "y": 160,
+        "w": 173,
+        "h": 160
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 18,
+        "w": 173,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 188
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "bosskristallon.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1629,
+      "h": 1616
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

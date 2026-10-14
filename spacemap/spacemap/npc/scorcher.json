@@ -1,0 +1,676 @@
+{
+  "frames": {
+    "scorcher_0": {
+      "frame": {
+        "x": 95,
+        "y": 439,
+        "w": 75,
+        "h": 96
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 24,
+        "w": 75,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 143
+      }
+    },
+    "scorcher_1": {
+      "frame": {
+        "x": 0,
+        "y": 447,
+        "w": 74,
+        "h": 95
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 24,
+        "w": 74,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 143
+      }
+    },
+    "scorcher_2": {
+      "frame": {
+        "x": 0,
+        "y": 375,
+        "w": 72,
+        "h": 95
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 41,
+        "y": 23,
+        "w": 72,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 143
+      }
+    },
+    "scorcher_3": {
+      "frame": {
+        "x": 249,
+        "y": 0,
+        "w": 77,
+        "h": 92
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 23,
+        "w": 77,
+        "h": 92
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 143
+      }
+    },
+    "scorcher_4": {
+      "frame": {
+        "x": 86,
+        "y": 137,
+        "w": 79,
+        "h": 89
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 25,
+        "w": 79,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 143
+      }
+    },
+    "scorcher_5": {
+      "frame": {
+        "x": 168,
+        "y": 0,
+        "w": 81,
+        "h": 88
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": 28,
+        "w": 81,
+        "h": 88
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 143
+      }
+    },
+    "scorcher_6": {
+      "frame": {
+        "x": 0,
+        "y": 137,
+        "w": 86,
+        "h": 83
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 33,
+        "w": 86,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 143
+      }
+    },
+    "scorcher_7": {
+      "frame": {
+        "x": 90,
+        "y": 0,
+        "w": 88,
+        "h": 78
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 38,
+        "w": 88,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 143
+      }
+    },
+    "scorcher_8": {
+      "frame": {
+        "x": 0,
+        "y": 67,
+        "w": 90,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 44,
+        "w": 90,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 143
+      }
+    },
+    "scorcher_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 88,
+        "h": 67
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 44,
+        "w": 88,
+        "h": 67
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 143
+      }
+    },
+    "scorcher_10": {
+      "frame": {
+        "x": 390,
+        "y": 178,
+        "w": 86,
+        "h": 63
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 44,
+        "w": 86,
+        "h": 63
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 143
+      }
+    },
+    "scorcher_11": {
+      "frame": {
+        "x": 397,
+        "y": 0,
+        "w": 81,
+        "h": 58
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 45,
+        "w": 81,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 143
+      }
+    },
+    "scorcher_12": {
+      "frame": {
+        "x": 286,
+        "y": 391,
+        "w": 80,
+        "h": 51
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30,
+        "y": 48,
+        "w": 80,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 143
+      }
+    },
+    "scorcher_13": {
+      "frame": {
+        "x": 307,
+        "y": 344,
+        "w": 77,
+        "h": 47
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 34,
+        "y": 51,
+        "w": 77,
+        "h": 47
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 143
+      }
+    },
+    "scorcher_14": {
+      "frame": {
+        "x": 260,
+        "y": 272,
+        "w": 73,
+        "h": 47
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 49,
+        "w": 73,
+        "h": 47
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 143
+      }
+    },
+    "scorcher_15": {
+      "frame": {
+        "x": 239,
+        "y": 366,
+        "w": 73,
+        "h": 47
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 37,
+        "y": 48,
+        "w": 73,
+        "h": 47
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 143
+      }
+    },
+    "scorcher_16": {
+      "frame": {
+        "x": 191,
+        "y": 366,
+        "w": 75,
+        "h": 48
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33,
+        "y": 47,
+        "w": 75,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 143
+      }
+    },
+    "scorcher_17": {
+      "frame": {
+        "x": 143,
+        "y": 366,
+        "w": 73,
+        "h": 48
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 48,
+        "w": 73,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 143
+      }
+    },
+    "scorcher_18": {
+      "frame": {
+        "x": 95,
+        "y": 366,
+        "w": 72,
+        "h": 48
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30,
+        "y": 49,
+        "w": 72,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 143
+      }
+    },
+    "scorcher_19": {
+      "frame": {
+        "x": 90,
+        "y": 88,
+        "w": 76,
+        "h": 47
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 51,
+        "w": 76,
+        "h": 47
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 143
+      }
+    },
+    "scorcher_20": {
+      "frame": {
+        "x": 96,
+        "y": 216,
+        "w": 79,
+        "h": 52
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33,
+        "y": 48,
+        "w": 79,
+        "h": 52
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 143
+      }
+    },
+    "scorcher_21": {
+      "frame": {
+        "x": 326,
+        "y": 264,
+        "w": 80,
+        "h": 58
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 34,
+        "y": 46,
+        "w": 80,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 143
+      }
+    },
+    "scorcher_22": {
+      "frame": {
+        "x": 326,
+        "y": 178,
+        "w": 86,
+        "h": 64
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30,
+        "y": 45,
+        "w": 86,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 143
+      }
+    },
+    "scorcher_23": {
+      "frame": {
+        "x": 326,
+        "y": 90,
+        "w": 88,
+        "h": 68
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": 45,
+        "w": 88,
+        "h": 68
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 143
+      }
+    },
+    "scorcher_24": {
+      "frame": {
+        "x": 326,
+        "y": 0,
+        "w": 90,
+        "h": 71
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 45,
+        "w": 90,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 143
+      }
+    },
+    "scorcher_25": {
+      "frame": {
+        "x": 248,
+        "y": 184,
+        "w": 88,
+        "h": 78
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": 39,
+        "w": 88,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 143
+      }
+    },
+    "scorcher_26": {
+      "frame": {
+        "x": 177,
+        "y": 279,
+        "w": 87,
+        "h": 83
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30,
+        "y": 34,
+        "w": 87,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 143
+      }
+    },
+    "scorcher_27": {
+      "frame": {
+        "x": 96,
+        "y": 279,
+        "w": 81,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 30,
+        "w": 81,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 143
+      }
+    },
+    "scorcher_28": {
+      "frame": {
+        "x": 0,
+        "y": 295,
+        "w": 80,
+        "h": 90
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33,
+        "y": 26,
+        "w": 80,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 143
+      }
+    },
+    "scorcher_29": {
+      "frame": {
+        "x": 249,
+        "y": 92,
+        "w": 77,
+        "h": 90
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 24,
+        "w": 77,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 143
+      }
+    },
+    "scorcher_30": {
+      "frame": {
+        "x": 175,
+        "y": 184,
+        "w": 73,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 23,
+        "w": 73,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 143
+      }
+    },
+    "scorcher_31": {
+      "frame": {
+        "x": 175,
+        "y": 88,
+        "w": 74,
+        "h": 96
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33,
+        "y": 24,
+        "w": 74,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 143
+      }
+    },
+    "scorcher_32": {
+      "frame": {
+        "x": 0,
+        "y": 220,
+        "w": 75,
+        "h": 96
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 24,
+        "w": 75,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 143
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "scorcher.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 455,
+      "h": 521
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "frames": {
+    "laserExplosion1_0": {
+      "frame": {
+        "x": 337,
+        "y": 251,
+        "w": 56,
+        "h": 57
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 48,
+        "y": 48,
+        "w": 56,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 150
+      }
+    },
+    "laserExplosion1_1": {
+      "frame": {
+        "x": 337,
+        "y": 136,
+        "w": 110,
+        "h": 115
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 18,
+        "w": 110,
+        "h": 115
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 150
+      }
+    },
+    "laserExplosion1_2": {
+      "frame": {
+        "x": 140,
+        "y": 282,
+        "w": 142,
+        "h": 140
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 6,
+        "w": 142,
+        "h": 140
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 150
+      }
+    },
+    "laserExplosion1_3": {
+      "frame": {
+        "x": 0,
+        "y": 318,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 6,
+        "w": 140,
+        "h": 140
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 150
+      }
+    },
+    "laserExplosion1_4": {
+      "frame": {
+        "x": 147,
+        "y": 147,
+        "w": 135,
+        "h": 134
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 8,
+        "w": 135,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 150
+      }
+    },
+    "laserExplosion1_5": {
+      "frame": {
+        "x": 233,
+        "y": 0,
+        "w": 127,
+        "h": 126
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 12,
+        "w": 127,
+        "h": 126
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 150
+      }
+    },
+    "laserExplosion1_6": {
+      "frame": {
+        "x": 0,
+        "y": 202,
+        "w": 136,
+        "h": 116
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 17,
+        "w": 136,
+        "h": 116
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 150
+      }
+    },
+    "laserExplosion1_7": {
+      "frame": {
+        "x": 147,
+        "y": 0,
+        "w": 147,
+        "h": 86
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 36,
+        "w": 147,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 150
+      }
+    },
+    "laserExplosion1_8": {
+      "frame": {
+        "x": 0,
+        "y": 108,
+        "w": 147,
+        "h": 94
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 29,
+        "w": 147,
+        "h": 94
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 150
+      }
+    },
+    "laserExplosion1_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 147,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 22,
+        "w": 147,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 150
+      }
+    },
+    "laserExplosion1_10": {
+      "frame": {
+        "x": 359,
+        "y": 0,
+        "w": 136,
+        "h": 88
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 32,
+        "w": 136,
+        "h": 88
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 150
+      }
+    },
+    "laserExplosion1_11": {
+      "frame": {
+        "x": 281,
+        "y": 265,
+        "w": 55,
+        "h": 56
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 49,
+        "y": 48,
+        "w": 55,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 150
+      }
+    },
+    "laserExplosion1_12": {
+      "frame": {
+        "x": 281,
+        "y": 213,
+        "w": 52,
+        "h": 52
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 52,
+        "y": 52,
+        "w": 52,
+        "h": 52
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 150
+      }
+    },
+    "laserExplosion1_13": {
+      "frame": {
+        "x": 281,
+        "y": 170,
+        "w": 52,
+        "h": 43
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 52,
+        "y": 54,
+        "w": 52,
+        "h": 43
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 150
+      }
+    },
+    "laserExplosion1_14": {
+      "frame": {
+        "x": 281,
+        "y": 127,
+        "w": 52,
+        "h": 43
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 52,
+        "y": 54,
+        "w": 52,
+        "h": 43
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 150
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "laserExplosion1.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 447,
+      "h": 458
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

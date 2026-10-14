@@ -1,0 +1,1295 @@
+{
+  "frames": {
+    "ship_leonov_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_1": {
+      "frame": {
+        "x": 186,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_2": {
+      "frame": {
+        "x": 372,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_3": {
+      "frame": {
+        "x": 558,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_4": {
+      "frame": {
+        "x": 744,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_5": {
+      "frame": {
+        "x": 930,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_6": {
+      "frame": {
+        "x": 1116,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_7": {
+      "frame": {
+        "x": 1302,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_8": {
+      "frame": {
+        "x": 0,
+        "y": 165,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_9": {
+      "frame": {
+        "x": 186,
+        "y": 165,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_10": {
+      "frame": {
+        "x": 372,
+        "y": 165,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_11": {
+      "frame": {
+        "x": 558,
+        "y": 165,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_12": {
+      "frame": {
+        "x": 744,
+        "y": 165,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_13": {
+      "frame": {
+        "x": 930,
+        "y": 165,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_14": {
+      "frame": {
+        "x": 1116,
+        "y": 165,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_15": {
+      "frame": {
+        "x": 1302,
+        "y": 165,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_16": {
+      "frame": {
+        "x": 0,
+        "y": 330,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_17": {
+      "frame": {
+        "x": 186,
+        "y": 330,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_18": {
+      "frame": {
+        "x": 372,
+        "y": 330,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_19": {
+      "frame": {
+        "x": 558,
+        "y": 330,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_20": {
+      "frame": {
+        "x": 744,
+        "y": 330,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_21": {
+      "frame": {
+        "x": 930,
+        "y": 330,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_22": {
+      "frame": {
+        "x": 1116,
+        "y": 330,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_23": {
+      "frame": {
+        "x": 1302,
+        "y": 330,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_24": {
+      "frame": {
+        "x": 0,
+        "y": 495,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_25": {
+      "frame": {
+        "x": 186,
+        "y": 495,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_26": {
+      "frame": {
+        "x": 372,
+        "y": 495,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_27": {
+      "frame": {
+        "x": 558,
+        "y": 495,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_28": {
+      "frame": {
+        "x": 744,
+        "y": 495,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_29": {
+      "frame": {
+        "x": 930,
+        "y": 495,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_30": {
+      "frame": {
+        "x": 1116,
+        "y": 495,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_31": {
+      "frame": {
+        "x": 1302,
+        "y": 495,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_32": {
+      "frame": {
+        "x": 0,
+        "y": 660,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_33": {
+      "frame": {
+        "x": 186,
+        "y": 660,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_34": {
+      "frame": {
+        "x": 372,
+        "y": 660,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_35": {
+      "frame": {
+        "x": 558,
+        "y": 660,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_36": {
+      "frame": {
+        "x": 744,
+        "y": 660,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_37": {
+      "frame": {
+        "x": 930,
+        "y": 660,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_38": {
+      "frame": {
+        "x": 1116,
+        "y": 660,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_39": {
+      "frame": {
+        "x": 1302,
+        "y": 660,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_40": {
+      "frame": {
+        "x": 0,
+        "y": 825,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_41": {
+      "frame": {
+        "x": 186,
+        "y": 825,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_42": {
+      "frame": {
+        "x": 372,
+        "y": 825,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_43": {
+      "frame": {
+        "x": 558,
+        "y": 825,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_44": {
+      "frame": {
+        "x": 744,
+        "y": 825,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_45": {
+      "frame": {
+        "x": 930,
+        "y": 825,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_46": {
+      "frame": {
+        "x": 1116,
+        "y": 825,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_47": {
+      "frame": {
+        "x": 1302,
+        "y": 825,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_48": {
+      "frame": {
+        "x": 0,
+        "y": 990,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_49": {
+      "frame": {
+        "x": 186,
+        "y": 990,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_50": {
+      "frame": {
+        "x": 372,
+        "y": 990,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_51": {
+      "frame": {
+        "x": 558,
+        "y": 990,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_52": {
+      "frame": {
+        "x": 744,
+        "y": 990,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_53": {
+      "frame": {
+        "x": 930,
+        "y": 990,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_54": {
+      "frame": {
+        "x": 1116,
+        "y": 990,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_55": {
+      "frame": {
+        "x": 1302,
+        "y": 990,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_56": {
+      "frame": {
+        "x": 0,
+        "y": 1155,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_57": {
+      "frame": {
+        "x": 186,
+        "y": 1155,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_58": {
+      "frame": {
+        "x": 372,
+        "y": 1155,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_59": {
+      "frame": {
+        "x": 558,
+        "y": 1155,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_60": {
+      "frame": {
+        "x": 744,
+        "y": 1155,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_61": {
+      "frame": {
+        "x": 930,
+        "y": 1155,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_62": {
+      "frame": {
+        "x": 1116,
+        "y": 1155,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    },
+    "ship_leonov_63": {
+      "frame": {
+        "x": 1302,
+        "y": 1155,
+        "w": 186,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 165
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Atlas Generator v2",
+    "version": "1.0",
+    "image": "ship_leonov.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1488,
+      "h": 1320
+    },
+    "scale": 1
+  }
+}

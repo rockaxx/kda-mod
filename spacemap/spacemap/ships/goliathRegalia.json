@@ -1,0 +1,1295 @@
+{
+  "frames": {
+    "goliathRegalia_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_1": {
+      "frame": {
+        "x": 162,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_2": {
+      "frame": {
+        "x": 324,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_3": {
+      "frame": {
+        "x": 486,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_4": {
+      "frame": {
+        "x": 648,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_5": {
+      "frame": {
+        "x": 810,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_6": {
+      "frame": {
+        "x": 972,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_7": {
+      "frame": {
+        "x": 1134,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_8": {
+      "frame": {
+        "x": 0,
+        "y": 130,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_9": {
+      "frame": {
+        "x": 162,
+        "y": 130,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_10": {
+      "frame": {
+        "x": 324,
+        "y": 130,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_11": {
+      "frame": {
+        "x": 486,
+        "y": 130,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_12": {
+      "frame": {
+        "x": 648,
+        "y": 130,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_13": {
+      "frame": {
+        "x": 810,
+        "y": 130,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_14": {
+      "frame": {
+        "x": 972,
+        "y": 130,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_15": {
+      "frame": {
+        "x": 1134,
+        "y": 130,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_16": {
+      "frame": {
+        "x": 0,
+        "y": 260,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_17": {
+      "frame": {
+        "x": 162,
+        "y": 260,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_18": {
+      "frame": {
+        "x": 324,
+        "y": 260,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_19": {
+      "frame": {
+        "x": 486,
+        "y": 260,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_20": {
+      "frame": {
+        "x": 648,
+        "y": 260,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_21": {
+      "frame": {
+        "x": 810,
+        "y": 260,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_22": {
+      "frame": {
+        "x": 972,
+        "y": 260,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_23": {
+      "frame": {
+        "x": 1134,
+        "y": 260,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_24": {
+      "frame": {
+        "x": 0,
+        "y": 390,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_25": {
+      "frame": {
+        "x": 162,
+        "y": 390,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_26": {
+      "frame": {
+        "x": 324,
+        "y": 390,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_27": {
+      "frame": {
+        "x": 486,
+        "y": 390,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_28": {
+      "frame": {
+        "x": 648,
+        "y": 390,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_29": {
+      "frame": {
+        "x": 810,
+        "y": 390,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_30": {
+      "frame": {
+        "x": 972,
+        "y": 390,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_31": {
+      "frame": {
+        "x": 1134,
+        "y": 390,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_32": {
+      "frame": {
+        "x": 0,
+        "y": 520,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_33": {
+      "frame": {
+        "x": 162,
+        "y": 520,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_34": {
+      "frame": {
+        "x": 324,
+        "y": 520,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_35": {
+      "frame": {
+        "x": 486,
+        "y": 520,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_36": {
+      "frame": {
+        "x": 648,
+        "y": 520,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_37": {
+      "frame": {
+        "x": 810,
+        "y": 520,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_38": {
+      "frame": {
+        "x": 972,
+        "y": 520,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_39": {
+      "frame": {
+        "x": 1134,
+        "y": 520,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_40": {
+      "frame": {
+        "x": 0,
+        "y": 650,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_41": {
+      "frame": {
+        "x": 162,
+        "y": 650,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_42": {
+      "frame": {
+        "x": 324,
+        "y": 650,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_43": {
+      "frame": {
+        "x": 486,
+        "y": 650,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_44": {
+      "frame": {
+        "x": 648,
+        "y": 650,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_45": {
+      "frame": {
+        "x": 810,
+        "y": 650,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_46": {
+      "frame": {
+        "x": 972,
+        "y": 650,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_47": {
+      "frame": {
+        "x": 1134,
+        "y": 650,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_48": {
+      "frame": {
+        "x": 0,
+        "y": 780,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_49": {
+      "frame": {
+        "x": 162,
+        "y": 780,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_50": {
+      "frame": {
+        "x": 324,
+        "y": 780,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_51": {
+      "frame": {
+        "x": 486,
+        "y": 780,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_52": {
+      "frame": {
+        "x": 648,
+        "y": 780,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_53": {
+      "frame": {
+        "x": 810,
+        "y": 780,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_54": {
+      "frame": {
+        "x": 972,
+        "y": 780,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_55": {
+      "frame": {
+        "x": 1134,
+        "y": 780,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_56": {
+      "frame": {
+        "x": 0,
+        "y": 910,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_57": {
+      "frame": {
+        "x": 162,
+        "y": 910,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_58": {
+      "frame": {
+        "x": 324,
+        "y": 910,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_59": {
+      "frame": {
+        "x": 486,
+        "y": 910,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_60": {
+      "frame": {
+        "x": 648,
+        "y": 910,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_61": {
+      "frame": {
+        "x": 810,
+        "y": 910,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_62": {
+      "frame": {
+        "x": 972,
+        "y": 910,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    },
+    "goliathRegalia_63": {
+      "frame": {
+        "x": 1134,
+        "y": 910,
+        "w": 162,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 130
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Atlas Generator v2",
+    "version": "1.0",
+    "image": "goliathRegalia.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1296,
+      "h": 1040
+    },
+    "scale": 1
+  }
+}

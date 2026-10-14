@@ -1,0 +1,656 @@
+{
+  "frames": {
+    "edaxil_0": {
+      "frame": {
+        "x": 784,
+        "y": 181,
+        "w": 185,
+        "h": 114
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 38,
+        "w": 185,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "edaxil_1": {
+      "frame": {
+        "x": 784,
+        "y": 0,
+        "w": 181,
+        "h": 114
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 35,
+        "w": 181,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "edaxil_2": {
+      "frame": {
+        "x": 537,
+        "y": 322,
+        "w": 169,
+        "h": 117
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 32,
+        "w": 169,
+        "h": 117
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "edaxil_3": {
+      "frame": {
+        "x": 296,
+        "y": 312,
+        "w": 153,
+        "h": 123
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 29,
+        "w": 153,
+        "h": 123
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "edaxil_4": {
+      "frame": {
+        "x": 300,
+        "y": 0,
+        "w": 130,
+        "h": 125
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 37,
+        "y": 28,
+        "w": 130,
+        "h": 125
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "edaxil_5": {
+      "frame": {
+        "x": 155,
+        "y": 262,
+        "w": 141,
+        "h": 126
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": 27,
+        "w": 141,
+        "h": 126
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "edaxil_6": {
+      "frame": {
+        "x": 0,
+        "y": 262,
+        "w": 155,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 22,
+        "y": 27,
+        "w": 155,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "edaxil_7": {
+      "frame": {
+        "x": 170,
+        "y": 0,
+        "w": 166,
+        "h": 130
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 29,
+        "w": 166,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "edaxil_8": {
+      "frame": {
+        "x": 0,
+        "y": 131,
+        "w": 170,
+        "h": 131
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 30,
+        "w": 170,
+        "h": 131
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "edaxil_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 166,
+        "h": 131
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 33,
+        "w": 166,
+        "h": 131
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "edaxil_10": {
+      "frame": {
+        "x": 611,
+        "y": 661,
+        "w": 157,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 36,
+        "w": 157,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "edaxil_11": {
+      "frame": {
+        "x": 656,
+        "y": 455,
+        "w": 143,
+        "h": 125
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30,
+        "y": 40,
+        "w": 143,
+        "h": 125
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "edaxil_12": {
+      "frame": {
+        "x": 654,
+        "y": 322,
+        "w": 133,
+        "h": 130
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 38,
+        "w": 133,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "edaxil_13": {
+      "frame": {
+        "x": 455,
+        "y": 727,
+        "w": 156,
+        "h": 132
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 37,
+        "w": 156,
+        "h": 132
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "edaxil_14": {
+      "frame": {
+        "x": 283,
+        "y": 727,
+        "w": 172,
+        "h": 132
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 36,
+        "w": 172,
+        "h": 132
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "edaxil_15": {
+      "frame": {
+        "x": 0,
+        "y": 739,
+        "w": 181,
+        "h": 131
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 36,
+        "w": 181,
+        "h": 131
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "edaxil_16": {
+      "frame": {
+        "x": 657,
+        "y": 0,
+        "w": 186,
+        "h": 127
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 37,
+        "w": 186,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "edaxil_17": {
+      "frame": {
+        "x": 283,
+        "y": 606,
+        "w": 181,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 39,
+        "w": 181,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "edaxil_18": {
+      "frame": {
+        "x": 537,
+        "y": 491,
+        "w": 170,
+        "h": 119
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 37,
+        "w": 170,
+        "h": 119
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "edaxil_19": {
+      "frame": {
+        "x": 130,
+        "y": 616,
+        "w": 153,
+        "h": 123
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 34,
+        "w": 153,
+        "h": 123
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "edaxil_20": {
+      "frame": {
+        "x": 0,
+        "y": 616,
+        "w": 130,
+        "h": 123
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 32,
+        "w": 130,
+        "h": 123
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "edaxil_21": {
+      "frame": {
+        "x": 292,
+        "y": 465,
+        "w": 141,
+        "h": 121
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 31,
+        "w": 141,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "edaxil_22": {
+      "frame": {
+        "x": 537,
+        "y": 166,
+        "w": 156,
+        "h": 118
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 31,
+        "w": 156,
+        "h": 118
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "edaxil_23": {
+      "frame": {
+        "x": 537,
+        "y": 0,
+        "w": 166,
+        "h": 120
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 31,
+        "w": 166,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "edaxil_24": {
+      "frame": {
+        "x": 172,
+        "y": 388,
+        "w": 169,
+        "h": 120
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 32,
+        "w": 169,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "edaxil_25": {
+      "frame": {
+        "x": 419,
+        "y": 431,
+        "w": 165,
+        "h": 118
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 34,
+        "w": 165,
+        "h": 118
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "edaxil_26": {
+      "frame": {
+        "x": 0,
+        "y": 503,
+        "w": 157,
+        "h": 113
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 37,
+        "w": 157,
+        "h": 113
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "edaxil_27": {
+      "frame": {
+        "x": 419,
+        "y": 288,
+        "w": 143,
+        "h": 113
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 39,
+        "w": 143,
+        "h": 113
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "edaxil_28": {
+      "frame": {
+        "x": 419,
+        "y": 155,
+        "w": 133,
+        "h": 112
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 34,
+        "y": 41,
+        "w": 133,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "edaxil_29": {
+      "frame": {
+        "x": 425,
+        "y": 0,
+        "w": 155,
+        "h": 112
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 42,
+        "w": 155,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "edaxil_30": {
+      "frame": {
+        "x": 0,
+        "y": 391,
+        "w": 172,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 43,
+        "w": 172,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "edaxil_31": {
+      "frame": {
+        "x": 300,
+        "y": 130,
+        "w": 182,
+        "h": 111
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 42,
+        "w": 182,
+        "h": 111
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "edaxil.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 898,
+      "h": 870
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

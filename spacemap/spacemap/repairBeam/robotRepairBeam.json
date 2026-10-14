@@ -1,0 +1,896 @@
+{
+  "frames": {
+    "robotRepairBeam_0": {
+      "frame": {
+        "x": 858,
+        "y": 857,
+        "w": 99,
+        "h": 429
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 159,
+        "y": 0,
+        "w": 99,
+        "h": 429
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_1": {
+      "frame": {
+        "x": 1174,
+        "y": 858,
+        "w": 100,
+        "h": 431
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 159,
+        "y": 0,
+        "w": 100,
+        "h": 431
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_2": {
+      "frame": {
+        "x": 1007,
+        "y": 425,
+        "w": 95,
+        "h": 430
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 159,
+        "y": 0,
+        "w": 95,
+        "h": 430
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_3": {
+      "frame": {
+        "x": 772,
+        "y": 430,
+        "w": 82,
+        "h": 430
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 172,
+        "y": 0,
+        "w": 82,
+        "h": 430
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_4": {
+      "frame": {
+        "x": 548,
+        "y": 0,
+        "w": 84,
+        "h": 430
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 171,
+        "y": 0,
+        "w": 84,
+        "h": 430
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_5": {
+      "frame": {
+        "x": 310,
+        "y": 0,
+        "w": 82,
+        "h": 430
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 172,
+        "y": 0,
+        "w": 82,
+        "h": 430
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_6": {
+      "frame": {
+        "x": 226,
+        "y": 0,
+        "w": 84,
+        "h": 430
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 170,
+        "y": 0,
+        "w": 84,
+        "h": 430
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_7": {
+      "frame": {
+        "x": 142,
+        "y": 0,
+        "w": 84,
+        "h": 429
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 170,
+        "y": 0,
+        "w": 84,
+        "h": 429
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_8": {
+      "frame": {
+        "x": 70,
+        "y": 0,
+        "w": 72,
+        "h": 431
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 182,
+        "y": 0,
+        "w": 72,
+        "h": 431
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 430
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 184,
+        "y": 0,
+        "w": 70,
+        "h": 430
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_10": {
+      "frame": {
+        "x": 1102,
+        "y": 852,
+        "w": 72,
+        "h": 429
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 181,
+        "y": 0,
+        "w": 72,
+        "h": 429
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_11": {
+      "frame": {
+        "x": 0,
+        "y": 1264,
+        "w": 74,
+        "h": 430
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 181,
+        "y": 0,
+        "w": 74,
+        "h": 430
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_12": {
+      "frame": {
+        "x": 1192,
+        "y": 429,
+        "w": 76,
+        "h": 429
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 179,
+        "y": 0,
+        "w": 76,
+        "h": 429
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_13": {
+      "frame": {
+        "x": 1207,
+        "y": 0,
+        "w": 70,
+        "h": 429
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 186,
+        "y": 2,
+        "w": 70,
+        "h": 429
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_14": {
+      "frame": {
+        "x": 427,
+        "y": 1162,
+        "w": 84,
+        "h": 426
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 185,
+        "y": 2,
+        "w": 84,
+        "h": 426
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_15": {
+      "frame": {
+        "x": 0,
+        "y": 1167,
+        "w": 97,
+        "h": 427
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 172,
+        "y": 1,
+        "w": 97,
+        "h": 427
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_16": {
+      "frame": {
+        "x": 1102,
+        "y": 426,
+        "w": 90,
+        "h": 426
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 173,
+        "y": 2,
+        "w": 90,
+        "h": 426
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_17": {
+      "frame": {
+        "x": 1108,
+        "y": 0,
+        "w": 99,
+        "h": 426
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 173,
+        "y": 2,
+        "w": 99,
+        "h": 426
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_18": {
+      "frame": {
+        "x": 425,
+        "y": 1065,
+        "w": 97,
+        "h": 425
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 173,
+        "y": 3,
+        "w": 97,
+        "h": 425
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_19": {
+      "frame": {
+        "x": 0,
+        "y": 1065,
+        "w": 102,
+        "h": 425
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 167,
+        "y": 3,
+        "w": 102,
+        "h": 425
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_20": {
+      "frame": {
+        "x": 1007,
+        "y": 0,
+        "w": 101,
+        "h": 425
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 167,
+        "y": 3,
+        "w": 101,
+        "h": 425
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_21": {
+      "frame": {
+        "x": 429,
+        "y": 942,
+        "w": 88,
+        "h": 426
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 165,
+        "y": 3,
+        "w": 88,
+        "h": 426
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_22": {
+      "frame": {
+        "x": 0,
+        "y": 980,
+        "w": 85,
+        "h": 426
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 167,
+        "y": 3,
+        "w": 85,
+        "h": 426
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_23": {
+      "frame": {
+        "x": 927,
+        "y": 428,
+        "w": 77,
+        "h": 427
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 173,
+        "y": 2,
+        "w": 77,
+        "h": 427
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_24": {
+      "frame": {
+        "x": 929,
+        "y": 0,
+        "w": 78,
+        "h": 428
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 173,
+        "y": 2,
+        "w": 78,
+        "h": 428
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_25": {
+      "frame": {
+        "x": 429,
+        "y": 861,
+        "w": 81,
+        "h": 429
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 173,
+        "y": 2,
+        "w": 81,
+        "h": 429
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_26": {
+      "frame": {
+        "x": 0,
+        "y": 906,
+        "w": 74,
+        "h": 429
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 184,
+        "y": 2,
+        "w": 74,
+        "h": 429
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_27": {
+      "frame": {
+        "x": 855,
+        "y": 428,
+        "w": 72,
+        "h": 429
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 185,
+        "y": 2,
+        "w": 72,
+        "h": 429
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_28": {
+      "frame": {
+        "x": 855,
+        "y": 0,
+        "w": 74,
+        "h": 428
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 182,
+        "y": 2,
+        "w": 74,
+        "h": 428
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_29": {
+      "frame": {
+        "x": 683,
+        "y": 431,
+        "w": 84,
+        "h": 430
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 171,
+        "y": 0,
+        "w": 84,
+        "h": 430
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_30": {
+      "frame": {
+        "x": 599,
+        "y": 430,
+        "w": 84,
+        "h": 430
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 170,
+        "y": 1,
+        "w": 84,
+        "h": 430
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_31": {
+      "frame": {
+        "x": 515,
+        "y": 431,
+        "w": 84,
+        "h": 430
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 170,
+        "y": 0,
+        "w": 84,
+        "h": 430
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_32": {
+      "frame": {
+        "x": 431,
+        "y": 429,
+        "w": 84,
+        "h": 431
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 170,
+        "y": 0,
+        "w": 84,
+        "h": 431
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_33": {
+      "frame": {
+        "x": 0,
+        "y": 824,
+        "w": 82,
+        "h": 428
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 172,
+        "y": 1,
+        "w": 82,
+        "h": 428
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_34": {
+      "frame": {
+        "x": 772,
+        "y": 0,
+        "w": 83,
+        "h": 430
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 172,
+        "y": 0,
+        "w": 83,
+        "h": 430
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_35": {
+      "frame": {
+        "x": 0,
+        "y": 747,
+        "w": 77,
+        "h": 429
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 178,
+        "y": 1,
+        "w": 77,
+        "h": 429
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_36": {
+      "frame": {
+        "x": 698,
+        "y": 0,
+        "w": 74,
+        "h": 431
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 180,
+        "y": 0,
+        "w": 74,
+        "h": 431
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_37": {
+      "frame": {
+        "x": 0,
+        "y": 671,
+        "w": 76,
+        "h": 431
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 178,
+        "y": 0,
+        "w": 76,
+        "h": 431
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_38": {
+      "frame": {
+        "x": 632,
+        "y": 0,
+        "w": 66,
+        "h": 428
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 173,
+        "y": 0,
+        "w": 66,
+        "h": 428
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_39": {
+      "frame": {
+        "x": 0,
+        "y": 590,
+        "w": 81,
+        "h": 429
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 179,
+        "y": 0,
+        "w": 81,
+        "h": 429
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_40": {
+      "frame": {
+        "x": 0,
+        "y": 510,
+        "w": 80,
+        "h": 428
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 179,
+        "y": 1,
+        "w": 80,
+        "h": 428
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_41": {
+      "frame": {
+        "x": 468,
+        "y": 0,
+        "w": 80,
+        "h": 429
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 179,
+        "y": 0,
+        "w": 80,
+        "h": 429
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_42": {
+      "frame": {
+        "x": 0,
+        "y": 431,
+        "w": 79,
+        "h": 429
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 179,
+        "y": 0,
+        "w": 79,
+        "h": 429
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    },
+    "robotRepairBeam_43": {
+      "frame": {
+        "x": 392,
+        "y": 0,
+        "w": 76,
+        "h": 429
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 183,
+        "y": 0,
+        "w": 76,
+        "h": 429
+      },
+      "sourceSize": {
+        "w": 431,
+        "h": 431
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "robotRepairBeam.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1277,
+      "h": 1338
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

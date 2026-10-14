@@ -1,0 +1,1295 @@
+{
+  "frames": {
+    "ship_defcom_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_1": {
+      "frame": {
+        "x": 95,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_2": {
+      "frame": {
+        "x": 190,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_3": {
+      "frame": {
+        "x": 285,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_4": {
+      "frame": {
+        "x": 380,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_5": {
+      "frame": {
+        "x": 475,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_6": {
+      "frame": {
+        "x": 570,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_7": {
+      "frame": {
+        "x": 665,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_8": {
+      "frame": {
+        "x": 0,
+        "y": 74,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_9": {
+      "frame": {
+        "x": 95,
+        "y": 74,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_10": {
+      "frame": {
+        "x": 190,
+        "y": 74,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_11": {
+      "frame": {
+        "x": 285,
+        "y": 74,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_12": {
+      "frame": {
+        "x": 380,
+        "y": 74,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_13": {
+      "frame": {
+        "x": 475,
+        "y": 74,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_14": {
+      "frame": {
+        "x": 570,
+        "y": 74,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_15": {
+      "frame": {
+        "x": 665,
+        "y": 74,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_16": {
+      "frame": {
+        "x": 0,
+        "y": 148,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_17": {
+      "frame": {
+        "x": 95,
+        "y": 148,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_18": {
+      "frame": {
+        "x": 190,
+        "y": 148,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_19": {
+      "frame": {
+        "x": 285,
+        "y": 148,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_20": {
+      "frame": {
+        "x": 380,
+        "y": 148,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_21": {
+      "frame": {
+        "x": 475,
+        "y": 148,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_22": {
+      "frame": {
+        "x": 570,
+        "y": 148,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_23": {
+      "frame": {
+        "x": 665,
+        "y": 148,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_24": {
+      "frame": {
+        "x": 0,
+        "y": 222,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_25": {
+      "frame": {
+        "x": 95,
+        "y": 222,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_26": {
+      "frame": {
+        "x": 190,
+        "y": 222,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_27": {
+      "frame": {
+        "x": 285,
+        "y": 222,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_28": {
+      "frame": {
+        "x": 380,
+        "y": 222,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_29": {
+      "frame": {
+        "x": 475,
+        "y": 222,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_30": {
+      "frame": {
+        "x": 570,
+        "y": 222,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_31": {
+      "frame": {
+        "x": 665,
+        "y": 222,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_32": {
+      "frame": {
+        "x": 0,
+        "y": 296,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_33": {
+      "frame": {
+        "x": 95,
+        "y": 296,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_34": {
+      "frame": {
+        "x": 190,
+        "y": 296,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_35": {
+      "frame": {
+        "x": 285,
+        "y": 296,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_36": {
+      "frame": {
+        "x": 380,
+        "y": 296,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_37": {
+      "frame": {
+        "x": 475,
+        "y": 296,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_38": {
+      "frame": {
+        "x": 570,
+        "y": 296,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_39": {
+      "frame": {
+        "x": 665,
+        "y": 296,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_40": {
+      "frame": {
+        "x": 0,
+        "y": 370,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_41": {
+      "frame": {
+        "x": 95,
+        "y": 370,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_42": {
+      "frame": {
+        "x": 190,
+        "y": 370,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_43": {
+      "frame": {
+        "x": 285,
+        "y": 370,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_44": {
+      "frame": {
+        "x": 380,
+        "y": 370,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_45": {
+      "frame": {
+        "x": 475,
+        "y": 370,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_46": {
+      "frame": {
+        "x": 570,
+        "y": 370,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_47": {
+      "frame": {
+        "x": 665,
+        "y": 370,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_48": {
+      "frame": {
+        "x": 0,
+        "y": 444,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_49": {
+      "frame": {
+        "x": 95,
+        "y": 444,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_50": {
+      "frame": {
+        "x": 190,
+        "y": 444,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_51": {
+      "frame": {
+        "x": 285,
+        "y": 444,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_52": {
+      "frame": {
+        "x": 380,
+        "y": 444,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_53": {
+      "frame": {
+        "x": 475,
+        "y": 444,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_54": {
+      "frame": {
+        "x": 570,
+        "y": 444,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_55": {
+      "frame": {
+        "x": 665,
+        "y": 444,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_56": {
+      "frame": {
+        "x": 0,
+        "y": 518,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_57": {
+      "frame": {
+        "x": 95,
+        "y": 518,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_58": {
+      "frame": {
+        "x": 190,
+        "y": 518,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_59": {
+      "frame": {
+        "x": 285,
+        "y": 518,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_60": {
+      "frame": {
+        "x": 380,
+        "y": 518,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_61": {
+      "frame": {
+        "x": 475,
+        "y": 518,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_62": {
+      "frame": {
+        "x": 570,
+        "y": 518,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    },
+    "ship_defcom_63": {
+      "frame": {
+        "x": 665,
+        "y": 518,
+        "w": 95,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 74
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Atlas Generator v2",
+    "version": "1.0",
+    "image": "ship_defcom.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 760,
+      "h": 592
+    },
+    "scale": 1
+  }
+}

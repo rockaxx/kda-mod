@@ -1,0 +1,1156 @@
+{
+  "frames": {
+    "iceExplosion_0": {
+      "frame": {
+        "x": 1183,
+        "y": 1198,
+        "w": 30,
+        "h": 27
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 236,
+        "y": 237,
+        "w": 30,
+        "h": 27
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_1": {
+      "frame": {
+        "x": 2274,
+        "y": 1800,
+        "w": 87,
+        "h": 81
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 211,
+        "w": 87,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_2": {
+      "frame": {
+        "x": 2310,
+        "y": 946,
+        "w": 148,
+        "h": 138
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 181,
+        "y": 185,
+        "w": 148,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_3": {
+      "frame": {
+        "x": 2114,
+        "y": 946,
+        "w": 196,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 158,
+        "y": 163,
+        "w": 196,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_4": {
+      "frame": {
+        "x": 949,
+        "y": 1198,
+        "w": 234,
+        "h": 223
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 141,
+        "y": 146,
+        "w": 234,
+        "h": 223
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_5": {
+      "frame": {
+        "x": 949,
+        "y": 943,
+        "w": 266,
+        "h": 255
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 126,
+        "y": 131,
+        "w": 266,
+        "h": 255
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_6": {
+      "frame": {
+        "x": 355,
+        "y": 317,
+        "w": 293,
+        "h": 283
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 113,
+        "y": 118,
+        "w": 293,
+        "h": 283
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_7": {
+      "frame": {
+        "x": 355,
+        "y": 0,
+        "w": 317,
+        "h": 307
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 102,
+        "y": 107,
+        "w": 317,
+        "h": 307
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_8": {
+      "frame": {
+        "x": 0,
+        "y": 344,
+        "w": 336,
+        "h": 327
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 93,
+        "y": 98,
+        "w": 336,
+        "h": 327
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 355,
+        "h": 344
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 84,
+        "y": 90,
+        "w": 355,
+        "h": 344
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_10": {
+      "frame": {
+        "x": 2460,
+        "y": 2784,
+        "w": 370,
+        "h": 361
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 76,
+        "y": 82,
+        "w": 370,
+        "h": 361
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_11": {
+      "frame": {
+        "x": 2088,
+        "y": 2797,
+        "w": 384,
+        "h": 372
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 69,
+        "y": 77,
+        "w": 384,
+        "h": 372
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_12": {
+      "frame": {
+        "x": 1702,
+        "y": 2804,
+        "w": 395,
+        "h": 386
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 64,
+        "y": 70,
+        "w": 395,
+        "h": 386
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_13": {
+      "frame": {
+        "x": 1306,
+        "y": 2907,
+        "w": 404,
+        "h": 396
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 60,
+        "y": 66,
+        "w": 404,
+        "h": 396
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_14": {
+      "frame": {
+        "x": 425,
+        "y": 2909,
+        "w": 413,
+        "h": 404
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 56,
+        "y": 62,
+        "w": 413,
+        "h": 404
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_15": {
+      "frame": {
+        "x": 893,
+        "y": 2907,
+        "w": 421,
+        "h": 413
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 52,
+        "y": 58,
+        "w": 421,
+        "h": 413
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_16": {
+      "frame": {
+        "x": 0,
+        "y": 2909,
+        "w": 425,
+        "h": 419
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 51,
+        "y": 55,
+        "w": 425,
+        "h": 419
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_17": {
+      "frame": {
+        "x": 2720,
+        "y": 1743,
+        "w": 431,
+        "h": 423
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 48,
+        "y": 53,
+        "w": 431,
+        "h": 423
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_18": {
+      "frame": {
+        "x": 2658,
+        "y": 2339,
+        "w": 434,
+        "h": 429
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 47,
+        "y": 50,
+        "w": 434,
+        "h": 429
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_19": {
+      "frame": {
+        "x": 2900,
+        "y": 1312,
+        "w": 436,
+        "h": 431
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 47,
+        "y": 49,
+        "w": 436,
+        "h": 431
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_20": {
+      "frame": {
+        "x": 2900,
+        "y": 877,
+        "w": 437,
+        "h": 435
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 47,
+        "y": 47,
+        "w": 437,
+        "h": 435
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_21": {
+      "frame": {
+        "x": 2901,
+        "y": 440,
+        "w": 438,
+        "h": 437
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 46,
+        "y": 46,
+        "w": 438,
+        "h": 437
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_22": {
+      "frame": {
+        "x": 2901,
+        "y": 0,
+        "w": 440,
+        "h": 438
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 46,
+        "y": 46,
+        "w": 440,
+        "h": 438
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_23": {
+      "frame": {
+        "x": 2219,
+        "y": 2343,
+        "w": 441,
+        "h": 439
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 45,
+        "y": 45,
+        "w": 441,
+        "h": 439
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_24": {
+      "frame": {
+        "x": 1778,
+        "y": 2355,
+        "w": 442,
+        "h": 441
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 45,
+        "y": 44,
+        "w": 442,
+        "h": 441
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_25": {
+      "frame": {
+        "x": 1336,
+        "y": 2361,
+        "w": 442,
+        "h": 443
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 45,
+        "y": 43,
+        "w": 442,
+        "h": 443
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_26": {
+      "frame": {
+        "x": 893,
+        "y": 2464,
+        "w": 443,
+        "h": 443
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 45,
+        "y": 43,
+        "w": 443,
+        "h": 443
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_27": {
+      "frame": {
+        "x": 447,
+        "y": 2464,
+        "w": 446,
+        "h": 445
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 44,
+        "y": 42,
+        "w": 446,
+        "h": 445
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_28": {
+      "frame": {
+        "x": 0,
+        "y": 2464,
+        "w": 447,
+        "h": 445
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 43,
+        "y": 42,
+        "w": 447,
+        "h": 445
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_29": {
+      "frame": {
+        "x": 2274,
+        "y": 1352,
+        "w": 448,
+        "h": 446
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 43,
+        "y": 41,
+        "w": 448,
+        "h": 446
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_30": {
+      "frame": {
+        "x": 2273,
+        "y": 1891,
+        "w": 448,
+        "h": 447
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 43,
+        "y": 41,
+        "w": 448,
+        "h": 447
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_31": {
+      "frame": {
+        "x": 2453,
+        "y": 902,
+        "w": 450,
+        "h": 447
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 41,
+        "w": 450,
+        "h": 447
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_32": {
+      "frame": {
+        "x": 2453,
+        "y": 451,
+        "w": 451,
+        "h": 447
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 41,
+        "w": 451,
+        "h": 447
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_33": {
+      "frame": {
+        "x": 2453,
+        "y": 0,
+        "w": 451,
+        "h": 448
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 40,
+        "w": 451,
+        "h": 448
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_34": {
+      "frame": {
+        "x": 1825,
+        "y": 1891,
+        "w": 452,
+        "h": 448
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 40,
+        "w": 452,
+        "h": 448
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_35": {
+      "frame": {
+        "x": 1377,
+        "y": 1903,
+        "w": 452,
+        "h": 448
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 40,
+        "w": 452,
+        "h": 448
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_36": {
+      "frame": {
+        "x": 929,
+        "y": 1904,
+        "w": 457,
+        "h": 448
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 37,
+        "y": 40,
+        "w": 457,
+        "h": 448
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_37": {
+      "frame": {
+        "x": 466,
+        "y": 2015,
+        "w": 463,
+        "h": 449
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 39,
+        "w": 463,
+        "h": 449
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_38": {
+      "frame": {
+        "x": 0,
+        "y": 2015,
+        "w": 466,
+        "h": 449
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 39,
+        "w": 466,
+        "h": 449
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_39": {
+      "frame": {
+        "x": 1825,
+        "y": 1423,
+        "w": 468,
+        "h": 449
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 39,
+        "w": 468,
+        "h": 449
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_40": {
+      "frame": {
+        "x": 1665,
+        "y": 952,
+        "w": 471,
+        "h": 449
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 39,
+        "w": 471,
+        "h": 449
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_41": {
+      "frame": {
+        "x": 2003,
+        "y": 474,
+        "w": 472,
+        "h": 450
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 39,
+        "w": 472,
+        "h": 450
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_42": {
+      "frame": {
+        "x": 2003,
+        "y": 0,
+        "w": 474,
+        "h": 450
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 39,
+        "w": 474,
+        "h": 450
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_43": {
+      "frame": {
+        "x": 1375,
+        "y": 1428,
+        "w": 475,
+        "h": 450
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 39,
+        "w": 475,
+        "h": 450
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_44": {
+      "frame": {
+        "x": 926,
+        "y": 1428,
+        "w": 476,
+        "h": 449
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 40,
+        "w": 476,
+        "h": 449
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_45": {
+      "frame": {
+        "x": 477,
+        "y": 1428,
+        "w": 477,
+        "h": 449
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 40,
+        "w": 477,
+        "h": 449
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_46": {
+      "frame": {
+        "x": 0,
+        "y": 1566,
+        "w": 477,
+        "h": 449
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 40,
+        "w": 477,
+        "h": 449
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_47": {
+      "frame": {
+        "x": 1215,
+        "y": 952,
+        "w": 476,
+        "h": 450
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 40,
+        "w": 476,
+        "h": 450
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_48": {
+      "frame": {
+        "x": 1543,
+        "y": 476,
+        "w": 476,
+        "h": 450
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 40,
+        "w": 476,
+        "h": 450
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_49": {
+      "frame": {
+        "x": 1554,
+        "y": 0,
+        "w": 476,
+        "h": 449
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 41,
+        "w": 476,
+        "h": 449
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_50": {
+      "frame": {
+        "x": 474,
+        "y": 935,
+        "w": 475,
+        "h": 449
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 41,
+        "w": 475,
+        "h": 449
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_51": {
+      "frame": {
+        "x": 0,
+        "y": 1117,
+        "w": 474,
+        "h": 449
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 41,
+        "w": 474,
+        "h": 449
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_52": {
+      "frame": {
+        "x": 1095,
+        "y": 471,
+        "w": 472,
+        "h": 448
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 41,
+        "w": 472,
+        "h": 448
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_53": {
+      "frame": {
+        "x": 1106,
+        "y": 0,
+        "w": 471,
+        "h": 448
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 41,
+        "w": 471,
+        "h": 448
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_54": {
+      "frame": {
+        "x": 648,
+        "y": 465,
+        "w": 470,
+        "h": 447
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 25,
+        "y": 42,
+        "w": 470,
+        "h": 447
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_55": {
+      "frame": {
+        "x": 0,
+        "y": 671,
+        "w": 469,
+        "h": 446
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 43,
+        "w": 469,
+        "h": 446
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "iceExplosion_56": {
+      "frame": {
+        "x": 662,
+        "y": 0,
+        "w": 465,
+        "h": 444
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": 44,
+        "w": 465,
+        "h": 444
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "iceExplosion.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 3339,
+      "h": 3328
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

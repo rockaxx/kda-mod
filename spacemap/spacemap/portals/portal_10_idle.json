@@ -1,0 +1,216 @@
+{
+  "frames": {
+    "portal_10_idle_0": {
+      "frame": {
+        "x": 800,
+        "y": 773,
+        "w": 373,
+        "h": 400
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 0,
+        "w": 373,
+        "h": 400
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "portal_10_idle_1": {
+      "frame": {
+        "x": 800,
+        "y": 400,
+        "w": 373,
+        "h": 400
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 0,
+        "w": 373,
+        "h": 400
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "portal_10_idle_2": {
+      "frame": {
+        "x": 1119,
+        "y": 0,
+        "w": 373,
+        "h": 400
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 0,
+        "w": 373,
+        "h": 400
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "portal_10_idle_3": {
+      "frame": {
+        "x": 400,
+        "y": 773,
+        "w": 373,
+        "h": 400
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 0,
+        "w": 373,
+        "h": 400
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "portal_10_idle_4": {
+      "frame": {
+        "x": 0,
+        "y": 773,
+        "w": 373,
+        "h": 400
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 0,
+        "w": 373,
+        "h": 400
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "portal_10_idle_5": {
+      "frame": {
+        "x": 746,
+        "y": 0,
+        "w": 373,
+        "h": 400
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 0,
+        "w": 373,
+        "h": 400
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "portal_10_idle_6": {
+      "frame": {
+        "x": 400,
+        "y": 400,
+        "w": 373,
+        "h": 400
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 0,
+        "w": 373,
+        "h": 400
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "portal_10_idle_7": {
+      "frame": {
+        "x": 0,
+        "y": 400,
+        "w": 373,
+        "h": 400
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 0,
+        "w": 373,
+        "h": 400
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "portal_10_idle_8": {
+      "frame": {
+        "x": 373,
+        "y": 0,
+        "w": 373,
+        "h": 400
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 0,
+        "w": 373,
+        "h": 400
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "portal_10_idle_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 373,
+        "h": 400
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 0,
+        "w": 373,
+        "h": 400
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "portal_10_idle.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1492,
+      "h": 1146
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

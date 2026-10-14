@@ -1,0 +1,436 @@
+{
+  "frames": {
+    "goldSmoke_0": {
+      "frame": {
+        "x": 34,
+        "y": 131,
+        "w": 34,
+        "h": 33
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 14,
+        "w": 34,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 60
+      }
+    },
+    "goldSmoke_1": {
+      "frame": {
+        "x": 0,
+        "y": 132,
+        "w": 34,
+        "h": 34
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 13,
+        "w": 34,
+        "h": 34
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 60
+      }
+    },
+    "goldSmoke_2": {
+      "frame": {
+        "x": 0,
+        "y": 74,
+        "w": 36,
+        "h": 37
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 10,
+        "w": 36,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 60
+      }
+    },
+    "goldSmoke_3": {
+      "frame": {
+        "x": 39,
+        "y": 73,
+        "w": 36,
+        "h": 37
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 10,
+        "w": 36,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 60
+      }
+    },
+    "goldSmoke_4": {
+      "frame": {
+        "x": 71,
+        "y": 36,
+        "w": 36,
+        "h": 37
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 10,
+        "w": 36,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 60
+      }
+    },
+    "goldSmoke_5": {
+      "frame": {
+        "x": 39,
+        "y": 36,
+        "w": 32,
+        "h": 37
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 10,
+        "w": 32,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 60
+      }
+    },
+    "goldSmoke_6": {
+      "frame": {
+        "x": 73,
+        "y": 0,
+        "w": 36,
+        "h": 35
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 12,
+        "w": 36,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 60
+      }
+    },
+    "goldSmoke_7": {
+      "frame": {
+        "x": 39,
+        "y": 0,
+        "w": 34,
+        "h": 34
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 13,
+        "w": 34,
+        "h": 34
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 60
+      }
+    },
+    "goldSmoke_8": {
+      "frame": {
+        "x": 0,
+        "y": 37,
+        "w": 39,
+        "h": 37
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 10,
+        "w": 39,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 60
+      }
+    },
+    "goldSmoke_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 37
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 10,
+        "w": 39,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 60
+      }
+    },
+    "goldSmoke_10": {
+      "frame": {
+        "x": 108,
+        "y": 33,
+        "w": 36,
+        "h": 34
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 13,
+        "w": 36,
+        "h": 34
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 60
+      }
+    },
+    "goldSmoke_11": {
+      "frame": {
+        "x": 125,
+        "y": 0,
+        "w": 31,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 14,
+        "w": 31,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 60
+      }
+    },
+    "goldSmoke_12": {
+      "frame": {
+        "x": 75,
+        "y": 106,
+        "w": 25,
+        "h": 28
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 18,
+        "w": 25,
+        "h": 28
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 60
+      }
+    },
+    "goldSmoke_13": {
+      "frame": {
+        "x": 0,
+        "y": 110,
+        "w": 22,
+        "h": 23
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 19,
+        "w": 22,
+        "h": 23
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 60
+      }
+    },
+    "goldSmoke_14": {
+      "frame": {
+        "x": 102,
+        "y": 84,
+        "w": 22,
+        "h": 23
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 19,
+        "w": 22,
+        "h": 23
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 60
+      }
+    },
+    "goldSmoke_15": {
+      "frame": {
+        "x": 108,
+        "y": 0,
+        "w": 17,
+        "h": 19
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 22,
+        "w": 17,
+        "h": 19
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 60
+      }
+    },
+    "goldSmoke_16": {
+      "frame": {
+        "x": 87,
+        "y": 84,
+        "w": 14,
+        "h": 15
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 24,
+        "w": 14,
+        "h": 15
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 60
+      }
+    },
+    "goldSmoke_17": {
+      "frame": {
+        "x": 75,
+        "y": 84,
+        "w": 12,
+        "h": 14
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 22,
+        "y": 24,
+        "w": 12,
+        "h": 14
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 60
+      }
+    },
+    "goldSmoke_18": {
+      "frame": {
+        "x": 96,
+        "y": 72,
+        "w": 12,
+        "h": 12
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 22,
+        "y": 25,
+        "w": 12,
+        "h": 12
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 60
+      }
+    },
+    "goldSmoke_19": {
+      "frame": {
+        "x": 84,
+        "y": 72,
+        "w": 12,
+        "h": 12
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 22,
+        "y": 25,
+        "w": 12,
+        "h": 12
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 60
+      }
+    },
+    "goldSmoke_20": {
+      "frame": {
+        "x": 75,
+        "y": 72,
+        "w": 9,
+        "h": 9
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 26,
+        "w": 9,
+        "h": 9
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 60
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "goldSmoke.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 156,
+      "h": 166
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

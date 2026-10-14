@@ -1,0 +1,1295 @@
+{
+  "frames": {
+    "ship_nostromo-ambassador-frost_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_1": {
+      "frame": {
+        "x": 143,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_2": {
+      "frame": {
+        "x": 286,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_3": {
+      "frame": {
+        "x": 429,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_4": {
+      "frame": {
+        "x": 572,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_5": {
+      "frame": {
+        "x": 715,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_6": {
+      "frame": {
+        "x": 858,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_7": {
+      "frame": {
+        "x": 1001,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_8": {
+      "frame": {
+        "x": 0,
+        "y": 127,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_9": {
+      "frame": {
+        "x": 143,
+        "y": 127,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_10": {
+      "frame": {
+        "x": 286,
+        "y": 127,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_11": {
+      "frame": {
+        "x": 429,
+        "y": 127,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_12": {
+      "frame": {
+        "x": 572,
+        "y": 127,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_13": {
+      "frame": {
+        "x": 715,
+        "y": 127,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_14": {
+      "frame": {
+        "x": 858,
+        "y": 127,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_15": {
+      "frame": {
+        "x": 1001,
+        "y": 127,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_16": {
+      "frame": {
+        "x": 0,
+        "y": 254,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_17": {
+      "frame": {
+        "x": 143,
+        "y": 254,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_18": {
+      "frame": {
+        "x": 286,
+        "y": 254,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_19": {
+      "frame": {
+        "x": 429,
+        "y": 254,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_20": {
+      "frame": {
+        "x": 572,
+        "y": 254,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_21": {
+      "frame": {
+        "x": 715,
+        "y": 254,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_22": {
+      "frame": {
+        "x": 858,
+        "y": 254,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_23": {
+      "frame": {
+        "x": 1001,
+        "y": 254,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_24": {
+      "frame": {
+        "x": 0,
+        "y": 381,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_25": {
+      "frame": {
+        "x": 143,
+        "y": 381,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_26": {
+      "frame": {
+        "x": 286,
+        "y": 381,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_27": {
+      "frame": {
+        "x": 429,
+        "y": 381,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_28": {
+      "frame": {
+        "x": 572,
+        "y": 381,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_29": {
+      "frame": {
+        "x": 715,
+        "y": 381,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_30": {
+      "frame": {
+        "x": 858,
+        "y": 381,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_31": {
+      "frame": {
+        "x": 1001,
+        "y": 381,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_32": {
+      "frame": {
+        "x": 0,
+        "y": 508,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_33": {
+      "frame": {
+        "x": 143,
+        "y": 508,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_34": {
+      "frame": {
+        "x": 286,
+        "y": 508,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_35": {
+      "frame": {
+        "x": 429,
+        "y": 508,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_36": {
+      "frame": {
+        "x": 572,
+        "y": 508,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_37": {
+      "frame": {
+        "x": 715,
+        "y": 508,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_38": {
+      "frame": {
+        "x": 858,
+        "y": 508,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_39": {
+      "frame": {
+        "x": 1001,
+        "y": 508,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_40": {
+      "frame": {
+        "x": 0,
+        "y": 635,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_41": {
+      "frame": {
+        "x": 143,
+        "y": 635,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_42": {
+      "frame": {
+        "x": 286,
+        "y": 635,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_43": {
+      "frame": {
+        "x": 429,
+        "y": 635,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_44": {
+      "frame": {
+        "x": 572,
+        "y": 635,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_45": {
+      "frame": {
+        "x": 715,
+        "y": 635,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_46": {
+      "frame": {
+        "x": 858,
+        "y": 635,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_47": {
+      "frame": {
+        "x": 1001,
+        "y": 635,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_48": {
+      "frame": {
+        "x": 0,
+        "y": 762,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_49": {
+      "frame": {
+        "x": 143,
+        "y": 762,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_50": {
+      "frame": {
+        "x": 286,
+        "y": 762,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_51": {
+      "frame": {
+        "x": 429,
+        "y": 762,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_52": {
+      "frame": {
+        "x": 572,
+        "y": 762,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_53": {
+      "frame": {
+        "x": 715,
+        "y": 762,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_54": {
+      "frame": {
+        "x": 858,
+        "y": 762,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_55": {
+      "frame": {
+        "x": 1001,
+        "y": 762,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_56": {
+      "frame": {
+        "x": 0,
+        "y": 889,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_57": {
+      "frame": {
+        "x": 143,
+        "y": 889,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_58": {
+      "frame": {
+        "x": 286,
+        "y": 889,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_59": {
+      "frame": {
+        "x": 429,
+        "y": 889,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_60": {
+      "frame": {
+        "x": 572,
+        "y": 889,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_61": {
+      "frame": {
+        "x": 715,
+        "y": 889,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_62": {
+      "frame": {
+        "x": 858,
+        "y": 889,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    },
+    "ship_nostromo-ambassador-frost_63": {
+      "frame": {
+        "x": 1001,
+        "y": 889,
+        "w": 143,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 127
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Atlas Generator v2",
+    "version": "1.0",
+    "image": "ship_nostromo-ambassador-frost.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1144,
+      "h": 1016
+    },
+    "scale": 1
+  }
+}

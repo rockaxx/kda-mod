@@ -1,0 +1,1295 @@
+{
+  "frames": {
+    "sentinel-frost_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_1": {
+      "frame": {
+        "x": 214,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_2": {
+      "frame": {
+        "x": 428,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_3": {
+      "frame": {
+        "x": 642,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_4": {
+      "frame": {
+        "x": 856,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_5": {
+      "frame": {
+        "x": 1070,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_6": {
+      "frame": {
+        "x": 1284,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_7": {
+      "frame": {
+        "x": 1498,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_8": {
+      "frame": {
+        "x": 0,
+        "y": 190,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_9": {
+      "frame": {
+        "x": 214,
+        "y": 190,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_10": {
+      "frame": {
+        "x": 428,
+        "y": 190,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_11": {
+      "frame": {
+        "x": 642,
+        "y": 190,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_12": {
+      "frame": {
+        "x": 856,
+        "y": 190,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_13": {
+      "frame": {
+        "x": 1070,
+        "y": 190,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_14": {
+      "frame": {
+        "x": 1284,
+        "y": 190,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_15": {
+      "frame": {
+        "x": 1498,
+        "y": 190,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_16": {
+      "frame": {
+        "x": 0,
+        "y": 380,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_17": {
+      "frame": {
+        "x": 214,
+        "y": 380,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_18": {
+      "frame": {
+        "x": 428,
+        "y": 380,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_19": {
+      "frame": {
+        "x": 642,
+        "y": 380,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_20": {
+      "frame": {
+        "x": 856,
+        "y": 380,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_21": {
+      "frame": {
+        "x": 1070,
+        "y": 380,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_22": {
+      "frame": {
+        "x": 1284,
+        "y": 380,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_23": {
+      "frame": {
+        "x": 1498,
+        "y": 380,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_24": {
+      "frame": {
+        "x": 0,
+        "y": 570,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_25": {
+      "frame": {
+        "x": 214,
+        "y": 570,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_26": {
+      "frame": {
+        "x": 428,
+        "y": 570,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_27": {
+      "frame": {
+        "x": 642,
+        "y": 570,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_28": {
+      "frame": {
+        "x": 856,
+        "y": 570,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_29": {
+      "frame": {
+        "x": 1070,
+        "y": 570,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_30": {
+      "frame": {
+        "x": 1284,
+        "y": 570,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_31": {
+      "frame": {
+        "x": 1498,
+        "y": 570,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_32": {
+      "frame": {
+        "x": 0,
+        "y": 760,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_33": {
+      "frame": {
+        "x": 214,
+        "y": 760,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_34": {
+      "frame": {
+        "x": 428,
+        "y": 760,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_35": {
+      "frame": {
+        "x": 642,
+        "y": 760,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_36": {
+      "frame": {
+        "x": 856,
+        "y": 760,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_37": {
+      "frame": {
+        "x": 1070,
+        "y": 760,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_38": {
+      "frame": {
+        "x": 1284,
+        "y": 760,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_39": {
+      "frame": {
+        "x": 1498,
+        "y": 760,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_40": {
+      "frame": {
+        "x": 0,
+        "y": 950,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_41": {
+      "frame": {
+        "x": 214,
+        "y": 950,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_42": {
+      "frame": {
+        "x": 428,
+        "y": 950,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_43": {
+      "frame": {
+        "x": 642,
+        "y": 950,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_44": {
+      "frame": {
+        "x": 856,
+        "y": 950,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_45": {
+      "frame": {
+        "x": 1070,
+        "y": 950,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_46": {
+      "frame": {
+        "x": 1284,
+        "y": 950,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_47": {
+      "frame": {
+        "x": 1498,
+        "y": 950,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_48": {
+      "frame": {
+        "x": 0,
+        "y": 1140,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_49": {
+      "frame": {
+        "x": 214,
+        "y": 1140,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_50": {
+      "frame": {
+        "x": 428,
+        "y": 1140,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_51": {
+      "frame": {
+        "x": 642,
+        "y": 1140,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_52": {
+      "frame": {
+        "x": 856,
+        "y": 1140,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_53": {
+      "frame": {
+        "x": 1070,
+        "y": 1140,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_54": {
+      "frame": {
+        "x": 1284,
+        "y": 1140,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_55": {
+      "frame": {
+        "x": 1498,
+        "y": 1140,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_56": {
+      "frame": {
+        "x": 0,
+        "y": 1330,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_57": {
+      "frame": {
+        "x": 214,
+        "y": 1330,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_58": {
+      "frame": {
+        "x": 428,
+        "y": 1330,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_59": {
+      "frame": {
+        "x": 642,
+        "y": 1330,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_60": {
+      "frame": {
+        "x": 856,
+        "y": 1330,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_61": {
+      "frame": {
+        "x": 1070,
+        "y": 1330,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_62": {
+      "frame": {
+        "x": 1284,
+        "y": 1330,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    },
+    "sentinel-frost_63": {
+      "frame": {
+        "x": 1498,
+        "y": 1330,
+        "w": 214,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 190
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Atlas Generator v2",
+    "version": "1.0",
+    "image": "sentinel-frost.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1712,
+      "h": 1520
+    },
+    "scale": 1
+  }
+}

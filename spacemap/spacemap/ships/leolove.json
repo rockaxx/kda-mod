@@ -1,0 +1,1216 @@
+{
+  "frames": {
+    "leolove_0": {
+      "frame": {
+        "x": 562,
+        "y": 729,
+        "w": 86,
+        "h": 113
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 56,
+        "y": 42,
+        "w": 86,
+        "h": 113
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_1": {
+      "frame": {
+        "x": 477,
+        "y": 732,
+        "w": 85,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 57,
+        "y": 43,
+        "w": 85,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_2": {
+      "frame": {
+        "x": 649,
+        "y": 621,
+        "w": 86,
+        "h": 111
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 58,
+        "y": 43,
+        "w": 86,
+        "h": 111
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_3": {
+      "frame": {
+        "x": 176,
+        "y": 582,
+        "w": 91,
+        "h": 109
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 59,
+        "y": 44,
+        "w": 91,
+        "h": 109
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_4": {
+      "frame": {
+        "x": 319,
+        "y": 240,
+        "w": 100,
+        "h": 107
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 55,
+        "y": 45,
+        "w": 100,
+        "h": 107
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_5": {
+      "frame": {
+        "x": 422,
+        "y": 0,
+        "w": 109,
+        "h": 104
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 51,
+        "y": 46,
+        "w": 109,
+        "h": 104
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_6": {
+      "frame": {
+        "x": 0,
+        "y": 178,
+        "w": 116,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 48,
+        "y": 47,
+        "w": 116,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_7": {
+      "frame": {
+        "x": 141,
+        "y": 0,
+        "w": 125,
+        "h": 96
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 46,
+        "y": 48,
+        "w": 125,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_8": {
+      "frame": {
+        "x": 0,
+        "y": 87,
+        "w": 133,
+        "h": 91
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 44,
+        "y": 50,
+        "w": 133,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 141,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 52,
+        "w": 141,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_10": {
+      "frame": {
+        "x": 329,
+        "y": 732,
+        "w": 148,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 54,
+        "w": 148,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_11": {
+      "frame": {
+        "x": 0,
+        "y": 793,
+        "w": 155,
+        "h": 78
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 56,
+        "w": 155,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_12": {
+      "frame": {
+        "x": 735,
+        "y": 385,
+        "w": 160,
+        "h": 72
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 34,
+        "y": 59,
+        "w": 160,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_13": {
+      "frame": {
+        "x": 735,
+        "y": 222,
+        "w": 163,
+        "h": 68
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33,
+        "y": 61,
+        "w": 163,
+        "h": 68
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_14": {
+      "frame": {
+        "x": 744,
+        "y": 0,
+        "w": 165,
+        "h": 65
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 64,
+        "w": 165,
+        "h": 65
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_15": {
+      "frame": {
+        "x": 164,
+        "y": 732,
+        "w": 165,
+        "h": 61
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 67,
+        "w": 165,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_16": {
+      "frame": {
+        "x": 0,
+        "y": 735,
+        "w": 164,
+        "h": 58
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 69,
+        "w": 164,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_17": {
+      "frame": {
+        "x": 463,
+        "y": 674,
+        "w": 164,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 72,
+        "w": 164,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_18": {
+      "frame": {
+        "x": 303,
+        "y": 674,
+        "w": 160,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 34,
+        "y": 71,
+        "w": 160,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_19": {
+      "frame": {
+        "x": 148,
+        "y": 674,
+        "w": 155,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 68,
+        "w": 155,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_20": {
+      "frame": {
+        "x": 0,
+        "y": 674,
+        "w": 148,
+        "h": 61
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 65,
+        "w": 148,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_21": {
+      "frame": {
+        "x": 649,
+        "y": 480,
+        "w": 141,
+        "h": 67
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 60,
+        "w": 141,
+        "h": 67
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_22": {
+      "frame": {
+        "x": 658,
+        "y": 347,
+        "w": 133,
+        "h": 73
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 44,
+        "y": 56,
+        "w": 133,
+        "h": 73
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_23": {
+      "frame": {
+        "x": 658,
+        "y": 222,
+        "w": 125,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 46,
+        "y": 53,
+        "w": 125,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_24": {
+      "frame": {
+        "x": 660,
+        "y": 107,
+        "w": 115,
+        "h": 82
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 48,
+        "y": 49,
+        "w": 115,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_25": {
+      "frame": {
+        "x": 660,
+        "y": 0,
+        "w": 107,
+        "h": 84
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 51,
+        "y": 47,
+        "w": 107,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_26": {
+      "frame": {
+        "x": 550,
+        "y": 588,
+        "w": 99,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 55,
+        "y": 45,
+        "w": 99,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_27": {
+      "frame": {
+        "x": 462,
+        "y": 584,
+        "w": 90,
+        "h": 88
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 59,
+        "y": 43,
+        "w": 90,
+        "h": 88
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_28": {
+      "frame": {
+        "x": 373,
+        "y": 588,
+        "w": 86,
+        "h": 89
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 58,
+        "y": 42,
+        "w": 86,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_29": {
+      "frame": {
+        "x": 285,
+        "y": 588,
+        "w": 85,
+        "h": 88
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 57,
+        "y": 42,
+        "w": 85,
+        "h": 88
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_30": {
+      "frame": {
+        "x": 89,
+        "y": 589,
+        "w": 85,
+        "h": 87
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 56,
+        "y": 42,
+        "w": 85,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_31": {
+      "frame": {
+        "x": 0,
+        "y": 589,
+        "w": 85,
+        "h": 89
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 56,
+        "y": 41,
+        "w": 85,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_32": {
+      "frame": {
+        "x": 566,
+        "y": 355,
+        "w": 86,
+        "h": 89
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 54,
+        "y": 42,
+        "w": 86,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_33": {
+      "frame": {
+        "x": 570,
+        "y": 264,
+        "w": 91,
+        "h": 88
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 48,
+        "y": 43,
+        "w": 91,
+        "h": 88
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_34": {
+      "frame": {
+        "x": 570,
+        "y": 164,
+        "w": 100,
+        "h": 86
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 43,
+        "y": 45,
+        "w": 100,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_35": {
+      "frame": {
+        "x": 564,
+        "y": 479,
+        "w": 109,
+        "h": 84
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 47,
+        "w": 109,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_36": {
+      "frame": {
+        "x": 579,
+        "y": 0,
+        "w": 116,
+        "h": 81
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 34,
+        "y": 50,
+        "w": 116,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_37": {
+      "frame": {
+        "x": 439,
+        "y": 507,
+        "w": 125,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 53,
+        "w": 125,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_38": {
+      "frame": {
+        "x": 306,
+        "y": 515,
+        "w": 133,
+        "h": 73
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 56,
+        "w": 133,
+        "h": 73
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_39": {
+      "frame": {
+        "x": 165,
+        "y": 515,
+        "w": 141,
+        "h": 67
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 60,
+        "w": 141,
+        "h": 67
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_40": {
+      "frame": {
+        "x": 0,
+        "y": 528,
+        "w": 148,
+        "h": 61
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 65,
+        "w": 148,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_41": {
+      "frame": {
+        "x": 510,
+        "y": 324,
+        "w": 155,
+        "h": 56
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 69,
+        "w": 155,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_42": {
+      "frame": {
+        "x": 516,
+        "y": 164,
+        "w": 160,
+        "h": 54
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 72,
+        "w": 160,
+        "h": 54
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_43": {
+      "frame": {
+        "x": 526,
+        "y": 0,
+        "w": 164,
+        "h": 53
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 74,
+        "w": 164,
+        "h": 53
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_44": {
+      "frame": {
+        "x": 330,
+        "y": 451,
+        "w": 165,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 71,
+        "w": 165,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_45": {
+      "frame": {
+        "x": 165,
+        "y": 455,
+        "w": 165,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 68,
+        "w": 165,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_46": {
+      "frame": {
+        "x": 0,
+        "y": 464,
+        "w": 165,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 65,
+        "w": 165,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_47": {
+      "frame": {
+        "x": 444,
+        "y": 269,
+        "w": 164,
+        "h": 66
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 63,
+        "w": 164,
+        "h": 66
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_48": {
+      "frame": {
+        "x": 444,
+        "y": 109,
+        "w": 160,
+        "h": 72
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 60,
+        "w": 160,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_49": {
+      "frame": {
+        "x": 289,
+        "y": 373,
+        "w": 155,
+        "h": 78
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 57,
+        "w": 155,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_50": {
+      "frame": {
+        "x": 141,
+        "y": 373,
+        "w": 148,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 55,
+        "w": 148,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_51": {
+      "frame": {
+        "x": 0,
+        "y": 377,
+        "w": 141,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 53,
+        "w": 141,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_52": {
+      "frame": {
+        "x": 228,
+        "y": 240,
+        "w": 133,
+        "h": 91
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 51,
+        "w": 133,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_53": {
+      "frame": {
+        "x": 317,
+        "y": 115,
+        "w": 125,
+        "h": 95
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 49,
+        "w": 125,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_54": {
+      "frame": {
+        "x": 323,
+        "y": 0,
+        "w": 115,
+        "h": 99
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 48,
+        "w": 115,
+        "h": 99
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_55": {
+      "frame": {
+        "x": 116,
+        "y": 263,
+        "w": 108,
+        "h": 104
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 46,
+        "w": 108,
+        "h": 104
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_56": {
+      "frame": {
+        "x": 0,
+        "y": 278,
+        "w": 99,
+        "h": 107
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 44,
+        "y": 45,
+        "w": 99,
+        "h": 107
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_57": {
+      "frame": {
+        "x": 228,
+        "y": 125,
+        "w": 89,
+        "h": 109
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 50,
+        "y": 44,
+        "w": 89,
+        "h": 109
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_58": {
+      "frame": {
+        "x": 237,
+        "y": 0,
+        "w": 86,
+        "h": 111
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 54,
+        "y": 43,
+        "w": 86,
+        "h": 111
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "leolove_59": {
+      "frame": {
+        "x": 116,
+        "y": 178,
+        "w": 85,
+        "h": 112
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 56,
+        "y": 43,
+        "w": 85,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "leolove.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 809,
+      "h": 871
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

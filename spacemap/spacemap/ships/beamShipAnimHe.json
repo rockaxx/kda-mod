@@ -1,0 +1,616 @@
+{
+  "frames": {
+    "beamShipAnimHe_0": {
+      "frame": {
+        "x": 1986,
+        "y": 1985,
+        "w": 379,
+        "h": 496
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 60,
+        "y": 0,
+        "w": 379,
+        "h": 496
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "beamShipAnimHe_1": {
+      "frame": {
+        "x": 2231,
+        "y": 992,
+        "w": 381,
+        "h": 497
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 59,
+        "y": 0,
+        "w": 381,
+        "h": 497
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "beamShipAnimHe_2": {
+      "frame": {
+        "x": 1488,
+        "y": 1490,
+        "w": 381,
+        "h": 497
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 60,
+        "y": 0,
+        "w": 381,
+        "h": 497
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "beamShipAnimHe_3": {
+      "frame": {
+        "x": 497,
+        "y": 881,
+        "w": 383,
+        "h": 497
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 59,
+        "y": 0,
+        "w": 383,
+        "h": 497
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "beamShipAnimHe_4": {
+      "frame": {
+        "x": 0,
+        "y": 883,
+        "w": 383,
+        "h": 497
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 59,
+        "y": 0,
+        "w": 383,
+        "h": 497
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "beamShipAnimHe_5": {
+      "frame": {
+        "x": 497,
+        "y": 497,
+        "w": 384,
+        "h": 497
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 58,
+        "y": 0,
+        "w": 384,
+        "h": 497
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "beamShipAnimHe_6": {
+      "frame": {
+        "x": 771,
+        "y": 0,
+        "w": 385,
+        "h": 497
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 57,
+        "y": 0,
+        "w": 385,
+        "h": 497
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "beamShipAnimHe_7": {
+      "frame": {
+        "x": 0,
+        "y": 497,
+        "w": 386,
+        "h": 497
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 56,
+        "y": 0,
+        "w": 386,
+        "h": 497
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "beamShipAnimHe_8": {
+      "frame": {
+        "x": 385,
+        "y": 0,
+        "w": 386,
+        "h": 497
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 56,
+        "y": 0,
+        "w": 386,
+        "h": 497
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "beamShipAnimHe_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 385,
+        "h": 497
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 56,
+        "y": 0,
+        "w": 385,
+        "h": 497
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "beamShipAnimHe_10": {
+      "frame": {
+        "x": 2275,
+        "y": 496,
+        "w": 383,
+        "h": 496
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 57,
+        "y": 0,
+        "w": 383,
+        "h": 496
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "beamShipAnimHe_11": {
+      "frame": {
+        "x": 2275,
+        "y": 0,
+        "w": 383,
+        "h": 496
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 57,
+        "y": 0,
+        "w": 383,
+        "h": 496
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "beamShipAnimHe_12": {
+      "frame": {
+        "x": 1490,
+        "y": 1987,
+        "w": 380,
+        "h": 496
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 58,
+        "y": 0,
+        "w": 380,
+        "h": 496
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "beamShipAnimHe_13": {
+      "frame": {
+        "x": 994,
+        "y": 1987,
+        "w": 379,
+        "h": 496
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 59,
+        "y": 0,
+        "w": 379,
+        "h": 496
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "beamShipAnimHe_14": {
+      "frame": {
+        "x": 497,
+        "y": 2011,
+        "w": 375,
+        "h": 496
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 62,
+        "y": 0,
+        "w": 375,
+        "h": 496
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "beamShipAnimHe_15": {
+      "frame": {
+        "x": 0,
+        "y": 2012,
+        "w": 374,
+        "h": 496
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 62,
+        "y": 0,
+        "w": 374,
+        "h": 496
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "beamShipAnimHe_16": {
+      "frame": {
+        "x": 1869,
+        "y": 1489,
+        "w": 372,
+        "h": 496
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 63,
+        "y": 0,
+        "w": 372,
+        "h": 496
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "beamShipAnimHe_17": {
+      "frame": {
+        "x": 1860,
+        "y": 993,
+        "w": 371,
+        "h": 496
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 63,
+        "y": 0,
+        "w": 371,
+        "h": 496
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "beamShipAnimHe_18": {
+      "frame": {
+        "x": 1903,
+        "y": 496,
+        "w": 372,
+        "h": 496
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 63,
+        "y": 0,
+        "w": 372,
+        "h": 496
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "beamShipAnimHe_19": {
+      "frame": {
+        "x": 1904,
+        "y": 0,
+        "w": 371,
+        "h": 496
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 63,
+        "y": 0,
+        "w": 371,
+        "h": 496
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "beamShipAnimHe_20": {
+      "frame": {
+        "x": 497,
+        "y": 1639,
+        "w": 372,
+        "h": 497
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 63,
+        "y": 0,
+        "w": 372,
+        "h": 497
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "beamShipAnimHe_21": {
+      "frame": {
+        "x": 0,
+        "y": 1641,
+        "w": 371,
+        "h": 497
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 63,
+        "y": 0,
+        "w": 371,
+        "h": 497
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "beamShipAnimHe_22": {
+      "frame": {
+        "x": 1488,
+        "y": 993,
+        "w": 372,
+        "h": 497
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 63,
+        "y": 0,
+        "w": 372,
+        "h": 497
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "beamShipAnimHe_23": {
+      "frame": {
+        "x": 1532,
+        "y": 496,
+        "w": 371,
+        "h": 497
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 63,
+        "y": 0,
+        "w": 371,
+        "h": 497
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "beamShipAnimHe_24": {
+      "frame": {
+        "x": 1532,
+        "y": 0,
+        "w": 372,
+        "h": 496
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 63,
+        "y": 0,
+        "w": 372,
+        "h": 496
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "beamShipAnimHe_25": {
+      "frame": {
+        "x": 992,
+        "y": 1264,
+        "w": 374,
+        "h": 496
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 62,
+        "y": 0,
+        "w": 374,
+        "h": 496
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "beamShipAnimHe_26": {
+      "frame": {
+        "x": 496,
+        "y": 1266,
+        "w": 373,
+        "h": 496
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 63,
+        "y": 0,
+        "w": 373,
+        "h": 496
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "beamShipAnimHe_27": {
+      "frame": {
+        "x": 0,
+        "y": 1266,
+        "w": 375,
+        "h": 496
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 61,
+        "y": 0,
+        "w": 375,
+        "h": 496
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "beamShipAnimHe_28": {
+      "frame": {
+        "x": 1156,
+        "y": 496,
+        "w": 376,
+        "h": 496
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 61,
+        "y": 0,
+        "w": 376,
+        "h": 496
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "beamShipAnimHe_29": {
+      "frame": {
+        "x": 1156,
+        "y": 0,
+        "w": 376,
+        "h": 496
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 61,
+        "y": 0,
+        "w": 376,
+        "h": 496
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "beamShipAnimHe.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2658,
+      "h": 2386
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

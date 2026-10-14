@@ -1,0 +1,316 @@
+{
+  "frames": {
+    "slowEffectIdle_0": {
+      "frame": {
+        "x": 750,
+        "y": 250,
+        "w": 196,
+        "h": 250
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 0,
+        "w": 196,
+        "h": 250
+      },
+      "sourceSize": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    "slowEffectIdle_1": {
+      "frame": {
+        "x": 790,
+        "y": 0,
+        "w": 196,
+        "h": 250
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 0,
+        "w": 196,
+        "h": 250
+      },
+      "sourceSize": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    "slowEffectIdle_2": {
+      "frame": {
+        "x": 593,
+        "y": 0,
+        "w": 197,
+        "h": 250
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 0,
+        "w": 197,
+        "h": 250
+      },
+      "sourceSize": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    "slowEffectIdle_3": {
+      "frame": {
+        "x": 250,
+        "y": 448,
+        "w": 196,
+        "h": 250
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 0,
+        "w": 196,
+        "h": 250
+      },
+      "sourceSize": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    "slowEffectIdle_4": {
+      "frame": {
+        "x": 0,
+        "y": 448,
+        "w": 197,
+        "h": 250
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 0,
+        "w": 197,
+        "h": 250
+      },
+      "sourceSize": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    "slowEffectIdle_5": {
+      "frame": {
+        "x": 395,
+        "y": 0,
+        "w": 198,
+        "h": 250
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 0,
+        "w": 198,
+        "h": 250
+      },
+      "sourceSize": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    "slowEffectIdle_6": {
+      "frame": {
+        "x": 250,
+        "y": 250,
+        "w": 198,
+        "h": 243
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 0,
+        "w": 198,
+        "h": 243
+      },
+      "sourceSize": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    "slowEffectIdle_7": {
+      "frame": {
+        "x": 0,
+        "y": 250,
+        "w": 198,
+        "h": 250
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 0,
+        "w": 198,
+        "h": 250
+      },
+      "sourceSize": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    "slowEffectIdle_8": {
+      "frame": {
+        "x": 198,
+        "y": 0,
+        "w": 197,
+        "h": 250
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 0,
+        "w": 197,
+        "h": 250
+      },
+      "sourceSize": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    "slowEffectIdle_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 198,
+        "h": 250
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 0,
+        "w": 198,
+        "h": 250
+      },
+      "sourceSize": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    "slowEffectIdle_10": {
+      "frame": {
+        "x": 500,
+        "y": 644,
+        "w": 197,
+        "h": 250
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 0,
+        "w": 197,
+        "h": 250
+      },
+      "sourceSize": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    "slowEffectIdle_11": {
+      "frame": {
+        "x": 250,
+        "y": 644,
+        "w": 198,
+        "h": 250
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 0,
+        "w": 198,
+        "h": 250
+      },
+      "sourceSize": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    "slowEffectIdle_12": {
+      "frame": {
+        "x": 0,
+        "y": 645,
+        "w": 198,
+        "h": 250
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 0,
+        "w": 198,
+        "h": 250
+      },
+      "sourceSize": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    "slowEffectIdle_13": {
+      "frame": {
+        "x": 500,
+        "y": 448,
+        "w": 196,
+        "h": 250
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 0,
+        "w": 196,
+        "h": 250
+      },
+      "sourceSize": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    "slowEffectIdle_14": {
+      "frame": {
+        "x": 493,
+        "y": 250,
+        "w": 198,
+        "h": 250
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 0,
+        "w": 198,
+        "h": 250
+      },
+      "sourceSize": {
+        "w": 250,
+        "h": 250
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "slowEffectIdle.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 986,
+      "h": 843
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

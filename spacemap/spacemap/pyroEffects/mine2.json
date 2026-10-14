@@ -1,0 +1,316 @@
+{
+  "frames": {
+    "mine2_0": {
+      "frame": {
+        "x": 554,
+        "y": 0,
+        "w": 150,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 150
+      }
+    },
+    "mine2_1": {
+      "frame": {
+        "x": 292,
+        "y": 386,
+        "w": 136,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 0,
+        "w": 136,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 150
+      }
+    },
+    "mine2_2": {
+      "frame": {
+        "x": 411,
+        "y": 0,
+        "w": 143,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 143,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 150
+      }
+    },
+    "mine2_3": {
+      "frame": {
+        "x": 141,
+        "y": 283,
+        "w": 134,
+        "h": 138
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 8,
+        "w": 134,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 150
+      }
+    },
+    "mine2_4": {
+      "frame": {
+        "x": 0,
+        "y": 283,
+        "w": 136,
+        "h": 141
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 5,
+        "w": 136,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 150
+      }
+    },
+    "mine2_5": {
+      "frame": {
+        "x": 274,
+        "y": 0,
+        "w": 137,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 5,
+        "w": 137,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 150
+      }
+    },
+    "mine2_6": {
+      "frame": {
+        "x": 141,
+        "y": 145,
+        "w": 138,
+        "h": 140
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 5,
+        "w": 138,
+        "h": 140
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 150
+      }
+    },
+    "mine2_7": {
+      "frame": {
+        "x": 0,
+        "y": 146,
+        "w": 137,
+        "h": 141
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 5,
+        "w": 137,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 150
+      }
+    },
+    "mine2_8": {
+      "frame": {
+        "x": 137,
+        "y": 0,
+        "w": 137,
+        "h": 145
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 0,
+        "w": 137,
+        "h": 145
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 150
+      }
+    },
+    "mine2_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 137,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 0,
+        "w": 137,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 150
+      }
+    },
+    "mine2_10": {
+      "frame": {
+        "x": 146,
+        "y": 417,
+        "w": 136,
+        "h": 146
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 0,
+        "w": 136,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 150
+      }
+    },
+    "mine2_11": {
+      "frame": {
+        "x": 0,
+        "y": 419,
+        "w": 136,
+        "h": 146
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 0,
+        "w": 136,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 150
+      }
+    },
+    "mine2_12": {
+      "frame": {
+        "x": 404,
+        "y": 266,
+        "w": 120,
+        "h": 146
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 0,
+        "w": 120,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 150
+      }
+    },
+    "mine2_13": {
+      "frame": {
+        "x": 404,
+        "y": 146,
+        "w": 120,
+        "h": 143
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 3,
+        "w": 120,
+        "h": 143
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 150
+      }
+    },
+    "mine2_14": {
+      "frame": {
+        "x": 281,
+        "y": 141,
+        "w": 123,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 3,
+        "w": 123,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 150
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "mine2.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 704,
+      "h": 555
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

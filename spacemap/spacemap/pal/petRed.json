@@ -1,0 +1,676 @@
+{
+  "frames": {
+    "petRed_0": {
+      "frame": {
+        "x": 565,
+        "y": 337,
+        "w": 100,
+        "h": 104
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 27,
+        "w": 100,
+        "h": 104
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "petRed_1": {
+      "frame": {
+        "x": 578,
+        "y": 0,
+        "w": 99,
+        "h": 103
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 27,
+        "w": 99,
+        "h": 103
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "petRed_2": {
+      "frame": {
+        "x": 376,
+        "y": 366,
+        "w": 102,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 26,
+        "w": 102,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "petRed_3": {
+      "frame": {
+        "x": 298,
+        "y": 102,
+        "w": 105,
+        "h": 96
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 25,
+        "w": 105,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "petRed_4": {
+      "frame": {
+        "x": 211,
+        "y": 0,
+        "w": 115,
+        "h": 87
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 26,
+        "w": 115,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "petRed_5": {
+      "frame": {
+        "x": 124,
+        "y": 123,
+        "w": 120,
+        "h": 81
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 28,
+        "w": 120,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "petRed_6": {
+      "frame": {
+        "x": 0,
+        "y": 175,
+        "w": 120,
+        "h": 83
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 30,
+        "w": 120,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "petRed_7": {
+      "frame": {
+        "x": 124,
+        "y": 0,
+        "w": 123,
+        "h": 87
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 32,
+        "w": 123,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "petRed_8": {
+      "frame": {
+        "x": 0,
+        "y": 87,
+        "w": 124,
+        "h": 88
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": 35,
+        "w": 124,
+        "h": 88
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "petRed_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 121,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": 38,
+        "w": 121,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "petRed_10": {
+      "frame": {
+        "x": 312,
+        "y": 466,
+        "w": 114,
+        "h": 86
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 41,
+        "w": 114,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "petRed_11": {
+      "frame": {
+        "x": 205,
+        "y": 526,
+        "w": 107,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": 40,
+        "w": 107,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "petRed_12": {
+      "frame": {
+        "x": 102,
+        "y": 526,
+        "w": 103,
+        "h": 91
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 34,
+        "w": 103,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "petRed_13": {
+      "frame": {
+        "x": 478,
+        "y": 444,
+        "w": 103,
+        "h": 92
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 29,
+        "w": 103,
+        "h": 92
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "petRed_14": {
+      "frame": {
+        "x": 0,
+        "y": 526,
+        "w": 102,
+        "h": 90
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 25,
+        "w": 102,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "petRed_15": {
+      "frame": {
+        "x": 478,
+        "y": 337,
+        "w": 107,
+        "h": 87
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 22,
+        "w": 107,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "petRed_16": {
+      "frame": {
+        "x": 486,
+        "y": 103,
+        "w": 108,
+        "h": 80
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 22,
+        "w": 108,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "petRed_17": {
+      "frame": {
+        "x": 0,
+        "y": 439,
+        "w": 106,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": 22,
+        "w": 106,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "petRed_18": {
+      "frame": {
+        "x": 477,
+        "y": 246,
+        "w": 101,
+        "h": 91
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 34,
+        "y": 25,
+        "w": 101,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "petRed_19": {
+      "frame": {
+        "x": 486,
+        "y": 0,
+        "w": 103,
+        "h": 92
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 29,
+        "w": 103,
+        "h": 92
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "petRed_20": {
+      "frame": {
+        "x": 207,
+        "y": 436,
+        "w": 103,
+        "h": 90
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": 34,
+        "w": 103,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "petRed_21": {
+      "frame": {
+        "x": 119,
+        "y": 357,
+        "w": 107,
+        "h": 88
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 39,
+        "w": 107,
+        "h": 88
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "petRed_22": {
+      "frame": {
+        "x": 290,
+        "y": 322,
+        "w": 114,
+        "h": 86
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 41,
+        "w": 114,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "petRed_23": {
+      "frame": {
+        "x": 390,
+        "y": 246,
+        "w": 120,
+        "h": 87
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 38,
+        "w": 120,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "petRed_24": {
+      "frame": {
+        "x": 394,
+        "y": 123,
+        "w": 123,
+        "h": 88
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 35,
+        "w": 123,
+        "h": 88
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "petRed_25": {
+      "frame": {
+        "x": 399,
+        "y": 0,
+        "w": 123,
+        "h": 87
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 32,
+        "w": 123,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "petRed_26": {
+      "frame": {
+        "x": 207,
+        "y": 312,
+        "w": 120,
+        "h": 83
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 30,
+        "w": 120,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "petRed_27": {
+      "frame": {
+        "x": 0,
+        "y": 358,
+        "w": 119,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 28,
+        "w": 119,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "petRed_28": {
+      "frame": {
+        "x": 303,
+        "y": 207,
+        "w": 115,
+        "h": 87
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 26,
+        "w": 115,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "petRed_29": {
+      "frame": {
+        "x": 207,
+        "y": 207,
+        "w": 105,
+        "h": 96
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30,
+        "y": 25,
+        "w": 105,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "petRed_30": {
+      "frame": {
+        "x": 298,
+        "y": 0,
+        "w": 102,
+        "h": 101
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 26,
+        "w": 102,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "petRed_31": {
+      "frame": {
+        "x": 104,
+        "y": 258,
+        "w": 99,
+        "h": 103
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 27,
+        "w": 99,
+        "h": 103
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "petRed_32": {
+      "frame": {
+        "x": 0,
+        "y": 258,
+        "w": 100,
+        "h": 104
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 27,
+        "w": 100,
+        "h": 104
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "petRed.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 677,
+      "h": 617
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

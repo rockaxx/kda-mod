@@ -1,0 +1,1295 @@
+{
+  "frames": {
+    "ship_goliath-bastion_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_1": {
+      "frame": {
+        "x": 153,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_2": {
+      "frame": {
+        "x": 306,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_3": {
+      "frame": {
+        "x": 459,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_4": {
+      "frame": {
+        "x": 612,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_5": {
+      "frame": {
+        "x": 765,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_6": {
+      "frame": {
+        "x": 918,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_7": {
+      "frame": {
+        "x": 1071,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_8": {
+      "frame": {
+        "x": 0,
+        "y": 124,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_9": {
+      "frame": {
+        "x": 153,
+        "y": 124,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_10": {
+      "frame": {
+        "x": 306,
+        "y": 124,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_11": {
+      "frame": {
+        "x": 459,
+        "y": 124,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_12": {
+      "frame": {
+        "x": 612,
+        "y": 124,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_13": {
+      "frame": {
+        "x": 765,
+        "y": 124,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_14": {
+      "frame": {
+        "x": 918,
+        "y": 124,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_15": {
+      "frame": {
+        "x": 1071,
+        "y": 124,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_16": {
+      "frame": {
+        "x": 0,
+        "y": 248,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_17": {
+      "frame": {
+        "x": 153,
+        "y": 248,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_18": {
+      "frame": {
+        "x": 306,
+        "y": 248,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_19": {
+      "frame": {
+        "x": 459,
+        "y": 248,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_20": {
+      "frame": {
+        "x": 612,
+        "y": 248,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_21": {
+      "frame": {
+        "x": 765,
+        "y": 248,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_22": {
+      "frame": {
+        "x": 918,
+        "y": 248,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_23": {
+      "frame": {
+        "x": 1071,
+        "y": 248,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_24": {
+      "frame": {
+        "x": 0,
+        "y": 372,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_25": {
+      "frame": {
+        "x": 153,
+        "y": 372,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_26": {
+      "frame": {
+        "x": 306,
+        "y": 372,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_27": {
+      "frame": {
+        "x": 459,
+        "y": 372,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_28": {
+      "frame": {
+        "x": 612,
+        "y": 372,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_29": {
+      "frame": {
+        "x": 765,
+        "y": 372,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_30": {
+      "frame": {
+        "x": 918,
+        "y": 372,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_31": {
+      "frame": {
+        "x": 1071,
+        "y": 372,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_32": {
+      "frame": {
+        "x": 0,
+        "y": 496,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_33": {
+      "frame": {
+        "x": 153,
+        "y": 496,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_34": {
+      "frame": {
+        "x": 306,
+        "y": 496,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_35": {
+      "frame": {
+        "x": 459,
+        "y": 496,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_36": {
+      "frame": {
+        "x": 612,
+        "y": 496,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_37": {
+      "frame": {
+        "x": 765,
+        "y": 496,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_38": {
+      "frame": {
+        "x": 918,
+        "y": 496,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_39": {
+      "frame": {
+        "x": 1071,
+        "y": 496,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_40": {
+      "frame": {
+        "x": 0,
+        "y": 620,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_41": {
+      "frame": {
+        "x": 153,
+        "y": 620,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_42": {
+      "frame": {
+        "x": 306,
+        "y": 620,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_43": {
+      "frame": {
+        "x": 459,
+        "y": 620,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_44": {
+      "frame": {
+        "x": 612,
+        "y": 620,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_45": {
+      "frame": {
+        "x": 765,
+        "y": 620,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_46": {
+      "frame": {
+        "x": 918,
+        "y": 620,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_47": {
+      "frame": {
+        "x": 1071,
+        "y": 620,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_48": {
+      "frame": {
+        "x": 0,
+        "y": 744,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_49": {
+      "frame": {
+        "x": 153,
+        "y": 744,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_50": {
+      "frame": {
+        "x": 306,
+        "y": 744,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_51": {
+      "frame": {
+        "x": 459,
+        "y": 744,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_52": {
+      "frame": {
+        "x": 612,
+        "y": 744,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_53": {
+      "frame": {
+        "x": 765,
+        "y": 744,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_54": {
+      "frame": {
+        "x": 918,
+        "y": 744,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_55": {
+      "frame": {
+        "x": 1071,
+        "y": 744,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_56": {
+      "frame": {
+        "x": 0,
+        "y": 868,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_57": {
+      "frame": {
+        "x": 153,
+        "y": 868,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_58": {
+      "frame": {
+        "x": 306,
+        "y": 868,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_59": {
+      "frame": {
+        "x": 459,
+        "y": 868,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_60": {
+      "frame": {
+        "x": 612,
+        "y": 868,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_61": {
+      "frame": {
+        "x": 765,
+        "y": 868,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_62": {
+      "frame": {
+        "x": 918,
+        "y": 868,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    },
+    "ship_goliath-bastion_63": {
+      "frame": {
+        "x": 1071,
+        "y": 868,
+        "w": 153,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 124
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Atlas Generator v2",
+    "version": "1.0",
+    "image": "ship_goliath-bastion.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1224,
+      "h": 992
+    },
+    "scale": 1
+  }
+}

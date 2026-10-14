@@ -1,0 +1,1295 @@
+{
+  "frames": {
+    "solace-inferno_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_1": {
+      "frame": {
+        "x": 174,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_2": {
+      "frame": {
+        "x": 348,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_3": {
+      "frame": {
+        "x": 522,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_4": {
+      "frame": {
+        "x": 696,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_5": {
+      "frame": {
+        "x": 870,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_6": {
+      "frame": {
+        "x": 1044,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_7": {
+      "frame": {
+        "x": 1218,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_8": {
+      "frame": {
+        "x": 0,
+        "y": 154,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_9": {
+      "frame": {
+        "x": 174,
+        "y": 154,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_10": {
+      "frame": {
+        "x": 348,
+        "y": 154,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_11": {
+      "frame": {
+        "x": 522,
+        "y": 154,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_12": {
+      "frame": {
+        "x": 696,
+        "y": 154,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_13": {
+      "frame": {
+        "x": 870,
+        "y": 154,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_14": {
+      "frame": {
+        "x": 1044,
+        "y": 154,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_15": {
+      "frame": {
+        "x": 1218,
+        "y": 154,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_16": {
+      "frame": {
+        "x": 0,
+        "y": 308,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_17": {
+      "frame": {
+        "x": 174,
+        "y": 308,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_18": {
+      "frame": {
+        "x": 348,
+        "y": 308,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_19": {
+      "frame": {
+        "x": 522,
+        "y": 308,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_20": {
+      "frame": {
+        "x": 696,
+        "y": 308,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_21": {
+      "frame": {
+        "x": 870,
+        "y": 308,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_22": {
+      "frame": {
+        "x": 1044,
+        "y": 308,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_23": {
+      "frame": {
+        "x": 1218,
+        "y": 308,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_24": {
+      "frame": {
+        "x": 0,
+        "y": 462,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_25": {
+      "frame": {
+        "x": 174,
+        "y": 462,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_26": {
+      "frame": {
+        "x": 348,
+        "y": 462,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_27": {
+      "frame": {
+        "x": 522,
+        "y": 462,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_28": {
+      "frame": {
+        "x": 696,
+        "y": 462,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_29": {
+      "frame": {
+        "x": 870,
+        "y": 462,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_30": {
+      "frame": {
+        "x": 1044,
+        "y": 462,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_31": {
+      "frame": {
+        "x": 1218,
+        "y": 462,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_32": {
+      "frame": {
+        "x": 0,
+        "y": 616,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_33": {
+      "frame": {
+        "x": 174,
+        "y": 616,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_34": {
+      "frame": {
+        "x": 348,
+        "y": 616,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_35": {
+      "frame": {
+        "x": 522,
+        "y": 616,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_36": {
+      "frame": {
+        "x": 696,
+        "y": 616,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_37": {
+      "frame": {
+        "x": 870,
+        "y": 616,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_38": {
+      "frame": {
+        "x": 1044,
+        "y": 616,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_39": {
+      "frame": {
+        "x": 1218,
+        "y": 616,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_40": {
+      "frame": {
+        "x": 0,
+        "y": 770,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_41": {
+      "frame": {
+        "x": 174,
+        "y": 770,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_42": {
+      "frame": {
+        "x": 348,
+        "y": 770,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_43": {
+      "frame": {
+        "x": 522,
+        "y": 770,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_44": {
+      "frame": {
+        "x": 696,
+        "y": 770,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_45": {
+      "frame": {
+        "x": 870,
+        "y": 770,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_46": {
+      "frame": {
+        "x": 1044,
+        "y": 770,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_47": {
+      "frame": {
+        "x": 1218,
+        "y": 770,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_48": {
+      "frame": {
+        "x": 0,
+        "y": 924,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_49": {
+      "frame": {
+        "x": 174,
+        "y": 924,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_50": {
+      "frame": {
+        "x": 348,
+        "y": 924,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_51": {
+      "frame": {
+        "x": 522,
+        "y": 924,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_52": {
+      "frame": {
+        "x": 696,
+        "y": 924,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_53": {
+      "frame": {
+        "x": 870,
+        "y": 924,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_54": {
+      "frame": {
+        "x": 1044,
+        "y": 924,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_55": {
+      "frame": {
+        "x": 1218,
+        "y": 924,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_56": {
+      "frame": {
+        "x": 0,
+        "y": 1078,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_57": {
+      "frame": {
+        "x": 174,
+        "y": 1078,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_58": {
+      "frame": {
+        "x": 348,
+        "y": 1078,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_59": {
+      "frame": {
+        "x": 522,
+        "y": 1078,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_60": {
+      "frame": {
+        "x": 696,
+        "y": 1078,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_61": {
+      "frame": {
+        "x": 870,
+        "y": 1078,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_62": {
+      "frame": {
+        "x": 1044,
+        "y": 1078,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    },
+    "solace-inferno_63": {
+      "frame": {
+        "x": 1218,
+        "y": 1078,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Atlas Generator v2",
+    "version": "1.0",
+    "image": "solace-inferno.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1392,
+      "h": 1232
+    },
+    "scale": 1
+  }
+}

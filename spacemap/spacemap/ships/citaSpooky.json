@@ -1,0 +1,1295 @@
+{
+  "frames": {
+    "citaSpooky_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_1": {
+      "frame": {
+        "x": 243,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_2": {
+      "frame": {
+        "x": 486,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_3": {
+      "frame": {
+        "x": 729,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_4": {
+      "frame": {
+        "x": 972,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_5": {
+      "frame": {
+        "x": 1215,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_6": {
+      "frame": {
+        "x": 1458,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_7": {
+      "frame": {
+        "x": 1701,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_8": {
+      "frame": {
+        "x": 0,
+        "y": 219,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_9": {
+      "frame": {
+        "x": 243,
+        "y": 219,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_10": {
+      "frame": {
+        "x": 486,
+        "y": 219,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_11": {
+      "frame": {
+        "x": 729,
+        "y": 219,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_12": {
+      "frame": {
+        "x": 972,
+        "y": 219,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_13": {
+      "frame": {
+        "x": 1215,
+        "y": 219,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_14": {
+      "frame": {
+        "x": 1458,
+        "y": 219,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_15": {
+      "frame": {
+        "x": 1701,
+        "y": 219,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_16": {
+      "frame": {
+        "x": 0,
+        "y": 438,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_17": {
+      "frame": {
+        "x": 243,
+        "y": 438,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_18": {
+      "frame": {
+        "x": 486,
+        "y": 438,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_19": {
+      "frame": {
+        "x": 729,
+        "y": 438,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_20": {
+      "frame": {
+        "x": 972,
+        "y": 438,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_21": {
+      "frame": {
+        "x": 1215,
+        "y": 438,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_22": {
+      "frame": {
+        "x": 1458,
+        "y": 438,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_23": {
+      "frame": {
+        "x": 1701,
+        "y": 438,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_24": {
+      "frame": {
+        "x": 0,
+        "y": 657,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_25": {
+      "frame": {
+        "x": 243,
+        "y": 657,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_26": {
+      "frame": {
+        "x": 486,
+        "y": 657,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_27": {
+      "frame": {
+        "x": 729,
+        "y": 657,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_28": {
+      "frame": {
+        "x": 972,
+        "y": 657,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_29": {
+      "frame": {
+        "x": 1215,
+        "y": 657,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_30": {
+      "frame": {
+        "x": 1458,
+        "y": 657,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_31": {
+      "frame": {
+        "x": 1701,
+        "y": 657,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_32": {
+      "frame": {
+        "x": 0,
+        "y": 876,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_33": {
+      "frame": {
+        "x": 243,
+        "y": 876,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_34": {
+      "frame": {
+        "x": 486,
+        "y": 876,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_35": {
+      "frame": {
+        "x": 729,
+        "y": 876,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_36": {
+      "frame": {
+        "x": 972,
+        "y": 876,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_37": {
+      "frame": {
+        "x": 1215,
+        "y": 876,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_38": {
+      "frame": {
+        "x": 1458,
+        "y": 876,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_39": {
+      "frame": {
+        "x": 1701,
+        "y": 876,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_40": {
+      "frame": {
+        "x": 0,
+        "y": 1095,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_41": {
+      "frame": {
+        "x": 243,
+        "y": 1095,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_42": {
+      "frame": {
+        "x": 486,
+        "y": 1095,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_43": {
+      "frame": {
+        "x": 729,
+        "y": 1095,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_44": {
+      "frame": {
+        "x": 972,
+        "y": 1095,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_45": {
+      "frame": {
+        "x": 1215,
+        "y": 1095,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_46": {
+      "frame": {
+        "x": 1458,
+        "y": 1095,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_47": {
+      "frame": {
+        "x": 1701,
+        "y": 1095,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_48": {
+      "frame": {
+        "x": 0,
+        "y": 1314,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_49": {
+      "frame": {
+        "x": 243,
+        "y": 1314,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_50": {
+      "frame": {
+        "x": 486,
+        "y": 1314,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_51": {
+      "frame": {
+        "x": 729,
+        "y": 1314,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_52": {
+      "frame": {
+        "x": 972,
+        "y": 1314,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_53": {
+      "frame": {
+        "x": 1215,
+        "y": 1314,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_54": {
+      "frame": {
+        "x": 1458,
+        "y": 1314,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_55": {
+      "frame": {
+        "x": 1701,
+        "y": 1314,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_56": {
+      "frame": {
+        "x": 0,
+        "y": 1533,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_57": {
+      "frame": {
+        "x": 243,
+        "y": 1533,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_58": {
+      "frame": {
+        "x": 486,
+        "y": 1533,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_59": {
+      "frame": {
+        "x": 729,
+        "y": 1533,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_60": {
+      "frame": {
+        "x": 972,
+        "y": 1533,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_61": {
+      "frame": {
+        "x": 1215,
+        "y": 1533,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_62": {
+      "frame": {
+        "x": 1458,
+        "y": 1533,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citaSpooky_63": {
+      "frame": {
+        "x": 1701,
+        "y": 1533,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Toolkit Engine",
+    "version": "1.0",
+    "image": "citaSpooky.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1944,
+      "h": 1752
+    },
+    "scale": 1
+  }
+}

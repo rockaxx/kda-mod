@@ -1,0 +1,656 @@
+{
+  "frames": {
+    "carbonitePET_0": {
+      "frame": {
+        "x": 550,
+        "y": 0,
+        "w": 100,
+        "h": 102
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30,
+        "y": 12,
+        "w": 100,
+        "h": 102
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 118
+      }
+    },
+    "carbonitePET_1": {
+      "frame": {
+        "x": 328,
+        "y": 438,
+        "w": 98,
+        "h": 100
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 13,
+        "w": 98,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 118
+      }
+    },
+    "carbonitePET_2": {
+      "frame": {
+        "x": 358,
+        "y": 341,
+        "w": 100,
+        "h": 97
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 13,
+        "w": 100,
+        "h": 97
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 118
+      }
+    },
+    "carbonitePET_3": {
+      "frame": {
+        "x": 285,
+        "y": 0,
+        "w": 103,
+        "h": 92
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 13,
+        "w": 103,
+        "h": 92
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 118
+      }
+    },
+    "carbonitePET_4": {
+      "frame": {
+        "x": 202,
+        "y": 0,
+        "w": 109,
+        "h": 83
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 25,
+        "y": 15,
+        "w": 109,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 118
+      }
+    },
+    "carbonitePET_5": {
+      "frame": {
+        "x": 121,
+        "y": 120,
+        "w": 115,
+        "h": 79
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": 16,
+        "w": 115,
+        "h": 79
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 118
+      }
+    },
+    "carbonitePET_6": {
+      "frame": {
+        "x": 0,
+        "y": 163,
+        "w": 115,
+        "h": 78
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 34,
+        "y": 18,
+        "w": 115,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 118
+      }
+    },
+    "carbonitePET_7": {
+      "frame": {
+        "x": 121,
+        "y": 0,
+        "w": 120,
+        "h": 81
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33,
+        "y": 20,
+        "w": 120,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 118
+      }
+    },
+    "carbonitePET_8": {
+      "frame": {
+        "x": 0,
+        "y": 81,
+        "w": 121,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 23,
+        "w": 121,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 118
+      }
+    },
+    "carbonitePET_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 119,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 27,
+        "w": 119,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 118
+      }
+    },
+    "carbonitePET_10": {
+      "frame": {
+        "x": 215,
+        "y": 516,
+        "w": 113,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 34,
+        "y": 28,
+        "w": 113,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 118
+      }
+    },
+    "carbonitePET_11": {
+      "frame": {
+        "x": 105,
+        "y": 506,
+        "w": 110,
+        "h": 83
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30,
+        "y": 26,
+        "w": 110,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 118
+      }
+    },
+    "carbonitePET_12": {
+      "frame": {
+        "x": 0,
+        "y": 506,
+        "w": 105,
+        "h": 89
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 19,
+        "w": 105,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 118
+      }
+    },
+    "carbonitePET_13": {
+      "frame": {
+        "x": 458,
+        "y": 414,
+        "w": 102,
+        "h": 92
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 13,
+        "w": 102,
+        "h": 92
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 118
+      }
+    },
+    "carbonitePET_14": {
+      "frame": {
+        "x": 458,
+        "y": 314,
+        "w": 100,
+        "h": 92
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 8,
+        "w": 100,
+        "h": 92
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 118
+      }
+    },
+    "carbonitePET_15": {
+      "frame": {
+        "x": 101,
+        "y": 417,
+        "w": 101,
+        "h": 88
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 25,
+        "y": 6,
+        "w": 101,
+        "h": 88
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 118
+      }
+    },
+    "carbonitePET_16": {
+      "frame": {
+        "x": 447,
+        "y": 231,
+        "w": 102,
+        "h": 83
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 5,
+        "w": 102,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 118
+      }
+    },
+    "carbonitePET_17": {
+      "frame": {
+        "x": 0,
+        "y": 417,
+        "w": 101,
+        "h": 88
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33,
+        "y": 6,
+        "w": 101,
+        "h": 88
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 118
+      }
+    },
+    "carbonitePET_18": {
+      "frame": {
+        "x": 458,
+        "y": 102,
+        "w": 100,
+        "h": 92
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 8,
+        "w": 100,
+        "h": 92
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 118
+      }
+    },
+    "carbonitePET_19": {
+      "frame": {
+        "x": 458,
+        "y": 0,
+        "w": 102,
+        "h": 92
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 34,
+        "y": 13,
+        "w": 102,
+        "h": 92
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 118
+      }
+    },
+    "carbonitePET_20": {
+      "frame": {
+        "x": 236,
+        "y": 401,
+        "w": 105,
+        "h": 89
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 19,
+        "w": 105,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 118
+      }
+    },
+    "carbonitePET_21": {
+      "frame": {
+        "x": 364,
+        "y": 231,
+        "w": 110,
+        "h": 83
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 26,
+        "w": 110,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 118
+      }
+    },
+    "carbonitePET_22": {
+      "frame": {
+        "x": 376,
+        "y": 119,
+        "w": 112,
+        "h": 81
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 28,
+        "w": 112,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 118
+      }
+    },
+    "carbonitePET_23": {
+      "frame": {
+        "x": 377,
+        "y": 0,
+        "w": 119,
+        "h": 81
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 27,
+        "w": 119,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 118
+      }
+    },
+    "carbonitePET_24": {
+      "frame": {
+        "x": 236,
+        "y": 320,
+        "w": 122,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 24,
+        "w": 122,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 118
+      }
+    },
+    "carbonitePET_25": {
+      "frame": {
+        "x": 116,
+        "y": 336,
+        "w": 120,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 20,
+        "w": 120,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 118
+      }
+    },
+    "carbonitePET_26": {
+      "frame": {
+        "x": 0,
+        "y": 339,
+        "w": 116,
+        "h": 78
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 18,
+        "w": 116,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 118
+      }
+    },
+    "carbonitePET_27": {
+      "frame": {
+        "x": 284,
+        "y": 205,
+        "w": 115,
+        "h": 80
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 15,
+        "w": 115,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 118
+      }
+    },
+    "carbonitePET_28": {
+      "frame": {
+        "x": 200,
+        "y": 120,
+        "w": 110,
+        "h": 84
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 25,
+        "y": 14,
+        "w": 110,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 118
+      }
+    },
+    "carbonitePET_29": {
+      "frame": {
+        "x": 285,
+        "y": 103,
+        "w": 102,
+        "h": 91
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 34,
+        "y": 14,
+        "w": 102,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 118
+      }
+    },
+    "carbonitePET_30": {
+      "frame": {
+        "x": 115,
+        "y": 235,
+        "w": 101,
+        "h": 95
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 14,
+        "w": 101,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 118
+      }
+    },
+    "carbonitePET_31": {
+      "frame": {
+        "x": 0,
+        "y": 241,
+        "w": 98,
+        "h": 100
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 13,
+        "w": 98,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 118
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "carbonitePET.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 650,
+      "h": 597
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

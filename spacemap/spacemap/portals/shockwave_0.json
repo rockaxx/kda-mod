@@ -1,0 +1,116 @@
+{
+  "frames": {
+    "shockwave_0_0": {
+      "frame": {
+        "x": 0,
+        "y": 520,
+        "w": 290,
+        "h": 260
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 30,
+        "w": 290,
+        "h": 260
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 320
+      }
+    },
+    "shockwave_0_1": {
+      "frame": {
+        "x": 290,
+        "y": 290,
+        "w": 290,
+        "h": 260
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 30,
+        "w": 290,
+        "h": 260
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 320
+      }
+    },
+    "shockwave_0_2": {
+      "frame": {
+        "x": 290,
+        "y": 0,
+        "w": 290,
+        "h": 260
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 30,
+        "w": 290,
+        "h": 260
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 320
+      }
+    },
+    "shockwave_0_3": {
+      "frame": {
+        "x": 0,
+        "y": 260,
+        "w": 290,
+        "h": 260
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 30,
+        "w": 290,
+        "h": 260
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 320
+      }
+    },
+    "shockwave_0_4": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 290,
+        "h": 260
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 30,
+        "w": 290,
+        "h": 260
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 320
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "shockwave_0.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 550,
+      "h": 780
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

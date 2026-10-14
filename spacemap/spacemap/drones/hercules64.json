@@ -1,0 +1,1295 @@
+{
+  "frames": {
+    "hercules64_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_1": {
+      "frame": {
+        "x": 65,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_2": {
+      "frame": {
+        "x": 130,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_3": {
+      "frame": {
+        "x": 195,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_4": {
+      "frame": {
+        "x": 260,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_5": {
+      "frame": {
+        "x": 325,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_6": {
+      "frame": {
+        "x": 390,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_7": {
+      "frame": {
+        "x": 455,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_8": {
+      "frame": {
+        "x": 0,
+        "y": 57,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_9": {
+      "frame": {
+        "x": 65,
+        "y": 57,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_10": {
+      "frame": {
+        "x": 130,
+        "y": 57,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_11": {
+      "frame": {
+        "x": 195,
+        "y": 57,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_12": {
+      "frame": {
+        "x": 260,
+        "y": 57,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_13": {
+      "frame": {
+        "x": 325,
+        "y": 57,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_14": {
+      "frame": {
+        "x": 390,
+        "y": 57,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_15": {
+      "frame": {
+        "x": 455,
+        "y": 57,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_16": {
+      "frame": {
+        "x": 0,
+        "y": 114,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_17": {
+      "frame": {
+        "x": 65,
+        "y": 114,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_18": {
+      "frame": {
+        "x": 130,
+        "y": 114,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_19": {
+      "frame": {
+        "x": 195,
+        "y": 114,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_20": {
+      "frame": {
+        "x": 260,
+        "y": 114,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_21": {
+      "frame": {
+        "x": 325,
+        "y": 114,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_22": {
+      "frame": {
+        "x": 390,
+        "y": 114,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_23": {
+      "frame": {
+        "x": 455,
+        "y": 114,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_24": {
+      "frame": {
+        "x": 0,
+        "y": 171,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_25": {
+      "frame": {
+        "x": 65,
+        "y": 171,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_26": {
+      "frame": {
+        "x": 130,
+        "y": 171,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_27": {
+      "frame": {
+        "x": 195,
+        "y": 171,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_28": {
+      "frame": {
+        "x": 260,
+        "y": 171,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_29": {
+      "frame": {
+        "x": 325,
+        "y": 171,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_30": {
+      "frame": {
+        "x": 390,
+        "y": 171,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_31": {
+      "frame": {
+        "x": 455,
+        "y": 171,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_32": {
+      "frame": {
+        "x": 0,
+        "y": 228,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_33": {
+      "frame": {
+        "x": 65,
+        "y": 228,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_34": {
+      "frame": {
+        "x": 130,
+        "y": 228,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_35": {
+      "frame": {
+        "x": 195,
+        "y": 228,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_36": {
+      "frame": {
+        "x": 260,
+        "y": 228,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_37": {
+      "frame": {
+        "x": 325,
+        "y": 228,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_38": {
+      "frame": {
+        "x": 390,
+        "y": 228,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_39": {
+      "frame": {
+        "x": 455,
+        "y": 228,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_40": {
+      "frame": {
+        "x": 0,
+        "y": 285,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_41": {
+      "frame": {
+        "x": 65,
+        "y": 285,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_42": {
+      "frame": {
+        "x": 130,
+        "y": 285,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_43": {
+      "frame": {
+        "x": 195,
+        "y": 285,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_44": {
+      "frame": {
+        "x": 260,
+        "y": 285,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_45": {
+      "frame": {
+        "x": 325,
+        "y": 285,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_46": {
+      "frame": {
+        "x": 390,
+        "y": 285,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_47": {
+      "frame": {
+        "x": 455,
+        "y": 285,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_48": {
+      "frame": {
+        "x": 0,
+        "y": 342,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_49": {
+      "frame": {
+        "x": 65,
+        "y": 342,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_50": {
+      "frame": {
+        "x": 130,
+        "y": 342,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_51": {
+      "frame": {
+        "x": 195,
+        "y": 342,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_52": {
+      "frame": {
+        "x": 260,
+        "y": 342,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_53": {
+      "frame": {
+        "x": 325,
+        "y": 342,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_54": {
+      "frame": {
+        "x": 390,
+        "y": 342,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_55": {
+      "frame": {
+        "x": 455,
+        "y": 342,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_56": {
+      "frame": {
+        "x": 0,
+        "y": 399,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_57": {
+      "frame": {
+        "x": 65,
+        "y": 399,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_58": {
+      "frame": {
+        "x": 130,
+        "y": 399,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_59": {
+      "frame": {
+        "x": 195,
+        "y": 399,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_60": {
+      "frame": {
+        "x": 260,
+        "y": 399,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_61": {
+      "frame": {
+        "x": 325,
+        "y": 399,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_62": {
+      "frame": {
+        "x": 390,
+        "y": 399,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    },
+    "hercules64_63": {
+      "frame": {
+        "x": 455,
+        "y": 399,
+        "w": 65,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 57
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Toolkit Engine",
+    "version": "1.0",
+    "image": "hercules64.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 520,
+      "h": 456
+    },
+    "scale": 1
+  }
+}

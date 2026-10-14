@@ -1,0 +1,656 @@
+{
+  "frames": {
+    "constructionBot_0": {
+      "frame": {
+        "x": 234,
+        "y": 380,
+        "w": 85,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 11,
+        "w": 85,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "constructionBot_1": {
+      "frame": {
+        "x": 157,
+        "y": 380,
+        "w": 85,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 11,
+        "w": 85,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "constructionBot_2": {
+      "frame": {
+        "x": 0,
+        "y": 361,
+        "w": 85,
+        "h": 75
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 11,
+        "w": 85,
+        "h": 75
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "constructionBot_3": {
+      "frame": {
+        "x": 217,
+        "y": 0,
+        "w": 82,
+        "h": 76
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 10,
+        "w": 82,
+        "h": 76
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "constructionBot_4": {
+      "frame": {
+        "x": 75,
+        "y": 77,
+        "w": 76,
+        "h": 78
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 10,
+        "w": 76,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "constructionBot_5": {
+      "frame": {
+        "x": 145,
+        "y": 0,
+        "w": 72,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 10,
+        "w": 72,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "constructionBot_6": {
+      "frame": {
+        "x": 0,
+        "y": 142,
+        "w": 68,
+        "h": 75
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 10,
+        "w": 68,
+        "h": 75
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "constructionBot_7": {
+      "frame": {
+        "x": 76,
+        "y": 0,
+        "w": 69,
+        "h": 73
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 10,
+        "w": 69,
+        "h": 73
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "constructionBot_8": {
+      "frame": {
+        "x": 0,
+        "y": 71,
+        "w": 71,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 10,
+        "w": 71,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "constructionBot_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 9,
+        "w": 76,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "constructionBot_10": {
+      "frame": {
+        "x": 364,
+        "y": 362,
+        "w": 78,
+        "h": 70
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 8,
+        "w": 78,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "constructionBot_11": {
+      "frame": {
+        "x": 0,
+        "y": 436,
+        "w": 78,
+        "h": 68
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 7,
+        "w": 78,
+        "h": 68
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "constructionBot_12": {
+      "frame": {
+        "x": 364,
+        "y": 285,
+        "w": 77,
+        "h": 67
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 7,
+        "w": 77,
+        "h": 67
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "constructionBot_13": {
+      "frame": {
+        "x": 361,
+        "y": 217,
+        "w": 75,
+        "h": 68
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 7,
+        "w": 75,
+        "h": 68
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "constructionBot_14": {
+      "frame": {
+        "x": 361,
+        "y": 146,
+        "w": 74,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 6,
+        "w": 74,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "constructionBot_15": {
+      "frame": {
+        "x": 361,
+        "y": 75,
+        "w": 75,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 6,
+        "w": 75,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "constructionBot_16": {
+      "frame": {
+        "x": 365,
+        "y": 0,
+        "w": 75,
+        "h": 72
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 6,
+        "w": 75,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "constructionBot_17": {
+      "frame": {
+        "x": 85,
+        "y": 355,
+        "w": 75,
+        "h": 72
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 6,
+        "w": 75,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "constructionBot_18": {
+      "frame": {
+        "x": 290,
+        "y": 309,
+        "w": 74,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 6,
+        "w": 74,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "constructionBot_19": {
+      "frame": {
+        "x": 221,
+        "y": 303,
+        "w": 73,
+        "h": 69
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 7,
+        "w": 73,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "constructionBot_20": {
+      "frame": {
+        "x": 293,
+        "y": 233,
+        "w": 76,
+        "h": 68
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 7,
+        "w": 76,
+        "h": 68
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "constructionBot_21": {
+      "frame": {
+        "x": 293,
+        "y": 74,
+        "w": 78,
+        "h": 68
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 8,
+        "w": 78,
+        "h": 68
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "constructionBot_22": {
+      "frame": {
+        "x": 252,
+        "y": 156,
+        "w": 77,
+        "h": 71
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 8,
+        "w": 77,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "constructionBot_23": {
+      "frame": {
+        "x": 293,
+        "y": 0,
+        "w": 74,
+        "h": 72
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 9,
+        "w": 74,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "constructionBot_24": {
+      "frame": {
+        "x": 221,
+        "y": 233,
+        "w": 70,
+        "h": 72
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 10,
+        "w": 70,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "constructionBot_25": {
+      "frame": {
+        "x": 152,
+        "y": 233,
+        "w": 69,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 10,
+        "w": 69,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "constructionBot_26": {
+      "frame": {
+        "x": 77,
+        "y": 287,
+        "w": 68,
+        "h": 75
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 10,
+        "w": 68,
+        "h": 75
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "constructionBot_27": {
+      "frame": {
+        "x": 0,
+        "y": 287,
+        "w": 74,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 10,
+        "w": 74,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "constructionBot_28": {
+      "frame": {
+        "x": 174,
+        "y": 156,
+        "w": 78,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 10,
+        "w": 78,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "constructionBot_29": {
+      "frame": {
+        "x": 174,
+        "y": 82,
+        "w": 84,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 11,
+        "w": 84,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "constructionBot_30": {
+      "frame": {
+        "x": 87,
+        "y": 155,
+        "w": 87,
+        "h": 76
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 11,
+        "w": 87,
+        "h": 76
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "constructionBot_31": {
+      "frame": {
+        "x": 0,
+        "y": 210,
+        "w": 87,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 11,
+        "w": 87,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "constructionBot.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 437,
+      "h": 504
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

@@ -1,0 +1,1295 @@
+{
+  "frames": {
+    "sentinelRegalia_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_1": {
+      "frame": {
+        "x": 206,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_2": {
+      "frame": {
+        "x": 412,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_3": {
+      "frame": {
+        "x": 618,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_4": {
+      "frame": {
+        "x": 824,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_5": {
+      "frame": {
+        "x": 1030,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_6": {
+      "frame": {
+        "x": 1236,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_7": {
+      "frame": {
+        "x": 1442,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_8": {
+      "frame": {
+        "x": 0,
+        "y": 205,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_9": {
+      "frame": {
+        "x": 206,
+        "y": 205,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_10": {
+      "frame": {
+        "x": 412,
+        "y": 205,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_11": {
+      "frame": {
+        "x": 618,
+        "y": 205,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_12": {
+      "frame": {
+        "x": 824,
+        "y": 205,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_13": {
+      "frame": {
+        "x": 1030,
+        "y": 205,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_14": {
+      "frame": {
+        "x": 1236,
+        "y": 205,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_15": {
+      "frame": {
+        "x": 1442,
+        "y": 205,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_16": {
+      "frame": {
+        "x": 0,
+        "y": 410,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_17": {
+      "frame": {
+        "x": 206,
+        "y": 410,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_18": {
+      "frame": {
+        "x": 412,
+        "y": 410,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_19": {
+      "frame": {
+        "x": 618,
+        "y": 410,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_20": {
+      "frame": {
+        "x": 824,
+        "y": 410,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_21": {
+      "frame": {
+        "x": 1030,
+        "y": 410,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_22": {
+      "frame": {
+        "x": 1236,
+        "y": 410,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_23": {
+      "frame": {
+        "x": 1442,
+        "y": 410,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_24": {
+      "frame": {
+        "x": 0,
+        "y": 615,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_25": {
+      "frame": {
+        "x": 206,
+        "y": 615,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_26": {
+      "frame": {
+        "x": 412,
+        "y": 615,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_27": {
+      "frame": {
+        "x": 618,
+        "y": 615,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_28": {
+      "frame": {
+        "x": 824,
+        "y": 615,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_29": {
+      "frame": {
+        "x": 1030,
+        "y": 615,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_30": {
+      "frame": {
+        "x": 1236,
+        "y": 615,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_31": {
+      "frame": {
+        "x": 1442,
+        "y": 615,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_32": {
+      "frame": {
+        "x": 0,
+        "y": 820,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_33": {
+      "frame": {
+        "x": 206,
+        "y": 820,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_34": {
+      "frame": {
+        "x": 412,
+        "y": 820,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_35": {
+      "frame": {
+        "x": 618,
+        "y": 820,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_36": {
+      "frame": {
+        "x": 824,
+        "y": 820,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_37": {
+      "frame": {
+        "x": 1030,
+        "y": 820,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_38": {
+      "frame": {
+        "x": 1236,
+        "y": 820,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_39": {
+      "frame": {
+        "x": 1442,
+        "y": 820,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_40": {
+      "frame": {
+        "x": 0,
+        "y": 1025,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_41": {
+      "frame": {
+        "x": 206,
+        "y": 1025,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_42": {
+      "frame": {
+        "x": 412,
+        "y": 1025,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_43": {
+      "frame": {
+        "x": 618,
+        "y": 1025,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_44": {
+      "frame": {
+        "x": 824,
+        "y": 1025,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_45": {
+      "frame": {
+        "x": 1030,
+        "y": 1025,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_46": {
+      "frame": {
+        "x": 1236,
+        "y": 1025,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_47": {
+      "frame": {
+        "x": 1442,
+        "y": 1025,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_48": {
+      "frame": {
+        "x": 0,
+        "y": 1230,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_49": {
+      "frame": {
+        "x": 206,
+        "y": 1230,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_50": {
+      "frame": {
+        "x": 412,
+        "y": 1230,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_51": {
+      "frame": {
+        "x": 618,
+        "y": 1230,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_52": {
+      "frame": {
+        "x": 824,
+        "y": 1230,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_53": {
+      "frame": {
+        "x": 1030,
+        "y": 1230,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_54": {
+      "frame": {
+        "x": 1236,
+        "y": 1230,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_55": {
+      "frame": {
+        "x": 1442,
+        "y": 1230,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_56": {
+      "frame": {
+        "x": 0,
+        "y": 1435,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_57": {
+      "frame": {
+        "x": 206,
+        "y": 1435,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_58": {
+      "frame": {
+        "x": 412,
+        "y": 1435,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_59": {
+      "frame": {
+        "x": 618,
+        "y": 1435,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_60": {
+      "frame": {
+        "x": 824,
+        "y": 1435,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_61": {
+      "frame": {
+        "x": 1030,
+        "y": 1435,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_62": {
+      "frame": {
+        "x": 1236,
+        "y": 1435,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    },
+    "sentinelRegalia_63": {
+      "frame": {
+        "x": 1442,
+        "y": 1435,
+        "w": 206,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 205
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Atlas Generator v2",
+    "version": "1.0",
+    "image": "sentinelRegalia.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1648,
+      "h": 1640
+    },
+    "scale": 1
+  }
+}

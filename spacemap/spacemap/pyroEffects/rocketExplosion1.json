@@ -1,0 +1,636 @@
+{
+  "frames": {
+    "rocketExplosion1_0": {
+      "frame": {
+        "x": 435,
+        "y": 320,
+        "w": 33,
+        "h": 41
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 83,
+        "y": 100,
+        "w": 33,
+        "h": 41
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "rocketExplosion1_1": {
+      "frame": {
+        "x": 160,
+        "y": 431,
+        "w": 33,
+        "h": 41
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 83,
+        "y": 100,
+        "w": 33,
+        "h": 41
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "rocketExplosion1_2": {
+      "frame": {
+        "x": 694,
+        "y": 378,
+        "w": 88,
+        "h": 95
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 54,
+        "y": 76,
+        "w": 88,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "rocketExplosion1_3": {
+      "frame": {
+        "x": 160,
+        "y": 322,
+        "w": 105,
+        "h": 109
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 50,
+        "y": 72,
+        "w": 105,
+        "h": 109
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "rocketExplosion1_4": {
+      "frame": {
+        "x": 315,
+        "y": 187,
+        "w": 133,
+        "h": 131
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 41,
+        "w": 133,
+        "h": 131
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "rocketExplosion1_5": {
+      "frame": {
+        "x": 181,
+        "y": 187,
+        "w": 134,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33,
+        "y": 47,
+        "w": 134,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "rocketExplosion1_6": {
+      "frame": {
+        "x": 297,
+        "y": 0,
+        "w": 187,
+        "h": 172
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 18,
+        "w": 187,
+        "h": 172
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "rocketExplosion1_7": {
+      "frame": {
+        "x": 0,
+        "y": 177,
+        "w": 181,
+        "h": 145
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 45,
+        "w": 181,
+        "h": 145
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "rocketExplosion1_8": {
+      "frame": {
+        "x": 147,
+        "y": 0,
+        "w": 150,
+        "h": 177
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33,
+        "y": 23,
+        "w": 150,
+        "h": 177
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "rocketExplosion1_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 147,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": 29,
+        "w": 147,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "rocketExplosion1_10": {
+      "frame": {
+        "x": 522,
+        "y": 778,
+        "w": 162,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 36,
+        "w": 162,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "rocketExplosion1_11": {
+      "frame": {
+        "x": 358,
+        "y": 828,
+        "w": 167,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 36,
+        "w": 167,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "rocketExplosion1_12": {
+      "frame": {
+        "x": 185,
+        "y": 828,
+        "w": 172,
+        "h": 173
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 27,
+        "w": 172,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "rocketExplosion1_13": {
+      "frame": {
+        "x": 0,
+        "y": 828,
+        "w": 185,
+        "h": 172
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 28,
+        "w": 185,
+        "h": 172
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "rocketExplosion1_14": {
+      "frame": {
+        "x": 704,
+        "y": 594,
+        "w": 200,
+        "h": 188
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 12,
+        "w": 200,
+        "h": 188
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "rocketExplosion1_15": {
+      "frame": {
+        "x": 200,
+        "y": 637,
+        "w": 200,
+        "h": 191
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 9,
+        "w": 200,
+        "h": 191
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "rocketExplosion1_16": {
+      "frame": {
+        "x": 789,
+        "y": 397,
+        "w": 200,
+        "h": 197
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 3,
+        "w": 200,
+        "h": 197
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "rocketExplosion1_17": {
+      "frame": {
+        "x": 797,
+        "y": 200,
+        "w": 200,
+        "h": 197
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 3,
+        "w": 200,
+        "h": 197
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "rocketExplosion1_18": {
+      "frame": {
+        "x": 797,
+        "y": 0,
+        "w": 200,
+        "h": 200
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 200
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "rocketExplosion1_19": {
+      "frame": {
+        "x": 504,
+        "y": 578,
+        "w": 200,
+        "h": 200
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 200
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "rocketExplosion1_20": {
+      "frame": {
+        "x": 0,
+        "y": 638,
+        "w": 200,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 200,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "rocketExplosion1_21": {
+      "frame": {
+        "x": 504,
+        "y": 378,
+        "w": 200,
+        "h": 190
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 200,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "rocketExplosion1_22": {
+      "frame": {
+        "x": 633,
+        "y": 189,
+        "w": 189,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 36,
+        "w": 189,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "rocketExplosion1_23": {
+      "frame": {
+        "x": 633,
+        "y": 0,
+        "w": 189,
+        "h": 164
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 36,
+        "w": 189,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "rocketExplosion1_24": {
+      "frame": {
+        "x": 337,
+        "y": 487,
+        "w": 150,
+        "h": 167
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 33,
+        "w": 150,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "rocketExplosion1_25": {
+      "frame": {
+        "x": 170,
+        "y": 487,
+        "w": 150,
+        "h": 167
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 33,
+        "w": 150,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "rocketExplosion1_26": {
+      "frame": {
+        "x": 265,
+        "y": 321,
+        "w": 166,
+        "h": 170
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 30,
+        "w": 166,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "rocketExplosion1_27": {
+      "frame": {
+        "x": 0,
+        "y": 472,
+        "w": 166,
+        "h": 170
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 30,
+        "w": 166,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "rocketExplosion1_28": {
+      "frame": {
+        "x": 469,
+        "y": 170,
+        "w": 164,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 30,
+        "w": 164,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "rocketExplosion1_29": {
+      "frame": {
+        "x": 469,
+        "y": 0,
+        "w": 164,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 30,
+        "w": 164,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "rocketExplosion1_30": {
+      "frame": {
+        "x": 0,
+        "y": 322,
+        "w": 150,
+        "h": 160
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 40,
+        "w": 150,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "rocketExplosion1.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 997,
+      "h": 1000
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

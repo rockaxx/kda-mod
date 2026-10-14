@@ -1,0 +1,676 @@
+{
+  "frames": {
+    "hooligan_0": {
+      "frame": {
+        "x": 87,
+        "y": 428,
+        "w": 59,
+        "h": 95
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 34,
+        "y": 0,
+        "w": 59,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 95
+      }
+    },
+    "hooligan_1": {
+      "frame": {
+        "x": 435,
+        "y": 392,
+        "w": 63,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33,
+        "y": 0,
+        "w": 63,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 95
+      }
+    },
+    "hooligan_2": {
+      "frame": {
+        "x": 408,
+        "y": 0,
+        "w": 71,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 1,
+        "w": 71,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 95
+      }
+    },
+    "hooligan_3": {
+      "frame": {
+        "x": 181,
+        "y": 198,
+        "w": 79,
+        "h": 86
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 3,
+        "w": 79,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 95
+      }
+    },
+    "hooligan_4": {
+      "frame": {
+        "x": 0,
+        "y": 199,
+        "w": 91,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 5,
+        "w": 91,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 95
+      }
+    },
+    "hooligan_5": {
+      "frame": {
+        "x": 187,
+        "y": 0,
+        "w": 103,
+        "h": 78
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 8,
+        "w": 103,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 95
+      }
+    },
+    "hooligan_6": {
+      "frame": {
+        "x": 0,
+        "y": 127,
+        "w": 113,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 13,
+        "w": 113,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 95
+      }
+    },
+    "hooligan_7": {
+      "frame": {
+        "x": 120,
+        "y": 0,
+        "w": 119,
+        "h": 67
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 15,
+        "w": 119,
+        "h": 67
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 95
+      }
+    },
+    "hooligan_8": {
+      "frame": {
+        "x": 0,
+        "y": 63,
+        "w": 120,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 17,
+        "w": 120,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 95
+      }
+    },
+    "hooligan_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 118,
+        "h": 63
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 16,
+        "w": 118,
+        "h": 63
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 95
+      }
+    },
+    "hooligan_10": {
+      "frame": {
+        "x": 440,
+        "y": 262,
+        "w": 114,
+        "h": 66
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 13,
+        "w": 114,
+        "h": 66
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 95
+      }
+    },
+    "hooligan_11": {
+      "frame": {
+        "x": 479,
+        "y": 91,
+        "w": 104,
+        "h": 72
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 12,
+        "w": 104,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 95
+      }
+    },
+    "hooligan_12": {
+      "frame": {
+        "x": 479,
+        "y": 0,
+        "w": 91,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 11,
+        "w": 91,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 95
+      }
+    },
+    "hooligan_13": {
+      "frame": {
+        "x": 357,
+        "y": 403,
+        "w": 78,
+        "h": 79
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 10,
+        "w": 78,
+        "h": 79
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 95
+      }
+    },
+    "hooligan_14": {
+      "frame": {
+        "x": 286,
+        "y": 403,
+        "w": 71,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 7,
+        "w": 71,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 95
+      }
+    },
+    "hooligan_15": {
+      "frame": {
+        "x": 224,
+        "y": 403,
+        "w": 62,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 5,
+        "w": 62,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 95
+      }
+    },
+    "hooligan_16": {
+      "frame": {
+        "x": 0,
+        "y": 428,
+        "w": 59,
+        "h": 87
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33,
+        "y": 4,
+        "w": 59,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 95
+      }
+    },
+    "hooligan_17": {
+      "frame": {
+        "x": 404,
+        "y": 177,
+        "w": 62,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 5,
+        "w": 62,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 95
+      }
+    },
+    "hooligan_18": {
+      "frame": {
+        "x": 408,
+        "y": 93,
+        "w": 71,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": 7,
+        "w": 71,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 95
+      }
+    },
+    "hooligan_19": {
+      "frame": {
+        "x": 361,
+        "y": 312,
+        "w": 79,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 10,
+        "w": 79,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 95
+      }
+    },
+    "hooligan_20": {
+      "frame": {
+        "x": 285,
+        "y": 312,
+        "w": 91,
+        "h": 76
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 12,
+        "w": 91,
+        "h": 76
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 95
+      }
+    },
+    "hooligan_21": {
+      "frame": {
+        "x": 120,
+        "y": 355,
+        "w": 104,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 12,
+        "w": 104,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 95
+      }
+    },
+    "hooligan_22": {
+      "frame": {
+        "x": 0,
+        "y": 362,
+        "w": 113,
+        "h": 66
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 13,
+        "w": 113,
+        "h": 66
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 95
+      }
+    },
+    "hooligan_23": {
+      "frame": {
+        "x": 285,
+        "y": 248,
+        "w": 118,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 16,
+        "w": 118,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 95
+      }
+    },
+    "hooligan_24": {
+      "frame": {
+        "x": 0,
+        "y": 297,
+        "w": 120,
+        "h": 65
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 17,
+        "w": 120,
+        "h": 65
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 95
+      }
+    },
+    "hooligan_25": {
+      "frame": {
+        "x": 285,
+        "y": 181,
+        "w": 119,
+        "h": 67
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 16,
+        "w": 119,
+        "h": 67
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 95
+      }
+    },
+    "hooligan_26": {
+      "frame": {
+        "x": 336,
+        "y": 0,
+        "w": 114,
+        "h": 72
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 13,
+        "w": 114,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 95
+      }
+    },
+    "hooligan_27": {
+      "frame": {
+        "x": 181,
+        "y": 277,
+        "w": 104,
+        "h": 78
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 9,
+        "w": 104,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 95
+      }
+    },
+    "hooligan_28": {
+      "frame": {
+        "x": 91,
+        "y": 214,
+        "w": 90,
+        "h": 83
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 4,
+        "w": 90,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 95
+      }
+    },
+    "hooligan_29": {
+      "frame": {
+        "x": 246,
+        "y": 103,
+        "w": 78,
+        "h": 89
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 2,
+        "w": 78,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 95
+      }
+    },
+    "hooligan_30": {
+      "frame": {
+        "x": 265,
+        "y": 0,
+        "w": 71,
+        "h": 91
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 2,
+        "w": 71,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 95
+      }
+    },
+    "hooligan_31": {
+      "frame": {
+        "x": 120,
+        "y": 119,
+        "w": 61,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 0,
+        "w": 61,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 95
+      }
+    },
+    "hooligan_32": {
+      "frame": {
+        "x": 187,
+        "y": 103,
+        "w": 59,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 34,
+        "y": 0,
+        "w": 59,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 95
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "hooligan.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 556,
+      "h": 488
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

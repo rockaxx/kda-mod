@@ -1,0 +1,1295 @@
+{
+  "frames": {
+    "nostromoRegalia_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_1": {
+      "frame": {
+        "x": 150,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_2": {
+      "frame": {
+        "x": 300,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_3": {
+      "frame": {
+        "x": 450,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_4": {
+      "frame": {
+        "x": 600,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_5": {
+      "frame": {
+        "x": 750,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_6": {
+      "frame": {
+        "x": 900,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_7": {
+      "frame": {
+        "x": 1050,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_8": {
+      "frame": {
+        "x": 0,
+        "y": 130,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_9": {
+      "frame": {
+        "x": 150,
+        "y": 130,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_10": {
+      "frame": {
+        "x": 300,
+        "y": 130,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_11": {
+      "frame": {
+        "x": 450,
+        "y": 130,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_12": {
+      "frame": {
+        "x": 600,
+        "y": 130,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_13": {
+      "frame": {
+        "x": 750,
+        "y": 130,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_14": {
+      "frame": {
+        "x": 900,
+        "y": 130,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_15": {
+      "frame": {
+        "x": 1050,
+        "y": 130,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_16": {
+      "frame": {
+        "x": 0,
+        "y": 260,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_17": {
+      "frame": {
+        "x": 150,
+        "y": 260,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_18": {
+      "frame": {
+        "x": 300,
+        "y": 260,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_19": {
+      "frame": {
+        "x": 450,
+        "y": 260,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_20": {
+      "frame": {
+        "x": 600,
+        "y": 260,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_21": {
+      "frame": {
+        "x": 750,
+        "y": 260,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_22": {
+      "frame": {
+        "x": 900,
+        "y": 260,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_23": {
+      "frame": {
+        "x": 1050,
+        "y": 260,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_24": {
+      "frame": {
+        "x": 0,
+        "y": 390,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_25": {
+      "frame": {
+        "x": 150,
+        "y": 390,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_26": {
+      "frame": {
+        "x": 300,
+        "y": 390,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_27": {
+      "frame": {
+        "x": 450,
+        "y": 390,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_28": {
+      "frame": {
+        "x": 600,
+        "y": 390,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_29": {
+      "frame": {
+        "x": 750,
+        "y": 390,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_30": {
+      "frame": {
+        "x": 900,
+        "y": 390,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_31": {
+      "frame": {
+        "x": 1050,
+        "y": 390,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_32": {
+      "frame": {
+        "x": 0,
+        "y": 520,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_33": {
+      "frame": {
+        "x": 150,
+        "y": 520,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_34": {
+      "frame": {
+        "x": 300,
+        "y": 520,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_35": {
+      "frame": {
+        "x": 450,
+        "y": 520,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_36": {
+      "frame": {
+        "x": 600,
+        "y": 520,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_37": {
+      "frame": {
+        "x": 750,
+        "y": 520,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_38": {
+      "frame": {
+        "x": 900,
+        "y": 520,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_39": {
+      "frame": {
+        "x": 1050,
+        "y": 520,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_40": {
+      "frame": {
+        "x": 0,
+        "y": 650,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_41": {
+      "frame": {
+        "x": 150,
+        "y": 650,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_42": {
+      "frame": {
+        "x": 300,
+        "y": 650,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_43": {
+      "frame": {
+        "x": 450,
+        "y": 650,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_44": {
+      "frame": {
+        "x": 600,
+        "y": 650,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_45": {
+      "frame": {
+        "x": 750,
+        "y": 650,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_46": {
+      "frame": {
+        "x": 900,
+        "y": 650,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_47": {
+      "frame": {
+        "x": 1050,
+        "y": 650,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_48": {
+      "frame": {
+        "x": 0,
+        "y": 780,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_49": {
+      "frame": {
+        "x": 150,
+        "y": 780,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_50": {
+      "frame": {
+        "x": 300,
+        "y": 780,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_51": {
+      "frame": {
+        "x": 450,
+        "y": 780,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_52": {
+      "frame": {
+        "x": 600,
+        "y": 780,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_53": {
+      "frame": {
+        "x": 750,
+        "y": 780,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_54": {
+      "frame": {
+        "x": 900,
+        "y": 780,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_55": {
+      "frame": {
+        "x": 1050,
+        "y": 780,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_56": {
+      "frame": {
+        "x": 0,
+        "y": 910,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_57": {
+      "frame": {
+        "x": 150,
+        "y": 910,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_58": {
+      "frame": {
+        "x": 300,
+        "y": 910,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_59": {
+      "frame": {
+        "x": 450,
+        "y": 910,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_60": {
+      "frame": {
+        "x": 600,
+        "y": 910,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_61": {
+      "frame": {
+        "x": 750,
+        "y": 910,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_62": {
+      "frame": {
+        "x": 900,
+        "y": 910,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    },
+    "nostromoRegalia_63": {
+      "frame": {
+        "x": 1050,
+        "y": 910,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Atlas Generator v2",
+    "version": "1.0",
+    "image": "nostromoRegalia.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1200,
+      "h": 1040
+    },
+    "scale": 1
+  }
+}

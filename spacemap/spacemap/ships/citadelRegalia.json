@@ -1,0 +1,1295 @@
+{
+  "frames": {
+    "citadelRegalia_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_1": {
+      "frame": {
+        "x": 243,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_2": {
+      "frame": {
+        "x": 486,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_3": {
+      "frame": {
+        "x": 729,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_4": {
+      "frame": {
+        "x": 972,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_5": {
+      "frame": {
+        "x": 1215,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_6": {
+      "frame": {
+        "x": 1458,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_7": {
+      "frame": {
+        "x": 1701,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_8": {
+      "frame": {
+        "x": 0,
+        "y": 219,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_9": {
+      "frame": {
+        "x": 243,
+        "y": 219,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_10": {
+      "frame": {
+        "x": 486,
+        "y": 219,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_11": {
+      "frame": {
+        "x": 729,
+        "y": 219,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_12": {
+      "frame": {
+        "x": 972,
+        "y": 219,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_13": {
+      "frame": {
+        "x": 1215,
+        "y": 219,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_14": {
+      "frame": {
+        "x": 1458,
+        "y": 219,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_15": {
+      "frame": {
+        "x": 1701,
+        "y": 219,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_16": {
+      "frame": {
+        "x": 0,
+        "y": 438,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_17": {
+      "frame": {
+        "x": 243,
+        "y": 438,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_18": {
+      "frame": {
+        "x": 486,
+        "y": 438,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_19": {
+      "frame": {
+        "x": 729,
+        "y": 438,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_20": {
+      "frame": {
+        "x": 972,
+        "y": 438,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_21": {
+      "frame": {
+        "x": 1215,
+        "y": 438,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_22": {
+      "frame": {
+        "x": 1458,
+        "y": 438,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_23": {
+      "frame": {
+        "x": 1701,
+        "y": 438,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_24": {
+      "frame": {
+        "x": 0,
+        "y": 657,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_25": {
+      "frame": {
+        "x": 243,
+        "y": 657,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_26": {
+      "frame": {
+        "x": 486,
+        "y": 657,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_27": {
+      "frame": {
+        "x": 729,
+        "y": 657,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_28": {
+      "frame": {
+        "x": 972,
+        "y": 657,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_29": {
+      "frame": {
+        "x": 1215,
+        "y": 657,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_30": {
+      "frame": {
+        "x": 1458,
+        "y": 657,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_31": {
+      "frame": {
+        "x": 1701,
+        "y": 657,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_32": {
+      "frame": {
+        "x": 0,
+        "y": 876,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_33": {
+      "frame": {
+        "x": 243,
+        "y": 876,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_34": {
+      "frame": {
+        "x": 486,
+        "y": 876,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_35": {
+      "frame": {
+        "x": 729,
+        "y": 876,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_36": {
+      "frame": {
+        "x": 972,
+        "y": 876,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_37": {
+      "frame": {
+        "x": 1215,
+        "y": 876,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_38": {
+      "frame": {
+        "x": 1458,
+        "y": 876,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_39": {
+      "frame": {
+        "x": 1701,
+        "y": 876,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_40": {
+      "frame": {
+        "x": 0,
+        "y": 1095,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_41": {
+      "frame": {
+        "x": 243,
+        "y": 1095,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_42": {
+      "frame": {
+        "x": 486,
+        "y": 1095,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_43": {
+      "frame": {
+        "x": 729,
+        "y": 1095,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_44": {
+      "frame": {
+        "x": 972,
+        "y": 1095,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_45": {
+      "frame": {
+        "x": 1215,
+        "y": 1095,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_46": {
+      "frame": {
+        "x": 1458,
+        "y": 1095,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_47": {
+      "frame": {
+        "x": 1701,
+        "y": 1095,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_48": {
+      "frame": {
+        "x": 0,
+        "y": 1314,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_49": {
+      "frame": {
+        "x": 243,
+        "y": 1314,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_50": {
+      "frame": {
+        "x": 486,
+        "y": 1314,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_51": {
+      "frame": {
+        "x": 729,
+        "y": 1314,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_52": {
+      "frame": {
+        "x": 972,
+        "y": 1314,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_53": {
+      "frame": {
+        "x": 1215,
+        "y": 1314,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_54": {
+      "frame": {
+        "x": 1458,
+        "y": 1314,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_55": {
+      "frame": {
+        "x": 1701,
+        "y": 1314,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_56": {
+      "frame": {
+        "x": 0,
+        "y": 1533,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_57": {
+      "frame": {
+        "x": 243,
+        "y": 1533,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_58": {
+      "frame": {
+        "x": 486,
+        "y": 1533,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_59": {
+      "frame": {
+        "x": 729,
+        "y": 1533,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_60": {
+      "frame": {
+        "x": 972,
+        "y": 1533,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_61": {
+      "frame": {
+        "x": 1215,
+        "y": 1533,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_62": {
+      "frame": {
+        "x": 1458,
+        "y": 1533,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    },
+    "citadelRegalia_63": {
+      "frame": {
+        "x": 1701,
+        "y": 1533,
+        "w": 243,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 243,
+        "h": 219
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Atlas Generator v2",
+    "version": "1.0",
+    "image": "citadelRegalia.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1944,
+      "h": 1752
+    },
+    "scale": 1
+  }
+}

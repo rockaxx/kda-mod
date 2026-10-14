@@ -1,0 +1,656 @@
+{
+  "frames": {
+    "santaBot_0": {
+      "frame": {
+        "x": 282,
+        "y": 1297,
+        "w": 273,
+        "h": 251
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 63,
+        "y": 74,
+        "w": 273,
+        "h": 251
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "santaBot_1": {
+      "frame": {
+        "x": 0,
+        "y": 1533,
+        "w": 279,
+        "h": 250
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 66,
+        "y": 73,
+        "w": 279,
+        "h": 250
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "santaBot_2": {
+      "frame": {
+        "x": 966,
+        "y": 280,
+        "w": 296,
+        "h": 247
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 67,
+        "y": 72,
+        "w": 296,
+        "h": 247
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "santaBot_3": {
+      "frame": {
+        "x": 559,
+        "y": 541,
+        "w": 302,
+        "h": 246
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 73,
+        "y": 71,
+        "w": 302,
+        "h": 246
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "santaBot_4": {
+      "frame": {
+        "x": 280,
+        "y": 283,
+        "w": 296,
+        "h": 258
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 84,
+        "y": 69,
+        "w": 296,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "santaBot_5": {
+      "frame": {
+        "x": 0,
+        "y": 527,
+        "w": 280,
+        "h": 268
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 99,
+        "y": 67,
+        "w": 280,
+        "h": 268
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "santaBot_6": {
+      "frame": {
+        "x": 465,
+        "y": 0,
+        "w": 257,
+        "h": 275
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 114,
+        "y": 66,
+        "w": 257,
+        "h": 275
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "santaBot_7": {
+      "frame": {
+        "x": 0,
+        "y": 284,
+        "w": 243,
+        "h": 280
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 113,
+        "y": 64,
+        "w": 243,
+        "h": 280
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "santaBot_8": {
+      "frame": {
+        "x": 243,
+        "y": 0,
+        "w": 222,
+        "h": 283
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 114,
+        "y": 61,
+        "w": 222,
+        "h": 283
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "santaBot_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 284
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 113,
+        "y": 59,
+        "w": 243,
+        "h": 284
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "santaBot_10": {
+      "frame": {
+        "x": 1399,
+        "y": 1097,
+        "w": 257,
+        "h": 282
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 114,
+        "y": 59,
+        "w": 257,
+        "h": 282
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "santaBot_11": {
+      "frame": {
+        "x": 1399,
+        "y": 819,
+        "w": 280,
+        "h": 278
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 99,
+        "y": 58,
+        "w": 280,
+        "h": 278
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "santaBot_12": {
+      "frame": {
+        "x": 1447,
+        "y": 544,
+        "w": 296,
+        "h": 275
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 84,
+        "y": 54,
+        "w": 296,
+        "h": 275
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "santaBot_13": {
+      "frame": {
+        "x": 1447,
+        "y": 279,
+        "w": 302,
+        "h": 265
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 73,
+        "y": 55,
+        "w": 302,
+        "h": 265
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "santaBot_14": {
+      "frame": {
+        "x": 1456,
+        "y": 0,
+        "w": 296,
+        "h": 250
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 67,
+        "y": 60,
+        "w": 296,
+        "h": 250
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "santaBot_15": {
+      "frame": {
+        "x": 0,
+        "y": 1304,
+        "w": 279,
+        "h": 229
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 66,
+        "y": 69,
+        "w": 279,
+        "h": 229
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "santaBot_16": {
+      "frame": {
+        "x": 577,
+        "y": 1031,
+        "w": 273,
+        "h": 217
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 63,
+        "y": 69,
+        "w": 273,
+        "h": 217
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "santaBot_17": {
+      "frame": {
+        "x": 1227,
+        "y": 0,
+        "w": 279,
+        "h": 229
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 54,
+        "y": 69,
+        "w": 279,
+        "h": 229
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "santaBot_18": {
+      "frame": {
+        "x": 282,
+        "y": 1047,
+        "w": 295,
+        "h": 250
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 37,
+        "y": 60,
+        "w": 295,
+        "h": 250
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "santaBot_19": {
+      "frame": {
+        "x": 1145,
+        "y": 527,
+        "w": 302,
+        "h": 265
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 55,
+        "w": 302,
+        "h": 265
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "santaBot_20": {
+      "frame": {
+        "x": 1124,
+        "y": 1008,
+        "w": 296,
+        "h": 275
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 54,
+        "w": 296,
+        "h": 275
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "santaBot_21": {
+      "frame": {
+        "x": 846,
+        "y": 1008,
+        "w": 280,
+        "h": 278
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 58,
+        "w": 280,
+        "h": 278
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "santaBot_22": {
+      "frame": {
+        "x": 0,
+        "y": 1047,
+        "w": 257,
+        "h": 282
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": 59,
+        "w": 257,
+        "h": 282
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "santaBot_23": {
+      "frame": {
+        "x": 861,
+        "y": 537,
+        "w": 244,
+        "h": 284
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 43,
+        "y": 59,
+        "w": 244,
+        "h": 284
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "santaBot_24": {
+      "frame": {
+        "x": 846,
+        "y": 787,
+        "w": 221,
+        "h": 283
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 64,
+        "y": 61,
+        "w": 221,
+        "h": 283
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "santaBot_25": {
+      "frame": {
+        "x": 566,
+        "y": 787,
+        "w": 244,
+        "h": 280
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 43,
+        "y": 64,
+        "w": 244,
+        "h": 280
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "santaBot_26": {
+      "frame": {
+        "x": 296,
+        "y": 789,
+        "w": 257,
+        "h": 270
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": 70,
+        "w": 257,
+        "h": 270
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "santaBot_27": {
+      "frame": {
+        "x": 966,
+        "y": 0,
+        "w": 280,
+        "h": 261
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 74,
+        "w": 280,
+        "h": 261
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "santaBot_28": {
+      "frame": {
+        "x": 0,
+        "y": 795,
+        "w": 296,
+        "h": 252
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 75,
+        "w": 296,
+        "h": 252
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "santaBot_29": {
+      "frame": {
+        "x": 576,
+        "y": 295,
+        "w": 302,
+        "h": 242
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 75,
+        "w": 302,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "santaBot_30": {
+      "frame": {
+        "x": 722,
+        "y": 0,
+        "w": 295,
+        "h": 244
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 37,
+        "y": 75,
+        "w": 295,
+        "h": 244
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "santaBot_31": {
+      "frame": {
+        "x": 280,
+        "y": 541,
+        "w": 279,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 54,
+        "y": 75,
+        "w": 279,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "santaBot.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1752,
+      "h": 1783
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

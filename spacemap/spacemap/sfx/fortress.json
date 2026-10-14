@@ -1,0 +1,776 @@
+{
+  "frames": {
+    "fortress_0": {
+      "frame": {
+        "x": 1138,
+        "y": 0,
+        "w": 193,
+        "h": 190
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 5,
+        "w": 193,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "fortress_1": {
+      "frame": {
+        "x": 1136,
+        "y": 384,
+        "w": 194,
+        "h": 192
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 4,
+        "w": 194,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "fortress_2": {
+      "frame": {
+        "x": 946,
+        "y": 0,
+        "w": 194,
+        "h": 192
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 4,
+        "w": 194,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "fortress_3": {
+      "frame": {
+        "x": 192,
+        "y": 744,
+        "w": 192,
+        "h": 192
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 4,
+        "w": 192,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "fortress_4": {
+      "frame": {
+        "x": 375,
+        "y": 0,
+        "w": 190,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 5,
+        "w": 190,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "fortress_5": {
+      "frame": {
+        "x": 0,
+        "y": 374,
+        "w": 188,
+        "h": 189
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 6,
+        "w": 188,
+        "h": 189
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "fortress_6": {
+      "frame": {
+        "x": 191,
+        "y": 0,
+        "w": 184,
+        "h": 187
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 7,
+        "w": 184,
+        "h": 187
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "fortress_7": {
+      "frame": {
+        "x": 189,
+        "y": 187,
+        "w": 186,
+        "h": 187
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 7,
+        "w": 186,
+        "h": 187
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "fortress_8": {
+      "frame": {
+        "x": 0,
+        "y": 187,
+        "w": 189,
+        "h": 187
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 7,
+        "w": 189,
+        "h": 187
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "fortress_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 191,
+        "h": 187
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 7,
+        "w": 191,
+        "h": 187
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "fortress_10": {
+      "frame": {
+        "x": 1136,
+        "y": 194,
+        "w": 192,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 5,
+        "w": 192,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "fortress_11": {
+      "frame": {
+        "x": 576,
+        "y": 1128,
+        "w": 193,
+        "h": 192
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 4,
+        "w": 193,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "fortress_12": {
+      "frame": {
+        "x": 384,
+        "y": 1128,
+        "w": 193,
+        "h": 192
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 4,
+        "w": 193,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "fortress_13": {
+      "frame": {
+        "x": 191,
+        "y": 1132,
+        "w": 193,
+        "h": 191
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 5,
+        "w": 193,
+        "h": 191
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "fortress_14": {
+      "frame": {
+        "x": 0,
+        "y": 1132,
+        "w": 192,
+        "h": 191
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 5,
+        "w": 192,
+        "h": 191
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "fortress_15": {
+      "frame": {
+        "x": 946,
+        "y": 944,
+        "w": 193,
+        "h": 192
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 4,
+        "w": 193,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "fortress_16": {
+      "frame": {
+        "x": 946,
+        "y": 752,
+        "w": 192,
+        "h": 192
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 4,
+        "w": 192,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "fortress_17": {
+      "frame": {
+        "x": 946,
+        "y": 564,
+        "w": 188,
+        "h": 190
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 5,
+        "w": 188,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "fortress_18": {
+      "frame": {
+        "x": 946,
+        "y": 378,
+        "w": 186,
+        "h": 188
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 6,
+        "w": 186,
+        "h": 188
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "fortress_19": {
+      "frame": {
+        "x": 946,
+        "y": 194,
+        "w": 184,
+        "h": 188
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 6,
+        "w": 184,
+        "h": 188
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "fortress_20": {
+      "frame": {
+        "x": 762,
+        "y": 940,
+        "w": 184,
+        "h": 188
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 6,
+        "w": 184,
+        "h": 188
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "fortress_21": {
+      "frame": {
+        "x": 574,
+        "y": 940,
+        "w": 188,
+        "h": 188
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 6,
+        "w": 188,
+        "h": 188
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "fortress_22": {
+      "frame": {
+        "x": 384,
+        "y": 934,
+        "w": 190,
+        "h": 188
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 6,
+        "w": 190,
+        "h": 188
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "fortress_23": {
+      "frame": {
+        "x": 193,
+        "y": 940,
+        "w": 192,
+        "h": 191
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 4,
+        "w": 192,
+        "h": 191
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "fortress_24": {
+      "frame": {
+        "x": 0,
+        "y": 940,
+        "w": 193,
+        "h": 192
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 4,
+        "w": 193,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "fortress_25": {
+      "frame": {
+        "x": 574,
+        "y": 748,
+        "w": 193,
+        "h": 192
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 4,
+        "w": 193,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "fortress_26": {
+      "frame": {
+        "x": 574,
+        "y": 556,
+        "w": 192,
+        "h": 192
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 4,
+        "w": 192,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "fortress_27": {
+      "frame": {
+        "x": 755,
+        "y": 192,
+        "w": 193,
+        "h": 191
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 4,
+        "w": 193,
+        "h": 191
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "fortress_28": {
+      "frame": {
+        "x": 755,
+        "y": 0,
+        "w": 192,
+        "h": 191
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 4,
+        "w": 192,
+        "h": 191
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "fortress_29": {
+      "frame": {
+        "x": 384,
+        "y": 744,
+        "w": 190,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 5,
+        "w": 190,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "fortress_30": {
+      "frame": {
+        "x": 0,
+        "y": 752,
+        "w": 188,
+        "h": 189
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 5,
+        "w": 188,
+        "h": 189
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "fortress_31": {
+      "frame": {
+        "x": 382,
+        "y": 556,
+        "w": 186,
+        "h": 188
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 6,
+        "w": 186,
+        "h": 188
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "fortress_32": {
+      "frame": {
+        "x": 567,
+        "y": 372,
+        "w": 184,
+        "h": 188
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 6,
+        "w": 184,
+        "h": 188
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "fortress_33": {
+      "frame": {
+        "x": 567,
+        "y": 188,
+        "w": 184,
+        "h": 187
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 6,
+        "w": 184,
+        "h": 187
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "fortress_34": {
+      "frame": {
+        "x": 567,
+        "y": 0,
+        "w": 188,
+        "h": 188
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 6,
+        "w": 188,
+        "h": 188
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "fortress_35": {
+      "frame": {
+        "x": 192,
+        "y": 381,
+        "w": 190,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 5,
+        "w": 190,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "fortress_36": {
+      "frame": {
+        "x": 0,
+        "y": 562,
+        "w": 192,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 5,
+        "w": 192,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    },
+    "fortress_37": {
+      "frame": {
+        "x": 375,
+        "y": 190,
+        "w": 192,
+        "h": 191
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 4,
+        "w": 192,
+        "h": 191
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "fortress.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1328,
+      "h": 1324
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

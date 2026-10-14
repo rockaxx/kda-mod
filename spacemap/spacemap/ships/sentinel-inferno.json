@@ -1,0 +1,1295 @@
+{
+  "frames": {
+    "sentinel-inferno_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_1": {
+      "frame": {
+        "x": 234,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_2": {
+      "frame": {
+        "x": 468,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_3": {
+      "frame": {
+        "x": 702,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_4": {
+      "frame": {
+        "x": 936,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_5": {
+      "frame": {
+        "x": 1170,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_6": {
+      "frame": {
+        "x": 1404,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_7": {
+      "frame": {
+        "x": 1638,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_8": {
+      "frame": {
+        "x": 0,
+        "y": 190,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_9": {
+      "frame": {
+        "x": 234,
+        "y": 190,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_10": {
+      "frame": {
+        "x": 468,
+        "y": 190,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_11": {
+      "frame": {
+        "x": 702,
+        "y": 190,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_12": {
+      "frame": {
+        "x": 936,
+        "y": 190,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_13": {
+      "frame": {
+        "x": 1170,
+        "y": 190,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_14": {
+      "frame": {
+        "x": 1404,
+        "y": 190,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_15": {
+      "frame": {
+        "x": 1638,
+        "y": 190,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_16": {
+      "frame": {
+        "x": 0,
+        "y": 380,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_17": {
+      "frame": {
+        "x": 234,
+        "y": 380,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_18": {
+      "frame": {
+        "x": 468,
+        "y": 380,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_19": {
+      "frame": {
+        "x": 702,
+        "y": 380,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_20": {
+      "frame": {
+        "x": 936,
+        "y": 380,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_21": {
+      "frame": {
+        "x": 1170,
+        "y": 380,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_22": {
+      "frame": {
+        "x": 1404,
+        "y": 380,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_23": {
+      "frame": {
+        "x": 1638,
+        "y": 380,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_24": {
+      "frame": {
+        "x": 0,
+        "y": 570,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_25": {
+      "frame": {
+        "x": 234,
+        "y": 570,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_26": {
+      "frame": {
+        "x": 468,
+        "y": 570,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_27": {
+      "frame": {
+        "x": 702,
+        "y": 570,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_28": {
+      "frame": {
+        "x": 936,
+        "y": 570,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_29": {
+      "frame": {
+        "x": 1170,
+        "y": 570,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_30": {
+      "frame": {
+        "x": 1404,
+        "y": 570,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_31": {
+      "frame": {
+        "x": 1638,
+        "y": 570,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_32": {
+      "frame": {
+        "x": 0,
+        "y": 760,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_33": {
+      "frame": {
+        "x": 234,
+        "y": 760,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_34": {
+      "frame": {
+        "x": 468,
+        "y": 760,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_35": {
+      "frame": {
+        "x": 702,
+        "y": 760,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_36": {
+      "frame": {
+        "x": 936,
+        "y": 760,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_37": {
+      "frame": {
+        "x": 1170,
+        "y": 760,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_38": {
+      "frame": {
+        "x": 1404,
+        "y": 760,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_39": {
+      "frame": {
+        "x": 1638,
+        "y": 760,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_40": {
+      "frame": {
+        "x": 0,
+        "y": 950,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_41": {
+      "frame": {
+        "x": 234,
+        "y": 950,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_42": {
+      "frame": {
+        "x": 468,
+        "y": 950,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_43": {
+      "frame": {
+        "x": 702,
+        "y": 950,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_44": {
+      "frame": {
+        "x": 936,
+        "y": 950,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_45": {
+      "frame": {
+        "x": 1170,
+        "y": 950,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_46": {
+      "frame": {
+        "x": 1404,
+        "y": 950,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_47": {
+      "frame": {
+        "x": 1638,
+        "y": 950,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_48": {
+      "frame": {
+        "x": 0,
+        "y": 1140,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_49": {
+      "frame": {
+        "x": 234,
+        "y": 1140,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_50": {
+      "frame": {
+        "x": 468,
+        "y": 1140,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_51": {
+      "frame": {
+        "x": 702,
+        "y": 1140,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_52": {
+      "frame": {
+        "x": 936,
+        "y": 1140,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_53": {
+      "frame": {
+        "x": 1170,
+        "y": 1140,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_54": {
+      "frame": {
+        "x": 1404,
+        "y": 1140,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_55": {
+      "frame": {
+        "x": 1638,
+        "y": 1140,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_56": {
+      "frame": {
+        "x": 0,
+        "y": 1330,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_57": {
+      "frame": {
+        "x": 234,
+        "y": 1330,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_58": {
+      "frame": {
+        "x": 468,
+        "y": 1330,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_59": {
+      "frame": {
+        "x": 702,
+        "y": 1330,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_60": {
+      "frame": {
+        "x": 936,
+        "y": 1330,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_61": {
+      "frame": {
+        "x": 1170,
+        "y": 1330,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_62": {
+      "frame": {
+        "x": 1404,
+        "y": 1330,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    },
+    "sentinel-inferno_63": {
+      "frame": {
+        "x": 1638,
+        "y": 1330,
+        "w": 234,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 234,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 190
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Atlas Generator v2",
+    "version": "1.0",
+    "image": "sentinel-inferno.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1872,
+      "h": 1520
+    },
+    "scale": 1
+  }
+}

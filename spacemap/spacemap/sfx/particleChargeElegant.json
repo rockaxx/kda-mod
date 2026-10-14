@@ -1,0 +1,1636 @@
+{
+  "frames": {
+    "particleChargeElegant_0": {
+      "frame": {
+        "x": 1628,
+        "y": 1273,
+        "w": 258,
+        "h": 186
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 106,
+        "y": 139,
+        "w": 258,
+        "h": 186
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_1": {
+      "frame": {
+        "x": 1536,
+        "y": 2095,
+        "w": 259,
+        "h": 201
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 114,
+        "y": 137,
+        "w": 259,
+        "h": 201
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_2": {
+      "frame": {
+        "x": 2162,
+        "y": 1848,
+        "w": 249,
+        "h": 226
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 125,
+        "y": 119,
+        "w": 249,
+        "h": 226
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_3": {
+      "frame": {
+        "x": 679,
+        "y": 2711,
+        "w": 236,
+        "h": 274
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 135,
+        "y": 117,
+        "w": 236,
+        "h": 274
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_4": {
+      "frame": {
+        "x": 1211,
+        "y": 2097,
+        "w": 237,
+        "h": 325
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 128,
+        "y": 83,
+        "w": 237,
+        "h": 325
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_5": {
+      "frame": {
+        "x": 2162,
+        "y": 1289,
+        "w": 243,
+        "h": 341
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 124,
+        "y": 78,
+        "w": 243,
+        "h": 341
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_6": {
+      "frame": {
+        "x": 1000,
+        "y": 644,
+        "w": 267,
+        "h": 371
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 67,
+        "w": 267,
+        "h": 371
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_7": {
+      "frame": {
+        "x": 1291,
+        "y": 640,
+        "w": 282,
+        "h": 391
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 98,
+        "y": 50,
+        "w": 282,
+        "h": 391
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_8": {
+      "frame": {
+        "x": 0,
+        "y": 500,
+        "w": 289,
+        "h": 402
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 40,
+        "w": 289,
+        "h": 402
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 293,
+        "h": 408
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 93,
+        "y": 35,
+        "w": 293,
+        "h": 408
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_10": {
+      "frame": {
+        "x": 2833,
+        "y": 2689,
+        "w": 303,
+        "h": 409
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 89,
+        "y": 33,
+        "w": 303,
+        "h": 409
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_11": {
+      "frame": {
+        "x": 2803,
+        "y": 3021,
+        "w": 313,
+        "h": 410
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 85,
+        "y": 32,
+        "w": 313,
+        "h": 410
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_12": {
+      "frame": {
+        "x": 2392,
+        "y": 3021,
+        "w": 319,
+        "h": 411
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 83,
+        "y": 32,
+        "w": 319,
+        "h": 411
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_13": {
+      "frame": {
+        "x": 2856,
+        "y": 821,
+        "w": 324,
+        "h": 411
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 81,
+        "y": 33,
+        "w": 324,
+        "h": 411
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_14": {
+      "frame": {
+        "x": 2837,
+        "y": 1290,
+        "w": 327,
+        "h": 411
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 80,
+        "y": 34,
+        "w": 327,
+        "h": 411
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_15": {
+      "frame": {
+        "x": 2851,
+        "y": 2025,
+        "w": 329,
+        "h": 411
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 80,
+        "y": 35,
+        "w": 329,
+        "h": 411
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_16": {
+      "frame": {
+        "x": 3133,
+        "y": 411,
+        "w": 330,
+        "h": 410
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 80,
+        "y": 36,
+        "w": 330,
+        "h": 410
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_17": {
+      "frame": {
+        "x": 3139,
+        "y": 0,
+        "w": 331,
+        "h": 411
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 80,
+        "y": 37,
+        "w": 331,
+        "h": 411
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_18": {
+      "frame": {
+        "x": 1980,
+        "y": 2996,
+        "w": 332,
+        "h": 412
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 80,
+        "y": 38,
+        "w": 332,
+        "h": 412
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_19": {
+      "frame": {
+        "x": 1574,
+        "y": 3021,
+        "w": 318,
+        "h": 406
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 39,
+        "w": 318,
+        "h": 406
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_20": {
+      "frame": {
+        "x": 0,
+        "y": 3028,
+        "w": 314,
+        "h": 325
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 99,
+        "y": 87,
+        "w": 314,
+        "h": 325
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_21": {
+      "frame": {
+        "x": 679,
+        "y": 3023,
+        "w": 315,
+        "h": 325
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 100,
+        "y": 87,
+        "w": 315,
+        "h": 325
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_22": {
+      "frame": {
+        "x": 1260,
+        "y": 3018,
+        "w": 314,
+        "h": 324
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 102,
+        "y": 87,
+        "w": 314,
+        "h": 324
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_23": {
+      "frame": {
+        "x": 2856,
+        "y": 327,
+        "w": 277,
+        "h": 326
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 109,
+        "y": 86,
+        "w": 277,
+        "h": 326
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_24": {
+      "frame": {
+        "x": 2856,
+        "y": 0,
+        "w": 283,
+        "h": 327
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 101,
+        "y": 85,
+        "w": 283,
+        "h": 327
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_25": {
+      "frame": {
+        "x": 1932,
+        "y": 2711,
+        "w": 285,
+        "h": 328
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 97,
+        "y": 84,
+        "w": 285,
+        "h": 328
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_26": {
+      "frame": {
+        "x": 1607,
+        "y": 2711,
+        "w": 295,
+        "h": 325
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 84,
+        "w": 295,
+        "h": 325
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_27": {
+      "frame": {
+        "x": 2530,
+        "y": 2689,
+        "w": 303,
+        "h": 332
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 83,
+        "w": 303,
+        "h": 332
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_28": {
+      "frame": {
+        "x": 1260,
+        "y": 2711,
+        "w": 307,
+        "h": 347
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 90,
+        "w": 307,
+        "h": 347
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_29": {
+      "frame": {
+        "x": 915,
+        "y": 2711,
+        "w": 312,
+        "h": 345
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 91,
+        "w": 312,
+        "h": 345
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_30": {
+      "frame": {
+        "x": 365,
+        "y": 2702,
+        "w": 314,
+        "h": 326
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 108,
+        "w": 314,
+        "h": 326
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_31": {
+      "frame": {
+        "x": 0,
+        "y": 2712,
+        "w": 316,
+        "h": 320
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 96,
+        "y": 111,
+        "w": 316,
+        "h": 320
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_32": {
+      "frame": {
+        "x": 2530,
+        "y": 2371,
+        "w": 318,
+        "h": 326
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 97,
+        "y": 110,
+        "w": 318,
+        "h": 326
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_33": {
+      "frame": {
+        "x": 2530,
+        "y": 2025,
+        "w": 321,
+        "h": 346
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 96,
+        "y": 95,
+        "w": 321,
+        "h": 346
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_34": {
+      "frame": {
+        "x": 2530,
+        "y": 1663,
+        "w": 323,
+        "h": 362
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 83,
+        "w": 323,
+        "h": 362
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_35": {
+      "frame": {
+        "x": 2530,
+        "y": 1290,
+        "w": 307,
+        "h": 373
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 101,
+        "y": 74,
+        "w": 307,
+        "h": 373
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_36": {
+      "frame": {
+        "x": 2552,
+        "y": 851,
+        "w": 304,
+        "h": 439
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 105,
+        "y": 10,
+        "w": 304,
+        "h": 439
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_37": {
+      "frame": {
+        "x": 2559,
+        "y": 419,
+        "w": 297,
+        "h": 432
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 112,
+        "y": 19,
+        "w": 297,
+        "h": 432
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_38": {
+      "frame": {
+        "x": 2559,
+        "y": 0,
+        "w": 297,
+        "h": 419
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 111,
+        "y": 32,
+        "w": 297,
+        "h": 419
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_39": {
+      "frame": {
+        "x": 1604,
+        "y": 2402,
+        "w": 303,
+        "h": 407
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 104,
+        "y": 45,
+        "w": 303,
+        "h": 407
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_40": {
+      "frame": {
+        "x": 1198,
+        "y": 2402,
+        "w": 307,
+        "h": 406
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 99,
+        "y": 49,
+        "w": 307,
+        "h": 406
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_41": {
+      "frame": {
+        "x": 2119,
+        "y": 2400,
+        "w": 311,
+        "h": 411
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 46,
+        "w": 311,
+        "h": 411
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_42": {
+      "frame": {
+        "x": 783,
+        "y": 2393,
+        "w": 313,
+        "h": 415
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 91,
+        "y": 44,
+        "w": 313,
+        "h": 415
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_43": {
+      "frame": {
+        "x": 365,
+        "y": 2403,
+        "w": 299,
+        "h": 418
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 85,
+        "y": 42,
+        "w": 299,
+        "h": 418
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_44": {
+      "frame": {
+        "x": 0,
+        "y": 2403,
+        "w": 309,
+        "h": 365
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 77,
+        "y": 96,
+        "w": 309,
+        "h": 365
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_45": {
+      "frame": {
+        "x": 2162,
+        "y": 1532,
+        "w": 316,
+        "h": 358
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 71,
+        "y": 103,
+        "w": 316,
+        "h": 358
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_46": {
+      "frame": {
+        "x": 2221,
+        "y": 955,
+        "w": 321,
+        "h": 289
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 67,
+        "y": 110,
+        "w": 321,
+        "h": 289
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_47": {
+      "frame": {
+        "x": 2229,
+        "y": 673,
+        "w": 323,
+        "h": 282
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 64,
+        "y": 115,
+        "w": 323,
+        "h": 282
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_48": {
+      "frame": {
+        "x": 2119,
+        "y": 2074,
+        "w": 326,
+        "h": 314
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 61,
+        "y": 81,
+        "w": 326,
+        "h": 314
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_49": {
+      "frame": {
+        "x": 2231,
+        "y": 348,
+        "w": 328,
+        "h": 325
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 59,
+        "y": 96,
+        "w": 328,
+        "h": 325
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_50": {
+      "frame": {
+        "x": 2231,
+        "y": 0,
+        "w": 327,
+        "h": 348
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 58,
+        "y": 83,
+        "w": 327,
+        "h": 348
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_51": {
+      "frame": {
+        "x": 1744,
+        "y": 2074,
+        "w": 328,
+        "h": 375
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 57,
+        "y": 73,
+        "w": 328,
+        "h": 375
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_52": {
+      "frame": {
+        "x": 821,
+        "y": 2110,
+        "w": 283,
+        "h": 390
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 100,
+        "y": 67,
+        "w": 283,
+        "h": 390
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_53": {
+      "frame": {
+        "x": 422,
+        "y": 2113,
+        "w": 274,
+        "h": 399
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 93,
+        "y": 63,
+        "w": 274,
+        "h": 399
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_54": {
+      "frame": {
+        "x": 1628,
+        "y": 869,
+        "w": 282,
+        "h": 404
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 88,
+        "y": 61,
+        "w": 282,
+        "h": 404
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_55": {
+      "frame": {
+        "x": 0,
+        "y": 2113,
+        "w": 290,
+        "h": 422
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 85,
+        "y": 60,
+        "w": 290,
+        "h": 422
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_56": {
+      "frame": {
+        "x": 1744,
+        "y": 1776,
+        "w": 298,
+        "h": 418
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 83,
+        "y": 60,
+        "w": 298,
+        "h": 418
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_57": {
+      "frame": {
+        "x": 1916,
+        "y": 867,
+        "w": 305,
+        "h": 422
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 82,
+        "y": 60,
+        "w": 305,
+        "h": 422
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_58": {
+      "frame": {
+        "x": 1568,
+        "y": 1466,
+        "w": 310,
+        "h": 429
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 81,
+        "y": 60,
+        "w": 310,
+        "h": 429
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_59": {
+      "frame": {
+        "x": 1916,
+        "y": 435,
+        "w": 313,
+        "h": 432
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 81,
+        "y": 61,
+        "w": 313,
+        "h": 432
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_60": {
+      "frame": {
+        "x": 1915,
+        "y": 0,
+        "w": 316,
+        "h": 435
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 81,
+        "y": 62,
+        "w": 316,
+        "h": 435
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_61": {
+      "frame": {
+        "x": 1307,
+        "y": 1777,
+        "w": 318,
+        "h": 437
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 81,
+        "y": 62,
+        "w": 318,
+        "h": 437
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_62": {
+      "frame": {
+        "x": 870,
+        "y": 1777,
+        "w": 320,
+        "h": 437
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 81,
+        "y": 63,
+        "w": 320,
+        "h": 437
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_63": {
+      "frame": {
+        "x": 1601,
+        "y": 435,
+        "w": 315,
+        "h": 434
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 88,
+        "y": 66,
+        "w": 315,
+        "h": 434
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_64": {
+      "frame": {
+        "x": 435,
+        "y": 1789,
+        "w": 321,
+        "h": 435
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 83,
+        "y": 65,
+        "w": 321,
+        "h": 435
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_65": {
+      "frame": {
+        "x": 0,
+        "y": 1789,
+        "w": 324,
+        "h": 435
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 80,
+        "y": 65,
+        "w": 324,
+        "h": 435
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_66": {
+      "frame": {
+        "x": 1603,
+        "y": 0,
+        "w": 312,
+        "h": 435
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 65,
+        "w": 312,
+        "h": 435
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_67": {
+      "frame": {
+        "x": 1315,
+        "y": 1031,
+        "w": 313,
+        "h": 435
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 77,
+        "y": 65,
+        "w": 313,
+        "h": 435
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_68": {
+      "frame": {
+        "x": 1133,
+        "y": 1466,
+        "w": 311,
+        "h": 435
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 76,
+        "y": 65,
+        "w": 311,
+        "h": 435
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_69": {
+      "frame": {
+        "x": 1000,
+        "y": 1031,
+        "w": 315,
+        "h": 435
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 75,
+        "y": 65,
+        "w": 315,
+        "h": 435
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_70": {
+      "frame": {
+        "x": 1293,
+        "y": 321,
+        "w": 319,
+        "h": 308
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 75,
+        "y": 81,
+        "w": 319,
+        "h": 308
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_71": {
+      "frame": {
+        "x": 1293,
+        "y": 0,
+        "w": 321,
+        "h": 310
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 75,
+        "y": 79,
+        "w": 321,
+        "h": 310
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_72": {
+      "frame": {
+        "x": 819,
+        "y": 1500,
+        "w": 154,
+        "h": 314
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 186,
+        "y": 78,
+        "w": 154,
+        "h": 314
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_73": {
+      "frame": {
+        "x": 500,
+        "y": 1500,
+        "w": 154,
+        "h": 319
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 183,
+        "y": 76,
+        "w": 154,
+        "h": 319
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_74": {
+      "frame": {
+        "x": 1000,
+        "y": 500,
+        "w": 144,
+        "h": 291
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 191,
+        "y": 75,
+        "w": 144,
+        "h": 291
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_75": {
+      "frame": {
+        "x": 500,
+        "y": 1000,
+        "w": 500,
+        "h": 500
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 500,
+        "h": 500
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_76": {
+      "frame": {
+        "x": 0,
+        "y": 1289,
+        "w": 500,
+        "h": 500
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 500,
+        "h": 500
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_77": {
+      "frame": {
+        "x": 500,
+        "y": 500,
+        "w": 500,
+        "h": 500
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 500,
+        "h": 500
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_78": {
+      "frame": {
+        "x": 793,
+        "y": 0,
+        "w": 500,
+        "h": 500
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 500,
+        "h": 500
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_79": {
+      "frame": {
+        "x": 0,
+        "y": 789,
+        "w": 500,
+        "h": 500
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 500,
+        "h": 500
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    },
+    "particleChargeElegant_80": {
+      "frame": {
+        "x": 293,
+        "y": 0,
+        "w": 500,
+        "h": 500
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 500,
+        "h": 500
+      },
+      "sourceSize": {
+        "w": 500,
+        "h": 500
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "particleChargeElegant.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 3470,
+      "h": 3342
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

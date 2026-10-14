@@ -1,0 +1,616 @@
+{
+  "frames": {
+    "snowPortal_0": {
+      "frame": {
+        "x": 514,
+        "y": 1454,
+        "w": 257,
+        "h": 242
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 257,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 258,
+        "h": 245
+      }
+    },
+    "snowPortal_1": {
+      "frame": {
+        "x": 257,
+        "y": 1456,
+        "w": 257,
+        "h": 242
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 257,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 258,
+        "h": 245
+      }
+    },
+    "snowPortal_2": {
+      "frame": {
+        "x": 758,
+        "y": 771,
+        "w": 257,
+        "h": 245
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 257,
+        "h": 245
+      },
+      "sourceSize": {
+        "w": 258,
+        "h": 245
+      }
+    },
+    "snowPortal_3": {
+      "frame": {
+        "x": 499,
+        "y": 257,
+        "w": 258,
+        "h": 244
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 258,
+        "h": 244
+      },
+      "sourceSize": {
+        "w": 258,
+        "h": 245
+      }
+    },
+    "snowPortal_4": {
+      "frame": {
+        "x": 501,
+        "y": 0,
+        "w": 257,
+        "h": 242
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 257,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 258,
+        "h": 245
+      }
+    },
+    "snowPortal_5": {
+      "frame": {
+        "x": 257,
+        "y": 257,
+        "w": 257,
+        "h": 242
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 257,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 258,
+        "h": 245
+      }
+    },
+    "snowPortal_6": {
+      "frame": {
+        "x": 0,
+        "y": 484,
+        "w": 257,
+        "h": 242
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 257,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 258,
+        "h": 245
+      }
+    },
+    "snowPortal_7": {
+      "frame": {
+        "x": 257,
+        "y": 0,
+        "w": 257,
+        "h": 244
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 257,
+        "h": 244
+      },
+      "sourceSize": {
+        "w": 258,
+        "h": 245
+      }
+    },
+    "snowPortal_8": {
+      "frame": {
+        "x": 0,
+        "y": 242,
+        "w": 257,
+        "h": 242
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 257,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 258,
+        "h": 245
+      }
+    },
+    "snowPortal_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 257,
+        "h": 242
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 257,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 258,
+        "h": 245
+      }
+    },
+    "snowPortal_10": {
+      "frame": {
+        "x": 0,
+        "y": 1456,
+        "w": 257,
+        "h": 243
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 257,
+        "h": 243
+      },
+      "sourceSize": {
+        "w": 258,
+        "h": 245
+      }
+    },
+    "snowPortal_11": {
+      "frame": {
+        "x": 1003,
+        "y": 771,
+        "w": 257,
+        "h": 243
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 257,
+        "h": 243
+      },
+      "sourceSize": {
+        "w": 258,
+        "h": 245
+      }
+    },
+    "snowPortal_12": {
+      "frame": {
+        "x": 1000,
+        "y": 1028,
+        "w": 257,
+        "h": 243
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 257,
+        "h": 243
+      },
+      "sourceSize": {
+        "w": 258,
+        "h": 245
+      }
+    },
+    "snowPortal_13": {
+      "frame": {
+        "x": 1228,
+        "y": 0,
+        "w": 258,
+        "h": 242
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 258,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 258,
+        "h": 245
+      }
+    },
+    "snowPortal_14": {
+      "frame": {
+        "x": 988,
+        "y": 514,
+        "w": 257,
+        "h": 242
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 257,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 258,
+        "h": 245
+      }
+    },
+    "snowPortal_15": {
+      "frame": {
+        "x": 758,
+        "y": 1028,
+        "w": 257,
+        "h": 242
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 257,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 258,
+        "h": 245
+      }
+    },
+    "snowPortal_16": {
+      "frame": {
+        "x": 515,
+        "y": 1029,
+        "w": 257,
+        "h": 243
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 257,
+        "h": 243
+      },
+      "sourceSize": {
+        "w": 258,
+        "h": 245
+      }
+    },
+    "snowPortal_17": {
+      "frame": {
+        "x": 258,
+        "y": 1212,
+        "w": 257,
+        "h": 242
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 257,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 258,
+        "h": 245
+      }
+    },
+    "snowPortal_18": {
+      "frame": {
+        "x": 985,
+        "y": 257,
+        "w": 257,
+        "h": 242
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 257,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 258,
+        "h": 245
+      }
+    },
+    "snowPortal_19": {
+      "frame": {
+        "x": 0,
+        "y": 1212,
+        "w": 258,
+        "h": 244
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 258,
+        "h": 244
+      },
+      "sourceSize": {
+        "w": 258,
+        "h": 245
+      }
+    },
+    "snowPortal_20": {
+      "frame": {
+        "x": 746,
+        "y": 514,
+        "w": 257,
+        "h": 242
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 257,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 258,
+        "h": 245
+      }
+    },
+    "snowPortal_21": {
+      "frame": {
+        "x": 985,
+        "y": 0,
+        "w": 257,
+        "h": 243
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 257,
+        "h": 243
+      },
+      "sourceSize": {
+        "w": 258,
+        "h": 245
+      }
+    },
+    "snowPortal_22": {
+      "frame": {
+        "x": 515,
+        "y": 772,
+        "w": 257,
+        "h": 243
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 257,
+        "h": 243
+      },
+      "sourceSize": {
+        "w": 258,
+        "h": 245
+      }
+    },
+    "snowPortal_23": {
+      "frame": {
+        "x": 257,
+        "y": 970,
+        "w": 258,
+        "h": 242
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 258,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 258,
+        "h": 245
+      }
+    },
+    "snowPortal_24": {
+      "frame": {
+        "x": 0,
+        "y": 970,
+        "w": 257,
+        "h": 242
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 257,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 258,
+        "h": 245
+      }
+    },
+    "snowPortal_25": {
+      "frame": {
+        "x": 743,
+        "y": 257,
+        "w": 257,
+        "h": 242
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 257,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 258,
+        "h": 245
+      }
+    },
+    "snowPortal_26": {
+      "frame": {
+        "x": 502,
+        "y": 515,
+        "w": 257,
+        "h": 244
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 257,
+        "h": 244
+      },
+      "sourceSize": {
+        "w": 258,
+        "h": 245
+      }
+    },
+    "snowPortal_27": {
+      "frame": {
+        "x": 743,
+        "y": 0,
+        "w": 257,
+        "h": 242
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 257,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 258,
+        "h": 245
+      }
+    },
+    "snowPortal_28": {
+      "frame": {
+        "x": 258,
+        "y": 515,
+        "w": 257,
+        "h": 244
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 257,
+        "h": 244
+      },
+      "sourceSize": {
+        "w": 258,
+        "h": 245
+      }
+    },
+    "snowPortal_29": {
+      "frame": {
+        "x": 0,
+        "y": 726,
+        "w": 258,
+        "h": 244
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 258,
+        "h": 244
+      },
+      "sourceSize": {
+        "w": 258,
+        "h": 245
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "snowPortal.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1470,
+      "h": 1699
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

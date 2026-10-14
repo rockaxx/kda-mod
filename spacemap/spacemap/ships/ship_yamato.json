@@ -1,0 +1,1295 @@
+{
+  "frames": {
+    "ship_yamato_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_1": {
+      "frame": {
+        "x": 159,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_2": {
+      "frame": {
+        "x": 318,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_3": {
+      "frame": {
+        "x": 477,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_4": {
+      "frame": {
+        "x": 636,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_5": {
+      "frame": {
+        "x": 795,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_6": {
+      "frame": {
+        "x": 954,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_7": {
+      "frame": {
+        "x": 1113,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_8": {
+      "frame": {
+        "x": 0,
+        "y": 141,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_9": {
+      "frame": {
+        "x": 159,
+        "y": 141,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_10": {
+      "frame": {
+        "x": 318,
+        "y": 141,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_11": {
+      "frame": {
+        "x": 477,
+        "y": 141,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_12": {
+      "frame": {
+        "x": 636,
+        "y": 141,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_13": {
+      "frame": {
+        "x": 795,
+        "y": 141,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_14": {
+      "frame": {
+        "x": 954,
+        "y": 141,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_15": {
+      "frame": {
+        "x": 1113,
+        "y": 141,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_16": {
+      "frame": {
+        "x": 0,
+        "y": 282,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_17": {
+      "frame": {
+        "x": 159,
+        "y": 282,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_18": {
+      "frame": {
+        "x": 318,
+        "y": 282,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_19": {
+      "frame": {
+        "x": 477,
+        "y": 282,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_20": {
+      "frame": {
+        "x": 636,
+        "y": 282,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_21": {
+      "frame": {
+        "x": 795,
+        "y": 282,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_22": {
+      "frame": {
+        "x": 954,
+        "y": 282,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_23": {
+      "frame": {
+        "x": 1113,
+        "y": 282,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_24": {
+      "frame": {
+        "x": 0,
+        "y": 423,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_25": {
+      "frame": {
+        "x": 159,
+        "y": 423,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_26": {
+      "frame": {
+        "x": 318,
+        "y": 423,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_27": {
+      "frame": {
+        "x": 477,
+        "y": 423,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_28": {
+      "frame": {
+        "x": 636,
+        "y": 423,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_29": {
+      "frame": {
+        "x": 795,
+        "y": 423,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_30": {
+      "frame": {
+        "x": 954,
+        "y": 423,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_31": {
+      "frame": {
+        "x": 1113,
+        "y": 423,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_32": {
+      "frame": {
+        "x": 0,
+        "y": 564,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_33": {
+      "frame": {
+        "x": 159,
+        "y": 564,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_34": {
+      "frame": {
+        "x": 318,
+        "y": 564,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_35": {
+      "frame": {
+        "x": 477,
+        "y": 564,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_36": {
+      "frame": {
+        "x": 636,
+        "y": 564,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_37": {
+      "frame": {
+        "x": 795,
+        "y": 564,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_38": {
+      "frame": {
+        "x": 954,
+        "y": 564,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_39": {
+      "frame": {
+        "x": 1113,
+        "y": 564,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_40": {
+      "frame": {
+        "x": 0,
+        "y": 705,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_41": {
+      "frame": {
+        "x": 159,
+        "y": 705,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_42": {
+      "frame": {
+        "x": 318,
+        "y": 705,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_43": {
+      "frame": {
+        "x": 477,
+        "y": 705,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_44": {
+      "frame": {
+        "x": 636,
+        "y": 705,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_45": {
+      "frame": {
+        "x": 795,
+        "y": 705,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_46": {
+      "frame": {
+        "x": 954,
+        "y": 705,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_47": {
+      "frame": {
+        "x": 1113,
+        "y": 705,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_48": {
+      "frame": {
+        "x": 0,
+        "y": 846,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_49": {
+      "frame": {
+        "x": 159,
+        "y": 846,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_50": {
+      "frame": {
+        "x": 318,
+        "y": 846,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_51": {
+      "frame": {
+        "x": 477,
+        "y": 846,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_52": {
+      "frame": {
+        "x": 636,
+        "y": 846,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_53": {
+      "frame": {
+        "x": 795,
+        "y": 846,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_54": {
+      "frame": {
+        "x": 954,
+        "y": 846,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_55": {
+      "frame": {
+        "x": 1113,
+        "y": 846,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_56": {
+      "frame": {
+        "x": 0,
+        "y": 987,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_57": {
+      "frame": {
+        "x": 159,
+        "y": 987,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_58": {
+      "frame": {
+        "x": 318,
+        "y": 987,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_59": {
+      "frame": {
+        "x": 477,
+        "y": 987,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_60": {
+      "frame": {
+        "x": 636,
+        "y": 987,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_61": {
+      "frame": {
+        "x": 795,
+        "y": 987,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_62": {
+      "frame": {
+        "x": 954,
+        "y": 987,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    },
+    "ship_yamato_63": {
+      "frame": {
+        "x": 1113,
+        "y": 987,
+        "w": 159,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 141
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Atlas Generator v2",
+    "version": "1.0",
+    "image": "ship_yamato.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1272,
+      "h": 1128
+    },
+    "scale": 1
+  }
+}

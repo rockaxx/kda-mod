@@ -1,0 +1,676 @@
+{
+  "frames": {
+    "robot_0": {
+      "frame": {
+        "x": 1152,
+        "y": 438,
+        "w": 225,
+        "h": 201
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 16,
+        "w": 225,
+        "h": 201
+      },
+      "sourceSize": {
+        "w": 285,
+        "h": 232
+      }
+    },
+    "robot_1": {
+      "frame": {
+        "x": 1160,
+        "y": 222,
+        "w": 216,
+        "h": 191
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 34,
+        "y": 15,
+        "w": 216,
+        "h": 191
+      },
+      "sourceSize": {
+        "w": 285,
+        "h": 232
+      }
+    },
+    "robot_2": {
+      "frame": {
+        "x": 970,
+        "y": 0,
+        "w": 222,
+        "h": 201
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 45,
+        "y": 16,
+        "w": 222,
+        "h": 201
+      },
+      "sourceSize": {
+        "w": 285,
+        "h": 232
+      }
+    },
+    "robot_3": {
+      "frame": {
+        "x": 448,
+        "y": 436,
+        "w": 226,
+        "h": 211
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 52,
+        "y": 14,
+        "w": 226,
+        "h": 211
+      },
+      "sourceSize": {
+        "w": 285,
+        "h": 232
+      }
+    },
+    "robot_4": {
+      "frame": {
+        "x": 222,
+        "y": 224,
+        "w": 226,
+        "h": 218
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 58,
+        "y": 12,
+        "w": 226,
+        "h": 218
+      },
+      "sourceSize": {
+        "w": 285,
+        "h": 232
+      }
+    },
+    "robot_5": {
+      "frame": {
+        "x": 0,
+        "y": 402,
+        "w": 221,
+        "h": 222
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 64,
+        "y": 10,
+        "w": 221,
+        "h": 222
+      },
+      "sourceSize": {
+        "w": 285,
+        "h": 232
+      }
+    },
+    "robot_6": {
+      "frame": {
+        "x": 338,
+        "y": 0,
+        "w": 209,
+        "h": 224
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 71,
+        "y": 6,
+        "w": 209,
+        "h": 224
+      },
+      "sourceSize": {
+        "w": 285,
+        "h": 232
+      }
+    },
+    "robot_7": {
+      "frame": {
+        "x": 0,
+        "y": 212,
+        "w": 190,
+        "h": 220
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 81,
+        "y": 3,
+        "w": 190,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 285,
+        "h": 232
+      }
+    },
+    "robot_8": {
+      "frame": {
+        "x": 165,
+        "y": 0,
+        "w": 173,
+        "h": 212
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 84,
+        "y": 1,
+        "w": 173,
+        "h": 212
+      },
+      "sourceSize": {
+        "w": 285,
+        "h": 232
+      }
+    },
+    "robot_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 165,
+        "h": 198
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 86,
+        "y": 1,
+        "w": 165,
+        "h": 198
+      },
+      "sourceSize": {
+        "w": 285,
+        "h": 232
+      }
+    },
+    "robot_10": {
+      "frame": {
+        "x": 1171,
+        "y": 0,
+        "w": 184,
+        "h": 187
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 84,
+        "y": 1,
+        "w": 184,
+        "h": 187
+      },
+      "sourceSize": {
+        "w": 285,
+        "h": 232
+      }
+    },
+    "robot_11": {
+      "frame": {
+        "x": 645,
+        "y": 991,
+        "w": 198,
+        "h": 179
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 81,
+        "y": 3,
+        "w": 198,
+        "h": 179
+      },
+      "sourceSize": {
+        "w": 285,
+        "h": 232
+      }
+    },
+    "robot_12": {
+      "frame": {
+        "x": 220,
+        "y": 1002,
+        "w": 211,
+        "h": 168
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 74,
+        "y": 6,
+        "w": 211,
+        "h": 168
+      },
+      "sourceSize": {
+        "w": 285,
+        "h": 232
+      }
+    },
+    "robot_13": {
+      "frame": {
+        "x": 0,
+        "y": 1011,
+        "w": 220,
+        "h": 161
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 65,
+        "y": 11,
+        "w": 220,
+        "h": 161
+      },
+      "sourceSize": {
+        "w": 285,
+        "h": 232
+      }
+    },
+    "robot_14": {
+      "frame": {
+        "x": 993,
+        "y": 774,
+        "w": 222,
+        "h": 156
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 58,
+        "y": 17,
+        "w": 222,
+        "h": 156
+      },
+      "sourceSize": {
+        "w": 285,
+        "h": 232
+      }
+    },
+    "robot_15": {
+      "frame": {
+        "x": 846,
+        "y": 774,
+        "w": 217,
+        "h": 147
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 54,
+        "y": 25,
+        "w": 217,
+        "h": 147
+      },
+      "sourceSize": {
+        "w": 285,
+        "h": 232
+      }
+    },
+    "robot_16": {
+      "frame": {
+        "x": 841,
+        "y": 633,
+        "w": 210,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 47,
+        "y": 31,
+        "w": 210,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 285,
+        "h": 232
+      }
+    },
+    "robot_17": {
+      "frame": {
+        "x": 645,
+        "y": 839,
+        "w": 201,
+        "h": 131
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 41,
+        "y": 40,
+        "w": 201,
+        "h": 131
+      },
+      "sourceSize": {
+        "w": 285,
+        "h": 232
+      }
+    },
+    "robot_18": {
+      "frame": {
+        "x": 946,
+        "y": 373,
+        "w": 206,
+        "h": 141
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30,
+        "y": 31,
+        "w": 206,
+        "h": 141
+      },
+      "sourceSize": {
+        "w": 285,
+        "h": 232
+      }
+    },
+    "robot_19": {
+      "frame": {
+        "x": 946,
+        "y": 224,
+        "w": 214,
+        "h": 149
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 23,
+        "w": 214,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 285,
+        "h": 232
+      }
+    },
+    "robot_20": {
+      "frame": {
+        "x": 426,
+        "y": 839,
+        "w": 219,
+        "h": 156
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 16,
+        "w": 219,
+        "h": 156
+      },
+      "sourceSize": {
+        "w": 285,
+        "h": 232
+      }
+    },
+    "robot_21": {
+      "frame": {
+        "x": 209,
+        "y": 840,
+        "w": 217,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 10,
+        "w": 217,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 285,
+        "h": 232
+      }
+    },
+    "robot_22": {
+      "frame": {
+        "x": 0,
+        "y": 840,
+        "w": 209,
+        "h": 171
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 5,
+        "w": 209,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 285,
+        "h": 232
+      }
+    },
+    "robot_23": {
+      "frame": {
+        "x": 674,
+        "y": 436,
+        "w": 197,
+        "h": 182
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 2,
+        "w": 197,
+        "h": 182
+      },
+      "sourceSize": {
+        "w": 285,
+        "h": 232
+      }
+    },
+    "robot_24": {
+      "frame": {
+        "x": 658,
+        "y": 647,
+        "w": 183,
+        "h": 189
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 1,
+        "w": 183,
+        "h": 189
+      },
+      "sourceSize": {
+        "w": 285,
+        "h": 232
+      }
+    },
+    "robot_25": {
+      "frame": {
+        "x": 748,
+        "y": 224,
+        "w": 165,
+        "h": 198
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 34,
+        "y": 0,
+        "w": 165,
+        "h": 198
+      },
+      "sourceSize": {
+        "w": 285,
+        "h": 232
+      }
+    },
+    "robot_26": {
+      "frame": {
+        "x": 228,
+        "y": 665,
+        "w": 173,
+        "h": 211
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 1,
+        "w": 173,
+        "h": 211
+      },
+      "sourceSize": {
+        "w": 285,
+        "h": 232
+      }
+    },
+    "robot_27": {
+      "frame": {
+        "x": 439,
+        "y": 647,
+        "w": 192,
+        "h": 219
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 3,
+        "w": 192,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 285,
+        "h": 232
+      }
+    },
+    "robot_28": {
+      "frame": {
+        "x": 228,
+        "y": 442,
+        "w": 211,
+        "h": 223
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 6,
+        "w": 211,
+        "h": 223
+      },
+      "sourceSize": {
+        "w": 285,
+        "h": 232
+      }
+    },
+    "robot_29": {
+      "frame": {
+        "x": 748,
+        "y": 0,
+        "w": 224,
+        "h": 222
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 224,
+        "h": 222
+      },
+      "sourceSize": {
+        "w": 285,
+        "h": 232
+      }
+    },
+    "robot_30": {
+      "frame": {
+        "x": 0,
+        "y": 623,
+        "w": 228,
+        "h": 217
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 13,
+        "w": 228,
+        "h": 217
+      },
+      "sourceSize": {
+        "w": 285,
+        "h": 232
+      }
+    },
+    "robot_31": {
+      "frame": {
+        "x": 448,
+        "y": 225,
+        "w": 230,
+        "h": 211
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 14,
+        "w": 230,
+        "h": 211
+      },
+      "sourceSize": {
+        "w": 285,
+        "h": 232
+      }
+    },
+    "robot_32": {
+      "frame": {
+        "x": 547,
+        "y": 0,
+        "w": 225,
+        "h": 201
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 16,
+        "w": 225,
+        "h": 201
+      },
+      "sourceSize": {
+        "w": 285,
+        "h": 232
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "robot.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1355,
+      "h": 1172
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

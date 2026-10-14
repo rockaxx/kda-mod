@@ -1,0 +1,1296 @@
+{
+  "frames": {
+    "goldVeng_0": {
+      "frame": {
+        "x": 447,
+        "y": 773,
+        "w": 114,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": 30,
+        "w": 114,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_1": {
+      "frame": {
+        "x": 332,
+        "y": 773,
+        "w": 115,
+        "h": 88
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 28,
+        "w": 115,
+        "h": 88
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_2": {
+      "frame": {
+        "x": 726,
+        "y": 0,
+        "w": 116,
+        "h": 89
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 26,
+        "w": 116,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_3": {
+      "frame": {
+        "x": 636,
+        "y": 119,
+        "w": 116,
+        "h": 90
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 24,
+        "w": 116,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_4": {
+      "frame": {
+        "x": 551,
+        "y": 0,
+        "w": 115,
+        "h": 90
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 23,
+        "w": 115,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_5": {
+      "frame": {
+        "x": 328,
+        "y": 416,
+        "w": 113,
+        "h": 90
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 21,
+        "w": 113,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_6": {
+      "frame": {
+        "x": 116,
+        "y": 232,
+        "w": 110,
+        "h": 88
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 21,
+        "w": 110,
+        "h": 88
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_7": {
+      "frame": {
+        "x": 111,
+        "y": 0,
+        "w": 107,
+        "h": 86
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 20,
+        "w": 107,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_8": {
+      "frame": {
+        "x": 0,
+        "y": 81,
+        "w": 110,
+        "h": 83
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 20,
+        "w": 110,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 22,
+        "y": 20,
+        "w": 111,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_10": {
+      "frame": {
+        "x": 323,
+        "y": 686,
+        "w": 111,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 25,
+        "y": 20,
+        "w": 111,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_11": {
+      "frame": {
+        "x": 220,
+        "y": 773,
+        "w": 112,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 20,
+        "w": 112,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_12": {
+      "frame": {
+        "x": 110,
+        "y": 773,
+        "w": 110,
+        "h": 89
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 20,
+        "w": 110,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_13": {
+      "frame": {
+        "x": 0,
+        "y": 773,
+        "w": 110,
+        "h": 89
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33,
+        "y": 21,
+        "w": 110,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_14": {
+      "frame": {
+        "x": 726,
+        "y": 677,
+        "w": 108,
+        "h": 90
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 22,
+        "w": 108,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_15": {
+      "frame": {
+        "x": 620,
+        "y": 677,
+        "w": 106,
+        "h": 91
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 23,
+        "w": 106,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_16": {
+      "frame": {
+        "x": 726,
+        "y": 116,
+        "w": 103,
+        "h": 90
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 25,
+        "w": 103,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_17": {
+      "frame": {
+        "x": 725,
+        "y": 447,
+        "w": 103,
+        "h": 91
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 41,
+        "y": 26,
+        "w": 103,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_18": {
+      "frame": {
+        "x": 725,
+        "y": 342,
+        "w": 105,
+        "h": 91
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 28,
+        "w": 105,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_19": {
+      "frame": {
+        "x": 725,
+        "y": 235,
+        "w": 107,
+        "h": 91
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 29,
+        "w": 107,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_20": {
+      "frame": {
+        "x": 708,
+        "y": 587,
+        "w": 108,
+        "h": 90
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 31,
+        "w": 108,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_21": {
+      "frame": {
+        "x": 512,
+        "y": 685,
+        "w": 108,
+        "h": 88
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30,
+        "y": 33,
+        "w": 108,
+        "h": 88
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_22": {
+      "frame": {
+        "x": 215,
+        "y": 686,
+        "w": 108,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 35,
+        "w": 108,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_23": {
+      "frame": {
+        "x": 108,
+        "y": 689,
+        "w": 107,
+        "h": 83
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 37,
+        "w": 107,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_24": {
+      "frame": {
+        "x": 111,
+        "y": 342,
+        "w": 106,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 22,
+        "y": 39,
+        "w": 106,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_25": {
+      "frame": {
+        "x": 0,
+        "y": 689,
+        "w": 108,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 36,
+        "w": 108,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_26": {
+      "frame": {
+        "x": 596,
+        "y": 587,
+        "w": 112,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 34,
+        "w": 112,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_27": {
+      "frame": {
+        "x": 637,
+        "y": 472,
+        "w": 115,
+        "h": 87
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 31,
+        "w": 115,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_28": {
+      "frame": {
+        "x": 637,
+        "y": 354,
+        "w": 118,
+        "h": 88
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 29,
+        "w": 118,
+        "h": 88
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_29": {
+      "frame": {
+        "x": 637,
+        "y": 235,
+        "w": 119,
+        "h": 86
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 29,
+        "w": 119,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_30": {
+      "frame": {
+        "x": 641,
+        "y": 0,
+        "w": 119,
+        "h": 85
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 28,
+        "w": 119,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_31": {
+      "frame": {
+        "x": 236,
+        "y": 596,
+        "w": 118,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 27,
+        "w": 118,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_32": {
+      "frame": {
+        "x": 118,
+        "y": 600,
+        "w": 118,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 27,
+        "w": 118,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_33": {
+      "frame": {
+        "x": 512,
+        "y": 567,
+        "w": 118,
+        "h": 84
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 27,
+        "w": 118,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_34": {
+      "frame": {
+        "x": 427,
+        "y": 567,
+        "w": 119,
+        "h": 85
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30,
+        "y": 28,
+        "w": 119,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_35": {
+      "frame": {
+        "x": 0,
+        "y": 602,
+        "w": 118,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 28,
+        "w": 118,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_36": {
+      "frame": {
+        "x": 549,
+        "y": 449,
+        "w": 117,
+        "h": 88
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 34,
+        "y": 29,
+        "w": 117,
+        "h": 88
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_37": {
+      "frame": {
+        "x": 549,
+        "y": 334,
+        "w": 115,
+        "h": 87
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 31,
+        "w": 115,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_38": {
+      "frame": {
+        "x": 549,
+        "y": 223,
+        "w": 111,
+        "h": 86
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 40,
+        "y": 33,
+        "w": 111,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_39": {
+      "frame": {
+        "x": 550,
+        "y": 115,
+        "w": 108,
+        "h": 85
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 35,
+        "w": 108,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_40": {
+      "frame": {
+        "x": 322,
+        "y": 506,
+        "w": 105,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 43,
+        "y": 38,
+        "w": 105,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_41": {
+      "frame": {
+        "x": 215,
+        "y": 512,
+        "w": 107,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 36,
+        "w": 107,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_42": {
+      "frame": {
+        "x": 441,
+        "y": 480,
+        "w": 108,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 34,
+        "w": 108,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_43": {
+      "frame": {
+        "x": 108,
+        "y": 512,
+        "w": 107,
+        "h": 88
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33,
+        "y": 33,
+        "w": 107,
+        "h": 88
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_44": {
+      "frame": {
+        "x": 0,
+        "y": 512,
+        "w": 108,
+        "h": 90
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30,
+        "y": 31,
+        "w": 108,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_45": {
+      "frame": {
+        "x": 441,
+        "y": 389,
+        "w": 106,
+        "h": 91
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 29,
+        "w": 106,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_46": {
+      "frame": {
+        "x": 441,
+        "y": 298,
+        "w": 105,
+        "h": 91
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 28,
+        "w": 105,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_47": {
+      "frame": {
+        "x": 441,
+        "y": 207,
+        "w": 103,
+        "h": 91
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 26,
+        "w": 103,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_48": {
+      "frame": {
+        "x": 460,
+        "y": 104,
+        "w": 103,
+        "h": 90
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 25,
+        "w": 103,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_49": {
+      "frame": {
+        "x": 460,
+        "y": 0,
+        "w": 104,
+        "h": 91
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 23,
+        "w": 104,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_50": {
+      "frame": {
+        "x": 220,
+        "y": 416,
+        "w": 108,
+        "h": 90
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 22,
+        "w": 108,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_51": {
+      "frame": {
+        "x": 110,
+        "y": 423,
+        "w": 110,
+        "h": 89
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 21,
+        "w": 110,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_52": {
+      "frame": {
+        "x": 0,
+        "y": 423,
+        "w": 110,
+        "h": 89
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 20,
+        "w": 110,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_53": {
+      "frame": {
+        "x": 292,
+        "y": 330,
+        "w": 112,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 20,
+        "w": 112,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_54": {
+      "frame": {
+        "x": 376,
+        "y": 0,
+        "w": 113,
+        "h": 84
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33,
+        "y": 20,
+        "w": 113,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_55": {
+      "frame": {
+        "x": 0,
+        "y": 342,
+        "w": 111,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 37,
+        "y": 20,
+        "w": 111,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_56": {
+      "frame": {
+        "x": 292,
+        "y": 220,
+        "w": 110,
+        "h": 84
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 40,
+        "y": 20,
+        "w": 110,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_57": {
+      "frame": {
+        "x": 286,
+        "y": 113,
+        "w": 107,
+        "h": 87
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 44,
+        "y": 20,
+        "w": 107,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_58": {
+      "frame": {
+        "x": 204,
+        "y": 232,
+        "w": 110,
+        "h": 88
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 41,
+        "y": 21,
+        "w": 110,
+        "h": 88
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_59": {
+      "frame": {
+        "x": 286,
+        "y": 0,
+        "w": 113,
+        "h": 90
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 21,
+        "w": 113,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_60": {
+      "frame": {
+        "x": 0,
+        "y": 252,
+        "w": 116,
+        "h": 90
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 23,
+        "w": 116,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_61": {
+      "frame": {
+        "x": 116,
+        "y": 116,
+        "w": 116,
+        "h": 90
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33,
+        "y": 24,
+        "w": 116,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_62": {
+      "frame": {
+        "x": 197,
+        "y": 0,
+        "w": 116,
+        "h": 89
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 26,
+        "w": 116,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "goldVeng_63": {
+      "frame": {
+        "x": 0,
+        "y": 164,
+        "w": 116,
+        "h": 88
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 28,
+        "w": 116,
+        "h": 88
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "goldVeng.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 816,
+      "h": 862
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

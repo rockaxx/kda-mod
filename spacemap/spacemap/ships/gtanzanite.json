@@ -1,0 +1,1295 @@
+{
+  "frames": {
+    "gtanzanite_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_1": {
+      "frame": {
+        "x": 162,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_2": {
+      "frame": {
+        "x": 324,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_3": {
+      "frame": {
+        "x": 486,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_4": {
+      "frame": {
+        "x": 648,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_5": {
+      "frame": {
+        "x": 810,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_6": {
+      "frame": {
+        "x": 972,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_7": {
+      "frame": {
+        "x": 1134,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_8": {
+      "frame": {
+        "x": 0,
+        "y": 129,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_9": {
+      "frame": {
+        "x": 162,
+        "y": 129,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_10": {
+      "frame": {
+        "x": 324,
+        "y": 129,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_11": {
+      "frame": {
+        "x": 486,
+        "y": 129,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_12": {
+      "frame": {
+        "x": 648,
+        "y": 129,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_13": {
+      "frame": {
+        "x": 810,
+        "y": 129,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_14": {
+      "frame": {
+        "x": 972,
+        "y": 129,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_15": {
+      "frame": {
+        "x": 1134,
+        "y": 129,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_16": {
+      "frame": {
+        "x": 0,
+        "y": 258,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_17": {
+      "frame": {
+        "x": 162,
+        "y": 258,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_18": {
+      "frame": {
+        "x": 324,
+        "y": 258,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_19": {
+      "frame": {
+        "x": 486,
+        "y": 258,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_20": {
+      "frame": {
+        "x": 648,
+        "y": 258,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_21": {
+      "frame": {
+        "x": 810,
+        "y": 258,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_22": {
+      "frame": {
+        "x": 972,
+        "y": 258,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_23": {
+      "frame": {
+        "x": 1134,
+        "y": 258,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_24": {
+      "frame": {
+        "x": 0,
+        "y": 387,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_25": {
+      "frame": {
+        "x": 162,
+        "y": 387,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_26": {
+      "frame": {
+        "x": 324,
+        "y": 387,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_27": {
+      "frame": {
+        "x": 486,
+        "y": 387,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_28": {
+      "frame": {
+        "x": 648,
+        "y": 387,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_29": {
+      "frame": {
+        "x": 810,
+        "y": 387,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_30": {
+      "frame": {
+        "x": 972,
+        "y": 387,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_31": {
+      "frame": {
+        "x": 1134,
+        "y": 387,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_32": {
+      "frame": {
+        "x": 0,
+        "y": 516,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_33": {
+      "frame": {
+        "x": 162,
+        "y": 516,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_34": {
+      "frame": {
+        "x": 324,
+        "y": 516,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_35": {
+      "frame": {
+        "x": 486,
+        "y": 516,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_36": {
+      "frame": {
+        "x": 648,
+        "y": 516,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_37": {
+      "frame": {
+        "x": 810,
+        "y": 516,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_38": {
+      "frame": {
+        "x": 972,
+        "y": 516,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_39": {
+      "frame": {
+        "x": 1134,
+        "y": 516,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_40": {
+      "frame": {
+        "x": 0,
+        "y": 645,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_41": {
+      "frame": {
+        "x": 162,
+        "y": 645,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_42": {
+      "frame": {
+        "x": 324,
+        "y": 645,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_43": {
+      "frame": {
+        "x": 486,
+        "y": 645,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_44": {
+      "frame": {
+        "x": 648,
+        "y": 645,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_45": {
+      "frame": {
+        "x": 810,
+        "y": 645,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_46": {
+      "frame": {
+        "x": 972,
+        "y": 645,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_47": {
+      "frame": {
+        "x": 1134,
+        "y": 645,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_48": {
+      "frame": {
+        "x": 0,
+        "y": 774,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_49": {
+      "frame": {
+        "x": 162,
+        "y": 774,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_50": {
+      "frame": {
+        "x": 324,
+        "y": 774,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_51": {
+      "frame": {
+        "x": 486,
+        "y": 774,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_52": {
+      "frame": {
+        "x": 648,
+        "y": 774,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_53": {
+      "frame": {
+        "x": 810,
+        "y": 774,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_54": {
+      "frame": {
+        "x": 972,
+        "y": 774,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_55": {
+      "frame": {
+        "x": 1134,
+        "y": 774,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_56": {
+      "frame": {
+        "x": 0,
+        "y": 903,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_57": {
+      "frame": {
+        "x": 162,
+        "y": 903,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_58": {
+      "frame": {
+        "x": 324,
+        "y": 903,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_59": {
+      "frame": {
+        "x": 486,
+        "y": 903,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_60": {
+      "frame": {
+        "x": 648,
+        "y": 903,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_61": {
+      "frame": {
+        "x": 810,
+        "y": 903,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_62": {
+      "frame": {
+        "x": 972,
+        "y": 903,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    },
+    "gtanzanite_63": {
+      "frame": {
+        "x": 1134,
+        "y": 903,
+        "w": 162,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 129
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Toolkit Engine",
+    "version": "1.0",
+    "image": "gtanzanite.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1296,
+      "h": 1032
+    },
+    "scale": 1
+  }
+}

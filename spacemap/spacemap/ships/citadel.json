@@ -1,0 +1,1295 @@
+{
+  "frames": {
+    "citadel_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_1": {
+      "frame": {
+        "x": 246,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_2": {
+      "frame": {
+        "x": 492,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_3": {
+      "frame": {
+        "x": 738,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_4": {
+      "frame": {
+        "x": 984,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_5": {
+      "frame": {
+        "x": 1230,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_6": {
+      "frame": {
+        "x": 1476,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_7": {
+      "frame": {
+        "x": 1722,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_8": {
+      "frame": {
+        "x": 0,
+        "y": 220,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_9": {
+      "frame": {
+        "x": 246,
+        "y": 220,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_10": {
+      "frame": {
+        "x": 492,
+        "y": 220,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_11": {
+      "frame": {
+        "x": 738,
+        "y": 220,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_12": {
+      "frame": {
+        "x": 984,
+        "y": 220,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_13": {
+      "frame": {
+        "x": 1230,
+        "y": 220,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_14": {
+      "frame": {
+        "x": 1476,
+        "y": 220,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_15": {
+      "frame": {
+        "x": 1722,
+        "y": 220,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_16": {
+      "frame": {
+        "x": 0,
+        "y": 440,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_17": {
+      "frame": {
+        "x": 246,
+        "y": 440,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_18": {
+      "frame": {
+        "x": 492,
+        "y": 440,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_19": {
+      "frame": {
+        "x": 738,
+        "y": 440,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_20": {
+      "frame": {
+        "x": 984,
+        "y": 440,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_21": {
+      "frame": {
+        "x": 1230,
+        "y": 440,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_22": {
+      "frame": {
+        "x": 1476,
+        "y": 440,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_23": {
+      "frame": {
+        "x": 1722,
+        "y": 440,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_24": {
+      "frame": {
+        "x": 0,
+        "y": 660,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_25": {
+      "frame": {
+        "x": 246,
+        "y": 660,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_26": {
+      "frame": {
+        "x": 492,
+        "y": 660,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_27": {
+      "frame": {
+        "x": 738,
+        "y": 660,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_28": {
+      "frame": {
+        "x": 984,
+        "y": 660,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_29": {
+      "frame": {
+        "x": 1230,
+        "y": 660,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_30": {
+      "frame": {
+        "x": 1476,
+        "y": 660,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_31": {
+      "frame": {
+        "x": 1722,
+        "y": 660,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_32": {
+      "frame": {
+        "x": 0,
+        "y": 880,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_33": {
+      "frame": {
+        "x": 246,
+        "y": 880,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_34": {
+      "frame": {
+        "x": 492,
+        "y": 880,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_35": {
+      "frame": {
+        "x": 738,
+        "y": 880,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_36": {
+      "frame": {
+        "x": 984,
+        "y": 880,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_37": {
+      "frame": {
+        "x": 1230,
+        "y": 880,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_38": {
+      "frame": {
+        "x": 1476,
+        "y": 880,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_39": {
+      "frame": {
+        "x": 1722,
+        "y": 880,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_40": {
+      "frame": {
+        "x": 0,
+        "y": 1100,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_41": {
+      "frame": {
+        "x": 246,
+        "y": 1100,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_42": {
+      "frame": {
+        "x": 492,
+        "y": 1100,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_43": {
+      "frame": {
+        "x": 738,
+        "y": 1100,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_44": {
+      "frame": {
+        "x": 984,
+        "y": 1100,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_45": {
+      "frame": {
+        "x": 1230,
+        "y": 1100,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_46": {
+      "frame": {
+        "x": 1476,
+        "y": 1100,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_47": {
+      "frame": {
+        "x": 1722,
+        "y": 1100,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_48": {
+      "frame": {
+        "x": 0,
+        "y": 1320,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_49": {
+      "frame": {
+        "x": 246,
+        "y": 1320,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_50": {
+      "frame": {
+        "x": 492,
+        "y": 1320,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_51": {
+      "frame": {
+        "x": 738,
+        "y": 1320,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_52": {
+      "frame": {
+        "x": 984,
+        "y": 1320,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_53": {
+      "frame": {
+        "x": 1230,
+        "y": 1320,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_54": {
+      "frame": {
+        "x": 1476,
+        "y": 1320,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_55": {
+      "frame": {
+        "x": 1722,
+        "y": 1320,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_56": {
+      "frame": {
+        "x": 0,
+        "y": 1540,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_57": {
+      "frame": {
+        "x": 246,
+        "y": 1540,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_58": {
+      "frame": {
+        "x": 492,
+        "y": 1540,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_59": {
+      "frame": {
+        "x": 738,
+        "y": 1540,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_60": {
+      "frame": {
+        "x": 984,
+        "y": 1540,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_61": {
+      "frame": {
+        "x": 1230,
+        "y": 1540,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_62": {
+      "frame": {
+        "x": 1476,
+        "y": 1540,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    },
+    "citadel_63": {
+      "frame": {
+        "x": 1722,
+        "y": 1540,
+        "w": 246,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 220
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Atlas Generator v2",
+    "version": "1.0",
+    "image": "citadel.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1968,
+      "h": 1760
+    },
+    "scale": 1
+  }
+}

@@ -1,0 +1,676 @@
+{
+  "frames": {
+    "goldPET_0": {
+      "frame": {
+        "x": 610,
+        "y": 109,
+        "w": 107,
+        "h": 109
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 23,
+        "w": 107,
+        "h": 109
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "goldPET_1": {
+      "frame": {
+        "x": 453,
+        "y": 526,
+        "w": 106,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 22,
+        "w": 106,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "goldPET_2": {
+      "frame": {
+        "x": 508,
+        "y": 0,
+        "w": 109,
+        "h": 104
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 25,
+        "w": 109,
+        "h": 104
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "goldPET_3": {
+      "frame": {
+        "x": 312,
+        "y": 107,
+        "w": 109,
+        "h": 97
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 27,
+        "w": 109,
+        "h": 97
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "goldPET_4": {
+      "frame": {
+        "x": 220,
+        "y": 0,
+        "w": 117,
+        "h": 92
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 26,
+        "w": 117,
+        "h": 92
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "goldPET_5": {
+      "frame": {
+        "x": 129,
+        "y": 129,
+        "w": 122,
+        "h": 89
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 26,
+        "w": 122,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "goldPET_6": {
+      "frame": {
+        "x": 0,
+        "y": 180,
+        "w": 125,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 30,
+        "w": 125,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "goldPET_7": {
+      "frame": {
+        "x": 129,
+        "y": 0,
+        "w": 129,
+        "h": 91
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 25,
+        "y": 32,
+        "w": 129,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "goldPET_8": {
+      "frame": {
+        "x": 0,
+        "y": 89,
+        "w": 129,
+        "h": 91
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 25,
+        "y": 35,
+        "w": 129,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "goldPET_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 89
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 40,
+        "w": 128,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "goldPET_10": {
+      "frame": {
+        "x": 331,
+        "y": 560,
+        "w": 122,
+        "h": 92
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 39,
+        "w": 122,
+        "h": 92
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "goldPET_11": {
+      "frame": {
+        "x": 217,
+        "y": 560,
+        "w": 114,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 37,
+        "w": 114,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "goldPET_12": {
+      "frame": {
+        "x": 326,
+        "y": 461,
+        "w": 110,
+        "h": 99
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 22,
+        "y": 30,
+        "w": 110,
+        "h": 99
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "goldPET_13": {
+      "frame": {
+        "x": 108,
+        "y": 554,
+        "w": 109,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 25,
+        "w": 109,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "goldPET_14": {
+      "frame": {
+        "x": 0,
+        "y": 554,
+        "w": 108,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 20,
+        "w": 108,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "goldPET_15": {
+      "frame": {
+        "x": 438,
+        "y": 417,
+        "w": 109,
+        "h": 96
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 16,
+        "w": 109,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "goldPET_16": {
+      "frame": {
+        "x": 0,
+        "y": 461,
+        "w": 111,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 22,
+        "y": 16,
+        "w": 111,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "goldPET_17": {
+      "frame": {
+        "x": 438,
+        "y": 320,
+        "w": 109,
+        "h": 97
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 17,
+        "w": 109,
+        "h": 97
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "goldPET_18": {
+      "frame": {
+        "x": 499,
+        "y": 218,
+        "w": 108,
+        "h": 102
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 19,
+        "w": 108,
+        "h": 102
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "goldPET_19": {
+      "frame": {
+        "x": 508,
+        "y": 109,
+        "w": 109,
+        "h": 102
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 23,
+        "w": 109,
+        "h": 102
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "goldPET_20": {
+      "frame": {
+        "x": 217,
+        "y": 451,
+        "w": 109,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 29,
+        "w": 109,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "goldPET_21": {
+      "frame": {
+        "x": 123,
+        "y": 373,
+        "w": 114,
+        "h": 94
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 36,
+        "w": 114,
+        "h": 94
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "goldPET_22": {
+      "frame": {
+        "x": 345,
+        "y": 339,
+        "w": 122,
+        "h": 93
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 37,
+        "w": 122,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "goldPET_23": {
+      "frame": {
+        "x": 409,
+        "y": 131,
+        "w": 128,
+        "h": 90
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 40,
+        "w": 128,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "goldPET_24": {
+      "frame": {
+        "x": 418,
+        "y": 0,
+        "w": 131,
+        "h": 90
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 36,
+        "w": 131,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "goldPET_25": {
+      "frame": {
+        "x": 217,
+        "y": 361,
+        "w": 128,
+        "h": 90
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 32,
+        "w": 128,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "goldPET_26": {
+      "frame": {
+        "x": 0,
+        "y": 374,
+        "w": 123,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 30,
+        "w": 123,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "goldPET_27": {
+      "frame": {
+        "x": 316,
+        "y": 216,
+        "w": 123,
+        "h": 89
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 27,
+        "w": 123,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "goldPET_28": {
+      "frame": {
+        "x": 220,
+        "y": 117,
+        "w": 117,
+        "h": 92
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 26,
+        "w": 117,
+        "h": 92
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "goldPET_29": {
+      "frame": {
+        "x": 217,
+        "y": 251,
+        "w": 110,
+        "h": 99
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 26,
+        "w": 110,
+        "h": 99
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "goldPET_30": {
+      "frame": {
+        "x": 312,
+        "y": 0,
+        "w": 107,
+        "h": 106
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30,
+        "y": 24,
+        "w": 107,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "goldPET_31": {
+      "frame": {
+        "x": 109,
+        "y": 267,
+        "w": 106,
+        "h": 108
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 23,
+        "w": 106,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    },
+    "goldPET_32": {
+      "frame": {
+        "x": 0,
+        "y": 267,
+        "w": 107,
+        "h": 109
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 23,
+        "w": 107,
+        "h": 109
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 137
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "goldPET.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 719,
+      "h": 654
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

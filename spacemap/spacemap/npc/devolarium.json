@@ -1,0 +1,676 @@
+{
+  "frames": {
+    "devolarium_0": {
+      "frame": {
+        "x": 836,
+        "y": 167,
+        "w": 170,
+        "h": 143
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 46,
+        "w": 170,
+        "h": 143
+      },
+      "sourceSize": {
+        "w": 229,
+        "h": 229
+      }
+    },
+    "devolarium_1": {
+      "frame": {
+        "x": 836,
+        "y": 0,
+        "w": 167,
+        "h": 143
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33,
+        "y": 45,
+        "w": 167,
+        "h": 143
+      },
+      "sourceSize": {
+        "w": 229,
+        "h": 229
+      }
+    },
+    "devolarium_2": {
+      "frame": {
+        "x": 516,
+        "y": 579,
+        "w": 165,
+        "h": 140
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 45,
+        "w": 165,
+        "h": 140
+      },
+      "sourceSize": {
+        "w": 229,
+        "h": 229
+      }
+    },
+    "devolarium_3": {
+      "frame": {
+        "x": 305,
+        "y": 181,
+        "w": 155,
+        "h": 134
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 43,
+        "y": 46,
+        "w": 155,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 229,
+        "h": 229
+      }
+    },
+    "devolarium_4": {
+      "frame": {
+        "x": 308,
+        "y": 0,
+        "w": 160,
+        "h": 122
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 49,
+        "w": 160,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 229,
+        "h": 229
+      }
+    },
+    "devolarium_5": {
+      "frame": {
+        "x": 180,
+        "y": 181,
+        "w": 170,
+        "h": 125
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 34,
+        "y": 51,
+        "w": 170,
+        "h": 125
+      },
+      "sourceSize": {
+        "w": 229,
+        "h": 229
+      }
+    },
+    "devolarium_6": {
+      "frame": {
+        "x": 0,
+        "y": 255,
+        "w": 178,
+        "h": 126
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 51,
+        "w": 178,
+        "h": 126
+      },
+      "sourceSize": {
+        "w": 229,
+        "h": 229
+      }
+    },
+    "devolarium_7": {
+      "frame": {
+        "x": 180,
+        "y": 0,
+        "w": 181,
+        "h": 128
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 48,
+        "w": 181,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 229,
+        "h": 229
+      }
+    },
+    "devolarium_8": {
+      "frame": {
+        "x": 0,
+        "y": 127,
+        "w": 180,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 46,
+        "w": 180,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 229,
+        "h": 229
+      }
+    },
+    "devolarium_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 177,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": 44,
+        "w": 177,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 229,
+        "h": 229
+      }
+    },
+    "devolarium_10": {
+      "frame": {
+        "x": 627,
+        "y": 719,
+        "w": 173,
+        "h": 125
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 43,
+        "w": 173,
+        "h": 125
+      },
+      "sourceSize": {
+        "w": 229,
+        "h": 229
+      }
+    },
+    "devolarium_11": {
+      "frame": {
+        "x": 505,
+        "y": 719,
+        "w": 166,
+        "h": 122
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 44,
+        "w": 166,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 229,
+        "h": 229
+      }
+    },
+    "devolarium_12": {
+      "frame": {
+        "x": 323,
+        "y": 774,
+        "w": 169,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30,
+        "y": 45,
+        "w": 169,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 229,
+        "h": 229
+      }
+    },
+    "devolarium_13": {
+      "frame": {
+        "x": 160,
+        "y": 774,
+        "w": 163,
+        "h": 135
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 44,
+        "w": 163,
+        "h": 135
+      },
+      "sourceSize": {
+        "w": 229,
+        "h": 229
+      }
+    },
+    "devolarium_14": {
+      "frame": {
+        "x": 0,
+        "y": 774,
+        "w": 160,
+        "h": 139
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 41,
+        "y": 43,
+        "w": 160,
+        "h": 139
+      },
+      "sourceSize": {
+        "w": 229,
+        "h": 229
+      }
+    },
+    "devolarium_15": {
+      "frame": {
+        "x": 696,
+        "y": 481,
+        "w": 162,
+        "h": 139
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 37,
+        "y": 43,
+        "w": 162,
+        "h": 139
+      },
+      "sourceSize": {
+        "w": 229,
+        "h": 229
+      }
+    },
+    "devolarium_16": {
+      "frame": {
+        "x": 697,
+        "y": 320,
+        "w": 161,
+        "h": 133
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 34,
+        "y": 45,
+        "w": 161,
+        "h": 133
+      },
+      "sourceSize": {
+        "w": 229,
+        "h": 229
+      }
+    },
+    "devolarium_17": {
+      "frame": {
+        "x": 697,
+        "y": 160,
+        "w": 160,
+        "h": 139
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 43,
+        "w": 160,
+        "h": 139
+      },
+      "sourceSize": {
+        "w": 229,
+        "h": 229
+      }
+    },
+    "devolarium_18": {
+      "frame": {
+        "x": 697,
+        "y": 0,
+        "w": 160,
+        "h": 139
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 43,
+        "w": 160,
+        "h": 139
+      },
+      "sourceSize": {
+        "w": 229,
+        "h": 229
+      }
+    },
+    "devolarium_19": {
+      "frame": {
+        "x": 342,
+        "y": 617,
+        "w": 163,
+        "h": 135
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 44,
+        "w": 163,
+        "h": 135
+      },
+      "sourceSize": {
+        "w": 229,
+        "h": 229
+      }
+    },
+    "devolarium_20": {
+      "frame": {
+        "x": 173,
+        "y": 646,
+        "w": 169,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 45,
+        "w": 169,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 229,
+        "h": 229
+      }
+    },
+    "devolarium_21": {
+      "frame": {
+        "x": 171,
+        "y": 524,
+        "w": 166,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 44,
+        "w": 166,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 229,
+        "h": 229
+      }
+    },
+    "devolarium_22": {
+      "frame": {
+        "x": 0,
+        "y": 649,
+        "w": 173,
+        "h": 125
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 43,
+        "w": 173,
+        "h": 125
+      },
+      "sourceSize": {
+        "w": 229,
+        "h": 229
+      }
+    },
+    "devolarium_23": {
+      "frame": {
+        "x": 570,
+        "y": 0,
+        "w": 177,
+        "h": 127
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 44,
+        "w": 177,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 229,
+        "h": 229
+      }
+    },
+    "devolarium_24": {
+      "frame": {
+        "x": 516,
+        "y": 451,
+        "w": 180,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 46,
+        "w": 180,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 229,
+        "h": 229
+      }
+    },
+    "devolarium_25": {
+      "frame": {
+        "x": 516,
+        "y": 324,
+        "w": 181,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 48,
+        "w": 181,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 229,
+        "h": 229
+      }
+    },
+    "devolarium_26": {
+      "frame": {
+        "x": 337,
+        "y": 491,
+        "w": 179,
+        "h": 126
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 51,
+        "w": 179,
+        "h": 126
+      },
+      "sourceSize": {
+        "w": 229,
+        "h": 229
+      }
+    },
+    "devolarium_27": {
+      "frame": {
+        "x": 0,
+        "y": 524,
+        "w": 171,
+        "h": 125
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 51,
+        "w": 171,
+        "h": 125
+      },
+      "sourceSize": {
+        "w": 229,
+        "h": 229
+      }
+    },
+    "devolarium_28": {
+      "frame": {
+        "x": 439,
+        "y": 164,
+        "w": 160,
+        "h": 122
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 49,
+        "w": 160,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 229,
+        "h": 229
+      }
+    },
+    "devolarium_29": {
+      "frame": {
+        "x": 337,
+        "y": 336,
+        "w": 155,
+        "h": 134
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30,
+        "y": 46,
+        "w": 155,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 229,
+        "h": 229
+      }
+    },
+    "devolarium_30": {
+      "frame": {
+        "x": 430,
+        "y": 0,
+        "w": 164,
+        "h": 140
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": 45,
+        "w": 164,
+        "h": 140
+      },
+      "sourceSize": {
+        "w": 229,
+        "h": 229
+      }
+    },
+    "devolarium_31": {
+      "frame": {
+        "x": 170,
+        "y": 381,
+        "w": 167,
+        "h": 143
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": 45,
+        "w": 167,
+        "h": 143
+      },
+      "sourceSize": {
+        "w": 229,
+        "h": 229
+      }
+    },
+    "devolarium_32": {
+      "frame": {
+        "x": 0,
+        "y": 381,
+        "w": 170,
+        "h": 143
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 46,
+        "w": 170,
+        "h": 143
+      },
+      "sourceSize": {
+        "w": 229,
+        "h": 229
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "devolarium.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 979,
+      "h": 913
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

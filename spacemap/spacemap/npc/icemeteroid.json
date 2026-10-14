@@ -1,0 +1,1236 @@
+{
+  "frames": {
+    "icemeteroid_0": {
+      "frame": {
+        "x": 492,
+        "y": 3220,
+        "w": 492,
+        "h": 356
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 5,
+        "w": 492,
+        "h": 356
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_1": {
+      "frame": {
+        "x": 0,
+        "y": 3222,
+        "w": 492,
+        "h": 356
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 5,
+        "w": 492,
+        "h": 356
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_2": {
+      "frame": {
+        "x": 1452,
+        "y": 2446,
+        "w": 492,
+        "h": 356
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 5,
+        "w": 492,
+        "h": 356
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_3": {
+      "frame": {
+        "x": 2275,
+        "y": 453,
+        "w": 493,
+        "h": 356
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 5,
+        "w": 493,
+        "h": 356
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_4": {
+      "frame": {
+        "x": 1453,
+        "y": 1953,
+        "w": 493,
+        "h": 356
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 5,
+        "w": 493,
+        "h": 356
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_5": {
+      "frame": {
+        "x": 1559,
+        "y": 488,
+        "w": 492,
+        "h": 356
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 5,
+        "w": 492,
+        "h": 356
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_6": {
+      "frame": {
+        "x": 847,
+        "y": 0,
+        "w": 492,
+        "h": 356
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 5,
+        "w": 492,
+        "h": 356
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_7": {
+      "frame": {
+        "x": 491,
+        "y": 0,
+        "w": 492,
+        "h": 356
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 5,
+        "w": 492,
+        "h": 356
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_8": {
+      "frame": {
+        "x": 0,
+        "y": 357,
+        "w": 491,
+        "h": 357
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 5,
+        "w": 491,
+        "h": 357
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 490,
+        "h": 357
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 5,
+        "w": 490,
+        "h": 357
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_10": {
+      "frame": {
+        "x": 2993,
+        "y": 2421,
+        "w": 488,
+        "h": 357
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 5,
+        "w": 488,
+        "h": 357
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_11": {
+      "frame": {
+        "x": 2993,
+        "y": 1933,
+        "w": 488,
+        "h": 358
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 5,
+        "w": 488,
+        "h": 358
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_12": {
+      "frame": {
+        "x": 2995,
+        "y": 1446,
+        "w": 487,
+        "h": 358
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 5,
+        "w": 487,
+        "h": 358
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_13": {
+      "frame": {
+        "x": 2995,
+        "y": 962,
+        "w": 484,
+        "h": 358
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 5,
+        "w": 484,
+        "h": 358
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_14": {
+      "frame": {
+        "x": 2996,
+        "y": 480,
+        "w": 482,
+        "h": 358
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 5,
+        "w": 482,
+        "h": 358
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_15": {
+      "frame": {
+        "x": 2997,
+        "y": 0,
+        "w": 480,
+        "h": 359
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 4,
+        "w": 480,
+        "h": 359
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_16": {
+      "frame": {
+        "x": 1808,
+        "y": 2676,
+        "w": 477,
+        "h": 359
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 4,
+        "w": 477,
+        "h": 359
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_17": {
+      "frame": {
+        "x": 2617,
+        "y": 2728,
+        "w": 474,
+        "h": 359
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 4,
+        "w": 474,
+        "h": 359
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_18": {
+      "frame": {
+        "x": 932,
+        "y": 2860,
+        "w": 471,
+        "h": 359
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 4,
+        "w": 471,
+        "h": 359
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_19": {
+      "frame": {
+        "x": 465,
+        "y": 2860,
+        "w": 467,
+        "h": 360
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 3,
+        "w": 467,
+        "h": 360
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_20": {
+      "frame": {
+        "x": 0,
+        "y": 2862,
+        "w": 465,
+        "h": 360
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 3,
+        "w": 465,
+        "h": 360
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_21": {
+      "frame": {
+        "x": 2633,
+        "y": 2266,
+        "w": 462,
+        "h": 360
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 3,
+        "w": 462,
+        "h": 360
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_22": {
+      "frame": {
+        "x": 2633,
+        "y": 1807,
+        "w": 459,
+        "h": 360
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 3,
+        "w": 459,
+        "h": 360
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_23": {
+      "frame": {
+        "x": 2635,
+        "y": 1352,
+        "w": 455,
+        "h": 360
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 3,
+        "w": 455,
+        "h": 360
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_24": {
+      "frame": {
+        "x": 2635,
+        "y": 899,
+        "w": 453,
+        "h": 360
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 3,
+        "w": 453,
+        "h": 360
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_25": {
+      "frame": {
+        "x": 2635,
+        "y": 449,
+        "w": 450,
+        "h": 361
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 22,
+        "y": 2,
+        "w": 450,
+        "h": 361
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_26": {
+      "frame": {
+        "x": 2635,
+        "y": 0,
+        "w": 449,
+        "h": 362
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 1,
+        "w": 449,
+        "h": 362
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_27": {
+      "frame": {
+        "x": 2255,
+        "y": 2318,
+        "w": 447,
+        "h": 362
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 1,
+        "w": 447,
+        "h": 362
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_28": {
+      "frame": {
+        "x": 1809,
+        "y": 2313,
+        "w": 446,
+        "h": 363
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 25,
+        "y": 0,
+        "w": 446,
+        "h": 363
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_29": {
+      "frame": {
+        "x": 1089,
+        "y": 2416,
+        "w": 444,
+        "h": 363
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 0,
+        "w": 444,
+        "h": 363
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_30": {
+      "frame": {
+        "x": 726,
+        "y": 2416,
+        "w": 444,
+        "h": 363
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 0,
+        "w": 444,
+        "h": 363
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_31": {
+      "frame": {
+        "x": 363,
+        "y": 2416,
+        "w": 444,
+        "h": 363
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 0,
+        "w": 444,
+        "h": 363
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_32": {
+      "frame": {
+        "x": 0,
+        "y": 2416,
+        "w": 446,
+        "h": 363
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 25,
+        "y": 0,
+        "w": 446,
+        "h": 363
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_33": {
+      "frame": {
+        "x": 2271,
+        "y": 1871,
+        "w": 447,
+        "h": 362
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 1,
+        "w": 447,
+        "h": 362
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_34": {
+      "frame": {
+        "x": 2271,
+        "y": 1422,
+        "w": 449,
+        "h": 362
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 1,
+        "w": 449,
+        "h": 362
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_35": {
+      "frame": {
+        "x": 2274,
+        "y": 951,
+        "w": 450,
+        "h": 361
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 22,
+        "y": 2,
+        "w": 450,
+        "h": 361
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_36": {
+      "frame": {
+        "x": 2275,
+        "y": 0,
+        "w": 453,
+        "h": 360
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 3,
+        "w": 453,
+        "h": 360
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_37": {
+      "frame": {
+        "x": 952,
+        "y": 2056,
+        "w": 455,
+        "h": 360
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 3,
+        "w": 455,
+        "h": 360
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_38": {
+      "frame": {
+        "x": 0,
+        "y": 2056,
+        "w": 459,
+        "h": 360
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 3,
+        "w": 459,
+        "h": 360
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_39": {
+      "frame": {
+        "x": 1809,
+        "y": 1953,
+        "w": 462,
+        "h": 360
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 3,
+        "w": 462,
+        "h": 360
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_40": {
+      "frame": {
+        "x": 487,
+        "y": 2055,
+        "w": 465,
+        "h": 360
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 3,
+        "w": 465,
+        "h": 360
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_41": {
+      "frame": {
+        "x": 1835,
+        "y": 1422,
+        "w": 467,
+        "h": 360
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 3,
+        "w": 467,
+        "h": 360
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_42": {
+      "frame": {
+        "x": 1915,
+        "y": 951,
+        "w": 471,
+        "h": 359
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 4,
+        "w": 471,
+        "h": 359
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_43": {
+      "frame": {
+        "x": 1916,
+        "y": 477,
+        "w": 474,
+        "h": 359
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 4,
+        "w": 474,
+        "h": 359
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_44": {
+      "frame": {
+        "x": 1916,
+        "y": 0,
+        "w": 477,
+        "h": 359
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 4,
+        "w": 477,
+        "h": 359
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_45": {
+      "frame": {
+        "x": 1473,
+        "y": 1473,
+        "w": 480,
+        "h": 359
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 4,
+        "w": 480,
+        "h": 359
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_46": {
+      "frame": {
+        "x": 971,
+        "y": 1698,
+        "w": 482,
+        "h": 358
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 5,
+        "w": 482,
+        "h": 358
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_47": {
+      "frame": {
+        "x": 487,
+        "y": 1697,
+        "w": 484,
+        "h": 358
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 5,
+        "w": 484,
+        "h": 358
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_48": {
+      "frame": {
+        "x": 0,
+        "y": 1698,
+        "w": 487,
+        "h": 358
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 5,
+        "w": 487,
+        "h": 358
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_49": {
+      "frame": {
+        "x": 1477,
+        "y": 985,
+        "w": 488,
+        "h": 358
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 5,
+        "w": 488,
+        "h": 358
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_50": {
+      "frame": {
+        "x": 1559,
+        "y": 0,
+        "w": 488,
+        "h": 357
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 5,
+        "w": 488,
+        "h": 357
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_51": {
+      "frame": {
+        "x": 983,
+        "y": 1341,
+        "w": 490,
+        "h": 357
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 5,
+        "w": 490,
+        "h": 357
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_52": {
+      "frame": {
+        "x": 492,
+        "y": 1340,
+        "w": 491,
+        "h": 357
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 5,
+        "w": 491,
+        "h": 357
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_53": {
+      "frame": {
+        "x": 0,
+        "y": 1341,
+        "w": 492,
+        "h": 356
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 5,
+        "w": 492,
+        "h": 356
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_54": {
+      "frame": {
+        "x": 985,
+        "y": 985,
+        "w": 492,
+        "h": 356
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 5,
+        "w": 492,
+        "h": 356
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_55": {
+      "frame": {
+        "x": 1203,
+        "y": 493,
+        "w": 492,
+        "h": 356
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 5,
+        "w": 492,
+        "h": 356
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_56": {
+      "frame": {
+        "x": 1203,
+        "y": 0,
+        "w": 493,
+        "h": 356
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 5,
+        "w": 493,
+        "h": 356
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_57": {
+      "frame": {
+        "x": 492,
+        "y": 984,
+        "w": 493,
+        "h": 356
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 5,
+        "w": 493,
+        "h": 356
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_58": {
+      "frame": {
+        "x": 0,
+        "y": 984,
+        "w": 492,
+        "h": 356
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 5,
+        "w": 492,
+        "h": 356
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_59": {
+      "frame": {
+        "x": 847,
+        "y": 492,
+        "w": 492,
+        "h": 356
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 5,
+        "w": 492,
+        "h": 356
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    },
+    "icemeteroid_60": {
+      "frame": {
+        "x": 491,
+        "y": 492,
+        "w": 492,
+        "h": 356
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 5,
+        "w": 492,
+        "h": 356
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 363
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "icemeteroid.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 3356,
+      "h": 3578
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

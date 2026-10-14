@@ -1,0 +1,195 @@
+{
+  "frames": {
+    "expbeaconRed_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 318,
+        "h": 296
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 318,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 318,
+        "h": 296
+      }
+    },
+    "expbeaconRed_1": {
+      "frame": {
+        "x": 318,
+        "y": 0,
+        "w": 318,
+        "h": 296
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 318,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 318,
+        "h": 296
+      }
+    },
+    "expbeaconRed_2": {
+      "frame": {
+        "x": 636,
+        "y": 0,
+        "w": 318,
+        "h": 296
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 318,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 318,
+        "h": 296
+      }
+    },
+    "expbeaconRed_3": {
+      "frame": {
+        "x": 954,
+        "y": 0,
+        "w": 318,
+        "h": 296
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 318,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 318,
+        "h": 296
+      }
+    },
+    "expbeaconRed_4": {
+      "frame": {
+        "x": 1272,
+        "y": 0,
+        "w": 318,
+        "h": 296
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 318,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 318,
+        "h": 296
+      }
+    },
+    "expbeaconRed_5": {
+      "frame": {
+        "x": 1590,
+        "y": 0,
+        "w": 318,
+        "h": 296
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 318,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 318,
+        "h": 296
+      }
+    },
+    "expbeaconRed_6": {
+      "frame": {
+        "x": 1908,
+        "y": 0,
+        "w": 318,
+        "h": 296
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 318,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 318,
+        "h": 296
+      }
+    },
+    "expbeaconRed_7": {
+      "frame": {
+        "x": 2226,
+        "y": 0,
+        "w": 318,
+        "h": 296
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 318,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 318,
+        "h": 296
+      }
+    },
+    "expbeaconRed_8": {
+      "frame": {
+        "x": 0,
+        "y": 296,
+        "w": 318,
+        "h": 296
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 318,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 318,
+        "h": 296
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Atlas Generator v2",
+    "version": "1.0",
+    "image": "expbeaconRed.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2544,
+      "h": 2368
+    },
+    "scale": 1
+  }
+}

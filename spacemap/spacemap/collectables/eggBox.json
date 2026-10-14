@@ -1,0 +1,656 @@
+{
+  "frames": {
+    "eggBox_0": {
+      "frame": {
+        "x": 825,
+        "y": 165,
+        "w": 149,
+        "h": 165
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 0,
+        "w": 149,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 165,
+        "h": 165
+      }
+    },
+    "eggBox_1": {
+      "frame": {
+        "x": 889,
+        "y": 0,
+        "w": 149,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 0,
+        "w": 149,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 165,
+        "h": 165
+      }
+    },
+    "eggBox_2": {
+      "frame": {
+        "x": 330,
+        "y": 610,
+        "w": 149,
+        "h": 165
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 0,
+        "w": 149,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 165,
+        "h": 165
+      }
+    },
+    "eggBox_3": {
+      "frame": {
+        "x": 330,
+        "y": 165,
+        "w": 149,
+        "h": 165
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 0,
+        "w": 149,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 165,
+        "h": 165
+      }
+    },
+    "eggBox_4": {
+      "frame": {
+        "x": 165,
+        "y": 313,
+        "w": 149,
+        "h": 165
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 0,
+        "w": 149,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 165,
+        "h": 165
+      }
+    },
+    "eggBox_5": {
+      "frame": {
+        "x": 0,
+        "y": 313,
+        "w": 149,
+        "h": 165
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 0,
+        "w": 149,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 165,
+        "h": 165
+      }
+    },
+    "eggBox_6": {
+      "frame": {
+        "x": 165,
+        "y": 165,
+        "w": 148,
+        "h": 165
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 0,
+        "w": 148,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 165,
+        "h": 165
+      }
+    },
+    "eggBox_7": {
+      "frame": {
+        "x": 0,
+        "y": 165,
+        "w": 148,
+        "h": 165
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 0,
+        "w": 148,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 165,
+        "h": 165
+      }
+    },
+    "eggBox_8": {
+      "frame": {
+        "x": 147,
+        "y": 0,
+        "w": 148,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 0,
+        "w": 148,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 165,
+        "h": 165
+      }
+    },
+    "eggBox_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 147,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 0,
+        "w": 147,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 165,
+        "h": 165
+      }
+    },
+    "eggBox_10": {
+      "frame": {
+        "x": 660,
+        "y": 756,
+        "w": 147,
+        "h": 165
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 0,
+        "w": 147,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 165,
+        "h": 165
+      }
+    },
+    "eggBox_11": {
+      "frame": {
+        "x": 495,
+        "y": 758,
+        "w": 147,
+        "h": 165
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 0,
+        "w": 147,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 165,
+        "h": 165
+      }
+    },
+    "eggBox_12": {
+      "frame": {
+        "x": 165,
+        "y": 759,
+        "w": 146,
+        "h": 165
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 0,
+        "w": 146,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 165,
+        "h": 165
+      }
+    },
+    "eggBox_13": {
+      "frame": {
+        "x": 0,
+        "y": 759,
+        "w": 146,
+        "h": 165
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 0,
+        "w": 146,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 165,
+        "h": 165
+      }
+    },
+    "eggBox_14": {
+      "frame": {
+        "x": 660,
+        "y": 609,
+        "w": 147,
+        "h": 165
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 0,
+        "w": 147,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 165,
+        "h": 165
+      }
+    },
+    "eggBox_15": {
+      "frame": {
+        "x": 660,
+        "y": 461,
+        "w": 148,
+        "h": 165
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 0,
+        "w": 148,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 165,
+        "h": 165
+      }
+    },
+    "eggBox_16": {
+      "frame": {
+        "x": 660,
+        "y": 313,
+        "w": 148,
+        "h": 165
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 0,
+        "w": 148,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 165,
+        "h": 165
+      }
+    },
+    "eggBox_17": {
+      "frame": {
+        "x": 660,
+        "y": 165,
+        "w": 148,
+        "h": 165
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 0,
+        "w": 148,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 165,
+        "h": 165
+      }
+    },
+    "eggBox_18": {
+      "frame": {
+        "x": 740,
+        "y": 0,
+        "w": 149,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 0,
+        "w": 149,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 165,
+        "h": 165
+      }
+    },
+    "eggBox_19": {
+      "frame": {
+        "x": 495,
+        "y": 609,
+        "w": 149,
+        "h": 165
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 0,
+        "w": 149,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 165,
+        "h": 165
+      }
+    },
+    "eggBox_20": {
+      "frame": {
+        "x": 165,
+        "y": 610,
+        "w": 149,
+        "h": 165
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 0,
+        "w": 149,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 165,
+        "h": 165
+      }
+    },
+    "eggBox_21": {
+      "frame": {
+        "x": 0,
+        "y": 610,
+        "w": 149,
+        "h": 165
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 0,
+        "w": 149,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 165,
+        "h": 165
+      }
+    },
+    "eggBox_22": {
+      "frame": {
+        "x": 495,
+        "y": 461,
+        "w": 148,
+        "h": 165
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 0,
+        "w": 148,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 165,
+        "h": 165
+      }
+    },
+    "eggBox_23": {
+      "frame": {
+        "x": 495,
+        "y": 313,
+        "w": 148,
+        "h": 165
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 0,
+        "w": 148,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 165,
+        "h": 165
+      }
+    },
+    "eggBox_24": {
+      "frame": {
+        "x": 495,
+        "y": 165,
+        "w": 148,
+        "h": 165
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 0,
+        "w": 148,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 165,
+        "h": 165
+      }
+    },
+    "eggBox_25": {
+      "frame": {
+        "x": 592,
+        "y": 0,
+        "w": 148,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 0,
+        "w": 148,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 165,
+        "h": 165
+      }
+    },
+    "eggBox_26": {
+      "frame": {
+        "x": 330,
+        "y": 462,
+        "w": 148,
+        "h": 165
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 0,
+        "w": 148,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 165,
+        "h": 165
+      }
+    },
+    "eggBox_27": {
+      "frame": {
+        "x": 165,
+        "y": 462,
+        "w": 148,
+        "h": 165
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 0,
+        "w": 148,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 165,
+        "h": 165
+      }
+    },
+    "eggBox_28": {
+      "frame": {
+        "x": 0,
+        "y": 462,
+        "w": 148,
+        "h": 165
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 0,
+        "w": 148,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 165,
+        "h": 165
+      }
+    },
+    "eggBox_29": {
+      "frame": {
+        "x": 330,
+        "y": 314,
+        "w": 148,
+        "h": 165
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 0,
+        "w": 148,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 165,
+        "h": 165
+      }
+    },
+    "eggBox_30": {
+      "frame": {
+        "x": 444,
+        "y": 0,
+        "w": 148,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 0,
+        "w": 148,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 165,
+        "h": 165
+      }
+    },
+    "eggBox_31": {
+      "frame": {
+        "x": 295,
+        "y": 0,
+        "w": 149,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 0,
+        "w": 149,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 165,
+        "h": 165
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "eggBox.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1038,
+      "h": 905
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

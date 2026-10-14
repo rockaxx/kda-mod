@@ -1,0 +1,1295 @@
+{
+  "frames": {
+    "aegisSpooky_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_1": {
+      "frame": {
+        "x": 159,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_2": {
+      "frame": {
+        "x": 318,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_3": {
+      "frame": {
+        "x": 477,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_4": {
+      "frame": {
+        "x": 636,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_5": {
+      "frame": {
+        "x": 795,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_6": {
+      "frame": {
+        "x": 954,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_7": {
+      "frame": {
+        "x": 1113,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_8": {
+      "frame": {
+        "x": 0,
+        "y": 164,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_9": {
+      "frame": {
+        "x": 159,
+        "y": 164,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_10": {
+      "frame": {
+        "x": 318,
+        "y": 164,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_11": {
+      "frame": {
+        "x": 477,
+        "y": 164,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_12": {
+      "frame": {
+        "x": 636,
+        "y": 164,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_13": {
+      "frame": {
+        "x": 795,
+        "y": 164,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_14": {
+      "frame": {
+        "x": 954,
+        "y": 164,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_15": {
+      "frame": {
+        "x": 1113,
+        "y": 164,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_16": {
+      "frame": {
+        "x": 0,
+        "y": 328,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_17": {
+      "frame": {
+        "x": 159,
+        "y": 328,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_18": {
+      "frame": {
+        "x": 318,
+        "y": 328,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_19": {
+      "frame": {
+        "x": 477,
+        "y": 328,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_20": {
+      "frame": {
+        "x": 636,
+        "y": 328,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_21": {
+      "frame": {
+        "x": 795,
+        "y": 328,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_22": {
+      "frame": {
+        "x": 954,
+        "y": 328,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_23": {
+      "frame": {
+        "x": 1113,
+        "y": 328,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_24": {
+      "frame": {
+        "x": 0,
+        "y": 492,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_25": {
+      "frame": {
+        "x": 159,
+        "y": 492,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_26": {
+      "frame": {
+        "x": 318,
+        "y": 492,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_27": {
+      "frame": {
+        "x": 477,
+        "y": 492,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_28": {
+      "frame": {
+        "x": 636,
+        "y": 492,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_29": {
+      "frame": {
+        "x": 795,
+        "y": 492,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_30": {
+      "frame": {
+        "x": 954,
+        "y": 492,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_31": {
+      "frame": {
+        "x": 1113,
+        "y": 492,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_32": {
+      "frame": {
+        "x": 0,
+        "y": 656,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_33": {
+      "frame": {
+        "x": 159,
+        "y": 656,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_34": {
+      "frame": {
+        "x": 318,
+        "y": 656,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_35": {
+      "frame": {
+        "x": 477,
+        "y": 656,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_36": {
+      "frame": {
+        "x": 636,
+        "y": 656,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_37": {
+      "frame": {
+        "x": 795,
+        "y": 656,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_38": {
+      "frame": {
+        "x": 954,
+        "y": 656,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_39": {
+      "frame": {
+        "x": 1113,
+        "y": 656,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_40": {
+      "frame": {
+        "x": 0,
+        "y": 820,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_41": {
+      "frame": {
+        "x": 159,
+        "y": 820,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_42": {
+      "frame": {
+        "x": 318,
+        "y": 820,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_43": {
+      "frame": {
+        "x": 477,
+        "y": 820,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_44": {
+      "frame": {
+        "x": 636,
+        "y": 820,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_45": {
+      "frame": {
+        "x": 795,
+        "y": 820,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_46": {
+      "frame": {
+        "x": 954,
+        "y": 820,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_47": {
+      "frame": {
+        "x": 1113,
+        "y": 820,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_48": {
+      "frame": {
+        "x": 0,
+        "y": 984,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_49": {
+      "frame": {
+        "x": 159,
+        "y": 984,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_50": {
+      "frame": {
+        "x": 318,
+        "y": 984,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_51": {
+      "frame": {
+        "x": 477,
+        "y": 984,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_52": {
+      "frame": {
+        "x": 636,
+        "y": 984,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_53": {
+      "frame": {
+        "x": 795,
+        "y": 984,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_54": {
+      "frame": {
+        "x": 954,
+        "y": 984,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_55": {
+      "frame": {
+        "x": 1113,
+        "y": 984,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_56": {
+      "frame": {
+        "x": 0,
+        "y": 1148,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_57": {
+      "frame": {
+        "x": 159,
+        "y": 1148,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_58": {
+      "frame": {
+        "x": 318,
+        "y": 1148,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_59": {
+      "frame": {
+        "x": 477,
+        "y": 1148,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_60": {
+      "frame": {
+        "x": 636,
+        "y": 1148,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_61": {
+      "frame": {
+        "x": 795,
+        "y": 1148,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_62": {
+      "frame": {
+        "x": 954,
+        "y": 1148,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    },
+    "aegisSpooky_63": {
+      "frame": {
+        "x": 1113,
+        "y": 1148,
+        "w": 159,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 164
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Toolkit Engine",
+    "version": "1.0",
+    "image": "aegisSpooky.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1272,
+      "h": 1312
+    },
+    "scale": 1
+  }
+}

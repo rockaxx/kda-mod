@@ -1,0 +1,676 @@
+{
+  "frames": {
+    "vagrant_0": {
+      "frame": {
+        "x": 199,
+        "y": 268,
+        "w": 42,
+        "h": 43
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 3,
+        "w": 42,
+        "h": 43
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 49
+      }
+    },
+    "vagrant_1": {
+      "frame": {
+        "x": 0,
+        "y": 269,
+        "w": 42,
+        "h": 46
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 1,
+        "w": 42,
+        "h": 46
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 49
+      }
+    },
+    "vagrant_2": {
+      "frame": {
+        "x": 214,
+        "y": 0,
+        "w": 42,
+        "h": 46
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 0,
+        "w": 42,
+        "h": 46
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 49
+      }
+    },
+    "vagrant_3": {
+      "frame": {
+        "x": 119,
+        "y": 43,
+        "w": 48,
+        "h": 45
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 0,
+        "w": 48,
+        "h": 45
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 49
+      }
+    },
+    "vagrant_4": {
+      "frame": {
+        "x": 0,
+        "y": 103,
+        "w": 53,
+        "h": 43
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 0,
+        "w": 53,
+        "h": 43
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 49
+      }
+    },
+    "vagrant_5": {
+      "frame": {
+        "x": 64,
+        "y": 64,
+        "w": 55,
+        "h": 39
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 1,
+        "w": 55,
+        "h": 39
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 49
+      }
+    },
+    "vagrant_6": {
+      "frame": {
+        "x": 0,
+        "y": 67,
+        "w": 61,
+        "h": 36
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 3,
+        "w": 61,
+        "h": 36
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 49
+      }
+    },
+    "vagrant_7": {
+      "frame": {
+        "x": 64,
+        "y": 0,
+        "w": 64,
+        "h": 35
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 5,
+        "w": 64,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 49
+      }
+    },
+    "vagrant_8": {
+      "frame": {
+        "x": 0,
+        "y": 33,
+        "w": 64,
+        "h": 34
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 8,
+        "w": 64,
+        "h": 34
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 49
+      }
+    },
+    "vagrant_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 64,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 49
+      }
+    },
+    "vagrant_10": {
+      "frame": {
+        "x": 257,
+        "y": 0,
+        "w": 59,
+        "h": 35
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 11,
+        "w": 59,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 49
+      }
+    },
+    "vagrant_11": {
+      "frame": {
+        "x": 60,
+        "y": 224,
+        "w": 54,
+        "h": 36
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 10,
+        "w": 54,
+        "h": 36
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 49
+      }
+    },
+    "vagrant_12": {
+      "frame": {
+        "x": 199,
+        "y": 228,
+        "w": 53,
+        "h": 40
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 7,
+        "w": 53,
+        "h": 40
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 49
+      }
+    },
+    "vagrant_13": {
+      "frame": {
+        "x": 0,
+        "y": 227,
+        "w": 49,
+        "h": 42
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 4,
+        "w": 49,
+        "h": 42
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 49
+      }
+    },
+    "vagrant_14": {
+      "frame": {
+        "x": 213,
+        "y": 186,
+        "w": 42,
+        "h": 44
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 4,
+        "w": 42,
+        "h": 44
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 49
+      }
+    },
+    "vagrant_15": {
+      "frame": {
+        "x": 157,
+        "y": 222,
+        "w": 42,
+        "h": 47
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 2,
+        "w": 42,
+        "h": 47
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 49
+      }
+    },
+    "vagrant_16": {
+      "frame": {
+        "x": 115,
+        "y": 222,
+        "w": 42,
+        "h": 47
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 2,
+        "w": 42,
+        "h": 47
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 49
+      }
+    },
+    "vagrant_17": {
+      "frame": {
+        "x": 213,
+        "y": 139,
+        "w": 43,
+        "h": 47
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 2,
+        "w": 43,
+        "h": 47
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 49
+      }
+    },
+    "vagrant_18": {
+      "frame": {
+        "x": 213,
+        "y": 94,
+        "w": 43,
+        "h": 45
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 3,
+        "w": 43,
+        "h": 45
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 49
+      }
+    },
+    "vagrant_19": {
+      "frame": {
+        "x": 214,
+        "y": 46,
+        "w": 48,
+        "h": 42
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 4,
+        "w": 48,
+        "h": 42
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 49
+      }
+    },
+    "vagrant_20": {
+      "frame": {
+        "x": 115,
+        "y": 182,
+        "w": 53,
+        "h": 40
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 7,
+        "w": 53,
+        "h": 40
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 49
+      }
+    },
+    "vagrant_21": {
+      "frame": {
+        "x": 60,
+        "y": 187,
+        "w": 55,
+        "h": 37
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 10,
+        "w": 55,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 49
+      }
+    },
+    "vagrant_22": {
+      "frame": {
+        "x": 0,
+        "y": 192,
+        "w": 60,
+        "h": 35
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 11,
+        "w": 60,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 49
+      }
+    },
+    "vagrant_23": {
+      "frame": {
+        "x": 179,
+        "y": 128,
+        "w": 64,
+        "h": 34
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 10,
+        "w": 64,
+        "h": 34
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 49
+      }
+    },
+    "vagrant_24": {
+      "frame": {
+        "x": 179,
+        "y": 64,
+        "w": 64,
+        "h": 34
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 8,
+        "w": 64,
+        "h": 34
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 49
+      }
+    },
+    "vagrant_25": {
+      "frame": {
+        "x": 179,
+        "y": 0,
+        "w": 64,
+        "h": 35
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 5,
+        "w": 64,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 49
+      }
+    },
+    "vagrant_26": {
+      "frame": {
+        "x": 100,
+        "y": 146,
+        "w": 59,
+        "h": 36
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 3,
+        "w": 59,
+        "h": 36
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 49
+      }
+    },
+    "vagrant_27": {
+      "frame": {
+        "x": 140,
+        "y": 91,
+        "w": 55,
+        "h": 39
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 1,
+        "w": 55,
+        "h": 39
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 49
+      }
+    },
+    "vagrant_28": {
+      "frame": {
+        "x": 48,
+        "y": 146,
+        "w": 52,
+        "h": 41
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 2,
+        "w": 52,
+        "h": 41
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 49
+      }
+    },
+    "vagrant_29": {
+      "frame": {
+        "x": 0,
+        "y": 146,
+        "w": 48,
+        "h": 46
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 0,
+        "w": 48,
+        "h": 46
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 49
+      }
+    },
+    "vagrant_30": {
+      "frame": {
+        "x": 119,
+        "y": 0,
+        "w": 43,
+        "h": 46
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 1,
+        "w": 43,
+        "h": 46
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 49
+      }
+    },
+    "vagrant_31": {
+      "frame": {
+        "x": 95,
+        "y": 103,
+        "w": 42,
+        "h": 45
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 2,
+        "w": 42,
+        "h": 45
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 49
+      }
+    },
+    "vagrant_32": {
+      "frame": {
+        "x": 53,
+        "y": 103,
+        "w": 42,
+        "h": 43
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 3,
+        "w": 42,
+        "h": 43
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 49
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "vagrant.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 292,
+      "h": 311
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

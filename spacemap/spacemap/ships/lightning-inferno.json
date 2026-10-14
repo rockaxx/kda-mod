@@ -1,0 +1,1295 @@
+{
+  "frames": {
+    "lightning-inferno_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_1": {
+      "frame": {
+        "x": 170,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_2": {
+      "frame": {
+        "x": 340,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_3": {
+      "frame": {
+        "x": 510,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_4": {
+      "frame": {
+        "x": 680,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_5": {
+      "frame": {
+        "x": 850,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_6": {
+      "frame": {
+        "x": 1020,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_7": {
+      "frame": {
+        "x": 1190,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_8": {
+      "frame": {
+        "x": 0,
+        "y": 150,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_9": {
+      "frame": {
+        "x": 170,
+        "y": 150,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_10": {
+      "frame": {
+        "x": 340,
+        "y": 150,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_11": {
+      "frame": {
+        "x": 510,
+        "y": 150,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_12": {
+      "frame": {
+        "x": 680,
+        "y": 150,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_13": {
+      "frame": {
+        "x": 850,
+        "y": 150,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_14": {
+      "frame": {
+        "x": 1020,
+        "y": 150,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_15": {
+      "frame": {
+        "x": 1190,
+        "y": 150,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_16": {
+      "frame": {
+        "x": 0,
+        "y": 300,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_17": {
+      "frame": {
+        "x": 170,
+        "y": 300,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_18": {
+      "frame": {
+        "x": 340,
+        "y": 300,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_19": {
+      "frame": {
+        "x": 510,
+        "y": 300,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_20": {
+      "frame": {
+        "x": 680,
+        "y": 300,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_21": {
+      "frame": {
+        "x": 850,
+        "y": 300,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_22": {
+      "frame": {
+        "x": 1020,
+        "y": 300,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_23": {
+      "frame": {
+        "x": 1190,
+        "y": 300,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_24": {
+      "frame": {
+        "x": 0,
+        "y": 450,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_25": {
+      "frame": {
+        "x": 170,
+        "y": 450,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_26": {
+      "frame": {
+        "x": 340,
+        "y": 450,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_27": {
+      "frame": {
+        "x": 510,
+        "y": 450,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_28": {
+      "frame": {
+        "x": 680,
+        "y": 450,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_29": {
+      "frame": {
+        "x": 850,
+        "y": 450,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_30": {
+      "frame": {
+        "x": 1020,
+        "y": 450,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_31": {
+      "frame": {
+        "x": 1190,
+        "y": 450,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_32": {
+      "frame": {
+        "x": 0,
+        "y": 600,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_33": {
+      "frame": {
+        "x": 170,
+        "y": 600,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_34": {
+      "frame": {
+        "x": 340,
+        "y": 600,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_35": {
+      "frame": {
+        "x": 510,
+        "y": 600,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_36": {
+      "frame": {
+        "x": 680,
+        "y": 600,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_37": {
+      "frame": {
+        "x": 850,
+        "y": 600,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_38": {
+      "frame": {
+        "x": 1020,
+        "y": 600,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_39": {
+      "frame": {
+        "x": 1190,
+        "y": 600,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_40": {
+      "frame": {
+        "x": 0,
+        "y": 750,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_41": {
+      "frame": {
+        "x": 170,
+        "y": 750,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_42": {
+      "frame": {
+        "x": 340,
+        "y": 750,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_43": {
+      "frame": {
+        "x": 510,
+        "y": 750,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_44": {
+      "frame": {
+        "x": 680,
+        "y": 750,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_45": {
+      "frame": {
+        "x": 850,
+        "y": 750,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_46": {
+      "frame": {
+        "x": 1020,
+        "y": 750,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_47": {
+      "frame": {
+        "x": 1190,
+        "y": 750,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_48": {
+      "frame": {
+        "x": 0,
+        "y": 900,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_49": {
+      "frame": {
+        "x": 170,
+        "y": 900,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_50": {
+      "frame": {
+        "x": 340,
+        "y": 900,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_51": {
+      "frame": {
+        "x": 510,
+        "y": 900,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_52": {
+      "frame": {
+        "x": 680,
+        "y": 900,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_53": {
+      "frame": {
+        "x": 850,
+        "y": 900,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_54": {
+      "frame": {
+        "x": 1020,
+        "y": 900,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_55": {
+      "frame": {
+        "x": 1190,
+        "y": 900,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_56": {
+      "frame": {
+        "x": 0,
+        "y": 1050,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_57": {
+      "frame": {
+        "x": 170,
+        "y": 1050,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_58": {
+      "frame": {
+        "x": 340,
+        "y": 1050,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_59": {
+      "frame": {
+        "x": 510,
+        "y": 1050,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_60": {
+      "frame": {
+        "x": 680,
+        "y": 1050,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_61": {
+      "frame": {
+        "x": 850,
+        "y": 1050,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_62": {
+      "frame": {
+        "x": 1020,
+        "y": 1050,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    },
+    "lightning-inferno_63": {
+      "frame": {
+        "x": 1190,
+        "y": 1050,
+        "w": 170,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 150
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Atlas Generator v2",
+    "version": "1.0",
+    "image": "lightning-inferno.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1360,
+      "h": 1200
+    },
+    "scale": 1
+  }
+}

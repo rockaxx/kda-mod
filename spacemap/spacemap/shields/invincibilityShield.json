@@ -1,0 +1,636 @@
+{
+  "frames": {
+    "invincibilityShield_0": {
+      "frame": {
+        "x": 1852,
+        "y": 1829,
+        "w": 356,
+        "h": 365
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 27,
+        "w": 356,
+        "h": 365
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "invincibilityShield_1": {
+      "frame": {
+        "x": 1852,
+        "y": 1473,
+        "w": 356,
+        "h": 365
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 27,
+        "w": 356,
+        "h": 365
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "invincibilityShield_2": {
+      "frame": {
+        "x": 742,
+        "y": 1484,
+        "w": 366,
+        "h": 367
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 25,
+        "w": 366,
+        "h": 367
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "invincibilityShield_3": {
+      "frame": {
+        "x": 371,
+        "y": 736,
+        "w": 365,
+        "h": 367
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 25,
+        "w": 365,
+        "h": 367
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "invincibilityShield_4": {
+      "frame": {
+        "x": 740,
+        "y": 370,
+        "w": 365,
+        "h": 370
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 25,
+        "w": 365,
+        "h": 370
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "invincibilityShield_5": {
+      "frame": {
+        "x": 741,
+        "y": 0,
+        "w": 365,
+        "h": 370
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 25,
+        "w": 365,
+        "h": 370
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "invincibilityShield_6": {
+      "frame": {
+        "x": 370,
+        "y": 373,
+        "w": 363,
+        "h": 370
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 25,
+        "w": 363,
+        "h": 370
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "invincibilityShield_7": {
+      "frame": {
+        "x": 374,
+        "y": 0,
+        "w": 367,
+        "h": 370
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 25,
+        "w": 367,
+        "h": 370
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "invincibilityShield_8": {
+      "frame": {
+        "x": 0,
+        "y": 373,
+        "w": 368,
+        "h": 370
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 25,
+        "w": 368,
+        "h": 370
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "invincibilityShield_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 374,
+        "h": 373
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 25,
+        "w": 374,
+        "h": 373
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "invincibilityShield_10": {
+      "frame": {
+        "x": 1479,
+        "y": 1849,
+        "w": 374,
+        "h": 373
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 25,
+        "w": 374,
+        "h": 373
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "invincibilityShield_11": {
+      "frame": {
+        "x": 756,
+        "y": 1854,
+        "w": 372,
+        "h": 371
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 25,
+        "w": 372,
+        "h": 371
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "invincibilityShield_12": {
+      "frame": {
+        "x": 378,
+        "y": 1855,
+        "w": 378,
+        "h": 371
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 25,
+        "w": 378,
+        "h": 371
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "invincibilityShield_13": {
+      "frame": {
+        "x": 0,
+        "y": 1855,
+        "w": 378,
+        "h": 371
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 25,
+        "w": 378,
+        "h": 371
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "invincibilityShield_14": {
+      "frame": {
+        "x": 1479,
+        "y": 1473,
+        "w": 376,
+        "h": 372
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 25,
+        "w": 376,
+        "h": 372
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "invincibilityShield_15": {
+      "frame": {
+        "x": 1508,
+        "y": 1105,
+        "w": 368,
+        "h": 372
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 25,
+        "w": 368,
+        "h": 372
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "invincibilityShield_16": {
+      "frame": {
+        "x": 1508,
+        "y": 738,
+        "w": 367,
+        "h": 371
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 25,
+        "w": 367,
+        "h": 371
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "invincibilityShield_17": {
+      "frame": {
+        "x": 1849,
+        "y": 371,
+        "w": 367,
+        "h": 371
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 25,
+        "w": 367,
+        "h": 371
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "invincibilityShield_18": {
+      "frame": {
+        "x": 1849,
+        "y": 0,
+        "w": 371,
+        "h": 371
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 25,
+        "w": 371,
+        "h": 371
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "invincibilityShield_19": {
+      "frame": {
+        "x": 1108,
+        "y": 1483,
+        "w": 371,
+        "h": 371
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 25,
+        "w": 371,
+        "h": 371
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "invincibilityShield_20": {
+      "frame": {
+        "x": 371,
+        "y": 1484,
+        "w": 371,
+        "h": 371
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 25,
+        "w": 371,
+        "h": 371
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "invincibilityShield_21": {
+      "frame": {
+        "x": 0,
+        "y": 1484,
+        "w": 371,
+        "h": 371
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 25,
+        "w": 371,
+        "h": 371
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "invincibilityShield_22": {
+      "frame": {
+        "x": 1133,
+        "y": 754,
+        "w": 375,
+        "h": 371
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 25,
+        "w": 375,
+        "h": 371
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "invincibilityShield_23": {
+      "frame": {
+        "x": 1133,
+        "y": 383,
+        "w": 375,
+        "h": 371
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 25,
+        "w": 375,
+        "h": 371
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "invincibilityShield_24": {
+      "frame": {
+        "x": 1478,
+        "y": 0,
+        "w": 383,
+        "h": 371
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 25,
+        "w": 383,
+        "h": 371
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "invincibilityShield_25": {
+      "frame": {
+        "x": 750,
+        "y": 1112,
+        "w": 383,
+        "h": 371
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 25,
+        "w": 383,
+        "h": 371
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "invincibilityShield_26": {
+      "frame": {
+        "x": 375,
+        "y": 1112,
+        "w": 375,
+        "h": 372
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 25,
+        "w": 375,
+        "h": 372
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "invincibilityShield_27": {
+      "frame": {
+        "x": 0,
+        "y": 1112,
+        "w": 375,
+        "h": 372
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 25,
+        "w": 375,
+        "h": 372
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "invincibilityShield_28": {
+      "frame": {
+        "x": 1106,
+        "y": 0,
+        "w": 379,
+        "h": 372
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 25,
+        "w": 379,
+        "h": 372
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "invincibilityShield_29": {
+      "frame": {
+        "x": 738,
+        "y": 740,
+        "w": 379,
+        "h": 372
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 25,
+        "w": 379,
+        "h": 372
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "invincibilityShield_30": {
+      "frame": {
+        "x": 0,
+        "y": 741,
+        "w": 371,
+        "h": 371
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 25,
+        "w": 371,
+        "h": 371
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "invincibilityShield.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2220,
+      "h": 2226
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

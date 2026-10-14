@@ -1,0 +1,1295 @@
+{
+  "frames": {
+    "citadel-frost_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_1": {
+      "frame": {
+        "x": 263,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_2": {
+      "frame": {
+        "x": 526,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_3": {
+      "frame": {
+        "x": 789,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_4": {
+      "frame": {
+        "x": 1052,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_5": {
+      "frame": {
+        "x": 1315,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_6": {
+      "frame": {
+        "x": 1578,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_7": {
+      "frame": {
+        "x": 1841,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_8": {
+      "frame": {
+        "x": 0,
+        "y": 233,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_9": {
+      "frame": {
+        "x": 263,
+        "y": 233,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_10": {
+      "frame": {
+        "x": 526,
+        "y": 233,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_11": {
+      "frame": {
+        "x": 789,
+        "y": 233,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_12": {
+      "frame": {
+        "x": 1052,
+        "y": 233,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_13": {
+      "frame": {
+        "x": 1315,
+        "y": 233,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_14": {
+      "frame": {
+        "x": 1578,
+        "y": 233,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_15": {
+      "frame": {
+        "x": 1841,
+        "y": 233,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_16": {
+      "frame": {
+        "x": 0,
+        "y": 466,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_17": {
+      "frame": {
+        "x": 263,
+        "y": 466,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_18": {
+      "frame": {
+        "x": 526,
+        "y": 466,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_19": {
+      "frame": {
+        "x": 789,
+        "y": 466,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_20": {
+      "frame": {
+        "x": 1052,
+        "y": 466,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_21": {
+      "frame": {
+        "x": 1315,
+        "y": 466,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_22": {
+      "frame": {
+        "x": 1578,
+        "y": 466,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_23": {
+      "frame": {
+        "x": 1841,
+        "y": 466,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_24": {
+      "frame": {
+        "x": 0,
+        "y": 699,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_25": {
+      "frame": {
+        "x": 263,
+        "y": 699,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_26": {
+      "frame": {
+        "x": 526,
+        "y": 699,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_27": {
+      "frame": {
+        "x": 789,
+        "y": 699,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_28": {
+      "frame": {
+        "x": 1052,
+        "y": 699,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_29": {
+      "frame": {
+        "x": 1315,
+        "y": 699,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_30": {
+      "frame": {
+        "x": 1578,
+        "y": 699,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_31": {
+      "frame": {
+        "x": 1841,
+        "y": 699,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_32": {
+      "frame": {
+        "x": 0,
+        "y": 932,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_33": {
+      "frame": {
+        "x": 263,
+        "y": 932,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_34": {
+      "frame": {
+        "x": 526,
+        "y": 932,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_35": {
+      "frame": {
+        "x": 789,
+        "y": 932,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_36": {
+      "frame": {
+        "x": 1052,
+        "y": 932,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_37": {
+      "frame": {
+        "x": 1315,
+        "y": 932,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_38": {
+      "frame": {
+        "x": 1578,
+        "y": 932,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_39": {
+      "frame": {
+        "x": 1841,
+        "y": 932,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_40": {
+      "frame": {
+        "x": 0,
+        "y": 1165,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_41": {
+      "frame": {
+        "x": 263,
+        "y": 1165,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_42": {
+      "frame": {
+        "x": 526,
+        "y": 1165,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_43": {
+      "frame": {
+        "x": 789,
+        "y": 1165,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_44": {
+      "frame": {
+        "x": 1052,
+        "y": 1165,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_45": {
+      "frame": {
+        "x": 1315,
+        "y": 1165,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_46": {
+      "frame": {
+        "x": 1578,
+        "y": 1165,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_47": {
+      "frame": {
+        "x": 1841,
+        "y": 1165,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_48": {
+      "frame": {
+        "x": 0,
+        "y": 1398,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_49": {
+      "frame": {
+        "x": 263,
+        "y": 1398,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_50": {
+      "frame": {
+        "x": 526,
+        "y": 1398,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_51": {
+      "frame": {
+        "x": 789,
+        "y": 1398,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_52": {
+      "frame": {
+        "x": 1052,
+        "y": 1398,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_53": {
+      "frame": {
+        "x": 1315,
+        "y": 1398,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_54": {
+      "frame": {
+        "x": 1578,
+        "y": 1398,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_55": {
+      "frame": {
+        "x": 1841,
+        "y": 1398,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_56": {
+      "frame": {
+        "x": 0,
+        "y": 1631,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_57": {
+      "frame": {
+        "x": 263,
+        "y": 1631,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_58": {
+      "frame": {
+        "x": 526,
+        "y": 1631,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_59": {
+      "frame": {
+        "x": 789,
+        "y": 1631,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_60": {
+      "frame": {
+        "x": 1052,
+        "y": 1631,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_61": {
+      "frame": {
+        "x": 1315,
+        "y": 1631,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_62": {
+      "frame": {
+        "x": 1578,
+        "y": 1631,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    },
+    "citadel-frost_63": {
+      "frame": {
+        "x": 1841,
+        "y": 1631,
+        "w": 263,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 233
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Atlas Generator v2",
+    "version": "1.0",
+    "image": "citadel-frost.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2104,
+      "h": 1864
+    },
+    "scale": 1
+  }
+}

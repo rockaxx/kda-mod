@@ -1,0 +1,1295 @@
+{
+  "frames": {
+    "venom-inferno_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_1": {
+      "frame": {
+        "x": 196,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_2": {
+      "frame": {
+        "x": 392,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_3": {
+      "frame": {
+        "x": 588,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_4": {
+      "frame": {
+        "x": 784,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_5": {
+      "frame": {
+        "x": 980,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_6": {
+      "frame": {
+        "x": 1176,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_7": {
+      "frame": {
+        "x": 1372,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_8": {
+      "frame": {
+        "x": 0,
+        "y": 174,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_9": {
+      "frame": {
+        "x": 196,
+        "y": 174,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_10": {
+      "frame": {
+        "x": 392,
+        "y": 174,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_11": {
+      "frame": {
+        "x": 588,
+        "y": 174,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_12": {
+      "frame": {
+        "x": 784,
+        "y": 174,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_13": {
+      "frame": {
+        "x": 980,
+        "y": 174,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_14": {
+      "frame": {
+        "x": 1176,
+        "y": 174,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_15": {
+      "frame": {
+        "x": 1372,
+        "y": 174,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_16": {
+      "frame": {
+        "x": 0,
+        "y": 348,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_17": {
+      "frame": {
+        "x": 196,
+        "y": 348,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_18": {
+      "frame": {
+        "x": 392,
+        "y": 348,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_19": {
+      "frame": {
+        "x": 588,
+        "y": 348,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_20": {
+      "frame": {
+        "x": 784,
+        "y": 348,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_21": {
+      "frame": {
+        "x": 980,
+        "y": 348,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_22": {
+      "frame": {
+        "x": 1176,
+        "y": 348,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_23": {
+      "frame": {
+        "x": 1372,
+        "y": 348,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_24": {
+      "frame": {
+        "x": 0,
+        "y": 522,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_25": {
+      "frame": {
+        "x": 196,
+        "y": 522,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_26": {
+      "frame": {
+        "x": 392,
+        "y": 522,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_27": {
+      "frame": {
+        "x": 588,
+        "y": 522,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_28": {
+      "frame": {
+        "x": 784,
+        "y": 522,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_29": {
+      "frame": {
+        "x": 980,
+        "y": 522,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_30": {
+      "frame": {
+        "x": 1176,
+        "y": 522,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_31": {
+      "frame": {
+        "x": 1372,
+        "y": 522,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_32": {
+      "frame": {
+        "x": 0,
+        "y": 696,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_33": {
+      "frame": {
+        "x": 196,
+        "y": 696,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_34": {
+      "frame": {
+        "x": 392,
+        "y": 696,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_35": {
+      "frame": {
+        "x": 588,
+        "y": 696,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_36": {
+      "frame": {
+        "x": 784,
+        "y": 696,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_37": {
+      "frame": {
+        "x": 980,
+        "y": 696,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_38": {
+      "frame": {
+        "x": 1176,
+        "y": 696,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_39": {
+      "frame": {
+        "x": 1372,
+        "y": 696,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_40": {
+      "frame": {
+        "x": 0,
+        "y": 870,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_41": {
+      "frame": {
+        "x": 196,
+        "y": 870,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_42": {
+      "frame": {
+        "x": 392,
+        "y": 870,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_43": {
+      "frame": {
+        "x": 588,
+        "y": 870,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_44": {
+      "frame": {
+        "x": 784,
+        "y": 870,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_45": {
+      "frame": {
+        "x": 980,
+        "y": 870,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_46": {
+      "frame": {
+        "x": 1176,
+        "y": 870,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_47": {
+      "frame": {
+        "x": 1372,
+        "y": 870,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_48": {
+      "frame": {
+        "x": 0,
+        "y": 1044,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_49": {
+      "frame": {
+        "x": 196,
+        "y": 1044,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_50": {
+      "frame": {
+        "x": 392,
+        "y": 1044,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_51": {
+      "frame": {
+        "x": 588,
+        "y": 1044,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_52": {
+      "frame": {
+        "x": 784,
+        "y": 1044,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_53": {
+      "frame": {
+        "x": 980,
+        "y": 1044,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_54": {
+      "frame": {
+        "x": 1176,
+        "y": 1044,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_55": {
+      "frame": {
+        "x": 1372,
+        "y": 1044,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_56": {
+      "frame": {
+        "x": 0,
+        "y": 1218,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_57": {
+      "frame": {
+        "x": 196,
+        "y": 1218,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_58": {
+      "frame": {
+        "x": 392,
+        "y": 1218,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_59": {
+      "frame": {
+        "x": 588,
+        "y": 1218,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_60": {
+      "frame": {
+        "x": 784,
+        "y": 1218,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_61": {
+      "frame": {
+        "x": 980,
+        "y": 1218,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_62": {
+      "frame": {
+        "x": 1176,
+        "y": 1218,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    },
+    "venom-inferno_63": {
+      "frame": {
+        "x": 1372,
+        "y": 1218,
+        "w": 196,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 174
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Atlas Generator v2",
+    "version": "1.0",
+    "image": "venom-inferno.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1568,
+      "h": 1392
+    },
+    "scale": 1
+  }
+}

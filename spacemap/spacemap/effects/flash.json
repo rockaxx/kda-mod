@@ -1,0 +1,96 @@
+{
+  "frames": {
+    "flash_0": {
+      "frame": {
+        "x": 20,
+        "y": 20,
+        "w": 20,
+        "h": 19
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 20,
+        "h": 19
+      },
+      "sourceSize": {
+        "w": 20,
+        "h": 20
+      }
+    },
+    "flash_1": {
+      "frame": {
+        "x": 20,
+        "y": 0,
+        "w": 20,
+        "h": 19
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 20,
+        "h": 19
+      },
+      "sourceSize": {
+        "w": 20,
+        "h": 20
+      }
+    },
+    "flash_2": {
+      "frame": {
+        "x": 0,
+        "y": 17,
+        "w": 20,
+        "h": 19
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 20,
+        "h": 19
+      },
+      "sourceSize": {
+        "w": 20,
+        "h": 20
+      }
+    },
+    "flash_3": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 20,
+        "h": 17
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 2,
+        "w": 20,
+        "h": 17
+      },
+      "sourceSize": {
+        "w": 20,
+        "h": 20
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "flash.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 39,
+      "h": 40
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

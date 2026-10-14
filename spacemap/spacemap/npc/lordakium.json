@@ -1,0 +1,336 @@
+{
+  "frames": {
+    "lordakium_0": {
+      "frame": {
+        "x": 711,
+        "y": 0,
+        "w": 191,
+        "h": 174
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 21,
+        "w": 191,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 245,
+        "h": 219
+      }
+    },
+    "lordakium_1": {
+      "frame": {
+        "x": 533,
+        "y": 568,
+        "w": 189,
+        "h": 175
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 22,
+        "w": 189,
+        "h": 175
+      },
+      "sourceSize": {
+        "w": 245,
+        "h": 219
+      }
+    },
+    "lordakium_2": {
+      "frame": {
+        "x": 174,
+        "y": 379,
+        "w": 187,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 23,
+        "w": 187,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 245,
+        "h": 219
+      }
+    },
+    "lordakium_3": {
+      "frame": {
+        "x": 365,
+        "y": 192,
+        "w": 189,
+        "h": 173
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 23,
+        "w": 189,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 245,
+        "h": 219
+      }
+    },
+    "lordakium_4": {
+      "frame": {
+        "x": 0,
+        "y": 346,
+        "w": 194,
+        "h": 174
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 22,
+        "w": 194,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 245,
+        "h": 219
+      }
+    },
+    "lordakium_5": {
+      "frame": {
+        "x": 365,
+        "y": 0,
+        "w": 192,
+        "h": 173
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 23,
+        "w": 192,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 245,
+        "h": 219
+      }
+    },
+    "lordakium_6": {
+      "frame": {
+        "x": 193,
+        "y": 190,
+        "w": 189,
+        "h": 172
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 23,
+        "w": 189,
+        "h": 172
+      },
+      "sourceSize": {
+        "w": 245,
+        "h": 219
+      }
+    },
+    "lordakium_7": {
+      "frame": {
+        "x": 193,
+        "y": 0,
+        "w": 190,
+        "h": 172
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 23,
+        "w": 190,
+        "h": 172
+      },
+      "sourceSize": {
+        "w": 245,
+        "h": 219
+      }
+    },
+    "lordakium_8": {
+      "frame": {
+        "x": 0,
+        "y": 173,
+        "w": 193,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 23,
+        "w": 193,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 245,
+        "h": 219
+      }
+    },
+    "lordakium_9": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 23,
+        "w": 192,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 245,
+        "h": 219
+      }
+    },
+    "lordakium_10": {
+      "frame": {
+        "x": 171,
+        "y": 553,
+        "w": 189,
+        "h": 172
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 24,
+        "w": 189,
+        "h": 172
+      },
+      "sourceSize": {
+        "w": 245,
+        "h": 219
+      }
+    },
+    "lordakium_11": {
+      "frame": {
+        "x": 0,
+        "y": 540,
+        "w": 189,
+        "h": 171
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 22,
+        "y": 24,
+        "w": 189,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 245,
+        "h": 219
+      }
+    },
+    "lordakium_12": {
+      "frame": {
+        "x": 538,
+        "y": 376,
+        "w": 192,
+        "h": 172
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 23,
+        "w": 192,
+        "h": 172
+      },
+      "sourceSize": {
+        "w": 245,
+        "h": 219
+      }
+    },
+    "lordakium_13": {
+      "frame": {
+        "x": 538,
+        "y": 186,
+        "w": 190,
+        "h": 173
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 23,
+        "w": 190,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 245,
+        "h": 219
+      }
+    },
+    "lordakium_14": {
+      "frame": {
+        "x": 538,
+        "y": 0,
+        "w": 186,
+        "h": 173
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 22,
+        "y": 23,
+        "w": 186,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 245,
+        "h": 219
+      }
+    },
+    "lordakium_15": {
+      "frame": {
+        "x": 361,
+        "y": 381,
+        "w": 189,
+        "h": 172
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 23,
+        "w": 189,
+        "h": 172
+      },
+      "sourceSize": {
+        "w": 245,
+        "h": 219
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "lordakium.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 885,
+      "h": 757
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

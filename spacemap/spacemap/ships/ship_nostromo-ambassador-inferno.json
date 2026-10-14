@@ -1,0 +1,1295 @@
+{
+  "frames": {
+    "ship_nostromo-ambassador-inferno_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_1": {
+      "frame": {
+        "x": 143,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_2": {
+      "frame": {
+        "x": 286,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_3": {
+      "frame": {
+        "x": 429,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_4": {
+      "frame": {
+        "x": 572,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_5": {
+      "frame": {
+        "x": 715,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_6": {
+      "frame": {
+        "x": 858,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_7": {
+      "frame": {
+        "x": 1001,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_8": {
+      "frame": {
+        "x": 0,
+        "y": 128,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_9": {
+      "frame": {
+        "x": 143,
+        "y": 128,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_10": {
+      "frame": {
+        "x": 286,
+        "y": 128,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_11": {
+      "frame": {
+        "x": 429,
+        "y": 128,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_12": {
+      "frame": {
+        "x": 572,
+        "y": 128,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_13": {
+      "frame": {
+        "x": 715,
+        "y": 128,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_14": {
+      "frame": {
+        "x": 858,
+        "y": 128,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_15": {
+      "frame": {
+        "x": 1001,
+        "y": 128,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_16": {
+      "frame": {
+        "x": 0,
+        "y": 256,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_17": {
+      "frame": {
+        "x": 143,
+        "y": 256,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_18": {
+      "frame": {
+        "x": 286,
+        "y": 256,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_19": {
+      "frame": {
+        "x": 429,
+        "y": 256,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_20": {
+      "frame": {
+        "x": 572,
+        "y": 256,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_21": {
+      "frame": {
+        "x": 715,
+        "y": 256,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_22": {
+      "frame": {
+        "x": 858,
+        "y": 256,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_23": {
+      "frame": {
+        "x": 1001,
+        "y": 256,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_24": {
+      "frame": {
+        "x": 0,
+        "y": 384,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_25": {
+      "frame": {
+        "x": 143,
+        "y": 384,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_26": {
+      "frame": {
+        "x": 286,
+        "y": 384,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_27": {
+      "frame": {
+        "x": 429,
+        "y": 384,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_28": {
+      "frame": {
+        "x": 572,
+        "y": 384,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_29": {
+      "frame": {
+        "x": 715,
+        "y": 384,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_30": {
+      "frame": {
+        "x": 858,
+        "y": 384,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_31": {
+      "frame": {
+        "x": 1001,
+        "y": 384,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_32": {
+      "frame": {
+        "x": 0,
+        "y": 512,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_33": {
+      "frame": {
+        "x": 143,
+        "y": 512,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_34": {
+      "frame": {
+        "x": 286,
+        "y": 512,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_35": {
+      "frame": {
+        "x": 429,
+        "y": 512,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_36": {
+      "frame": {
+        "x": 572,
+        "y": 512,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_37": {
+      "frame": {
+        "x": 715,
+        "y": 512,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_38": {
+      "frame": {
+        "x": 858,
+        "y": 512,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_39": {
+      "frame": {
+        "x": 1001,
+        "y": 512,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_40": {
+      "frame": {
+        "x": 0,
+        "y": 640,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_41": {
+      "frame": {
+        "x": 143,
+        "y": 640,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_42": {
+      "frame": {
+        "x": 286,
+        "y": 640,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_43": {
+      "frame": {
+        "x": 429,
+        "y": 640,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_44": {
+      "frame": {
+        "x": 572,
+        "y": 640,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_45": {
+      "frame": {
+        "x": 715,
+        "y": 640,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_46": {
+      "frame": {
+        "x": 858,
+        "y": 640,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_47": {
+      "frame": {
+        "x": 1001,
+        "y": 640,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_48": {
+      "frame": {
+        "x": 0,
+        "y": 768,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_49": {
+      "frame": {
+        "x": 143,
+        "y": 768,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_50": {
+      "frame": {
+        "x": 286,
+        "y": 768,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_51": {
+      "frame": {
+        "x": 429,
+        "y": 768,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_52": {
+      "frame": {
+        "x": 572,
+        "y": 768,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_53": {
+      "frame": {
+        "x": 715,
+        "y": 768,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_54": {
+      "frame": {
+        "x": 858,
+        "y": 768,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_55": {
+      "frame": {
+        "x": 1001,
+        "y": 768,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_56": {
+      "frame": {
+        "x": 0,
+        "y": 896,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_57": {
+      "frame": {
+        "x": 143,
+        "y": 896,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_58": {
+      "frame": {
+        "x": 286,
+        "y": 896,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_59": {
+      "frame": {
+        "x": 429,
+        "y": 896,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_60": {
+      "frame": {
+        "x": 572,
+        "y": 896,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_61": {
+      "frame": {
+        "x": 715,
+        "y": 896,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_62": {
+      "frame": {
+        "x": 858,
+        "y": 896,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    },
+    "ship_nostromo-ambassador-inferno_63": {
+      "frame": {
+        "x": 1001,
+        "y": 896,
+        "w": 143,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 128
+      }
+    }
+  },
+  "meta": {
+    "app": "UNSMOD Atlas Generator v2",
+    "version": "1.0",
+    "image": "ship_nostromo-ambassador-inferno.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1144,
+      "h": 1024
+    },
+    "scale": 1
+  }
+}
